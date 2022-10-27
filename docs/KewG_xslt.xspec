@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:description xmlns:x="http://www.jenitennison.com/xslt/xspec" xmlns:yxj="http://www.yxj5181.com"
+    stylesheet="KewG_xslt.xsl">
+    <x:scenario label="Scenario for testing function tableMaker">
+        <x:call function="yxj:tableMaker"> </x:call>
+        <x:expect label="Not yet implemented"><table xmlns="http://www.w3.org/1999/xhtml"
+                xmlns:yxj="http://www.yxj5181.com">
+                <tr>
+                    <th>color</th>
+                    <th>count</th>
+                </tr>
+                <tr>
+                    <td>red</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>yellow, Yellow</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>blue</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>brown, Brown</td>
+                    <td>5</td>
+                </tr>
+                <tr>
+                    <td>green</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>white</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>grey</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>silver</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>pink</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>green blue, green-blue</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>gold</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>silver grey</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>trans- parent</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>purple black</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>black</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>snow white</td>
+                    <td>1</td>
+                </tr>
+            </table>
+            <table xmlns="http://www.w3.org/1999/xhtml" xmlns:yxj="http://www.yxj5181.com">
+                <tr>
+                    <th>nature</th>
+                    <th>count</th>
+                </tr>
+                <tr>
+                    <td>flower</td>
+                    <td>9</td>
+                </tr>
+                <tr>
+                    <td>leaves, leaf</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>flower-bed, flower bed</td>
+                    <td>6</td>
+                </tr>
+                <tr>
+                    <td>dragon- fly, dragon-fly</td>
+                    <td>6</td>
+                </tr>
+                <tr>
+                    <td>head</td>
+                    <td>5</td>
+                </tr>
+                <tr>
+                    <td>trees</td>
+                    <td>5</td>
+                </tr>
+                <tr>
+                    <td>petals</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>snail</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>body, bodies</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>earth</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>Kew Gardens</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>butterflies, butterfly</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>lake</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>hand</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>heart-shaped, heart</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>sun</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>water</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>turf</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>water-lilies</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>eyes</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>ear</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>forests</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>ponderous</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>stalks</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>summer breeze</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>pebble</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>raindrop</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>drop</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>breeze</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>garden</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>neck</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>haired</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>wart</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>nose</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>sunlight</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>crumbs of looseearth</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>insect</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>cliffs</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>root</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>boulders</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>stone</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>dead leaf</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>ground</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>lips</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>horse</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>hills</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>thunder</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>mahogany</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>roses</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>night- ingales</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>beaches</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>face</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>stout</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>rosy-checked</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>nimble</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>brain</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>soft earth</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>ice</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>grass path</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td> crimson-crested bird</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>bird</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>sky</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>grass</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>air</td>
+                    <td>1</td>
+                </tr>
+            </table>
+            <table xmlns="http://www.w3.org/1999/xhtml" xmlns:yxj="http://www.yxj5181.com">
+                <tr>
+                    <th>shape</th>
+                    <th>count</th>
+                </tr>
+                <tr>
+                    <td>oval-shaped, oval</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>heart-shaped, heart</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>tongue-shaped</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>clubbed</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>circular</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>square</td>
+                    <td>1</td>
+                </tr>
+            </table>
+            <table xmlns="http://www.w3.org/1999/xhtml" xmlns:yxj="http://www.yxj5181.com">
+                <tr>
+                    <th>tech</th>
+                    <th>count</th>
+                </tr>
+                <tr>
+                    <td>shoe</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>buckle</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>shoe buckle</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>easels</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>watch</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>house</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>battery</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>dress</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>hat</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>pagoda</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>palm house </td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>motor omnibuses</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>wheels</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>gear</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>steel</td>
+                    <td>1</td>
+                </tr>
+            </table></x:expect>
+    </x:scenario>
+
+    <x:scenario label="Scenario for testing template with match 'line">
+        <x:context>
+            <page n="2" facs="../docs/img/page2.jpg">
+                <description resp="#edm"> Off-white page with maroon dotting down the left-hand
+                    side. The writing on the page was the same burnt maroon as the cover. The font
+                    is in a more handwritten, storybook font. </description>
+                <line n="1"/>Kew Gardens <line n="2"/>by <line n="3"/>Virginia <line n="4"/>Woolf
+                    <line n="5"/>decorated by Vanessa Bell <line n="6"/>published by the Hogarth
+                Press </page>
+        </x:context>
+        <x:expect label="Not yet implemented">
+            <div class="page" id="page-2">
+                <div class="desc"><small>2</small><span class="desc"><i> Off-white page with maroon
+                            dotting down the left-hand side. The writing on the page was the same
+                            burnt maroon as the cover. The font is in a more handwritten, storybook
+                            font. —— #edm</i></span></div>
+                <div class="vwoolf"><span class="pageNum">2</span>
+                    <br class="line" id="pg-2-line-1"/>Kew Gardens <br class="line" id="pg-2-line-2"
+                    />by <br class="line" id="pg-2-line-3"/>Virginia <br class="line"
+                        id="pg-2-line-4"/>Woolf <br class="line" id="pg-2-line-5"/>decorated by
+                    Vanessa Bell <br class="line" id="pg-2-line-6"/>published by the Hogarth Press
+                </div>
+            </div>
+        </x:expect>
+    </x:scenario>
+
+    <x:scenario label="Scenario for testing template with match 'nature">
+        <x:context><nature type="plant">flower-bed</nature></x:context>
+        <x:expect label="Not yet implemented">
+            <span class="nature">flower-bed</span>
+        </x:expect>
+    </x:scenario>
+
+    <x:scenario label="Scenario for testing template with match 'tech">
+        <x:context><tech type="cloth">shoe</tech></x:context>
+        <x:expect label="Not yet implemented">
+            <span class="tech">shoe</span>
+        </x:expect>
+    </x:scenario>
+
+    <x:scenario label="Scenario for testing template with match 'shape">
+        <x:context><shape>oval</shape></x:context>
+        <x:expect label="Not yet implemented">
+            <span class="shape">oval</span>
+        </x:expect>
+    </x:scenario>
+</x:description>

@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Test Report for C:/Users/Jessie/Documents/Github/Storybook/docs/KewG_xslt.xsl (passed: 0 / pending: 0 / failed: 5 / total: 5)</title>
+      <style type="text/css">/****************************************************************************/
+/*  File:       test-report.css                                             */
+/*  Author:     Jeni Tennison                                               */
+/*  Tags:                                                                   */
+/*    Copyright (c) 2008, 2010 Jeni Tennison (see end of file.)             */
+/* ------------------------------------------------------------------------ */
+
+/* test */
+
+/* box model */
+
+body {
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+h1 {
+	padding: 0.3em 0.5em 0.3em 0.5em;
+	position: relative;
+}
+
+h2 {
+	padding: 0.1em 0.5em 0.2em 0.5em;
+}
+
+h3 {
+	padding-left: 0.6em;
+}
+
+h4 {
+	padding-left: 0.8em;
+}
+
+p,
+table {
+	margin-left: 5%;
+}
+
+dd ul,
+dd ol {
+	margin-left: 0%;
+}
+
+li ul,
+li ol {
+	margin-left: 5%;
+}
+
+dl,
+ul,
+ol,
+blockquote {
+	margin-left: 10%;
+}
+
+dt {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	clear: both;
+}
+
+dd p {
+	margin-left: -5px;
+	margin-top: 5px;
+	clear: both;
+}
+
+p.link {
+	margin-top: 4px;
+	margin-bottom: 0px;
+	clear: both;
+}
+
+tr td,
+td p,
+li,
+li p {
+	margin-left: 0%;
+}
+
+td {
+	padding-right: 5%;
+}
+
+.link img,
+dt img {
+	vertical-align: middle;
+	position: relative;
+	top: -5px;
+}
+
+img {
+	position: relative;
+}
+
+#xml-link {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 10%;
+	margin-left: 0%;
+}
+
+#link-up {
+	position: absolute;
+	left: 93%;
+	right: 2em;
+	top: 0.3em;
+}
+
+#link-top {
+	position: absolute;
+	left: 89%;
+	right: 4em;
+	top: 0.3em;
+}
+
+.popup {
+	display: block;
+	visibility: hidden;
+	float: right;
+	position: absolute;
+	top: 5px;
+	left: -200px;
+	z-index: 1;
+	padding: 0.3em;
+	width: 220px;
+}
+
+.note {
+	position: relative;
+}
+
+.post {
+	margin-left: 5%;
+	padding-top: 1em;
+}
+
+.example,
+.sidebar {
+	margin-left: 5%;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+pre {
+	padding-left: 5%;
+	margin-left: 5%;
+}
+
+dd pre,
+li pre {
+	padding-left: 5%;
+}
+
+/* fonts */
+body,
+table {
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 1.7em;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 120%;
+	font-weight: normal;
+}
+
+h4 {
+	font-size: 100%;
+	font-weight: bold;
+}
+
+dt {
+	font-weight: bold;
+}
+
+a:link,
+a:visited,
+a:active,
+a:hover {
+	font-weight: bold;
+}
+
+a.offsite:link,
+a.offsite:visited,
+a.offsite:active,
+a.offsite:hover {
+	font-weight: normal;
+}
+
+/* suppress the normal italics */
+address {
+	font-style: normal;
+}
+
+div.example,
+.sidebar {
+	font-family: sans-serif;
+	font-size: 100%;
+}
+
+.note,
+.link {
+	font-family: sans-serif;
+	/*font-size: 83%;*/
+}
+
+.example,
+.string,
+.rtf,
+.code,
+pre,
+code {
+	font-family: monospace;
+	/*font-size: 83%;*/
+}
+
+.boolean {
+	font-style: italic;
+}
+
+#colophon,
+#xml-link {
+	font-size: 69%;
+}
+
+.question,
+.title {
+	font-weight: bold;
+}
+
+/* colours */
+body {
+	background-color: white;
+	color: black;
+	border: 0px none black;
+}
+
+/* this is to make Navigator fill the entire line */
+h1,
+h2 {
+	border: 1px solid white;
+	width: auto;
+}
+
+h1 {
+	background: #606;
+	color: #6f6;
+}
+
+h2 {
+	color: #606;
+	background: #cfc;
+}
+
+hr {
+	color: #606;
+	background: white;
+}
+
+img,
+a:link img,
+a:visited img,
+a:hover img,
+a:active img,
+#link-up img,
+#link-top img {
+	border: 0px none white;
+	background: transparent;
+}
+
+a:link {
+	color: #636;
+	background: transparent;
+	border: 0px none white;
+}
+
+a:visited {
+	color: #606;
+	background: transparent;
+	border: 0px none white;
+}
+
+a:active {
+	color: #6f6;
+	background: #606;
+	border: 0px none white;
+}
+
+a:hover {
+	color: #636;
+	background: #9f9;
+	border: 0px none white;
+}
+
+a.img:hover,
+a.img:active {
+	background: transparent;
+}
+
+#colophon,
+#xml-link,
+.note {
+	color: #666;
+}
+
+#colophon a:link,
+#colophon a:visited,
+#colophon a:hover,
+#xml-link a:link,
+#xml-link a:visited,
+#xml-link a:hover,
+.note a:link,
+.note a:visited,
+.note a:hover {
+	color: #969;
+	background: transparent;
+}
+
+#colophon a:hover,
+#xml-link a:hover,
+.note a:hover {
+	background: #cfc;
+	color: #969;
+}
+
+.popup {
+	background: white;
+	border: 1px solid #606;
+}
+
+.post {
+	border-top: 2px solid #606;
+}
+
+.example {
+	border-top: 2px solid #606;
+	border-bottom: 2px solid #606;
+}
+
+.sidebar {
+	border-top: 2px solid #090;
+	border-bottom: 2px solid #090;
+}
+
+.rng {
+	border-left: 2px solid #666;
+}
+
+.same {
+	background-color: rgb(206, 239, 174);
+}
+
+.inner-diff {
+	background-color: rgba(255, 204, 204, 0.4);
+}
+
+.diff {
+	background-color: #fcc;
+}
+
+.whitespace {
+	/*font-style: italic;*/
+	color: #999;
+	/*background: white;*/
+}
+
+.ellipsis {
+	color: #999;
+}
+
+.xmlns.trivial {
+	color: #c0c0c0;
+}
+
+.ignored {
+	font-style: italic;
+	color: #999;
+	background: white;
+}
+
+.hit {
+}
+
+.missed {
+	background-color: #a33;
+	color: white;
+}
+
+/* text */
+ol ol li {
+	list-style: lower-alpha;
+}
+
+td {
+	vertical-align: top;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+.question {
+	text-indent: -33px;
+}
+
+.byline {
+	text-align: right;
+}
+
+#link-top,
+#link-up {
+	text-align: right;
+}
+
+a {
+	text-decoration: none;
+}
+
+body > h2:first-of-type {
+	background: inherit;
+	font-size: 1.7em;
+	margin-bottom: 0;
+}
+
+table {
+	width: 95%;
+	/* border: collapse; */
+}
+
+th {
+	text-align: left;
+}
+
+th.totals {
+	text-align: center;
+	font-weight: normal;
+}
+
+div > table > tbody > tr > th:first-child {
+	font-weight: bold;
+	color: #474747;
+}
+
+.xspec tbody th {
+	font-weight: normal; /*font-size: 0.8em;*/
+	border-top: 1px #666 solid;
+}
+.xspec tbody td {
+	/*font-size: 0.8em;*/
+	color: #262626;
+}
+
+.xspec tbody th .elapsed {
+	float: right;
+	font-weight: initial;
+}
+
+.successful {
+	background-color: #cfc;
+}
+.pending {
+	background-color: #eee;
+	color: #666;
+}
+.failed {
+	background-color: #fcc;
+}
+
+.successful td:first-child:before,
+body > table:first-of-type tr.successful th:first-child:before {
+	margin-right: 5px;
+
+	/* optimized version of ../../graphics/success12.png */
+	content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAABcUlEQVR42m1SPUsDQRB9661BIoEQDBqJnRhE1BD8CP4AgwhWEbQIKIhi6Q/QwspCtBBs/CBG1Fb9AWK0iBosLCQgYmGQEFARRUguezfuLeZygsWbmZ037zEMyxZ2W0IgHBIoIjPoF6q2QQYIWVlPcxmS3mYt4vFpjmEpd4pNaJ9vRvS9ILa57Aw2ejUYBtVcTdsZPnc7Qk0juNQ3QC/o55JkhnAO19wDnjAmIkkcZBMwBVmci1uEoR5Od4K73o94eAuZpx3kX+9U35TgVjAqVWdmZUWOhldQrnwhnduEELD7dVYhdMJY9zom+/ZAgqOnNY7OQAynt0sol3TFSyiRWklUCKXyN8Jt40gM7SPo68VDIY1c/ly5KlBtJaU+vlmEpyGArmBMkiZOrpdV3yFQ4PJBkmBkCqTO5jE3fITixyOei/dy0L5aVSjY7Jo/w10sqnFmn9VU+e+ZhW7BvGAzq/4O2UiBMCBJRv9/DyHDFQFTPwI/IlPYPLYnAAAAAElFTkSuQmCC");
+}
+
+.failed td:first-child:before,
+body > table:first-of-type tr.failed th:first-child:before {
+	margin-right: 5px;
+
+	/* optimized version of ../../graphics/fail12.png */
+	content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAAAjVBMVEWDKBSQLBadMBidMBiSLBWSLRaLKhWCKBOZLheHKRT//////v3ivLPgt67dsafhraLfqJvcopXQl4vNkoTKjH3RbljKaVO8aVaxYlCsUDylUDusOh+wNxu0OBu4ORy7OhzAOx3EPB2rNRqnNBqjMhifMRidMBeaLxeXLhaULRaRLBaOKxWLKhWIKRSFKBRkN75PAAAACnRSTlP7+c3Hx8TIwicknixbQAAAAIZJREFUeNoNwsEKgkAUBdD77jzSXKhDuEpyURBE//8h0SratQuKRK3QsdccjqTjDgLEV9VpPSEyYHPjVtFb9LYQKNYPrVk7fOyAfdMUWRnX9VHFLO9GJB4ClR8wxyIQYmGveZmGu1BUJFjm5fHtShDM8xVZFZ4nXtQVjDxd4hbPytGRPLf8A/K/MGOep8atAAAAAElFTkSuQmCC");
+}
+
+.pending td:first-child:before,
+body > table:first-of-type tr.pending th:first-child:before {
+	margin-right: 5px;
+
+	/* optimized version of ../../graphics/pending12.png */
+	content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAAAt1BMVEVgYGBZWVldXV1gYGBjY2NmZmZnZ2dnZ2diYmJfX19dXV1hYWFZWVlYWFhiYmJeXl5YWFhoaGj6+vr39/fz8/Py8vLv7+/p6enk5OR9fX18fHx7e3t6enp5eXl4eHh3d3d2dnZ1dXV0dHRzc3NycnJxcXFwcHBvb29ubm5tbW1sbGxra2tqamppaWloaGhnZ2dmZmZlZWVkZGRjY2NiYmJhYWFfX19eXl5dXV1cXFxbW1taWlpZWVl0CTiLAAAAEnRSTlP++/75/P7Nx8fHyMTBwygmIycZZx20AAAAdElEQVR42jWKvQ4BURSEzzdzED+NQiFRaCWi4f1rhcor2EZl2RDdcq+YyUzyZYb5c0MUn3PIaPUKKk4aBgsqfHPRVpLl0nuFbbkKoe7te5ftw0jue4OJFIeOn4KZsNN26SB28Z9OHi+RJUTePL0263LMY5sfIzMU3HCY7dEAAAAASUVORK5CYII=");
+}
+
+.xspecResult {
+	width: 95%;
+	table-layout: fixed;
+}
+
+.xspecResult td,
+.xspecResult th {
+	width: 50%;
+}
+
+.xspecResult pre {
+	margin-left: 0;
+	padding: 0.5em;
+	overflow: auto;
+	border: 1px #999 dotted;
+}
+
+span.scenario-totals {
+	float: right;
+	text-align: right;
+}
+
+/* highlight the link target */
+*:target {
+	box-shadow: -0.5rem 0 0 0 #fc511d;
+}
+
+/* hint button */
+.xTestReport {
+	display: grid;
+	grid-template-areas:
+		"title title"
+		"table hint";
+	grid-template-columns: 1fr 1em;
+}
+.xTestReportTitle {
+	grid-area: title;
+}
+.xTestReportHint {
+	grid-area: hint;
+}
+.xspecResult {
+	grid-area: table;
+}
+
+/* ------------------------------------------------------------------------ */
+/*  DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS COMMENT.               */
+/*                                                                          */
+/*  Copyright (c) 2008, 2010 Jeni Tennison                                  */
+/*                                                                          */
+/*  The contents of this file are subject to the MIT License (see the URI   */
+/*  http://www.opensource.org/licenses/mit-license.php for details).        */
+/*                                                                          */
+/*  Permission is hereby granted, free of charge, to any person obtaining   */
+/*  a copy of this software and associated documentation files (the         */
+/*  "Software"), to deal in the Software without restriction, including     */
+/*  without limitation the rights to use, copy, modify, merge, publish,     */
+/*  distribute, sublicense, and/or sell copies of the Software, and to      */
+/*  permit persons to whom the Software is furnished to do so, subject to   */
+/*  the following conditions:                                               */
+/*                                                                          */
+/*  The above copyright notice and this permission notice shall be          */
+/*  included in all copies or substantial portions of the Software.         */
+/*                                                                          */
+/*  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,         */
+/*  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF      */
+/*  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  */
+/*  IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY    */
+/*  CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,    */
+/*  TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE       */
+/*  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.                  */
+/* ------------------------------------------------------------------------ */
+</style>
+   </head>
+   <body>
+      <h1>Test Report</h1>
+      <p>Stylesheet: <a href="file:/C:/Users/Jessie/Documents/Github/Storybook/docs/KewG_xslt.xsl">C:/Users/Jessie/Documents/Github/Storybook/docs/KewG_xslt.xsl</a></p>
+      <p>XSpec: <a href="file:/C:/Users/Jessie/Documents/Github/Storybook/docs/KewG_xslt.xspec">C:/Users/Jessie/Documents/Github/Storybook/docs/KewG_xslt.xspec</a></p>
+      <p>Tested: 27 October 2022 at 14:40</p>
+      <h2>Contents</h2>
+      <table class="xspec">
+         <colgroup>
+            <col style="width:75%" />
+            <col style="width:6.25%" />
+            <col style="width:6.25%" />
+            <col style="width:6.25%" />
+            <col style="width:6.25%" />
+         </colgroup>
+         <thead>
+            <tr>
+               <th></th>
+               <th class="totals">passed: 0</th>
+               <th class="totals">pending: 0</th>
+               <th class="totals">failed: 5</th>
+               <th class="totals">total: 5</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr class="failed">
+               <th><a href="#top_scenario1">Scenario for testing function tableMaker</a></th>
+               <th class="totals">0</th>
+               <th class="totals">0</th>
+               <th class="totals">1</th>
+               <th class="totals">1</th>
+            </tr>
+            <tr class="failed">
+               <th><a href="#top_scenario2">Scenario for testing template with match 'line</a></th>
+               <th class="totals">0</th>
+               <th class="totals">0</th>
+               <th class="totals">1</th>
+               <th class="totals">1</th>
+            </tr>
+            <tr class="failed">
+               <th><a href="#top_scenario3">Scenario for testing template with match 'nature</a></th>
+               <th class="totals">0</th>
+               <th class="totals">0</th>
+               <th class="totals">1</th>
+               <th class="totals">1</th>
+            </tr>
+            <tr class="failed">
+               <th><a href="#top_scenario4">Scenario for testing template with match 'tech</a></th>
+               <th class="totals">0</th>
+               <th class="totals">0</th>
+               <th class="totals">1</th>
+               <th class="totals">1</th>
+            </tr>
+            <tr class="failed">
+               <th><a href="#top_scenario5">Scenario for testing template with match 'shape</a></th>
+               <th class="totals">0</th>
+               <th class="totals">0</th>
+               <th class="totals">1</th>
+               <th class="totals">1</th>
+            </tr>
+         </tbody>
+      </table>
+      <div id="top_scenario1">
+         <h2 class="failed">Scenario for testing function tableMaker<span class="scenario-totals">passed: 0 / pending: 0 / failed: 1 / total: 1</span></h2>
+         <table class="xspec" id="table_scenario1">
+            <colgroup>
+               <col style="width:75%" />
+               <col style="width:25%" />
+            </colgroup>
+            <tbody>
+               <tr class="failed">
+                  <th>Scenario for testing function tableMaker</th>
+                  <th>passed: 0 / pending: 0 / failed: 1 / total: 1</th>
+               </tr>
+               <tr class="failed">
+                  <td><a href="#scenario1-expect1">Not yet implemented</a></td>
+                  <td>Failure</td>
+               </tr>
+            </tbody>
+         </table>
+         <div id="scenario1">
+            <h3>Scenario for testing function tableMaker</h3>
+            <div id="scenario1-expect1" class="xTestReport">
+               <h4 class="xTestReportTitle">Not yet implemented</h4>
+               <div class="xTestReportHint"><a href="https://github.com/xspec/xspec/wiki/Understanding-Test-Results" target="_blank" title="What does this report mean?">[?]</a></div>
+               <table class="xspecResult">
+                  <thead>
+                     <tr>
+                        <th>Result</th>
+                        <th>Expected Result</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>
+                           <p>XPath <code class="same">/element()</code> from:</p>
+                           <pre>&lt;<span class="same">table</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+       <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">color</span>&lt;/th&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">count</span>&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">red</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">8</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">yellow, Yellow</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">8</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">blue</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">7</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">brown, Brown</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">5</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">green</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">4</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">white</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">4</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">grey</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">silver</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">pink</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">green blue, green-blue</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">gold</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">silver grey</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">trans- parent</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">purple black</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">black</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">snow white</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;
+&lt;<span class="inner-diff">table</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+       <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">nature</span>&lt;/th&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">count</span>&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">flower</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">9</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">leaves, leaf</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">8</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">flower-bed, flower bed</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">6</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">dragon- fly, dragon-fly</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">6</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">head</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">5</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">trees</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">5</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">petals</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">4</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">snail</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">4</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">body, bodies</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">4</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">earth</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">Kew Gardens</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">butterflies, butterfly</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">lake</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">hand</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">heart-shaped, heart</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">sun</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">water</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">turf</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">water-lilies</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">eyes</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">ear</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">forests</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">ponderous</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">stalks</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">summer breeze</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">pebble</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">raindrop</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">drop</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">breeze</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">garden</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">neck</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">haired</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">wart</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">nose</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">sunlight</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">crumbs of looseearth</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">insect</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">cliffs</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">root</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">boulders</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">stone</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="inner-diff">tr</span>&gt;
+      &lt;<span class="inner-diff">td</span>&gt;<span class="diff">dead
+            leaf</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">ground</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">lips</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">horse</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">hills</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">thunder</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">mahogany</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">roses</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="inner-diff">tr</span>&gt;
+      &lt;<span class="inner-diff">td</span>&gt;<span class="diff">night-
+        ingales</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">beaches</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">face</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">stout</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">rosy-checked</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">nimble</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">brain</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">soft earth</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">ice</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">grass path</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same"> crimson-crested bird</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">bird</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">sky</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">grass</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">air</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;
+&lt;<span class="same">table</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+       <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">shape</span>&lt;/th&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">count</span>&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">oval-shaped, oval</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">heart-shaped, heart</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">tongue-shaped</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">clubbed</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">circular</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">square</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;
+&lt;<span class="same">table</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+       <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">tech</span>&lt;/th&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">count</span>&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">shoe</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">buckle</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">shoe buckle</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">easels</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">watch</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">house</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">battery</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">dress</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">hat</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">pagoda</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">palm house </span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">motor omnibuses</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">wheels</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">gear</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">steel</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;</pre>
+                        </td>
+                        <td>
+                           <p>XPath <code class="same">/element()</code> from:</p>
+                           <pre>&lt;<span class="same">table</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+       <span class="xmlns trivial">xmlns:x="http://www.jenitennison.com/xslt/xspec"</span>
+       <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">color</span>&lt;/th&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">count</span>&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">red</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">8</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">yellow, Yellow</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">8</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">blue</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">7</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">brown, Brown</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">5</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">green</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">4</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">white</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">4</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">grey</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">silver</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">pink</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">green blue, green-blue</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">gold</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">silver grey</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">trans- parent</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">purple black</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">black</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">snow white</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;
+&lt;<span class="inner-diff">table</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+       <span class="xmlns trivial">xmlns:x="http://www.jenitennison.com/xslt/xspec"</span>
+       <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">nature</span>&lt;/th&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">count</span>&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">flower</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">9</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">leaves, leaf</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">8</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">flower-bed, flower bed</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">6</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">dragon- fly, dragon-fly</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">6</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">head</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">5</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">trees</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">5</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">petals</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">4</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">snail</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">4</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">body, bodies</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">4</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">earth</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">Kew Gardens</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">butterflies, butterfly</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">lake</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">hand</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">heart-shaped, heart</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">sun</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">water</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">turf</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">water-lilies</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">eyes</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">ear</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">forests</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">ponderous</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">stalks</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">summer breeze</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">pebble</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">raindrop</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">drop</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">breeze</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">garden</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">neck</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">haired</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">wart</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">nose</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">sunlight</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">crumbs of looseearth</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">insect</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">cliffs</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">root</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">boulders</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">stone</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="inner-diff">tr</span>&gt;
+      &lt;<span class="inner-diff">td</span>&gt;<span class="diff">dead leaf</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">ground</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">lips</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">horse</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">hills</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">thunder</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">mahogany</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">roses</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="inner-diff">tr</span>&gt;
+      &lt;<span class="inner-diff">td</span>&gt;<span class="diff">night- ingales</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">beaches</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">face</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">stout</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">rosy-checked</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">nimble</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">brain</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">soft earth</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">ice</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">grass path</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same"> crimson-crested bird</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">bird</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">sky</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">grass</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">air</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;
+&lt;<span class="same">table</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+       <span class="xmlns trivial">xmlns:x="http://www.jenitennison.com/xslt/xspec"</span>
+       <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">shape</span>&lt;/th&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">count</span>&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">oval-shaped, oval</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">heart-shaped, heart</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">tongue-shaped</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">2</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">clubbed</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">circular</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">square</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;
+&lt;<span class="same">table</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+       <span class="xmlns trivial">xmlns:x="http://www.jenitennison.com/xslt/xspec"</span>
+       <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">tech</span>&lt;/th&gt;
+      &lt;<span class="same">th</span>&gt;<span class="same">count</span>&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">shoe</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">3</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">buckle</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">shoe buckle</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">easels</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">watch</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">house</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">battery</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">dress</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">hat</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">pagoda</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">palm house </span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">motor omnibuses</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">wheels</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">gear</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;<span class="same">tr</span>&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">steel</span>&lt;/td&gt;
+      &lt;<span class="same">td</span>&gt;<span class="same">1</span>&lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;</pre>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+         </div>
+      </div>
+      <div id="top_scenario2">
+         <h2 class="failed">Scenario for testing template with match 'line<span class="scenario-totals">passed: 0 / pending: 0 / failed: 1 / total: 1</span></h2>
+         <table class="xspec" id="table_scenario2">
+            <colgroup>
+               <col style="width:75%" />
+               <col style="width:25%" />
+            </colgroup>
+            <tbody>
+               <tr class="failed">
+                  <th>Scenario for testing template with match 'line</th>
+                  <th>passed: 0 / pending: 0 / failed: 1 / total: 1</th>
+               </tr>
+               <tr class="failed">
+                  <td><a href="#scenario2-expect1">Not yet implemented</a></td>
+                  <td>Failure</td>
+               </tr>
+            </tbody>
+         </table>
+         <div id="scenario2">
+            <h3>Scenario for testing template with match 'line</h3>
+            <div id="scenario2-expect1" class="xTestReport">
+               <h4 class="xTestReportTitle">Not yet implemented</h4>
+               <div class="xTestReportHint"><a href="https://github.com/xspec/xspec/wiki/Understanding-Test-Results" target="_blank" title="What does this report mean?">[?]</a></div>
+               <table class="xspecResult">
+                  <thead>
+                     <tr>
+                        <th>Result</th>
+                        <th>Expected Result</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>
+                           <p>XPath <code class="same">/element()</code> from:</p>
+                           <pre>&lt;<span class="diff">div</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+     <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>
+     <span class="same">class</span>=<span class="same">"page"</span>
+     <span class="same">id</span>=<span class="same">"page-2"</span>&gt;
+   &lt;<span class="diff">div</span> <span class="same">class</span>=<span class="same">"desc"</span>&gt;
+      &lt;<span class="diff">small</span>&gt;<span class="same">2</span>&lt;/small&gt;
+      &lt;<span class="diff">span</span> <span class="same">class</span>=<span class="same">"desc"</span>&gt;
+         &lt;<span class="diff">i</span>&gt;<span class="diff"> Off-white page with maroon dotting down the left-hand
+                    side. The writing on the page was the same burnt maroon as the cover. The font
+                    is in a more handwritten, storybook font. ——
+      #edm</span>&lt;/i&gt;
+      &lt;/span&gt;
+   &lt;/div&gt;
+   &lt;<span class="diff">div</span> <span class="same">class</span>=<span class="same">"vwoolf"</span>&gt;
+      &lt;<span class="diff">span</span> <span class="same">class</span>=<span class="same">"pageNum"</span>&gt;<span class="same">2</span>&lt;/span&gt;
+      &lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-1"</span> /&gt;<span class="same">Kew Gardens </span>&lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-2"</span> /&gt;<span class="same">by </span>&lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-3"</span> /&gt;<span class="same">Virginia </span>&lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-4"</span> /&gt;<span class="diff">Woolf
+                    </span>&lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-5"</span> /&gt;<span class="diff">decorated by Vanessa Bell </span>&lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-6"</span> /&gt;<span class="diff">published by the Hogarth
+                Press </span>&lt;/div&gt;
+&lt;/div&gt;</pre>
+                        </td>
+                        <td>
+                           <p>XPath <code class="same">/element()</code> from:</p>
+                           <pre>&lt;<span class="diff">div</span> <span class="xmlns trivial">xmlns:x="http://www.jenitennison.com/xslt/xspec"</span>
+     <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>
+     <span class="same">class</span>=<span class="same">"page"</span>
+     <span class="same">id</span>=<span class="same">"page-2"</span>&gt;
+   &lt;<span class="diff">div</span> <span class="same">class</span>=<span class="same">"desc"</span>&gt;
+      &lt;<span class="diff">small</span>&gt;<span class="same">2</span>&lt;/small&gt;
+      &lt;<span class="diff">span</span> <span class="same">class</span>=<span class="same">"desc"</span>&gt;
+         &lt;<span class="diff">i</span>&gt;<span class="diff"> Off-white page with maroon
+                            dotting down the left-hand side. The writing on the page was the same
+                            burnt maroon as the cover. The font is in a more handwritten, storybook
+                            font. —— #edm</span>&lt;/i&gt;
+      &lt;/span&gt;
+   &lt;/div&gt;
+   &lt;<span class="diff">div</span> <span class="same">class</span>=<span class="same">"vwoolf"</span>&gt;
+      &lt;<span class="diff">span</span> <span class="same">class</span>=<span class="same">"pageNum"</span>&gt;<span class="same">2</span>&lt;/span&gt;
+      &lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-1"</span> /&gt;<span class="same">Kew Gardens </span>&lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-2"</span> /&gt;<span class="same">by </span>&lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-3"</span> /&gt;<span class="same">Virginia </span>&lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-4"</span> /&gt;<span class="diff">Woolf </span>&lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-5"</span> /&gt;<span class="diff">decorated by
+                    Vanessa Bell </span>&lt;<span class="diff">br</span> <span class="same">class</span>=<span class="same">"line"</span>
+          <span class="same">id</span>=<span class="same">"pg-2-line-6"</span> /&gt;<span class="diff">published by the Hogarth Press
+                </span>&lt;/div&gt;
+&lt;/div&gt;</pre>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+         </div>
+      </div>
+      <div id="top_scenario3">
+         <h2 class="failed">Scenario for testing template with match 'nature<span class="scenario-totals">passed: 0 / pending: 0 / failed: 1 / total: 1</span></h2>
+         <table class="xspec" id="table_scenario3">
+            <colgroup>
+               <col style="width:75%" />
+               <col style="width:25%" />
+            </colgroup>
+            <tbody>
+               <tr class="failed">
+                  <th>Scenario for testing template with match 'nature</th>
+                  <th>passed: 0 / pending: 0 / failed: 1 / total: 1</th>
+               </tr>
+               <tr class="failed">
+                  <td><a href="#scenario3-expect1">Not yet implemented</a></td>
+                  <td>Failure</td>
+               </tr>
+            </tbody>
+         </table>
+         <div id="scenario3">
+            <h3>Scenario for testing template with match 'nature</h3>
+            <div id="scenario3-expect1" class="xTestReport">
+               <h4 class="xTestReportTitle">Not yet implemented</h4>
+               <div class="xTestReportHint"><a href="https://github.com/xspec/xspec/wiki/Understanding-Test-Results" target="_blank" title="What does this report mean?">[?]</a></div>
+               <table class="xspecResult">
+                  <thead>
+                     <tr>
+                        <th>Result</th>
+                        <th>Expected Result</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>
+                           <p>XPath <code class="same">/element()</code> from:</p>
+                           <pre>&lt;<span class="diff">span</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+      <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>
+      <span class="same">class</span>=<span class="same">"nature"</span>&gt;<span class="same">flower-bed</span>&lt;/span&gt;</pre>
+                        </td>
+                        <td>
+                           <p>XPath <code class="same">/element()</code> from:</p>
+                           <pre>&lt;<span class="diff">span</span> <span class="xmlns trivial">xmlns:x="http://www.jenitennison.com/xslt/xspec"</span>
+      <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>
+      <span class="same">class</span>=<span class="same">"nature"</span>&gt;<span class="same">flower-bed</span>&lt;/span&gt;</pre>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+         </div>
+      </div>
+      <div id="top_scenario4">
+         <h2 class="failed">Scenario for testing template with match 'tech<span class="scenario-totals">passed: 0 / pending: 0 / failed: 1 / total: 1</span></h2>
+         <table class="xspec" id="table_scenario4">
+            <colgroup>
+               <col style="width:75%" />
+               <col style="width:25%" />
+            </colgroup>
+            <tbody>
+               <tr class="failed">
+                  <th>Scenario for testing template with match 'tech</th>
+                  <th>passed: 0 / pending: 0 / failed: 1 / total: 1</th>
+               </tr>
+               <tr class="failed">
+                  <td><a href="#scenario4-expect1">Not yet implemented</a></td>
+                  <td>Failure</td>
+               </tr>
+            </tbody>
+         </table>
+         <div id="scenario4">
+            <h3>Scenario for testing template with match 'tech</h3>
+            <div id="scenario4-expect1" class="xTestReport">
+               <h4 class="xTestReportTitle">Not yet implemented</h4>
+               <div class="xTestReportHint"><a href="https://github.com/xspec/xspec/wiki/Understanding-Test-Results" target="_blank" title="What does this report mean?">[?]</a></div>
+               <table class="xspecResult">
+                  <thead>
+                     <tr>
+                        <th>Result</th>
+                        <th>Expected Result</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>
+                           <p>XPath <code class="same">/element()</code> from:</p>
+                           <pre>&lt;<span class="diff">span</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+      <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>
+      <span class="same">class</span>=<span class="same">"tech"</span>&gt;<span class="same">shoe</span>&lt;/span&gt;</pre>
+                        </td>
+                        <td>
+                           <p>XPath <code class="same">/element()</code> from:</p>
+                           <pre>&lt;<span class="diff">span</span> <span class="xmlns trivial">xmlns:x="http://www.jenitennison.com/xslt/xspec"</span>
+      <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>
+      <span class="same">class</span>=<span class="same">"tech"</span>&gt;<span class="same">shoe</span>&lt;/span&gt;</pre>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+         </div>
+      </div>
+      <div id="top_scenario5">
+         <h2 class="failed">Scenario for testing template with match 'shape<span class="scenario-totals">passed: 0 / pending: 0 / failed: 1 / total: 1</span></h2>
+         <table class="xspec" id="table_scenario5">
+            <colgroup>
+               <col style="width:75%" />
+               <col style="width:25%" />
+            </colgroup>
+            <tbody>
+               <tr class="failed">
+                  <th>Scenario for testing template with match 'shape</th>
+                  <th>passed: 0 / pending: 0 / failed: 1 / total: 1</th>
+               </tr>
+               <tr class="failed">
+                  <td><a href="#scenario5-expect1">Not yet implemented</a></td>
+                  <td>Failure</td>
+               </tr>
+            </tbody>
+         </table>
+         <div id="scenario5">
+            <h3>Scenario for testing template with match 'shape</h3>
+            <div id="scenario5-expect1" class="xTestReport">
+               <h4 class="xTestReportTitle">Not yet implemented</h4>
+               <div class="xTestReportHint"><a href="https://github.com/xspec/xspec/wiki/Understanding-Test-Results" target="_blank" title="What does this report mean?">[?]</a></div>
+               <table class="xspecResult">
+                  <thead>
+                     <tr>
+                        <th>Result</th>
+                        <th>Expected Result</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>
+                           <p>XPath <code class="same">/element()</code> from:</p>
+                           <pre>&lt;<span class="diff">span</span> <span class="xmlns">xmlns="http://www.w3.org/1999/xhtml"</span>
+      <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>
+      <span class="same">class</span>=<span class="same">"shape"</span>&gt;<span class="same">oval</span>&lt;/span&gt;</pre>
+                        </td>
+                        <td>
+                           <p>XPath <code class="same">/element()</code> from:</p>
+                           <pre>&lt;<span class="diff">span</span> <span class="xmlns trivial">xmlns:x="http://www.jenitennison.com/xslt/xspec"</span>
+      <span class="xmlns">xmlns:yxj="http://www.yxj5181.com"</span>
+      <span class="same">class</span>=<span class="same">"shape"</span>&gt;<span class="same">oval</span>&lt;/span&gt;</pre>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
