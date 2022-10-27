@@ -1,0 +1,26 @@
+
+  { "stem" : "nose",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nose",
+            "weight" : "1",
+            "pos" : 675,
+            "context" : "<mark>nose<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nose",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "<mark>nose<\/mark>" } ] } ] }

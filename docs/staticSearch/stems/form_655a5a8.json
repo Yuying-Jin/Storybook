@@ -1,0 +1,38 @@
+
+  { "stem" : "form",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "form",
+            "weight" : "1",
+            "pos" : 1283,
+            "context" : "16At the top, 15 short arcs <mark>form<\/mark> a long arc. One thick solid straight line is on...",
+            "fid" : "page-16" },
+          
+          { "form" : "form",
+            "weight" : "1",
+            "pos" : 1301,
+            "context" : "...petals. At the bottom, some curves and straight lines <mark>form<\/mark> the shape of the ground. A large flower and some...",
+            "fid" : "page-16" },
+          
+          { "form" : "form",
+            "weight" : "1",
+            "pos" : 1389,
+            "context" : "17Curves and straight line <mark>form<\/mark> a net which is around left, right and bottom of...",
+            "fid" : "page-17" },
+          
+          { "form" : "form",
+            "weight" : "1",
+            "pos" : 1672,
+            "context" : "...smaller jars. Many dots and curves are below them, which <mark>form<\/mark> something like cushions. —— #yxj",
+            "fid" : "page-20" },
+          
+          { "form" : "form",
+            "weight" : "1",
+            "pos" : 1914,
+            "context" : "...23At the top, there are many dots, which <mark>form<\/mark> a forest. There are some fallen leaves at the bottom...",
+            "fid" : "page-23" } ] } ] }

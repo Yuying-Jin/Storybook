@@ -1,0 +1,14 @@
+
+  { "stem" : "edg",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "edge",
+            "weight" : "1",
+            "pos" : 1545,
+            "context" : "...toneless and monotonous voices. The couple stood still on the <mark>edge<\/mark> of the flower bed, and together pressed the end of...",
+            "fid" : "page-18" } ] } ] }

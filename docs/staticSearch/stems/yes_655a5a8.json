@@ -1,0 +1,20 @@
+
+  { "stem" : "yes",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "\"Yes\"",
+            "weight" : "1",
+            "pos" : 488,
+            "context" : "...middle of it, if the  settled on the  she would say <mark>\"Yes\"<\/mark> at once. ",
+            "fid" : "page-7" },
+          
+          { "form" : "yes",
+            "weight" : "1",
+            "pos" : 2014,
+            "context" : "24 Voices, <mark>yes<\/mark>, vioces, breaking the silence suddently with such depth of...",
+            "fid" : "page-24" } ] } ] }

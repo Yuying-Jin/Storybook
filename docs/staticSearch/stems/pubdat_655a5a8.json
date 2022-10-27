@@ -1,0 +1,13 @@
+
+  { "stem" : "pubdat",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pubDate",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "<mark>pubDate<\/mark>: 1927" } ] } ] }

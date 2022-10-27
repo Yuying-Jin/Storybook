@@ -1,0 +1,32 @@
+
+  { "stem" : "arch",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "arch",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...At the top of the page, there is a painted <mark>arch<\/mark>. On the right, there is a bumpy design that...",
+            "fid" : "page-5" },
+          
+          { "form" : "arch",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : "6 An <mark>arch<\/mark> with broad swirls sits on the top margin. A line...",
+            "fid" : "page-6" },
+          
+          { "form" : "arched",
+            "weight" : "1",
+            "pos" : 852,
+            "context" : "...his goal. Before he haddecided whether to circumvent the <mark>arched<\/mark>tent of a  or to breast it therecame past the...",
+            "fid" : "page-11" },
+          
+          { "form" : "arched",
+            "weight" : "1",
+            "pos" : 889,
+            "context" : "...the bumps. On the top margin, there are two <mark>arched<\/mark> lines in the center with two square-like shapes on...",
+            "fid" : "page-12" } ] } ] }

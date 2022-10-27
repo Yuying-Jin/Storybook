@@ -1,0 +1,14 @@
+
+  { "stem" : "attent",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "attention",
+            "weight" : "1",
+            "pos" : 1117,
+            "context" : "...his walking-stick in order to divert the old man's <mark>attention<\/mark>. After looking at it for a moment in some confusion...",
+            "fid" : "page-14" } ] } ] }

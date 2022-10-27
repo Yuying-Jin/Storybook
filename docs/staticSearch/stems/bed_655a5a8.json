@@ -1,0 +1,101 @@
+
+  { "stem" : "bed",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 11,
+        "contexts" : 
+        [ 
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "flower-<mark>bed<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 360,
+            "context" : "flower-<mark>bed<\/mark>",
+            "fid" : "page-6",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 374,
+            "context" : "...the  and   who crossed the  in zig-zag flights from <mark>bed<\/mark> to bed. The man was about six inches in front...",
+            "fid" : "page-6" },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 375,
+            "context" : "...who crossed the  in zig-zag flights from bed to <mark>bed<\/mark>. The man was about six inches in front of the...",
+            "fid" : "page-6" },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 687,
+            "context" : "flower-<mark>bed<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 727,
+            "context" : "flower <mark>bed<\/mark>",
+            "fid" : "page-10",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 859,
+            "context" : "...tent of a  or to breast it therecame past the <mark>bed<\/mark> the feet of other humanbeings.",
+            "fid" : "page-11" },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 1050,
+            "context" : "...machine stands in any convenient position by the head of the <mark>bed<\/mark>, we will say, on a neat  stand. All...",
+            "fid" : "page-13" },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 1361,
+            "context" : "flower <mark>bed<\/mark>",
+            "fid" : "page-16",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 1547,
+            "context" : ".... The couple stood still on the edge of the flower <mark>bed<\/mark>, and together pressed the end of her parasol deep down...",
+            "fid" : "page-18" },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 1835,
+            "context" : "flower-<mark>bed<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "flower-<mark>bed<\/mark>, flower bed" },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "flower-bed, flower <mark>bed<\/mark>" } ] } ] }

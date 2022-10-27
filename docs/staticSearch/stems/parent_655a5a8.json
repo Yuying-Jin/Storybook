@@ -1,0 +1,26 @@
+
+  { "stem" : "parent",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "parent",
+            "weight" : "1",
+            "pos" : 699,
+            "context" : "trans- <mark>parent<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "parent",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "trans- <mark>parent<\/mark>" } ] } ] }

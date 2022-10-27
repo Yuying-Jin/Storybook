@@ -1,0 +1,14 @@
+
+  { "stem" : "sunk",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sunk",
+            "weight" : "1",
+            "pos" : 1970,
+            "context" : "...and . It seemed as if all gross and heavy  had <mark>sunk<\/mark> down in the heat motionless and lay huddled upon the ground...",
+            "fid" : "page-23" } ] } ] }

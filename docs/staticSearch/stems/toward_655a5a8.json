@@ -1,0 +1,14 @@
+
+  { "stem" : "toward",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "towards",
+            "weight" : "1",
+            "pos" : 1100,
+            "context" : "...took off his , placed his  upon his , and hurried <mark>towards<\/mark> her muttering and gesticulating feverishly. But William caught him by...",
+            "fid" : "page-14" } ] } ] }

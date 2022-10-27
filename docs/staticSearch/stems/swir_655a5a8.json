@@ -1,0 +1,14 @@
+
+  { "stem" : "swir",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swirly",
+            "weight" : "1",
+            "pos" : 416,
+            "context" : "...and ending at the bottom right, there is a bouncy <mark>swirly<\/mark> design that ends in a rose-shaped flower. ——...",
+            "fid" : "page-7" } ] } ] }

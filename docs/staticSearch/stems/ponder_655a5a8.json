@@ -1,0 +1,34 @@
+
+  { "stem" : "ponder",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ponderous",
+            "weight" : "1",
+            "pos" : 1210,
+            "context" : "<mark>ponderous<\/mark>",
+            "fid" : "page-15",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "ponderous",
+            "weight" : "1",
+            "pos" : 1313,
+            "context" : "<mark>ponderous<\/mark>",
+            "fid" : "page-16",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ponderous",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "<mark>ponderous<\/mark>" } ] } ] }

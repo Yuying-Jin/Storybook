@@ -1,0 +1,14 @@
+
+  { "stem" : "left-hand",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "left-hand",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "2 Off-white page with maroon dotting down the <mark>left-hand<\/mark> side. The writing on the page was the same burnt...",
+            "fid" : "page-2" } ] } ] }

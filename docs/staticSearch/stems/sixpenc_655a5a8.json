@@ -1,0 +1,26 @@
+
+  { "stem" : "sixpenc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "sixpence",
+            "weight" : "1",
+            "pos" : 1520,
+            "context" : ".... \"Why? D'you believe in luck?\" \"They make you pay <mark>sixpence<\/mark> on Friday.\" What's sixpence anyway? Isn't it worth sixpence...",
+            "fid" : "page-18" },
+          
+          { "form" : "sixpence",
+            "weight" : "1",
+            "pos" : 1523,
+            "context" : "...luck?\" \"They make you pay sixpence on Friday.\" What's <mark>sixpence<\/mark> anyway? Isn't it worth sixpence?\" \"What's 'it'—what do you...",
+            "fid" : "page-18" },
+          
+          { "form" : "sixpence",
+            "weight" : "1",
+            "pos" : 1527,
+            "context" : "...sixpence on Friday.\" What's sixpence anyway? Isn't it worth <mark>sixpence<\/mark>?\" \"What's 'it'—what do you mean by 'it'?\" \"O anything—I...",
+            "fid" : "page-18" } ] } ] }

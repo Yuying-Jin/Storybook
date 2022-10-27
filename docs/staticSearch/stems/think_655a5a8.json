@@ -1,0 +1,50 @@
+
+  { "stem" : "think",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "think",
+            "weight" : "1",
+            "pos" : 533,
+            "context" : "...Eleanor and the children—Tell me, Eleanor. D'you ever <mark>think<\/mark> of the past?\" \"Why do you ask, Simon?\"...",
+            "fid" : "page-8" },
+          
+          { "form" : "thinking",
+            "weight" : "1",
+            "pos" : 538,
+            "context" : "...?\" \"Why do you ask, Simon?\" \"Because I've been <mark>thinking<\/mark> of the past. I've been thinking of Lily, the...",
+            "fid" : "page-8" },
+          
+          { "form" : "thinking",
+            "weight" : "1",
+            "pos" : 541,
+            "context" : "...?\" \"Because I've been thinking of the past. I've been <mark>thinking<\/mark> of Lily, the woman I might have married.... Well...",
+            "fid" : "page-8" },
+          
+          { "form" : "thinking",
+            "weight" : "1",
+            "pos" : 549,
+            "context" : "...Well, why are you silent? Do you mind my <mark>thinking<\/mark> of the past?\" \"Why should I mind, Simon?...",
+            "fid" : "page-8" },
+          
+          { "form" : "think",
+            "weight" : "1",
+            "pos" : 556,
+            "context" : "...?\" \"Why should I mind, Simon? Doesn't one always <mark>think<\/mark> of the past, in a  with men and women lying...",
+            "fid" : "page-8" },
+          
+          { "form" : "think",
+            "weight" : "1",
+            "pos" : 664,
+            "context" : "...my  and marked the hour when I would allow myself to <mark>think<\/mark> of the kiss for five minutes only—it was so precious—...",
+            "fid" : "page-9" },
+          
+          { "form" : "think",
+            "weight" : "1",
+            "pos" : 1709,
+            "context" : "...real; and then—but it was too exciting to stand and <mark>think<\/mark> any longer, and he pulled the parasol out of the...",
+            "fid" : "page-20" } ] } ] }

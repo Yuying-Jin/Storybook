@@ -1,0 +1,56 @@
+
+  { "stem" : "voic",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "voice",
+            "weight" : "1",
+            "pos" : 1127,
+            "context" : "...old man bent his  to it and seemed to answer a <mark>voice<\/mark> speaking from it, for he began talking about the  of Uruguay...",
+            "fid" : "page-14" },
+          
+          { "form" : "voices",
+            "weight" : "1",
+            "pos" : 1541,
+            "context" : "...of these remarks; they were uttered in toneless and monotonous <mark>voices<\/mark>. The couple stood still on the edge of the flower...",
+            "fid" : "page-18" },
+          
+          { "form" : "voice",
+            "weight" : "1",
+            "pos" : 1774,
+            "context" : "...?\" she asked with the oddest thrill of excitement in her <mark>voice<\/mark>, looking vaguely round and letting herself be drawn on down...",
+            "fid" : "page-21" },
+          
+          { "form" : "voice",
+            "weight" : "1",
+            "pos" : 1904,
+            "context" : "...in the ; and in the drone of the aeroplane the <mark>voice<\/mark> of the summer  murmured its fierce soul. ",
+            "fid" : "page-22" },
+          
+          { "form" : "voices",
+            "weight" : "1",
+            "pos" : 1977,
+            "context" : "...heat motionless and lay huddled upon the ground, but their <mark>voices<\/mark> went wavering from them as if they were flames lolling from...",
+            "fid" : "page-23" },
+          
+          { "form" : "Voices",
+            "weight" : "1",
+            "pos" : 2013,
+            "context" : "24 <mark>Voices<\/mark>, yes, vioces, breaking the silence suddently with such...",
+            "fid" : "page-24" },
+          
+          { "form" : "voices",
+            "weight" : "1",
+            "pos" : 2023,
+            "context" : "...of contentment, such passion of desire, or, in the <mark>voices<\/mark> of children, such freshness of surprise; breaking the silence...",
+            "fid" : "page-24" },
+          
+          { "form" : "voices",
+            "weight" : "1",
+            "pos" : 2052,
+            "context" : "...another the city murmured; on the top of which the <mark>voices<\/mark> cried aloud and the  of myriads of s flashed their colours...",
+            "fid" : "page-24" } ] } ] }

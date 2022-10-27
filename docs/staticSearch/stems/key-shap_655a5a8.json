@@ -1,0 +1,14 @@
+
+  { "stem" : "key-shap",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "key-shape",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "1 Burnt maroon cover with a tan <mark>key-shape<\/mark> center with yellow squiggles with burnt maroon, and light bluish...",
+            "fid" : "page-1" } ] } ] }

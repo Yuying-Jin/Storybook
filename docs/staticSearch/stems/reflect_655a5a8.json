@@ -1,0 +1,14 @@
+
+  { "stem" : "reflect",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reflecting",
+            "weight" : "1",
+            "pos" : 1335,
+            "context" : "...a sleeper waking from a heavy sleep sees a brass candlestick <mark>reflecting<\/mark> the light in an unfamiliar way, and closes his  and...",
+            "fid" : "page-16" } ] } ] }

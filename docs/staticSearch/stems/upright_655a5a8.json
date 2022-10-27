@@ -1,0 +1,14 @@
+
+  { "stem" : "upright",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "upright",
+            "weight" : "1",
+            "pos" : 1323,
+            "context" : "...of falling words at the s standing cool, firm and <mark>upright<\/mark> in the earth, with a curious expression. She saw...",
+            "fid" : "page-16" } ] } ] }

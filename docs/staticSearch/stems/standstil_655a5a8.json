@@ -1,0 +1,14 @@
+
+  { "stem" : "standstil",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "standstill",
+            "weight" : "1",
+            "pos" : 1356,
+            "context" : "...all his powers. So the heavy woman came to a <mark>standstill<\/mark> opposite the  shaped , and ceased even to pretend to listen...",
+            "fid" : "page-16" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "titl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "title",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...burnt maroon, and light bluish-grey speckling. The <mark>title<\/mark> font and information is the same thick typefaced font, almost...",
+            "fid" : "page-1" } ] } ] }

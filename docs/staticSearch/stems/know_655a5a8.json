@@ -1,0 +1,26 @@
+
+  { "stem" : "know",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "know",
+            "weight" : "1",
+            "pos" : 1532,
+            "context" : "...'it'—what do you mean by 'it'?\" \"O anything—I mean—you <mark>know<\/mark> what I mean.\" Long pauses came between each of these...",
+            "fid" : "page-18" },
+          
+          { "form" : "knows",
+            "weight" : "1",
+            "pos" : 1616,
+            "context" : "...and were to their inexperienced touch so massive: but who <mark>knows<\/mark> (so they thought as they pressed the parasol into the )...",
+            "fid" : "page-19" },
+          
+          { "form" : "knows",
+            "weight" : "1",
+            "pos" : 1630,
+            "context" : "...of  don't shine in the  on the other side? who <mark>knows<\/mark>? Who has ever seen this before? Even when she wondered...",
+            "fid" : "page-19" } ] } ] }

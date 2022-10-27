@@ -1,0 +1,62 @@
+
+  { "stem" : "man",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "man",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "...in zig-zag flights from bed to bed. The <mark>man<\/mark> was about six inches in front of the woman, strolling...",
+            "fid" : "page-6" },
+          
+          { "form" : "man",
+            "weight" : "1",
+            "pos" : 393,
+            "context" : "...see that the children were not too far behind. The <mark>man<\/mark> kept this distance in front of the woman purposely, though...",
+            "fid" : "page-6" },
+          
+          { "form" : "man",
+            "weight" : "1",
+            "pos" : 930,
+            "context" : "...pauseand sometimes did not open them at all.The elder <mark>man<\/mark> had a curiously uneven andshaky method of walking, jerking...",
+            "fid" : "page-12" },
+          
+          { "form" : "man",
+            "weight" : "1",
+            "pos" : 951,
+            "context" : "...impatient carriage tired of waiting outside a ; butin the <mark>man<\/mark> these gestures were irresolute andpointless. He talked almost incessantly...",
+            "fid" : "page-12" },
+          
+          { "form" : "man's",
+            "weight" : "1",
+            "pos" : 1116,
+            "context" : "...of his walking-stick in order to divert the old <mark>man's<\/mark> attention. After looking at it for a moment in some...",
+            "fid" : "page-14" },
+          
+          { "form" : "man",
+            "weight" : "1",
+            "pos" : 1122,
+            "context" : "...looking at it for a moment in some confusion the old <mark>man<\/mark> bent his  to it and seemed to answer a voice speaking...",
+            "fid" : "page-14" },
+          
+          { "form" : "man'",
+            "weight" : "1",
+            "pos" : 1238,
+            "context" : "...eccentric or genuinely mad. After they had scrutinised the old <mark>man'<\/mark> back in silence for a moment and given each other a...",
+            "fid" : "page-15" },
+          
+          { "form" : "man",
+            "weight" : "1",
+            "pos" : 1269,
+            "context" : "...\"My Bert, Sis, Bill, Grandad, the old <mark>man<\/mark>, sugar. Sugar, flour, kippers, greens,...",
+            "fid" : "page-15" },
+          
+          { "form" : "man",
+            "weight" : "1",
+            "pos" : 1468,
+            "context" : "...the . This time they were both young, a young <mark>man<\/mark> and a young woman. ",
+            "fid" : "page-17" } ] } ] }

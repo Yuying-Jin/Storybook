@@ -1,0 +1,14 @@
+
+  { "stem" : "believ",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "believe",
+            "weight" : "1",
+            "pos" : 1516,
+            "context" : ".... \"Lucky it isn't Friday,\" he observed. \"Why? D'you <mark>believe<\/mark> in luck?\" \"They make you pay sixpence on Friday.\"...",
+            "fid" : "page-18" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "unclear",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unclear",
+            "weight" : "1",
+            "pos" : 1926,
+            "context" : "...the left. At the bottom, there are 6 similar <mark>unclear<\/mark> pattern.—— #yxj",
+            "fid" : "page-23" } ] } ] }

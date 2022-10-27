@@ -1,0 +1,26 @@
+
+  { "stem" : "gear",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gear",
+            "weight" : "1",
+            "pos" : 2036,
+            "context" : "<mark>gear<\/mark>",
+            "fid" : "page-24",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gear",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "<mark>gear<\/mark>" } ] } ] }

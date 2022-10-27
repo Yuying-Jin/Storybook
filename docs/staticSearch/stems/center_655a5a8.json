@@ -1,0 +1,44 @@
+
+  { "stem" : "center",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "center",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "1 Burnt maroon cover with a tan key-shape <mark>center<\/mark> with yellow squiggles with burnt maroon, and light bluish-...",
+            "fid" : "page-1" },
+          
+          { "form" : "centered",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "3 Plain off-white page with text <mark>centered<\/mark> and justified. —— #edm",
+            "fid" : "page-3" },
+          
+          { "form" : "centered",
+            "weight" : "1",
+            "pos" : 323,
+            "context" : "...along the left and right margins. At the bottom, <mark>centered<\/mark> under the text, there are two flowers that seemingly come...",
+            "fid" : "page-6" },
+          
+          { "form" : "center",
+            "weight" : "1",
+            "pos" : 891,
+            "context" : "...the top margin, there are two arched lines in the <mark>center<\/mark> with two square-like shapes on the corners. ——...",
+            "fid" : "page-12" },
+          
+          { "form" : "center",
+            "weight" : "1",
+            "pos" : 977,
+            "context" : ".... The left and right curves are symmetrical. At the <mark>center<\/mark> of bottom, there is a circle filled with many dots...",
+            "fid" : "page-13" },
+          
+          { "form" : "center",
+            "weight" : "1",
+            "pos" : 1998,
+            "context" : "...left, right and bottom of the page. In the <mark>center<\/mark> of the bottom, two arcs break two polylines separately....",
+            "fid" : "page-24" } ] } ] }

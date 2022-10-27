@@ -1,0 +1,14 @@
+
+  { "stem" : "shouldn't",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shouldn't",
+            "weight" : "1",
+            "pos" : 525,
+            "context" : "...it never settled anywhere—of course not, happily not, or I <mark>shouldn't<\/mark> be walking here with Eleanor and the children—Tell me,...",
+            "fid" : "page-8" } ] } ] }

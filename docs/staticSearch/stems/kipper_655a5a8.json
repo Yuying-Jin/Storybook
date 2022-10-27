@@ -1,0 +1,14 @@
+
+  { "stem" : "kipper",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kippers",
+            "weight" : "1",
+            "pos" : 1273,
+            "context" : "..., the old man, sugar. Sugar, flour, <mark>kippers<\/mark>, greens, Sugar, sugar, sugar. ",
+            "fid" : "page-15" } ] } ] }

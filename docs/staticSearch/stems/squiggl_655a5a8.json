@@ -1,0 +1,20 @@
+
+  { "stem" : "squiggl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "squiggles",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...maroon cover with a tan key-shape center with yellow <mark>squiggles<\/mark> with burnt maroon, and light bluish-grey speckling....",
+            "fid" : "page-1" },
+          
+          { "form" : "squiggle",
+            "weight" : "1",
+            "pos" : 608,
+            "context" : "...swiggle lines. Around the bottom half of the page another <mark>squiggle<\/mark> line joins the three, then travels down and under the...",
+            "fid" : "page-9" } ] } ] }

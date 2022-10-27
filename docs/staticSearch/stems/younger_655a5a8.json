@@ -1,0 +1,14 @@
+
+  { "stem" : "younger",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "younger",
+            "weight" : "1",
+            "pos" : 902,
+            "context" : "12 This time they were both men. The<mark>younger<\/mark> of the two wore an expressionof perhaps unnatural calm;...",
+            "fid" : "page-12" } ] } ] }

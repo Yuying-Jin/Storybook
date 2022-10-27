@@ -1,0 +1,14 @@
+
+  { "stem" : "singular",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "singular",
+            "weight" : "1",
+            "pos" : 758,
+            "context" : "...goal in front of it, differing in this respect from the <mark>singular<\/mark> high stepping angular green  who attempted to cross in front of...",
+            "fid" : "page-10" } ] } ] }

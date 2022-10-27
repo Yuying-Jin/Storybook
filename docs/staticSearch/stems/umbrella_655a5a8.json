@@ -1,0 +1,14 @@
+
+  { "stem" : "umbrella",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "umbrellas",
+            "weight" : "1",
+            "pos" : 1899,
+            "context" : "...of the  shone as if a whole market full of shiny  <mark>umbrellas<\/mark> had opened in the ; and in the drone of the...",
+            "fid" : "page-22" } ] } ] }

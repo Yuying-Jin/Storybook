@@ -1,0 +1,14 @@
+
+  { "stem" : "cannot",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cannot",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : ".... I also drew the cursor image! However, I <mark>cannot<\/mark> take credit for the cursor actually working, that was all...",
+            "fid" : "#edm" } ] } ] }

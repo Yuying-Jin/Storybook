@@ -1,0 +1,13 @@
+
+  { "stem" : "correl",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "correlate",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : ".... I also like how the scrolling drawings on the margins <mark>correlate<\/mark> to some of the content. It was also interesting to..." } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "don't",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "don't",
+            "weight" : "1",
+            "pos" : 1626,
+            "context" : "...) what precipices aren't concealed in them, or what ridges of  <mark>don't<\/mark> shine in the  on the other side? who knows?...",
+            "fid" : "page-19" } ] } ] }

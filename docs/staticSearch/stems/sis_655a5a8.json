@@ -1,0 +1,14 @@
+
+  { "stem" : "sis",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sis",
+            "weight" : "1",
+            "pos" : 1265,
+            "context" : "...says, I says, I says—\" \"My Bert, <mark>Sis<\/mark>, Bill, Grandad, the old man, sugar....",
+            "fid" : "page-15" } ] } ] }

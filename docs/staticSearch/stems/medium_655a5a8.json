@@ -1,0 +1,14 @@
+
+  { "stem" : "medium",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "medium",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...that is one of my favorite ways to learn in this <mark>medium<\/mark>. I also drew the cursor image! However, I...",
+            "fid" : "#edm" } ] } ] }

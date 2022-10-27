@@ -1,0 +1,14 @@
+
+  { "stem" : "market",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "market",
+            "weight" : "1",
+            "pos" : 1895,
+            "context" : "...s; the glass roofs of the  shone as if a whole <mark>market<\/mark> full of shiny  umbrellas had opened in the ; and in...",
+            "fid" : "page-22" } ] } ] }

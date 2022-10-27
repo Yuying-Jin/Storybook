@@ -1,0 +1,26 @@
+
+  { "stem" : "crest",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crested",
+            "weight" : "1",
+            "pos" : 1802,
+            "context" : " crimson-<mark>crested<\/mark> bird",
+            "fid" : "page-21",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crested",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : " crimson-<mark>crested<\/mark> bird" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "feel",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feelings",
+            "weight" : "1",
+            "pos" : 1588,
+            "context" : "...fact that his  rested on the top of hers expressed their <mark>feelings<\/mark> in a strange way, as these short insignificant words also...",
+            "fid" : "page-19" } ] } ] }

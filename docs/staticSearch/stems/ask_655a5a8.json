@@ -1,0 +1,20 @@
+
+  { "stem" : "ask",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ask",
+            "weight" : "1",
+            "pos" : 535,
+            "context" : ".... D'you ever think of the past?\" \"Why do you <mark>ask<\/mark>, Simon?\" \"Because I've been thinking of the past....",
+            "fid" : "page-8" },
+          
+          { "form" : "asked",
+            "weight" : "1",
+            "pos" : 1770,
+            "context" : "...our tea.\" \"Wherever does one have one's tea?\" she <mark>asked<\/mark> with the oddest thrill of excitement in her voice, looking...",
+            "fid" : "page-21" } ] } ] }

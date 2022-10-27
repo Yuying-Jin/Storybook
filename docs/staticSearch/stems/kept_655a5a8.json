@@ -1,0 +1,20 @@
+
+  { "stem" : "kept",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "kept",
+            "weight" : "1",
+            "pos" : 394,
+            "context" : "...that the children were not too far behind. The man <mark>kept<\/mark> this distance in front of the woman purposely, though perhaps...",
+            "fid" : "page-6" },
+          
+          { "form" : "kept",
+            "weight" : "1",
+            "pos" : 439,
+            "context" : "...to marry me all through the hot afternoon. How the  <mark>kept<\/mark> circling round us: how clearly I see the  and her...",
+            "fid" : "page-7" } ] } ] }

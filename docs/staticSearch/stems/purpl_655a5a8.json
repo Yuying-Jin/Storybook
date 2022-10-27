@@ -1,0 +1,26 @@
+
+  { "stem" : "purpl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "purple",
+            "weight" : "1",
+            "pos" : 1091,
+            "context" : "<mark>purple<\/mark> black",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "purple",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "<mark>purple<\/mark> black" } ] } ] }

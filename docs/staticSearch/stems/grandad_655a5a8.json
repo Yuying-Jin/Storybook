@@ -1,0 +1,14 @@
+
+  { "stem" : "grandad",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grandad",
+            "weight" : "1",
+            "pos" : 1267,
+            "context" : "..., I says—\" \"My Bert, Sis, Bill, <mark>Grandad<\/mark>, the old man, sugar. Sugar, flour,...",
+            "fid" : "page-15" } ] } ] }

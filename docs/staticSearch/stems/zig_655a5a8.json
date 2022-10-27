@@ -1,0 +1,14 @@
+
+  { "stem" : "zig",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "zig",
+            "weight" : "1",
+            "pos" : 371,
+            "context" : "...movement not unlike that of the  and   who crossed the  in <mark>zig<\/mark>-zag flights from bed to bed. The man was...",
+            "fid" : "page-6" } ] } ] }

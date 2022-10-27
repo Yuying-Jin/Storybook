@@ -1,0 +1,47 @@
+
+  { "stem" : "silver",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "silver",
+            "weight" : "1",
+            "pos" : 282,
+            "context" : "<mark>silver<\/mark> grey",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "silver",
+            "weight" : "1",
+            "pos" : 450,
+            "context" : "<mark>silver<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "silver",
+            "weight" : "1",
+            "pos" : 577,
+            "context" : "<mark>silver<\/mark>",
+            "fid" : "page-8",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "silver",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "<mark>silver<\/mark>" },
+          
+          { "form" : "silver",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "<mark>silver<\/mark> grey" } ] } ] }

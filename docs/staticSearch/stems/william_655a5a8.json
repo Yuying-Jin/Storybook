@@ -1,0 +1,26 @@
+
+  { "stem" : "william",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "William",
+            "weight" : "1",
+            "pos" : 1010,
+            "context" : "...Heaven. \"Heaven was known to the ancients as Thessaly, <mark>William<\/mark>, and now, with this war, the spirit matter is...",
+            "fid" : "page-13" },
+          
+          { "form" : "William",
+            "weight" : "1",
+            "pos" : 1104,
+            "context" : "..., and hurried towards her muttering and gesticulating feverishly. But <mark>William<\/mark> caught him by the sleeve and touched a  with the tip...",
+            "fid" : "page-14" },
+          
+          { "form" : "William",
+            "weight" : "1",
+            "pos" : 1163,
+            "context" : "...sea, as he suffered himself to be moved on by <mark>William<\/mark>, upon whose  the look of stoical patience grew slowly deeper...",
+            "fid" : "page-14" } ] } ] }

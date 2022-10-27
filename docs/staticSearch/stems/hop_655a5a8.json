@@ -1,0 +1,14 @@
+
+  { "stem" : "hop",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hop",
+            "weight" : "1",
+            "pos" : 1860,
+            "context" : "...hot it was! So hot that even the thrush chose to <mark>hop<\/mark>, like a mechanical , in the shadow of the s,...",
+            "fid" : "page-22" } ] } ] }

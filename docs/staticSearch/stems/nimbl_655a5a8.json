@@ -1,0 +1,26 @@
+
+  { "stem" : "nimbl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nimble",
+            "weight" : "1",
+            "pos" : 1214,
+            "context" : "<mark>nimble<\/mark>",
+            "fid" : "page-15",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nimble",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "<mark>nimble<\/mark>" } ] } ] }

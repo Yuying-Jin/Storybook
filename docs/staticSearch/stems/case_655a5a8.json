@@ -1,0 +1,14 @@
+
+  { "stem" : "case",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "case",
+            "weight" : "1",
+            "pos" : 1503,
+            "context" : "...before the smooth  folds of the s have burst their gummy <mark>case<\/mark>, when the wings of the , though fully grown,...",
+            "fid" : "page-18" } ] } ] }

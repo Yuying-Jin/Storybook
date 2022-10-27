@@ -1,0 +1,14 @@
+
+  { "stem" : "small",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "small",
+            "weight" : "1",
+            "pos" : 1025,
+            "context" : "..., smiled, jerked his  and continued:— \"You have a <mark>small<\/mark> eletric  and a piece of rubber to insulate the wire—...",
+            "fid" : "page-13" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "strang",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "strangely",
+            "weight" : "1",
+            "pos" : 774,
+            "context" : "...if in deliberation, and then stepped off as rapidly and <mark>strangely<\/mark>in the opposite direction.",
+            "fid" : "page-10" },
+          
+          { "form" : "strange",
+            "weight" : "1",
+            "pos" : 1589,
+            "context" : "...rested on the top of hers expressed their feelings in a <mark>strange<\/mark> way, as these short insignificant words also expressed something,...",
+            "fid" : "page-19" } ] } ] }

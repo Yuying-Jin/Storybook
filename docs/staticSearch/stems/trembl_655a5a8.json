@@ -1,0 +1,20 @@
+
+  { "stem" : "trembl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "trembling",
+            "weight" : "1",
+            "pos" : 705,
+            "context" : "...half  as the  and shade swam over their backs in large <mark>trembling<\/mark> irregular patches. ",
+            "fid" : "page-9" },
+          
+          { "form" : "trembling",
+            "weight" : "1",
+            "pos" : 770,
+            "context" : "...front of it, and waited for a second withits antennæ <mark>trembling<\/mark> as if in deliberation, and then stepped off as rapidly...",
+            "fid" : "page-10" } ] } ] }

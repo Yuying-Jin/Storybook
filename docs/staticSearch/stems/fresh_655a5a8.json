@@ -1,0 +1,14 @@
+
+  { "stem" : "fresh",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "freshness",
+            "weight" : "1",
+            "pos" : 2025,
+            "context" : "...of desire, or, in the voices of children, such <mark>freshness<\/mark> of surprise; breaking the silence? But there was no...",
+            "fid" : "page-24" } ] } ] }

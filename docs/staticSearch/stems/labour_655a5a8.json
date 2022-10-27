@@ -1,0 +1,14 @@
+
+  { "stem" : "labour",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "labour",
+            "weight" : "1",
+            "pos" : 744,
+            "context" : "...moving very slightly in its shell, and nextbegan to <mark>labour<\/mark> over the  which broke away and rolled downas it passed...",
+            "fid" : "page-10" } ] } ] }

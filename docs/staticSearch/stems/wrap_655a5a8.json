@@ -1,0 +1,14 @@
+
+  { "stem" : "wrap",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wrap",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "..., I worked on making the image frames for each page <mark>wrap<\/mark> around the correspond page content. This was very much a...",
+            "fid" : "#edm" } ] } ] }

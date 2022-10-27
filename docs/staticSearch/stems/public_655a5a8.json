@@ -1,0 +1,13 @@
+
+  { "stem" : "public",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Public",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "license: <mark>Public<\/mark> Domain" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "cliff",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cliffs",
+            "weight" : "1",
+            "pos" : 817,
+            "context" : "<mark>cliffs<\/mark>",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cliffs",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "<mark>cliffs<\/mark>" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "diminish",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "diminished",
+            "weight" : "1",
+            "pos" : 692,
+            "context" : "...on past the , now walking four abreast, and soon <mark>diminished<\/mark> in size among the  and looked half  as the  and shade...",
+            "fid" : "page-9" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "wall",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "walls",
+            "weight" : "1",
+            "pos" : 272,
+            "context" : "..., it expanded with such intensity of ,  and  the thin <mark>walls<\/mark> of  that one expected them to burst and disappear. Instead...",
+            "fid" : "page-5" } ] } ] }

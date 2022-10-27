@@ -1,0 +1,20 @@
+
+  { "stem" : "deep",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "deep",
+            "weight" : "1",
+            "pos" : 818,
+            "context" : "11   with <mark>deep<\/mark>  s in the hollows, flat, blade-like that...",
+            "fid" : "page-11" },
+          
+          { "form" : "deep",
+            "weight" : "1",
+            "pos" : 1552,
+            "context" : "...flower bed, and together pressed the end of her parasol <mark>deep<\/mark> down into the . ",
+            "fid" : "page-18" } ] } ] }

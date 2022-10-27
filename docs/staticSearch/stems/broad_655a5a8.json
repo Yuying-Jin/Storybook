@@ -1,0 +1,20 @@
+
+  { "stem" : "broad",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "broad",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "6 An arch with <mark>broad<\/mark> swirls sits on the top margin. A line runs along...",
+            "fid" : "page-6" },
+          
+          { "form" : "broad",
+            "weight" : "1",
+            "pos" : 476,
+            "context" : "...I thought that if it settled there, on that , the <mark>broad<\/mark> one with the   in the middle of it, if the  settled...",
+            "fid" : "page-7" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "marri",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "marry",
+            "weight" : "1",
+            "pos" : 434,
+            "context" : "...sat somewhere over there by a  and I begged her to <mark>marry<\/mark> me all through the hot afternoon. How the  kept circling...",
+            "fid" : "page-7" },
+          
+          { "form" : "married",
+            "weight" : "1",
+            "pos" : 545,
+            "context" : "...I've been thinking of Lily, the woman I might have <mark>married<\/mark>.... Well, why are you silent? Do you mind...",
+            "fid" : "page-8" } ] } ] }

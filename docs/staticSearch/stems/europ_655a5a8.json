@@ -1,0 +1,14 @@
+
+  { "stem" : "europ",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Europe",
+            "weight" : "1",
+            "pos" : 1141,
+            "context" : "...years ago in company with the most beautiful young woman in <mark>Europe<\/mark>. He could be heard mur- muring about  of Uruguay...",
+            "fid" : "page-14" } ] } ] }

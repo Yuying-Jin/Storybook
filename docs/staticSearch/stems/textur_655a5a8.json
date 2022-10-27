@@ -1,0 +1,20 @@
+
+  { "stem" : "textur",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "texture",
+            "weight" : "1",
+            "pos" : 839,
+            "context" : "..., round of  , vast crumpled surfaces of athin crackling <mark>texture<\/mark>—all these objects layacross the 's progress between one stalk...",
+            "fid" : "page-11" },
+          
+          { "form" : "texture",
+            "weight" : "1",
+            "pos" : 1424,
+            "context" : "...needed for climbing a , he was doubtful whether the thin <mark>texture<\/mark> which vibrated with such an alarming crackle when touched even by...",
+            "fid" : "page-17" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "assign",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "assigned",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "...). My greatest experience was with the CSS. I was <mark>assigned<\/mark> to be the designer of this website, which was 100...",
+            "fid" : "#edm" } ] } ] }

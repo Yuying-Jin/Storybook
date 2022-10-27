@@ -1,0 +1,26 @@
+
+  { "stem" : "club",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "clubbed",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "<mark>clubbed<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "clubbed",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "<mark>clubbed<\/mark>" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "xml",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "XML",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "...mostly worked on the HTML and CSS (with some XSLT and <mark>XML<\/mark> debugging). My greatest experience was with the CSS. I...",
+            "fid" : "#edm" },
+          
+          { "form" : "xml",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...main contribution to the project was work on the transcription and <mark>xml<\/mark> markup. I handled the transcription of the first half of...",
+            "fid" : "#avr" },
+          
+          { "form" : "xml",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...of them. Afterwards, I marked up that same half in <mark>xml<\/mark> to fit our group's schema. Overall, learning to work...",
+            "fid" : "#avr" } ] } ] }

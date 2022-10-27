@@ -1,0 +1,14 @@
+
+  { "stem" : "heat",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heat",
+            "weight" : "1",
+            "pos" : 1971,
+            "context" : "...as if all gross and heavy  had sunk down in the <mark>heat<\/mark> motionless and lay huddled upon the ground, but their voices...",
+            "fid" : "page-23" } ] } ] }

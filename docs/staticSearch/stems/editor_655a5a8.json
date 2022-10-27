@@ -1,0 +1,13 @@
+
+  { "stem" : "editor",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "editor",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "<mark>editor<\/mark>: avr edm yxj" } ] } ] }

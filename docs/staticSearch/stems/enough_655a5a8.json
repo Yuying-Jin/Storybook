@@ -1,0 +1,20 @@
+
+  { "stem" : "enough",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : "5 The  were voluminous <mark>enough<\/mark> to be stirred by the , and when they moved,...",
+            "fid" : "page-5" },
+          
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 1443,
+            "context" : "...beneath it, for there was a point where the  curved high <mark>enough<\/mark> from the ground to admit him. He had just inserted his...",
+            "fid" : "page-17" } ] } ] }

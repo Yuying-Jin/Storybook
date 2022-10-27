@@ -1,0 +1,14 @@
+
+  { "stem" : "silent",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "silent",
+            "weight" : "1",
+            "pos" : 547,
+            "context" : "...woman I might have married.... Well, why are you <mark>silent<\/mark>? Do you mind my thinking of the past?\" \"Why...",
+            "fid" : "page-8" } ] } ] }

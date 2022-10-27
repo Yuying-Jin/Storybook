@@ -1,0 +1,32 @@
+
+  { "stem" : "began",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "began",
+            "weight" : "1",
+            "pos" : 743,
+            "context" : "...tobe moving very slightly in its shell, and next<mark>began<\/mark> to labour over the  which broke away and rolled downas...",
+            "fid" : "page-10" },
+          
+          { "form" : "began",
+            "weight" : "1",
+            "pos" : 959,
+            "context" : "...He talked almost incessantly; hesmiled to himself and again <mark>began<\/mark> to talk,as if the smile had been an answer...",
+            "fid" : "page-12" },
+          
+          { "form" : "began",
+            "weight" : "1",
+            "pos" : 1129,
+            "context" : "...and seemed to answer a voice speaking from it, for he <mark>began<\/mark> talking about the  of Uruguay which he had visited hundreds of...",
+            "fid" : "page-14" },
+          
+          { "form" : "began",
+            "weight" : "1",
+            "pos" : 1704,
+            "context" : "...everyone except to hum and to her; even to him it <mark>began<\/mark> to seem real; and then—but it was too exciting to...",
+            "fid" : "page-20" } ] } ] }

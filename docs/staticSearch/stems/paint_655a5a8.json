@@ -1,0 +1,32 @@
+
+  { "stem" : "paint",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "painting",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...half of the page. The designs are flowers and leaves <mark>painting<\/mark> in a simplisting, scroll-y style with black ink....",
+            "fid" : "page-4" },
+          
+          { "form" : "painted",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...5 At the top of the page, there is a <mark>painted<\/mark> arch. On the right, there is a bumpy design...",
+            "fid" : "page-5" },
+          
+          { "form" : "painting",
+            "weight" : "1",
+            "pos" : 637,
+            "context" : "...twenty years ago, down by the side of a , <mark>painting<\/mark> the , the first   I'd ever seen. And suddenly a...",
+            "fid" : "page-9" },
+          
+          { "form" : "paint",
+            "weight" : "1",
+            "pos" : 657,
+            "context" : "...And my  shook all the after- noon so that I couldn't <mark>paint<\/mark>. I took out my  and marked the hour when I...",
+            "fid" : "page-9" } ] } ] }

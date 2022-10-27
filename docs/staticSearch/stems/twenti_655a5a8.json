@@ -1,0 +1,14 @@
+
+  { "stem" : "twenti",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "twenty",
+            "weight" : "1",
+            "pos" : 632,
+            "context" : "...me, a kiss. Imagine six little girls sitting before their  <mark>twenty<\/mark> years ago, down by the side of a , painting...",
+            "fid" : "page-9" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "dress",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dress",
+            "weight" : "1",
+            "pos" : 1087,
+            "context" : "<mark>dress<\/mark>",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dress",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "<mark>dress<\/mark>" } ] } ] }

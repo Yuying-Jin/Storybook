@@ -1,0 +1,38 @@
+
+  { "stem" : "work",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "worked",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : " During this project, I mostly <mark>worked<\/mark> on the HTML and CSS (with some XSLT and XML debugging...",
+            "fid" : "#edm" },
+          
+          { "form" : "worked",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...Professor Beshero of Penn State: The Behrend Campus, I <mark>worked<\/mark> on making the image frames for each page wrap around the...",
+            "fid" : "#edm" },
+          
+          { "form" : "working",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...! However, I cannot take credit for the cursor actually <mark>working<\/mark>, that was all #yxj! I was also the...",
+            "fid" : "#edm" },
+          
+          { "form" : "work",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : " My main contribution to the project was <mark>work<\/mark> on the transcription and xml markup. I handled the transcription...",
+            "fid" : "#avr" },
+          
+          { "form" : "work",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...xml to fit our group's schema. Overall, learning to <mark>work<\/mark> with a variety of different code and then applying it to...",
+            "fid" : "#avr" } ] } ] }

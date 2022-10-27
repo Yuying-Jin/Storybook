@@ -1,0 +1,79 @@
+
+  { "stem" : "leaf",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "leaf",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "<mark>leaf<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "leaf",
+            "weight" : "1",
+            "pos" : 475,
+            "context" : "<mark>leaf<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "leaf",
+            "weight" : "1",
+            "pos" : 485,
+            "context" : "<mark>leaf<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "leaf",
+            "weight" : "1",
+            "pos" : 855,
+            "context" : "dead <mark>leaf<\/mark>",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "leaf",
+            "weight" : "1",
+            "pos" : 1413,
+            "context" : "<mark>leaf<\/mark>",
+            "fid" : "page-17",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "leaf",
+            "weight" : "1",
+            "pos" : 1420,
+            "context" : "<mark>leaf<\/mark>",
+            "fid" : "page-17",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "leaf",
+            "weight" : "1",
+            "pos" : 1440,
+            "context" : "<mark>leaf<\/mark>",
+            "fid" : "page-17",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "leaf",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "leaves, <mark>leaf<\/mark>" },
+          
+          { "form" : "leaf",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "dead <mark>leaf<\/mark>" } ] } ] }

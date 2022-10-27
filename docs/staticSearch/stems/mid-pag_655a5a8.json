@@ -1,0 +1,14 @@
+
+  { "stem" : "mid-pag",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mid-page",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "...right, there is a bumpy design that falls to about <mark>mid-page<\/mark>. On the top left, there are two conifer-...",
+            "fid" : "page-5" } ] } ] }

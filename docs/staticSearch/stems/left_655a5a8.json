@@ -1,0 +1,116 @@
+
+  { "stem" : "left",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 18,
+        "contexts" : 
+        [ 
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "2 Off-white page with maroon dotting down the <mark>left<\/mark>-hand side. The writing on the page was the...",
+            "fid" : "page-2" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 211,
+            "context" : "...that falls to about mid-page. On the top <mark>left<\/mark>, there are two conifer-type flowers. Around the...",
+            "fid" : "page-5" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 280,
+            "context" : "...expected them to burst and disappear. Instead, the  was <mark>left<\/mark> in a second  once more, and the light now settled upon...",
+            "fid" : "page-5" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "...sits on the top margin. A line runs along the <mark>left<\/mark> and right margins. At the bottom, centered under the...",
+            "fid" : "page-6" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 490,
+            "context" : "8 Along the <mark>left<\/mark> margin, there is a tree, with a branch that...",
+            "fid" : "page-8" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 785,
+            "context" : "11 Tall reed-like plants sprout from the bottom <mark>left<\/mark> corner, and end in curly lines that have straight shading...",
+            "fid" : "page-11" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 864,
+            "context" : "12On the <mark>left<\/mark> and right margins there are 4 lines that go up and...",
+            "fid" : "page-12" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 973,
+            "context" : "...is a dashed curve and four shorter solid curve. The <mark>left<\/mark> and right curves are symmetrical. At the center of bottom...",
+            "fid" : "page-13" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 1180,
+            "context" : "...bushes fills at the top. A twist is on the <mark>left<\/mark> side and right side of the text. At the bottom...",
+            "fid" : "page-15" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 1291,
+            "context" : "...long arc. One thick solid straight line is on the <mark>left<\/mark>, and one is on the right. Both they are...",
+            "fid" : "page-16" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 1392,
+            "context" : "...17Curves and straight line form a net which is around <mark>left<\/mark>, right and bottom of the page. At the top...",
+            "fid" : "page-17" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 1564,
+            "context" : "...of this page looks like a piece of paper whose upper <mark>left<\/mark> corner and upper right corner are slightly rolled up. The bottom...",
+            "fid" : "page-19" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 1660,
+            "context" : "...this page looks like a large jar. Its top, <mark>left<\/mark> and right consist of two layers of curves. At the...",
+            "fid" : "page-20" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 1729,
+            "context" : "..., there is a long straight line. In the upper <mark>left<\/mark> corner, there is half a vase pattern, and two...",
+            "fid" : "page-21" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 1818,
+            "context" : "...can find a curvy path and three trees both on the <mark>left<\/mark> and on the right. At the bottom, there are...",
+            "fid" : "page-22" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 1919,
+            "context" : "...a forest. There are some fallen leaves at the bottom <mark>left<\/mark> of the forest. A long straight is on the left...",
+            "fid" : "page-23" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 1923,
+            "context" : "...left of the forest. A long straight is on the <mark>left<\/mark>. At the bottom, there are 6 similar unclear pattern...",
+            "fid" : "page-23" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 1994,
+            "context" : "...there is a semicircular flowerbed. Two polylines interlaced are around <mark>left<\/mark>, right and bottom of the page. In the center...",
+            "fid" : "page-24" } ] } ] }

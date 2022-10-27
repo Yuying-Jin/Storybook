@@ -1,0 +1,14 @@
+
+  { "stem" : "heard",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 1143,
+            "context" : "...the most beautiful young woman in Europe. He could be <mark>heard<\/mark> mur- muring about  of Uruguay blanketed with the wax  of...",
+            "fid" : "page-14" } ] } ] }

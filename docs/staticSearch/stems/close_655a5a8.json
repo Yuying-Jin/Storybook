@@ -1,0 +1,20 @@
+
+  { "stem" : "close",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "closely",
+            "weight" : "1",
+            "pos" : 1197,
+            "context" : "15 Following his steps so <mark>closely<\/mark> as to be slightly puzzled by his gestures came two elderly...",
+            "fid" : "page-15" },
+          
+          { "form" : "closes",
+            "weight" : "1",
+            "pos" : 1339,
+            "context" : "...brass candlestick reflecting the light in an unfamiliar way, and <mark>closes<\/mark> his  and opens them, and seeing the brass candlestick again, finally...",
+            "fid" : "page-16" } ] } ] }

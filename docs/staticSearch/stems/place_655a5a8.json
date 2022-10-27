@@ -1,0 +1,25 @@
+
+  { "stem" : "place",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "<mark>place<\/mark>: Penn State Behrend" },
+          
+          { "form" : "placed",
+            "weight" : "1",
+            "pos" : 1095,
+            "context" : "...in the shade looked a . He took off his , <mark>placed<\/mark> his  upon his , and hurried towards her muttering and gesticulating...",
+            "fid" : "page-14" },
+          
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 1717,
+            "context" : "...of the  with a jerk and was impatient to find the <mark>place<\/mark> where one had tea with other people, like other people...",
+            "fid" : "page-20" } ] } ] }

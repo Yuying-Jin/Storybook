@@ -1,0 +1,25 @@
+
+  { "stem" : "power",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "powers",
+            "weight" : "1",
+            "pos" : 1352,
+            "context" : "...awake and stares at the candle- stick with all his <mark>powers<\/mark>. So the heavy woman came to a standstill opposite the...",
+            "fid" : "page-16" } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Powered",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "<mark>Powered<\/mark> by",
+            "fid" : "ssPoweredBy" } ] } ] }

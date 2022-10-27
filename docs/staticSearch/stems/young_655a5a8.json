@@ -1,0 +1,32 @@
+
+  { "stem" : "young",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "young",
+            "weight" : "1",
+            "pos" : 1139,
+            "context" : "...visited hundreds of years ago in company with the most beautiful <mark>young<\/mark> woman in Europe. He could be heard mur- muring...",
+            "fid" : "page-14" },
+          
+          { "form" : "young",
+            "weight" : "1",
+            "pos" : 1466,
+            "context" : "...came past outside on the . This time they were both <mark>young<\/mark>, a young man and a young woman. ",
+            "fid" : "page-17" },
+          
+          { "form" : "young",
+            "weight" : "1",
+            "pos" : 1467,
+            "context" : "...on the . This time they were both young, a <mark>young<\/mark> man and a young woman. ",
+            "fid" : "page-17" },
+          
+          { "form" : "young",
+            "weight" : "1",
+            "pos" : 1469,
+            "context" : "...time they were both young, a young man and a <mark>young<\/mark> woman. ",
+            "fid" : "page-17" } ] } ] }

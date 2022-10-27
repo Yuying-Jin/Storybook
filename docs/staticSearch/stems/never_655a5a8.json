@@ -1,0 +1,14 @@
+
+  { "stem" : "never",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "never",
+            "weight" : "1",
+            "pos" : 520,
+            "context" : "8 But the  went round and round: it <mark>never<\/mark> settled anywhere—of course not, happily not, or I shouldn't be...",
+            "fid" : "page-8" } ] } ] }

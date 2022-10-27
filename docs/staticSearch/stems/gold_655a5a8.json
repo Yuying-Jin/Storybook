@@ -1,0 +1,26 @@
+
+  { "stem" : "gold",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "<mark>gold<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "<mark>gold<\/mark>" } ] } ] }

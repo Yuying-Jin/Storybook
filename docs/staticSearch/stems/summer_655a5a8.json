@@ -1,0 +1,32 @@
+
+  { "stem" : "summer",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "summer",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "<mark>summer<\/mark> breeze",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "summer",
+            "weight" : "1",
+            "pos" : 1905,
+            "context" : "...and in the drone of the aeroplane the voice of the <mark>summer<\/mark>  murmured its fierce soul. ",
+            "fid" : "page-22" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "summer",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "<mark>summer<\/mark> breeze" } ] } ] }

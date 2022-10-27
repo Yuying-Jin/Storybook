@@ -1,0 +1,44 @@
+
+  { "stem" : "tea",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "tea",
+            "weight" : "1",
+            "pos" : 1384,
+            "context" : "...she suggested that they should find a seat and have their <mark>tea<\/mark>. ",
+            "fid" : "page-16" },
+          
+          { "form" : "tea",
+            "weight" : "1",
+            "pos" : 1636,
+            "context" : "...ever seen this before? Even when she wondered what sort of <mark>tea<\/mark> they gave you at Kew he felt that something loomed up...",
+            "fid" : "page-19" },
+          
+          { "form" : "tea",
+            "weight" : "1",
+            "pos" : 1719,
+            "context" : "...jerk and was impatient to find the place where one had <mark>tea<\/mark> with other people, like other people. ",
+            "fid" : "page-20" },
+          
+          { "form" : "tea",
+            "weight" : "1",
+            "pos" : 1765,
+            "context" : "...21 \"Come along, Trissie; it's time we had our <mark>tea<\/mark>.\" \"Wherever does one have one's tea?\" she asked with...",
+            "fid" : "page-21" },
+          
+          { "form" : "tea",
+            "weight" : "1",
+            "pos" : 1769,
+            "context" : "...time we had our tea.\" \"Wherever does one have one's <mark>tea<\/mark>?\" she asked with the oddest thrill of excitement in her...",
+            "fid" : "page-21" },
+          
+          { "form" : "tea",
+            "weight" : "1",
+            "pos" : 1789,
+            "context" : "..., turning her  this way and that way, forgetting her <mark>tea<\/mark>, wishing to go down there and then down there, remembering...",
+            "fid" : "page-21" } ] } ] }

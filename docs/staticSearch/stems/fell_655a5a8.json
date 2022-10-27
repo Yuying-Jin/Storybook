@@ -1,0 +1,14 @@
+
+  { "stem" : "fell",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fell",
+            "weight" : "1",
+            "pos" : 252,
+            "context" : "...with a spot of the most intricate colour. The light <mark>fell<\/mark> either upon the smooth,  back of a , or, the...",
+            "fid" : "page-5" } ] } ] }

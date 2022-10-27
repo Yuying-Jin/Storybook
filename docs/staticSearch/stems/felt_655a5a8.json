@@ -1,0 +1,14 @@
+
+  { "stem" : "felt",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "felt",
+            "weight" : "1",
+            "pos" : 1639,
+            "context" : "...wondered what sort of tea they gave you at Kew he <mark>felt<\/mark> that something loomed up behind her words and stood vast and...",
+            "fid" : "page-19" } ] } ] }

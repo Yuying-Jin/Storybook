@@ -1,0 +1,14 @@
+
+  { "stem" : "drown",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "drowned",
+            "weight" : "1",
+            "pos" : 1159,
+            "context" : "...wax  of tropical , , sea , mermaids, and women <mark>drowned<\/mark> at sea, as he suffered himself to be moved on...",
+            "fid" : "page-14" } ] } ] }

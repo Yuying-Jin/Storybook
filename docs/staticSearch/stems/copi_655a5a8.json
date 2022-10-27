@@ -1,0 +1,14 @@
+
+  { "stem" : "copi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "copies",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...edition, published in 1927, is limited to 500 numbered <mark>copies<\/mark>, of which this is number 150 ",
+            "fid" : "page-3" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "patch",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "patches",
+            "weight" : "1",
+            "pos" : 707,
+            "context" : "...the  and shade swam over their backs in large trembling irregular <mark>patches<\/mark>. ",
+            "fid" : "page-9" } ] } ] }

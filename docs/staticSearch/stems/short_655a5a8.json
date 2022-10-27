@@ -1,0 +1,32 @@
+
+  { "stem" : "short",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "short",
+            "weight" : "1",
+            "pos" : 1043,
+            "context" : "...no good going into details that wouldn't be understood—and in <mark>short<\/mark> the little machine stands in any convenient position by the head...",
+            "fid" : "page-13" },
+          
+          { "form" : "short",
+            "weight" : "1",
+            "pos" : 1281,
+            "context" : "16At the top, 15 <mark>short<\/mark> arcs form a long arc. One thick solid straight line...",
+            "fid" : "page-16" },
+          
+          { "form" : "short",
+            "weight" : "1",
+            "pos" : 1591,
+            "context" : "...hers expressed their feelings in a strange way, as these <mark>short<\/mark> insignificant words also expressed something, words with short wings for...",
+            "fid" : "page-19" },
+          
+          { "form" : "short",
+            "weight" : "1",
+            "pos" : 1598,
+            "context" : "...as these short insignificant words also expressed something, words with <mark>short<\/mark> wings for their heavy body of meaning, inadequate to carry...",
+            "fid" : "page-19" } ] } ] }

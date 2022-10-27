@@ -1,0 +1,14 @@
+
+  { "stem" : "contribut",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "contribution",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : " My main <mark>contribution<\/mark> to the project was work on the transcription and xml markup...",
+            "fid" : "#avr" } ] } ] }

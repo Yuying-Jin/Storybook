@@ -1,0 +1,14 @@
+
+  { "stem" : "alon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "alone",
+            "weight" : "1",
+            "pos" : 1416,
+            "context" : "...goal without going round the dead  or climbing over it. Let <mark>alone<\/mark> the effort needed for climbing a , he was doubtful whether...",
+            "fid" : "page-17" } ] } ] }

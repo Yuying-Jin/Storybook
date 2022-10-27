@@ -1,0 +1,14 @@
+
+  { "stem" : "circumv",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "circumvent",
+            "weight" : "1",
+            "pos" : 851,
+            "context" : "...another to his goal. Before he haddecided whether to <mark>circumvent<\/mark> the archedtent of a  or to breast it therecame...",
+            "fid" : "page-11" } ] } ] }

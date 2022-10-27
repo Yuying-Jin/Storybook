@@ -1,0 +1,14 @@
+
+  { "stem" : "depth",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "depth",
+            "weight" : "1",
+            "pos" : 2019,
+            "context" : "..., yes, vioces, breaking the silence suddently with such <mark>depth<\/mark> of contentment, such passion of desire, or, in the...",
+            "fid" : "page-24" } ] } ] }

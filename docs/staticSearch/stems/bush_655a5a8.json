@@ -1,0 +1,14 @@
+
+  { "stem" : "bush",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bushes",
+            "weight" : "1",
+            "pos" : 1176,
+            "context" : "15Picture of <mark>bushes<\/mark> fills at the top. A twist is on the left...",
+            "fid" : "page-15" } ] } ] }

@@ -1,0 +1,44 @@
+
+  { "stem" : "men",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 347,
+            "context" : "...was flashed into the air above, into the eyes of the <mark>men<\/mark> and women who walk in  in July. The figures of...",
+            "fid" : "page-6" },
+          
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 354,
+            "context" : "...women who walk in  in July. The figures of these <mark>men<\/mark> and women straggled past the  with a curiously irregular movement not...",
+            "fid" : "page-6" },
+          
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 559,
+            "context" : "...Doesn't one always think of the past, in a  with <mark>men<\/mark> and women lying under the ? Aren't they one's past,...",
+            "fid" : "page-8" },
+          
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 567,
+            "context" : "...Aren't they one's past, all that remains of it, those <mark>men<\/mark> and women, those ghosts lying under the ,... one's happiness...",
+            "fid" : "page-8" },
+          
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 901,
+            "context" : "12 This time they were both <mark>men<\/mark>. Theyounger of the two wore an expressionof perhaps...",
+            "fid" : "page-12" },
+          
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 1937,
+            "context" : "...23  and ,  and , shapes of all these colours, <mark>men<\/mark>, women and children were spotted for a second upon the...",
+            "fid" : "page-23" } ] } ] }

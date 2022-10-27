@@ -1,0 +1,14 @@
+
+  { "stem" : "sudden",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "suddenly",
+            "weight" : "1",
+            "pos" : 649,
+            "context" : "..., painting the , the first   I'd ever seen. And <mark>suddenly<\/mark> a kiss, there on the back of my . And...",
+            "fid" : "page-9" } ] } ] }

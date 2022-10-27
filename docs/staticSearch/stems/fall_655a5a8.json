@@ -1,0 +1,32 @@
+
+  { "stem" : "fall",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "falls",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : ".... On the right, there is a bumpy design that <mark>falls<\/mark> to about mid-page. On the top left,...",
+            "fid" : "page-5" },
+          
+          { "form" : "falling",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...or, the shell of a  with its ,  veins, or <mark>falling<\/mark> into a , it expanded with such intensity of ,  and...",
+            "fid" : "page-5" },
+          
+          { "form" : "falling",
+            "weight" : "1",
+            "pos" : 1317,
+            "context" : "16 The  woman looked through the pattern of <mark>falling<\/mark> words at the s standing cool, firm and upright in...",
+            "fid" : "page-16" },
+          
+          { "form" : "fall",
+            "weight" : "1",
+            "pos" : 1371,
+            "context" : "...other woman was saying. She stood there letting the words <mark>fall<\/mark> over her, swaying the top part of her  slowly backwards and...",
+            "fid" : "page-16" } ] } ] }

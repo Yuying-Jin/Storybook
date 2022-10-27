@@ -1,0 +1,24 @@
+
+  { "stem" : "love",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "love",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...Though Kew Gardens is not my favorite writing, I do <mark>love<\/mark> the imagery. I also like how the scrolling drawings on..." } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "love",
+            "weight" : "1",
+            "pos" : 467,
+            "context" : "...whole of her seemed to be in her . And my <mark>love<\/mark>, my desire, were in the ; for some reason...",
+            "fid" : "page-7" } ] } ] }

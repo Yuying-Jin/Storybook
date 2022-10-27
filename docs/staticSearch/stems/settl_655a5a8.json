@@ -1,0 +1,32 @@
+
+  { "stem" : "settl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "settled",
+            "weight" : "1",
+            "pos" : 285,
+            "context" : "...was left in a second  once more, and the light now <mark>settled<\/mark> upon the flesh of a , revealing the branching thread of...",
+            "fid" : "page-5" },
+          
+          { "form" : "settled",
+            "weight" : "1",
+            "pos" : 474,
+            "context" : "...in the ; for some reason I thought that if it <mark>settled<\/mark> there, on that , the broad one with the   in the...",
+            "fid" : "page-7" },
+          
+          { "form" : "settled",
+            "weight" : "1",
+            "pos" : 484,
+            "context" : "...broad one with the   in the middle of it, if the  <mark>settled<\/mark> on the  she would say \"Yes\" at once. ",
+            "fid" : "page-7" },
+          
+          { "form" : "settled",
+            "weight" : "1",
+            "pos" : 521,
+            "context" : "8 But the  went round and round: it never <mark>settled<\/mark> anywhere—of course not, happily not, or I shouldn't be walking...",
+            "fid" : "page-8" } ] } ] }

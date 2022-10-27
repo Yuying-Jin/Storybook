@@ -1,0 +1,32 @@
+
+  { "stem" : "bumpi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "bumpy",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...a painted arch. On the right, there is a <mark>bumpy<\/mark> design that falls to about mid-page. On the...",
+            "fid" : "page-5" },
+          
+          { "form" : "bumpy",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...the page, there are similar swish-y designs with the <mark>bumpy<\/mark> design on the right. —— #edm",
+            "fid" : "page-5" },
+          
+          { "form" : "bumpy",
+            "weight" : "1",
+            "pos" : 870,
+            "context" : "...there are 4 lines that go up and connect to a <mark>bumpy<\/mark> line that looks similar to a column. The bottom margin...",
+            "fid" : "page-12" },
+          
+          { "form" : "bumpy",
+            "weight" : "1",
+            "pos" : 879,
+            "context" : "...similar to a column. The bottom margin has one long <mark>bumpy<\/mark> line with large black cradled in the dips of the bumps...",
+            "fid" : "page-12" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "phil",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Phil",
+            "weight" : "1",
+            "pos" : 1256,
+            "context" : "...complicated dialogue: \"Nell, Bert, Lot, Cess, <mark>Phil<\/mark>, Pa, he says, I says, she says...",
+            "fid" : "page-15" } ] } ] }

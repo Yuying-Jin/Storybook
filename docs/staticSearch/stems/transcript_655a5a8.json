@@ -1,0 +1,20 @@
+
+  { "stem" : "transcript",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "transcription",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : " My main contribution to the project was work on the <mark>transcription<\/mark> and xml markup. I handled the transcription of the first...",
+            "fid" : "#avr" },
+          
+          { "form" : "transcription",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...work on the transcription and xml markup. I handled the <mark>transcription<\/mark> of the first half of the book and gathered the images...",
+            "fid" : "#avr" } ] } ] }

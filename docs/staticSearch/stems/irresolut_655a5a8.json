@@ -1,0 +1,14 @@
+
+  { "stem" : "irresolut",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "irresolute",
+            "weight" : "1",
+            "pos" : 953,
+            "context" : "...waiting outside a ; butin the man these gestures were <mark>irresolute<\/mark> andpointless. He talked almost incessantly; hesmiled to...",
+            "fid" : "page-12" } ] } ] }

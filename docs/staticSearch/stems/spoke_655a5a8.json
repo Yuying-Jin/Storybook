@@ -1,0 +1,20 @@
+
+  { "stem" : "spoke",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "spoke",
+            "weight" : "1",
+            "pos" : 454,
+            "context" : "...her  with the    at the toe. All the time I <mark>spoke<\/mark> I saw her  and when it moved impatiently I knew without...",
+            "fid" : "page-7" },
+          
+          { "form" : "spoke",
+            "weight" : "1",
+            "pos" : 915,
+            "context" : "...fixed them very steadily in frontof him while his companion <mark>spoke<\/mark>, anddirectly his companion had done speakinghe looked on...",
+            "fid" : "page-12" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "inch",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "inch",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "...the ,  and  lights passed one over the other, staining an <mark>inch<\/mark> of the   beneath with a spot of the most intricate colour...",
+            "fid" : "page-5" },
+          
+          { "form" : "inches",
+            "weight" : "1",
+            "pos" : 378,
+            "context" : "...flights from bed to bed. The man was about six <mark>inches<\/mark> in front of the woman, strolling care- lessly,...",
+            "fid" : "page-6" } ] } ] }

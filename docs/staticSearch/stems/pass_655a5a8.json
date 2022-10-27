@@ -1,0 +1,26 @@
+
+  { "stem" : "pass",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "passed",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "...the , and when they moved, the ,  and  lights <mark>passed<\/mark> one over the other, staining an inch of the   beneath with...",
+            "fid" : "page-5" },
+          
+          { "form" : "passed",
+            "weight" : "1",
+            "pos" : 751,
+            "context" : "...labour over the  which broke away and rolled downas it <mark>passed<\/mark> over them. It appeared tohave a definite goal in front...",
+            "fid" : "page-10" },
+          
+          { "form" : "passed",
+            "weight" : "1",
+            "pos" : 1832,
+            "context" : "...couple after another with much the same irregular and aimless movement <mark>passed<\/mark> the  and were enveloped in layer after layer of  vapour,...",
+            "fid" : "page-22" } ] } ] }

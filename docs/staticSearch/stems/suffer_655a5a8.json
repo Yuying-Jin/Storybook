@@ -1,0 +1,14 @@
+
+  { "stem" : "suffer",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "suffered",
+            "weight" : "1",
+            "pos" : 1161,
+            "context" : "..., mermaids, and women drowned at sea, as he <mark>suffered<\/mark> himself to be moved on by William, upon whose  the...",
+            "fid" : "page-14" } ] } ] }

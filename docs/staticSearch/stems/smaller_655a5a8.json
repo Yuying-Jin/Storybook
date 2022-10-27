@@ -1,0 +1,14 @@
+
+  { "stem" : "smaller",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "smaller",
+            "weight" : "1",
+            "pos" : 1667,
+            "context" : "...layers of curves. At the bottom, there are 6 <mark>smaller<\/mark> jars. Many dots and curves are below them, which form...",
+            "fid" : "page-20" } ] } ] }

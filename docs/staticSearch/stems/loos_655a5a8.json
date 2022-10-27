@@ -1,0 +1,22 @@
+
+  { "stem" : "loos",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "loose",
+            "weight" : "1",
+            "pos" : 600,
+            "context" : "...the side margin patterns. The side margin patterns are two <mark>loose<\/mark> swiggle lines. Around the bottom half of the page another...",
+            "fid" : "page-9" },
+          
+          { "form" : "loose",
+            "weight" : "1",
+            "pos" : 746,
+            "context" : "crumbs of <mark>loose<\/mark>earth",
+            "fid" : "page-10",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

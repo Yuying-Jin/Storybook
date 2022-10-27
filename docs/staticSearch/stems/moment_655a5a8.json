@@ -1,0 +1,20 @@
+
+  { "stem" : "moment",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "moment",
+            "weight" : "1",
+            "pos" : 1119,
+            "context" : "...the old man's attention. After looking at it for a <mark>moment<\/mark> in some confusion the old man bent his  to it and...",
+            "fid" : "page-14" },
+          
+          { "form" : "moment",
+            "weight" : "1",
+            "pos" : 1241,
+            "context" : "...they had scrutinised the old man' back in silence for a <mark>moment<\/mark> and given each other a queer, sly look, they...",
+            "fid" : "page-15" } ] } ] }

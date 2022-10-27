@@ -1,0 +1,20 @@
+
+  { "stem" : "14",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "14",
+            "weight" : "1",
+            "pos" : 1071,
+            "context" : "<mark>14<\/mark>One thick and one thin curve at the top, right...",
+            "fid" : "page-14" },
+          
+          { "form" : "14",
+            "weight" : "1",
+            "pos" : 1082,
+            "context" : "<mark>14<\/mark> Here he seemed to have caught sight of a woman's  in...",
+            "fid" : "page-14" } ] } ] }

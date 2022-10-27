@@ -1,0 +1,14 @@
+
+  { "stem" : "hollow",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hollows",
+            "weight" : "1",
+            "pos" : 821,
+            "context" : "11   with deep  s in the <mark>hollows<\/mark>, flat, blade-like that waved from  to tip...",
+            "fid" : "page-11" } ] } ] }

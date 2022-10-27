@@ -1,0 +1,14 @@
+
+  { "stem" : "unfurl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unfurling",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "...rose perhaps a hundred  spreading into  or   half way up and <mark>unfurling<\/mark> at the tip  or  or   marked with spots of colour raised...",
+            "fid" : "page-4" } ] } ] }

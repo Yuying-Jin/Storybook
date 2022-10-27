@@ -1,0 +1,14 @@
+
+  { "stem" : "oddest",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "oddest",
+            "weight" : "1",
+            "pos" : 1771,
+            "context" : "...\"Wherever does one have one's tea?\" she asked with the <mark>oddest<\/mark> thrill of excitement in her voice, looking vaguely round and...",
+            "fid" : "page-21" } ] } ] }

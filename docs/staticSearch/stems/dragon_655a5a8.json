@@ -1,0 +1,71 @@
+
+  { "stem" : "dragon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "dragon",
+            "weight" : "1",
+            "pos" : 437,
+            "context" : "<mark>dragon<\/mark>- fly",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dragon",
+            "weight" : "1",
+            "pos" : 446,
+            "context" : "<mark>dragon<\/mark>-fly",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dragon",
+            "weight" : "1",
+            "pos" : 470,
+            "context" : "<mark>dragon<\/mark>-fly",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dragon",
+            "weight" : "1",
+            "pos" : 482,
+            "context" : "<mark>dragon<\/mark>-fly",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dragon",
+            "weight" : "1",
+            "pos" : 515,
+            "context" : "<mark>dragon<\/mark>-fly",
+            "fid" : "page-8",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dragon",
+            "weight" : "1",
+            "pos" : 581,
+            "context" : "<mark>dragon<\/mark>-fly",
+            "fid" : "page-8",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "dragon",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "<mark>dragon<\/mark>- fly, dragon-fly" },
+          
+          { "form" : "dragon",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "dragon- fly, <mark>dragon<\/mark>-fly" } ] } ] }

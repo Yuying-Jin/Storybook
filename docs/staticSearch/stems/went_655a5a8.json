@@ -1,0 +1,26 @@
+
+  { "stem" : "went",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "went",
+            "weight" : "1",
+            "pos" : 517,
+            "context" : "8 But the  <mark>went<\/mark> round and round: it never settled anywhere—of course not,...",
+            "fid" : "page-8" },
+          
+          { "form" : "went",
+            "weight" : "1",
+            "pos" : 1246,
+            "context" : "...and given each other a queer, sly look, they <mark>went<\/mark> on energeticlly piecing together their very complicated dialogue: \"Nell,...",
+            "fid" : "page-15" },
+          
+          { "form" : "went",
+            "weight" : "1",
+            "pos" : 1978,
+            "context" : "...motionless and lay huddled upon the ground, but their voices <mark>went<\/mark> wavering from them as if they were flames lolling from the...",
+            "fid" : "page-23" } ] } ] }

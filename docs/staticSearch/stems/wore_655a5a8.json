@@ -1,0 +1,14 @@
+
+  { "stem" : "wore",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wore",
+            "weight" : "1",
+            "pos" : 904,
+            "context" : "...time they were both men. Theyounger of the two <mark>wore<\/mark> an expressionof perhaps unnatural calm; he raised his and...",
+            "fid" : "page-12" } ] } ] }

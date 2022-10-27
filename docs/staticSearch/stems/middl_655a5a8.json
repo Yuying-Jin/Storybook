@@ -1,0 +1,26 @@
+
+  { "stem" : "middl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "middle",
+            "weight" : "1",
+            "pos" : 480,
+            "context" : "...there, on that , the broad one with the   in the <mark>middle<\/mark> of it, if the  settled on the  she would say \"Yes\"...",
+            "fid" : "page-7" },
+          
+          { "form" : "middle",
+            "weight" : "1",
+            "pos" : 1192,
+            "context" : "...solid curve, and a rhombus grid breaks it in the <mark>middle<\/mark>.—— #yxj",
+            "fid" : "page-15" },
+          
+          { "form" : "middle",
+            "weight" : "1",
+            "pos" : 1206,
+            "context" : "...puzzled by his gestures came two elderly women of the lower <mark>middle<\/mark> class, one  and , the other  and . Like most...",
+            "fid" : "page-15" } ] } ] }

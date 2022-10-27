@@ -1,0 +1,14 @@
+
+  { "stem" : "order",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "order",
+            "weight" : "1",
+            "pos" : 1113,
+            "context" : "...touched a  with the tip of his walking-stick in <mark>order<\/mark> to divert the old man's attention. After looking at it...",
+            "fid" : "page-14" } ] } ] }

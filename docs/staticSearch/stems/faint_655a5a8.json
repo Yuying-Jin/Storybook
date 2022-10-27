@@ -1,0 +1,14 @@
+
+  { "stem" : "faint",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "faintly",
+            "weight" : "1",
+            "pos" : 1963,
+            "context" : "...dissolving like drops of  in the  and  atmosphere, staining it <mark>faintly<\/mark> with  and . It seemed as if all gross and heavy...",
+            "fid" : "page-23" } ] } ] }

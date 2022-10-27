@@ -1,0 +1,20 @@
+
+  { "stem" : "bore",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bore",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "...of the woman, strolling care- lessly, while she <mark>bore<\/mark> on with greater purpose, only turning her  now and then...",
+            "fid" : "page-6" },
+          
+          { "form" : "bore",
+            "weight" : "1",
+            "pos" : 1804,
+            "context" : "...cranes among wild s, a Chinese  and a; but he <mark>bore<\/mark> her on. ",
+            "fid" : "page-21" } ] } ] }

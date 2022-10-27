@@ -1,0 +1,37 @@
+
+  { "stem" : "along",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 318,
+            "context" : "...broad swirls sits on the top margin. A line runs <mark>along<\/mark> the left and right margins. At the bottom, centered...",
+            "fid" : "page-6" },
+          
+          { "form" : "Along",
+            "weight" : "1",
+            "pos" : 489,
+            "context" : "8 <mark>Along<\/mark> the left margin, there is a tree, with a...",
+            "fid" : "page-8" },
+          
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 1761,
+            "context" : "21 \"Come <mark>along<\/mark>, Trissie; it's time we had our tea.\" \"Wherever...",
+            "fid" : "page-21" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Along",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "...So, I let my imagination lead me with these pages. <mark>Along<\/mark> with our consultant, Professor Beshero of Penn State: The...",
+            "fid" : "#edm" } ] } ] }

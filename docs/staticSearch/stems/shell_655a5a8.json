@@ -1,0 +1,26 @@
+
+  { "stem" : "shell",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "shell",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : "...either upon the smooth,  back of a , or, the <mark>shell<\/mark> of a  with its ,  veins, or falling into a...",
+            "fid" : "page-5" },
+          
+          { "form" : "shell",
+            "weight" : "1",
+            "pos" : 730,
+            "context" : "10 In the   the , whose <mark>shell<\/mark>had been stained , , and  for thespace of two...",
+            "fid" : "page-10" },
+          
+          { "form" : "shell",
+            "weight" : "1",
+            "pos" : 741,
+            "context" : "...or so, now appeared tobe moving very slightly in its <mark>shell<\/mark>, and nextbegan to labour over the  which broke away...",
+            "fid" : "page-10" } ] } ] }

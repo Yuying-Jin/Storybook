@@ -1,0 +1,20 @@
+
+  { "stem" : "window",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "window",
+            "weight" : "1",
+            "pos" : 1477,
+            "context" : "18The container of this page looks like a big <mark>window<\/mark> with a flower at the top. The big window consists...",
+            "fid" : "page-18" },
+          
+          { "form" : "window",
+            "weight" : "1",
+            "pos" : 1481,
+            "context" : "...big window with a flower at the top. The big <mark>window<\/mark> consists of two thin solid lines.—— #yxj",
+            "fid" : "page-18" } ] } ] }

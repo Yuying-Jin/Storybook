@@ -1,0 +1,14 @@
+
+  { "stem" : "noon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "noon",
+            "weight" : "1",
+            "pos" : 655,
+            "context" : "...the back of my . And my  shook all the after- <mark>noon<\/mark> so that I couldn't paint. I took out my  and...",
+            "fid" : "page-9" } ] } ] }

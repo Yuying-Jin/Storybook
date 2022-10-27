@@ -1,0 +1,122 @@
+
+  { "stem" : "right",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 19,
+        "contexts" : 
+        [ 
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...the page, there is a painted arch. On the <mark>right<\/mark>, there is a bumpy design that falls to about mid...",
+            "fid" : "page-5" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...are similar swish-y designs with the bumpy design on the <mark>right<\/mark>. —— #edm",
+            "fid" : "page-5" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "...the top margin. A line runs along the left and <mark>right<\/mark> margins. At the bottom, centered under the text,...",
+            "fid" : "page-6" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 407,
+            "context" : "7 Going from the top <mark>right<\/mark>, moving oounter-clockwise and ending at the bottom right...",
+            "fid" : "page-7" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 414,
+            "context" : "...right, moving oounter-clockwise and ending at the bottom <mark>right<\/mark>, there is a bouncy swirly design that ends in a...",
+            "fid" : "page-7" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 802,
+            "context" : "...the top margin and curve over the text. On the <mark>right<\/mark> side, there is another reed plant that simply climbs the...",
+            "fid" : "page-11" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 809,
+            "context" : "...side, there is another reed plant that simply climbs the <mark>right<\/mark> margin side and blooms at the top. —— #edm...",
+            "fid" : "page-11" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 865,
+            "context" : "12On the left and <mark>right<\/mark> margins there are 4 lines that go up and connect to...",
+            "fid" : "page-12" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 974,
+            "context" : "...dashed curve and four shorter solid curve. The left and <mark>right<\/mark> curves are symmetrical. At the center of bottom, there...",
+            "fid" : "page-13" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 1078,
+            "context" : "...14One thick and one thin curve at the top, <mark>right<\/mark> and bottom of the text. —— #yxj",
+            "fid" : "page-14" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 1182,
+            "context" : "...the top. A twist is on the left side and <mark>right<\/mark> side of the text. At the bottom, there is...",
+            "fid" : "page-15" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 1293,
+            "context" : "...line is on the left, and one is on the <mark>right<\/mark>. Both they are broken by several petals. At the...",
+            "fid" : "page-16" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 1393,
+            "context" : "...and straight line form a net which is around left, <mark>right<\/mark> and bottom of the page. At the top, there...",
+            "fid" : "page-17" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 1567,
+            "context" : "...like a piece of paper whose upper left corner and upper <mark>right<\/mark> corner are slightly rolled up. The bottom the paper consists of...",
+            "fid" : "page-19" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 1661,
+            "context" : "...looks like a large jar. Its top, left and <mark>right<\/mark> consist of two layers of curves. At the bottom,...",
+            "fid" : "page-20" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 1737,
+            "context" : "...half a vase pattern, and two flowers stretch to the <mark>right<\/mark> from the mouth of the vase. Below the vase,...",
+            "fid" : "page-21" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 1747,
+            "context" : "...can see two straight lines with different length. On the <mark>right<\/mark>, there are two curves. At the bottom, there...",
+            "fid" : "page-21" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 1819,
+            "context" : "...path and three trees both on the left and on the <mark>right<\/mark>. At the bottom, there are some fences. ——...",
+            "fid" : "page-22" },
+          
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 1995,
+            "context" : "...a semicircular flowerbed. Two polylines interlaced are around left, <mark>right<\/mark> and bottom of the page. In the center of the...",
+            "fid" : "page-24" } ] } ] }

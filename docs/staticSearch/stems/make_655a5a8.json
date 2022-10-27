@@ -1,0 +1,31 @@
+
+  { "stem" : "make",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "make",
+            "weight" : "1",
+            "pos" : 1518,
+            "context" : "...,\" he observed. \"Why? D'you believe in luck?\" \"They <mark>make<\/mark> you pay sixpence on Friday.\" What's sixpence anyway? Isn't...",
+            "fid" : "page-18" },
+          
+          { "form" : "making",
+            "weight" : "1",
+            "pos" : 1879,
+            "context" : "...; instead of rambling vaguely the   danced one above another, <mark>making<\/mark> with their  shifting flakes the outline of a shattered marble column...",
+            "fid" : "page-22" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "making",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...of Penn State: The Behrend Campus, I worked on <mark>making<\/mark> the image frames for each page wrap around the correspond page...",
+            "fid" : "#edm" } ] } ] }

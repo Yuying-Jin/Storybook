@@ -1,0 +1,75 @@
+
+  { "stem" : "white",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "2 Off-<mark>white<\/mark> page with maroon dotting down the left-hand side....",
+            "fid" : "page-2" },
+          
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "3 Plain off-<mark>white<\/mark> page with text centered and justified. —— #edm",
+            "fid" : "page-3" },
+          
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 365,
+            "context" : "<mark>white<\/mark>",
+            "fid" : "page-6",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 1681,
+            "context" : "<mark>white<\/mark>",
+            "fid" : "page-20",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 1874,
+            "context" : "<mark>white<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 1880,
+            "context" : "<mark>white<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 1934,
+            "context" : "snow <mark>white<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "<mark>white<\/mark>" },
+          
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "snow <mark>white<\/mark>" } ] } ] }

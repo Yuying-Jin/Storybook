@@ -1,0 +1,37 @@
+
+  { "stem" : "first",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "first",
+            "weight" : "1",
+            "pos" : 641,
+            "context" : "...down by the side of a , painting the , the <mark>first<\/mark>   I'd ever seen. And suddenly a kiss, there on...",
+            "fid" : "page-9" },
+          
+          { "form" : "first",
+            "weight" : "1",
+            "pos" : 1685,
+            "context" : "...were those shapes?—little  tables, and waitresses who looked <mark>first<\/mark> at her and then at him; and there was a bill...",
+            "fid" : "page-20" },
+          
+          { "form" : "first",
+            "weight" : "1",
+            "pos" : 1842,
+            "context" : "...enveloped in layer after layer of  vapour, in which at <mark>first<\/mark> their  had substance and a dash of colour, but later...",
+            "fid" : "page-22" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "first",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...transcription and xml markup. I handled the transcription of the <mark>first<\/mark> half of the book and gathered the images of them. Afterwards...",
+            "fid" : "#avr" } ] } ] }

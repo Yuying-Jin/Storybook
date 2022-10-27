@@ -1,0 +1,14 @@
+
+  { "stem" : "tent",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tent",
+            "weight" : "1",
+            "pos" : 853,
+            "context" : "...goal. Before he haddecided whether to circumvent the arched<mark>tent<\/mark> of a  or to breast it therecame past the bed...",
+            "fid" : "page-11" } ] } ] }

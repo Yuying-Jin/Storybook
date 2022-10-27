@@ -1,0 +1,26 @@
+
+  { "stem" : "behind",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "behind",
+            "weight" : "1",
+            "pos" : 392,
+            "context" : "...and then to see that the children were not too far <mark>behind<\/mark>. The man kept this distance in front of the woman...",
+            "fid" : "page-6" },
+          
+          { "form" : "behind",
+            "weight" : "1",
+            "pos" : 1642,
+            "context" : "...they gave you at Kew he felt that something loomed up <mark>behind<\/mark> her words and stood vast and solid behind them; and the...",
+            "fid" : "page-19" },
+          
+          { "form" : "behind",
+            "weight" : "1",
+            "pos" : 1647,
+            "context" : "...something loomed up behind her words and stood vast and solid <mark>behind<\/mark> them; and the mist very slowly rose and uncovered ",
+            "fid" : "page-19" } ] } ] }

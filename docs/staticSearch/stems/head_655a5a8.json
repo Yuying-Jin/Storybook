@@ -1,0 +1,64 @@
+
+  { "stem" : "head",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "head",
+            "weight" : "1",
+            "pos" : 388,
+            "context" : "<mark>head<\/mark>",
+            "fid" : "page-6",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "head",
+            "weight" : "1",
+            "pos" : 940,
+            "context" : "<mark>head<\/mark>",
+            "fid" : "page-12",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "head",
+            "weight" : "1",
+            "pos" : 1023,
+            "context" : "<mark>head<\/mark>",
+            "fid" : "page-13",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "head",
+            "weight" : "1",
+            "pos" : 1049,
+            "context" : "...short the little machine stands in any convenient position by the <mark>head<\/mark> of the bed, we will say, on a neat...",
+            "fid" : "page-13" },
+          
+          { "form" : "head",
+            "weight" : "1",
+            "pos" : 1447,
+            "context" : "<mark>head<\/mark>",
+            "fid" : "page-17",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "head",
+            "weight" : "1",
+            "pos" : 1785,
+            "context" : "<mark>head<\/mark>",
+            "fid" : "page-21",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "head",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "<mark>head<\/mark>" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "ever",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 532,
+            "context" : "...with Eleanor and the children—Tell me, Eleanor. D'you <mark>ever<\/mark> think of the past?\" \"Why do you ask, Simon...",
+            "fid" : "page-8" },
+          
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 647,
+            "context" : "...the side of a , painting the , the first   I'd <mark>ever<\/mark> seen. And suddenly a kiss, there on the back...",
+            "fid" : "page-9" },
+          
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 1631,
+            "context" : "...the  on the other side? who knows? Who has <mark>ever<\/mark> seen this before? Even when she wondered what sort of tea...",
+            "fid" : "page-19" } ] } ] }

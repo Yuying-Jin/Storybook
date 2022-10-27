@@ -1,0 +1,24 @@
+
+  { "stem" : "book",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "book",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : ".... I handled the transcription of the first half of the <mark>book<\/mark> and gathered the images of them. Afterwards, I marked up...",
+            "fid" : "#avr" } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "format: <mark>Book<\/mark>" } ] } ] }

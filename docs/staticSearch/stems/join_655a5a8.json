@@ -1,0 +1,14 @@
+
+  { "stem" : "join",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "joins",
+            "weight" : "1",
+            "pos" : 610,
+            "context" : ".... Around the bottom half of the page another squiggle line <mark>joins<\/mark> the three, then travels down and under the under margin...",
+            "fid" : "page-9" } ] } ] }

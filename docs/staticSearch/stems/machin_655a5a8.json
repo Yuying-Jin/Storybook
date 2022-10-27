@@ -1,0 +1,14 @@
+
+  { "stem" : "machin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "machine",
+            "weight" : "1",
+            "pos" : 1045,
+            "context" : "...into details that wouldn't be understood—and in short the little <mark>machine<\/mark> stands in any convenient position by the head of the bed...",
+            "fid" : "page-13" } ] } ] }

@@ -1,0 +1,32 @@
+
+  { "stem" : "tip",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "tip",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...hundred  spreading into  or   half way up and unfurling at the <mark>tip<\/mark>  or  or   marked with spots of colour raised upon the surface...",
+            "fid" : "page-4" },
+          
+          { "form" : "tip",
+            "weight" : "1",
+            "pos" : 829,
+            "context" : "...hollows, flat, blade-like that waved from  to <mark>tip<\/mark>, round of  , vast crumpled surfaces of athin crackling...",
+            "fid" : "page-11" },
+          
+          { "form" : "tip",
+            "weight" : "1",
+            "pos" : 1109,
+            "context" : "...William caught him by the sleeve and touched a  with the <mark>tip<\/mark> of his walking-stick in order to divert the old...",
+            "fid" : "page-14" },
+          
+          { "form" : "tip",
+            "weight" : "1",
+            "pos" : 1430,
+            "context" : "...vibrated with such an alarming crackle when touched even by the <mark>tip<\/mark> of his horns would bear his weight; and this determined...",
+            "fid" : "page-17" } ] } ] }

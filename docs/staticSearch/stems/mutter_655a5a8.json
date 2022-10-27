@@ -1,0 +1,14 @@
+
+  { "stem" : "mutter",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "muttering",
+            "weight" : "1",
+            "pos" : 1101,
+            "context" : "...his , placed his  upon his , and hurried towards her <mark>muttering<\/mark> and gesticulating feverishly. But William caught him by the sleeve...",
+            "fid" : "page-14" } ] } ] }

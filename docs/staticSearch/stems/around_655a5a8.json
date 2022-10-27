@@ -1,0 +1,43 @@
+
+  { "stem" : "around",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Around",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...top left, there are two conifer-type flowers. <mark>Around<\/mark> the bottom-half of the page, there are similar...",
+            "fid" : "page-5" },
+          
+          { "form" : "Around",
+            "weight" : "1",
+            "pos" : 603,
+            "context" : ".... The side margin patterns are two loose swiggle lines. <mark>Around<\/mark> the bottom half of the page another squiggle line joins the...",
+            "fid" : "page-9" },
+          
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 1391,
+            "context" : "17Curves and straight line form a net which is <mark>around<\/mark> left, right and bottom of the page. At the...",
+            "fid" : "page-17" },
+          
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 1993,
+            "context" : "..., there is a semicircular flowerbed. Two polylines interlaced are <mark>around<\/mark> left, right and bottom of the page. In the...",
+            "fid" : "page-24" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...I worked on making the image frames for each page wrap <mark>around<\/mark> the correspond page content. This was very much a game...",
+            "fid" : "#edm" } ] } ] }

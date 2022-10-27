@@ -1,0 +1,26 @@
+
+  { "stem" : "ice",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ice",
+            "weight" : "1",
+            "pos" : 1625,
+            "context" : "<mark>ice<\/mark>",
+            "fid" : "page-19",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ice",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "<mark>ice<\/mark>" } ] } ] }

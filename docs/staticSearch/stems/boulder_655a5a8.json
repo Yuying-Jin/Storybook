@@ -1,0 +1,26 @@
+
+  { "stem" : "boulder",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "boulders",
+            "weight" : "1",
+            "pos" : 831,
+            "context" : "<mark>boulders<\/mark>",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "boulders",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "<mark>boulders<\/mark>" } ] } ] }

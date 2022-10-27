@@ -1,0 +1,38 @@
+
+  { "stem" : "corner",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "corner",
+            "weight" : "1",
+            "pos" : 786,
+            "context" : "...11 Tall reed-like plants sprout from the bottom left <mark>corner<\/mark>, and end in curly lines that have straight shading lines...",
+            "fid" : "page-11" },
+          
+          { "form" : "corners",
+            "weight" : "1",
+            "pos" : 897,
+            "context" : "...in the center with two square-like shapes on the <mark>corners<\/mark>. —— #edm",
+            "fid" : "page-12" },
+          
+          { "form" : "corner",
+            "weight" : "1",
+            "pos" : 1565,
+            "context" : "...this page looks like a piece of paper whose upper left <mark>corner<\/mark> and upper right corner are slightly rolled up. The bottom the...",
+            "fid" : "page-19" },
+          
+          { "form" : "corner",
+            "weight" : "1",
+            "pos" : 1568,
+            "context" : "...a piece of paper whose upper left corner and upper right <mark>corner<\/mark> are slightly rolled up. The bottom the paper consists of six...",
+            "fid" : "page-19" },
+          
+          { "form" : "corner",
+            "weight" : "1",
+            "pos" : 1730,
+            "context" : "...there is a long straight line. In the upper left <mark>corner<\/mark>, there is half a vase pattern, and two flowers...",
+            "fid" : "page-21" } ] } ] }

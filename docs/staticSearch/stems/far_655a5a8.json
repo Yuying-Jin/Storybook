@@ -1,0 +1,26 @@
+
+  { "stem" : "far",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 391,
+            "context" : "...now and then to see that the children were not too <mark>far<\/mark> behind. The man kept this distance in front of the...",
+            "fid" : "page-6" },
+          
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 1228,
+            "context" : "..., especially in the well-to-do; but they were too <mark>far<\/mark> off to be certain whether the gestures were merely eccentric or...",
+            "fid" : "page-15" },
+          
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 1605,
+            "context" : "...for their heavy body of meaning, inadequate to carry them <mark>far<\/mark> and thus alighting awkwardly upon the very common objects that surrounded...",
+            "fid" : "page-19" } ] } ] }

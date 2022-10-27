@@ -1,0 +1,14 @@
+
+  { "stem" : "markup",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "markup",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...contribution to the project was work on the transcription and xml <mark>markup<\/mark>. I handled the transcription of the first half of the...",
+            "fid" : "#avr" } ] } ] }

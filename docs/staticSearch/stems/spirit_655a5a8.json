@@ -1,0 +1,32 @@
+
+  { "stem" : "spirit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "spirits",
+            "weight" : "1",
+            "pos" : 995,
+            "context" : "13 He was talking about <mark>spirits<\/mark>—the spirits of the dead, who, according to him, were...",
+            "fid" : "page-13" },
+          
+          { "form" : "spirits",
+            "weight" : "1",
+            "pos" : 996,
+            "context" : "13 He was talking about spirits—the <mark>spirits<\/mark> of the dead, who, according to him, were even now...",
+            "fid" : "page-13" },
+          
+          { "form" : "spirit",
+            "weight" : "1",
+            "pos" : 1012,
+            "context" : "...Thessaly, William, and now, with this war, the <mark>spirit<\/mark> matter is rolling between the  like .\" He paused, seemed...",
+            "fid" : "page-13" },
+          
+          { "form" : "spirit",
+            "weight" : "1",
+            "pos" : 1064,
+            "context" : "...under my direction, the widow applies her  and summons the <mark>spirit<\/mark> by sign as agreed, Women! Widows! Women in...",
+            "fid" : "page-13" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "alight",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "alighting",
+            "weight" : "1",
+            "pos" : 1607,
+            "context" : "...body of meaning, inadequate to carry them far and thus <mark>alighting<\/mark> awkwardly upon the very common objects that surrounded them and were...",
+            "fid" : "page-19" } ] } ] }

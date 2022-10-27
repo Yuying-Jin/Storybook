@@ -1,0 +1,38 @@
+
+  { "stem" : "front",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "front",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "...bed to bed. The man was about six inches in <mark>front<\/mark> of the woman, strolling care- lessly, while she...",
+            "fid" : "page-6" },
+          
+          { "form" : "front",
+            "weight" : "1",
+            "pos" : 396,
+            "context" : "...not too far behind. The man kept this distance in <mark>front<\/mark> of the woman purposely, though perhaps unconsciously, for he...",
+            "fid" : "page-6" },
+          
+          { "form" : "front",
+            "weight" : "1",
+            "pos" : 755,
+            "context" : "...passed over them. It appeared tohave a definite goal in <mark>front<\/mark> of it, differing in this respect from the singular high stepping...",
+            "fid" : "page-10" },
+          
+          { "form" : "front",
+            "weight" : "1",
+            "pos" : 766,
+            "context" : "...the singular high stepping angular green  who attempted to cross in <mark>front<\/mark> of it, and waited for a second withits antennæ trembling...",
+            "fid" : "page-10" },
+          
+          { "form" : "front",
+            "weight" : "1",
+            "pos" : 913,
+            "context" : "...calm; he raised his and fixed them very steadily in <mark>front<\/mark>of him while his companion spoke, anddirectly his companion...",
+            "fid" : "page-12" } ] } ] }

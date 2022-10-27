@@ -1,0 +1,14 @@
+
+  { "stem" : "determin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "determined",
+            "weight" : "1",
+            "pos" : 1435,
+            "context" : "...tip of his horns would bear his weight; and this <mark>determined<\/mark> him finally to creep and beneath it, for there was a...",
+            "fid" : "page-17" } ] } ] }

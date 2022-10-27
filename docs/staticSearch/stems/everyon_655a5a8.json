@@ -1,0 +1,14 @@
+
+  { "stem" : "everyon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "everyone",
+            "weight" : "1",
+            "pos" : 1700,
+            "context" : "...assured himself, fingering the coin in his pocket, real to <mark>everyone<\/mark> except to hum and to her; even to him it began...",
+            "fid" : "page-20" } ] } ] }

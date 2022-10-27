@@ -1,0 +1,44 @@
+
+  { "stem" : "rose",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "rose",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "4 From the   there <mark>rose<\/mark> perhaps a hundred  spreading into  or   half way up and unfurling...",
+            "fid" : "page-4" },
+          
+          { "form" : "rose",
+            "weight" : "1",
+            "pos" : 420,
+            "context" : "..., there is a bouncy swirly design that ends in a <mark>rose<\/mark>-shaped flower. —— #edm",
+            "fid" : "page-7" },
+          
+          { "form" : "roses",
+            "weight" : "1",
+            "pos" : 1152,
+            "context" : "<mark>roses<\/mark>",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "rose",
+            "weight" : "1",
+            "pos" : 1650,
+            "context" : "...stood vast and solid behind them; and the mist very slowly <mark>rose<\/mark> and uncovered ",
+            "fid" : "page-19" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "roses",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "<mark>roses<\/mark>" } ] } ] }

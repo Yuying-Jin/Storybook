@@ -1,0 +1,20 @@
+
+  { "stem" : "d'you",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "D'you",
+            "weight" : "1",
+            "pos" : 531,
+            "context" : "...here with Eleanor and the children—Tell me, Eleanor. <mark>D'you<\/mark> ever think of the past?\" \"Why do you ask,...",
+            "fid" : "page-8" },
+          
+          { "form" : "D'you",
+            "weight" : "1",
+            "pos" : 1515,
+            "context" : "...the . \"Lucky it isn't Friday,\" he observed. \"Why? <mark>D'you<\/mark> believe in luck?\" \"They make you pay sixpence on Friday...",
+            "fid" : "page-18" } ] } ] }

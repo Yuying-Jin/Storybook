@@ -1,0 +1,14 @@
+
+  { "stem" : "bluish",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bluish",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...shape center with yellow squiggles with burnt maroon, and light <mark>bluish<\/mark>-grey speckling. The title font and information is the...",
+            "fid" : "page-1" } ] } ] }

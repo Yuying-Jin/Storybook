@@ -1,0 +1,14 @@
+
+  { "stem" : "disord",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "disordered",
+            "weight" : "1",
+            "pos" : 1223,
+            "context" : "...they were frankly fascinated by any sign of eccentricity betokening a <mark>disordered<\/mark> , especially in the well-to-do; but they were too...",
+            "fid" : "page-15" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "couldn't",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "couldn't",
+            "weight" : "1",
+            "pos" : 656,
+            "context" : ".... And my  shook all the after- noon so that I <mark>couldn't<\/mark> paint. I took out my  and marked the hour when...",
+            "fid" : "page-9" } ] } ] }

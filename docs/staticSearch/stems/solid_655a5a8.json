@@ -1,0 +1,44 @@
+
+  { "stem" : "solid",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "solid",
+            "weight" : "1",
+            "pos" : 971,
+            "context" : "...the top, there is a dashed curve and four shorter <mark>solid<\/mark> curve. The left and right curves are symmetrical. At...",
+            "fid" : "page-13" },
+          
+          { "form" : "solid",
+            "weight" : "1",
+            "pos" : 989,
+            "context" : "...dashed curves on both sides of the circle. A long <mark>solid<\/mark> curve is below the circle.—— #yxj",
+            "fid" : "page-13" },
+          
+          { "form" : "solid",
+            "weight" : "1",
+            "pos" : 1187,
+            "context" : "...of the text. At the bottom, there is thick <mark>solid<\/mark> curve, and a rhombus grid breaks it in the middle...",
+            "fid" : "page-15" },
+          
+          { "form" : "solid",
+            "weight" : "1",
+            "pos" : 1288,
+            "context" : "..., 15 short arcs form a long arc. One thick <mark>solid<\/mark> straight line is on the left, and one is on...",
+            "fid" : "page-16" },
+          
+          { "form" : "solid",
+            "weight" : "1",
+            "pos" : 1485,
+            "context" : "...at the top. The big window consists of two thin <mark>solid<\/mark> lines.—— #yxj",
+            "fid" : "page-18" },
+          
+          { "form" : "solid",
+            "weight" : "1",
+            "pos" : 1646,
+            "context" : "...that something loomed up behind her words and stood vast and <mark>solid<\/mark> behind them; and the mist very slowly rose and uncovered ",
+            "fid" : "page-19" } ] } ] }

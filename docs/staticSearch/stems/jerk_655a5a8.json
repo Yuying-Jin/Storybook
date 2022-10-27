@@ -1,0 +1,26 @@
+
+  { "stem" : "jerk",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "jerking",
+            "weight" : "1",
+            "pos" : 936,
+            "context" : "...man had a curiously uneven andshaky method of walking, <mark>jerking<\/mark> his handforward and throwing up his  abruptly,rather in...",
+            "fid" : "page-12" },
+          
+          { "form" : "jerked",
+            "weight" : "1",
+            "pos" : 1022,
+            "context" : "...like .\" He paused, seemed to listen, smiled, <mark>jerked<\/mark> his  and continued:— \"You have a small eletric  and a...",
+            "fid" : "page-13" },
+          
+          { "form" : "jerk",
+            "weight" : "1",
+            "pos" : 1714,
+            "context" : "..., and he pulled the parasol out of the  with a <mark>jerk<\/mark> and was impatient to find the place where one had tea...",
+            "fid" : "page-20" } ] } ] }

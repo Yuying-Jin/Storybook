@@ -1,0 +1,14 @@
+
+  { "stem" : "pavilion",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pavilion",
+            "weight" : "1",
+            "pos" : 1812,
+            "context" : "...the page, the picture looks like the roof of a <mark>pavilion<\/mark>. We can find a curvy path and three trees both...",
+            "fid" : "page-22" } ] } ] }

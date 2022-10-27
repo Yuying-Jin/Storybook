@@ -1,0 +1,14 @@
+
+  { "stem" : "wouldn't",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wouldn't",
+            "weight" : "1",
+            "pos" : 1041,
+            "context" : "...we'll skip the details, no good going into details that <mark>wouldn't<\/mark> be understood—and in short the little machine stands in any...",
+            "fid" : "page-13" } ] } ] }

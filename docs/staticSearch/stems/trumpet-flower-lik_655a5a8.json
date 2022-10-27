@@ -1,0 +1,14 @@
+
+  { "stem" : "trumpet-flower-lik",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trumpet-flower-like",
+            "weight" : "1",
+            "pos" : 718,
+            "context" : "...climbs up the margins. At the top, there are <mark>trumpet-flower-like<\/mark> designs. —— #edm",
+            "fid" : "page-10" } ] } ] }

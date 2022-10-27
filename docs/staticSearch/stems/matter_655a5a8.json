@@ -1,0 +1,14 @@
+
+  { "stem" : "matter",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "matter",
+            "weight" : "1",
+            "pos" : 1013,
+            "context" : "..., William, and now, with this war, the spirit <mark>matter<\/mark> is rolling between the  like .\" He paused, seemed to...",
+            "fid" : "page-13" } ] } ] }

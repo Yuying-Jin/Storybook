@@ -1,0 +1,26 @@
+
+  { "stem" : "big",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "big",
+            "weight" : "1",
+            "pos" : 617,
+            "context" : "...and under the under margin patterns. The bottom area has <mark>big<\/mark> curly loops nesting black dots between it and the text....",
+            "fid" : "page-9" },
+          
+          { "form" : "big",
+            "weight" : "1",
+            "pos" : 1476,
+            "context" : "18The container of this page looks like a <mark>big<\/mark> window with a flower at the top. The big window...",
+            "fid" : "page-18" },
+          
+          { "form" : "big",
+            "weight" : "1",
+            "pos" : 1480,
+            "context" : "...a big window with a flower at the top. The <mark>big<\/mark> window consists of two thin solid lines.—— #yxj",
+            "fid" : "page-18" } ] } ] }

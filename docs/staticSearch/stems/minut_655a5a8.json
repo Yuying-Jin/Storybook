@@ -1,0 +1,20 @@
+
+  { "stem" : "minut",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "minutes",
+            "weight" : "1",
+            "pos" : 667,
+            "context" : "...I would allow myself to think of the kiss for five <mark>minutes<\/mark> only—it was so precious— the kiss of an old -...",
+            "fid" : "page-9" },
+          
+          { "form" : "minutes",
+            "weight" : "1",
+            "pos" : 737,
+            "context" : "...had been stained , , and  for thespace of two <mark>minutes<\/mark> or so, now appeared tobe moving very slightly in its...",
+            "fid" : "page-10" } ] } ] }

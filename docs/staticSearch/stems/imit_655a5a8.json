@@ -1,0 +1,13 @@
+
+  { "stem" : "imit",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "imitated",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "...content. It was also interesting to perceive how the writing <mark>imitated<\/mark> the social structure of the time as well as how the..." } ] } ] }

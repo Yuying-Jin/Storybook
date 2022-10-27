@@ -1,0 +1,14 @@
+
+  { "stem" : "walking-stick",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "walking-stick",
+            "weight" : "1",
+            "pos" : 1110,
+            "context" : "...by the sleeve and touched a  with the tip of his <mark>walking-stick<\/mark> in order to divert the old man's attention. After looking...",
+            "fid" : "page-14" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "fibr",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fibre",
+            "weight" : "1",
+            "pos" : 292,
+            "context" : "...upon the flesh of a , revealing the branching thread of <mark>fibre<\/mark> beneath the surface, and again it moved on and spread...",
+            "fid" : "page-5" } ] } ] }

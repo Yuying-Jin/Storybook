@@ -1,0 +1,14 @@
+
+  { "stem" : "firm",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "firm",
+            "weight" : "1",
+            "pos" : 1322,
+            "context" : "...the pattern of falling words at the s standing cool, <mark>firm<\/mark> and upright in the earth, with a curious expression....",
+            "fid" : "page-16" } ] } ] }

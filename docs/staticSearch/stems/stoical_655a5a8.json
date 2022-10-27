@@ -1,0 +1,14 @@
+
+  { "stem" : "stoical",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stoical",
+            "weight" : "1",
+            "pos" : 1168,
+            "context" : "...be moved on by William, upon whose  the look of <mark>stoical<\/mark> patience grew slowly deeper and deeper. ",
+            "fid" : "page-14" } ] } ] }

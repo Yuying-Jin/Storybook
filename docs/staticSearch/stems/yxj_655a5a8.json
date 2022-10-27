@@ -1,0 +1,101 @@
+
+  { "stem" : "yxj",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 13,
+        "contexts" : 
+        [ 
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "editor: avr edm <mark>yxj<\/mark>" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 992,
+            "context" : ".... A long solid curve is below the circle.—— #<mark>yxj<\/mark>",
+            "fid" : "page-13" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 1081,
+            "context" : "...top, right and bottom of the text. —— #<mark>yxj<\/mark>",
+            "fid" : "page-14" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 1193,
+            "context" : "...and a rhombus grid breaks it in the middle.—— #<mark>yxj<\/mark>",
+            "fid" : "page-15" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 1311,
+            "context" : "...petals break the sentences in the line 6-16.—— #<mark>yxj<\/mark>",
+            "fid" : "page-16" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 1400,
+            "context" : "...the top, there are many flowers and dots.—— #<mark>yxj<\/mark>",
+            "fid" : "page-17" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 1487,
+            "context" : "...The big window consists of two thin solid lines.—— #<mark>yxj<\/mark>",
+            "fid" : "page-18" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 1580,
+            "context" : "...and each arc has two concentric circles above it. —— #<mark>yxj<\/mark>",
+            "fid" : "page-19" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 1676,
+            "context" : "...are below them, which form something like cushions. —— #<mark>yxj<\/mark>",
+            "fid" : "page-20" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 1758,
+            "context" : "...lines with the similar length but different thickness. —— #<mark>yxj<\/mark>",
+            "fid" : "page-21" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 1822,
+            "context" : "...At the bottom, there are some fences. —— #<mark>yxj<\/mark>",
+            "fid" : "page-22" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 1928,
+            "context" : "...the bottom, there are 6 similar unclear pattern.—— #<mark>yxj<\/mark>",
+            "fid" : "page-23" },
+          
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 2011,
+            "context" : "...two arcs, there is a circle flower core.—— #<mark>yxj<\/mark>",
+            "fid" : "page-24" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...credit for the cursor actually working, that was all #<mark>yxj<\/mark>! I was also the Quality Control Manager. ",
+            "fid" : "#edm" },
+          
+          { "form" : "YXJ",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "<mark>YXJ<\/mark>:" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "hat",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hat",
+            "weight" : "1",
+            "pos" : 1094,
+            "context" : "<mark>hat<\/mark>",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hat",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "<mark>hat<\/mark>" } ] } ] }

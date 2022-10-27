@@ -1,0 +1,14 @@
+
+  { "stem" : "convey",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "convey",
+            "weight" : "1",
+            "pos" : 793,
+            "context" : "...in curly lines that have straight shading lines above them to <mark>convey<\/mark> petals. The reed plants bend at the top margin and...",
+            "fid" : "page-11" } ] } ] }

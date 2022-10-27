@@ -1,0 +1,26 @@
+
+  { "stem" : "slowli",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "slowly",
+            "weight" : "1",
+            "pos" : 1171,
+            "context" : "...by William, upon whose  the look of stoical patience grew <mark>slowly<\/mark> deeper and deeper. ",
+            "fid" : "page-14" },
+          
+          { "form" : "slowly",
+            "weight" : "1",
+            "pos" : 1376,
+            "context" : "...the words fall over her, swaying the top part of her  <mark>slowly<\/mark> backwards and forwards, looking at the s. Then she suggested...",
+            "fid" : "page-16" },
+          
+          { "form" : "slowly",
+            "weight" : "1",
+            "pos" : 1649,
+            "context" : "...and stood vast and solid behind them; and the mist very <mark>slowly<\/mark> rose and uncovered ",
+            "fid" : "page-19" } ] } ] }

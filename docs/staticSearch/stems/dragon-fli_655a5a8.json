@@ -1,0 +1,58 @@
+
+  { "stem" : "dragon-fli",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "dragon-fly",
+            "weight" : "1",
+            "pos" : 445,
+            "context" : "<mark>dragon-fly<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dragon-fly",
+            "weight" : "1",
+            "pos" : 469,
+            "context" : "<mark>dragon-fly<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dragon-fly",
+            "weight" : "1",
+            "pos" : 481,
+            "context" : "<mark>dragon-fly<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dragon-fly",
+            "weight" : "1",
+            "pos" : 514,
+            "context" : "<mark>dragon-fly<\/mark>",
+            "fid" : "page-8",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dragon-fly",
+            "weight" : "1",
+            "pos" : 580,
+            "context" : "<mark>dragon-fly<\/mark>",
+            "fid" : "page-8",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dragon-fly",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "dragon- fly, <mark>dragon-fly<\/mark>" } ] } ] }

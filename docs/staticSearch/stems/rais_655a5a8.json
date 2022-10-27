@@ -1,0 +1,20 @@
+
+  { "stem" : "rais",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "raised",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "...unfurling at the tip  or  or   marked with spots of colour <mark>raised<\/mark> upon the surface; and from the ,  or  gloom of...",
+            "fid" : "page-4" },
+          
+          { "form" : "raised",
+            "weight" : "1",
+            "pos" : 909,
+            "context" : "...the two wore an expressionof perhaps unnatural calm; he <mark>raised<\/mark> his and fixed them very steadily in frontof him while...",
+            "fid" : "page-12" } ] } ] }

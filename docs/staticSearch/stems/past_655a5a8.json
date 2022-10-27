@@ -1,0 +1,62 @@
+
+  { "stem" : "past",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 357,
+            "context" : "...in July. The figures of these men and women straggled <mark>past<\/mark> the  with a curiously irregular movement not unlike that of the...",
+            "fid" : "page-6" },
+          
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 534,
+            "context" : "...children—Tell me, Eleanor. D'you ever think of the <mark>past<\/mark>?\" \"Why do you ask, Simon?\" \"Because I've been...",
+            "fid" : "page-8" },
+          
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 539,
+            "context" : "...you ask, Simon?\" \"Because I've been thinking of the <mark>past<\/mark>. I've been thinking of Lily, the woman I might...",
+            "fid" : "page-8" },
+          
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 550,
+            "context" : "...are you silent? Do you mind my thinking of the <mark>past<\/mark>?\" \"Why should I mind, Simon? Doesn't one always...",
+            "fid" : "page-8" },
+          
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 557,
+            "context" : "...I mind, Simon? Doesn't one always think of the <mark>past<\/mark>, in a  with men and women lying under the ?...",
+            "fid" : "page-8" },
+          
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 565,
+            "context" : "...with men and women lying under the ? Aren't they one's <mark>past<\/mark>, all that remains of it, those men and women,...",
+            "fid" : "page-8" },
+          
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 684,
+            "context" : "...Come, Caroline, come, Hubert. \"They walked on <mark>past<\/mark> the , now walking four abreast, and soon diminished in...",
+            "fid" : "page-9" },
+          
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 858,
+            "context" : "...the archedtent of a  or to breast it therecame <mark>past<\/mark> the bed the feet of other humanbeings.",
+            "fid" : "page-11" },
+          
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 1462,
+            "context" : "...getting used to the cool  light when two other people came <mark>past<\/mark> outside on the . This time they were both young,...",
+            "fid" : "page-17" } ] } ] }

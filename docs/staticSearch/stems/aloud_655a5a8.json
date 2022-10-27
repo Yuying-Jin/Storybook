@@ -1,0 +1,14 @@
+
+  { "stem" : "aloud",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aloud",
+            "weight" : "1",
+            "pos" : 2054,
+            "context" : "...city murmured; on the top of which the voices cried <mark>aloud<\/mark> and the  of myriads of s flashed their colours into the...",
+            "fid" : "page-24" } ] } ] }

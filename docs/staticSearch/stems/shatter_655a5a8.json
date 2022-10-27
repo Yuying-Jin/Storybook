@@ -1,0 +1,14 @@
+
+  { "stem" : "shatter",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shattered",
+            "weight" : "1",
+            "pos" : 1884,
+            "context" : "...another, making with their  shifting flakes the outline of a <mark>shattered<\/mark> marble column above the tallest s; the glass roofs of the...",
+            "fid" : "page-22" } ] } ] }

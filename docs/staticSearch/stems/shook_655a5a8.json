@@ -1,0 +1,14 @@
+
+  { "stem" : "shook",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shook",
+            "weight" : "1",
+            "pos" : 654,
+            "context" : "...kiss, there on the back of my . And my  <mark>shook<\/mark> all the after- noon so that I couldn't paint. I...",
+            "fid" : "page-9" } ] } ] }

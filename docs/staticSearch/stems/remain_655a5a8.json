@@ -1,0 +1,14 @@
+
+  { "stem" : "remain",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remains",
+            "weight" : "1",
+            "pos" : 566,
+            "context" : "...lying under the ? Aren't they one's past, all that <mark>remains<\/mark> of it, those men and women, those ghosts lying under...",
+            "fid" : "page-8" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "shill",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shilling",
+            "weight" : "1",
+            "pos" : 1691,
+            "context" : "...was a bill that he would pay with a real two <mark>shilling<\/mark> piece, and it was real, all real, he...",
+            "fid" : "page-20" } ] } ] }

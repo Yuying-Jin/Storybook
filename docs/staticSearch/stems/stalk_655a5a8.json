@@ -1,0 +1,32 @@
+
+  { "stem" : "stalk",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "stalks",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "<mark>stalks<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "stalk",
+            "weight" : "1",
+            "pos" : 846,
+            "context" : "...texture—all these objects layacross the 's progress between one <mark>stalk<\/mark>and another to his goal. Before he haddecided whether...",
+            "fid" : "page-11" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stalks",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "<mark>stalks<\/mark>" } ] } ] }

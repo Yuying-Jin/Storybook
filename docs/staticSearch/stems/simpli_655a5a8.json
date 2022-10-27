@@ -1,0 +1,14 @@
+
+  { "stem" : "simpli",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "simply",
+            "weight" : "1",
+            "pos" : 807,
+            "context" : "...On the right side, there is another reed plant that <mark>simply<\/mark> climbs the right margin side and blooms at the top....",
+            "fid" : "page-11" } ] } ] }

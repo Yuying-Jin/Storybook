@@ -1,0 +1,14 @@
+
+  { "stem" : "chose",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "chose",
+            "weight" : "1",
+            "pos" : 1859,
+            "context" : ".... How hot it was! So hot that even the thrush <mark>chose<\/mark> to hop, like a mechanical , in the shadow of...",
+            "fid" : "page-22" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "possibl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "possible",
+            "weight" : "1",
+            "pos" : 1405,
+            "context" : "17 The  had now considered every <mark>possible<\/mark> method of reaching his goal without going round the dead  or...",
+            "fid" : "page-17" } ] } ] }

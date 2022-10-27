@@ -1,0 +1,14 @@
+
+  { "stem" : "suggest",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "suggested",
+            "weight" : "1",
+            "pos" : 1381,
+            "context" : "...slowly backwards and forwards, looking at the s. Then she <mark>suggested<\/mark> that they should find a seat and have their tea....",
+            "fid" : "page-16" } ] } ] }

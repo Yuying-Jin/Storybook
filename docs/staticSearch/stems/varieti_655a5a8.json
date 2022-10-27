@@ -1,0 +1,14 @@
+
+  { "stem" : "varieti",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "variety",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...our group's schema. Overall, learning to work with a <mark>variety<\/mark> of different code and then applying it to some actual historical...",
+            "fid" : "#avr" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "illumin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "illumination",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : "...the surface, and again it moved on and spread its <mark>illumination<\/mark> in the vast  spaces beneath the dome of the  and  ....",
+            "fid" : "page-5" } ] } ] }

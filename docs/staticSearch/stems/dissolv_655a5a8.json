@@ -1,0 +1,20 @@
+
+  { "stem" : "dissolv",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "dissolved",
+            "weight" : "1",
+            "pos" : 1850,
+            "context" : "...a dash of colour, but later both substance and colour <mark>dissolved<\/mark> in the  and atmosphere. How hot it was! So hot...",
+            "fid" : "page-22" },
+          
+          { "form" : "dissolving",
+            "weight" : "1",
+            "pos" : 1955,
+            "context" : "...upon the , they wavered and sought shade beneath the , <mark>dissolving<\/mark> like drops of  in the  and  atmosphere, staining it faintly...",
+            "fid" : "page-23" } ] } ] }

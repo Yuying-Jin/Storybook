@@ -1,0 +1,14 @@
+
+  { "stem" : "limit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "limited",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "3 This edition, published in 1927, is <mark>limited<\/mark> to 500 numbered copies, of which this is number 150...",
+            "fid" : "page-3" } ] } ] }

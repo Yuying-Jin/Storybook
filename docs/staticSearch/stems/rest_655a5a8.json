@@ -1,0 +1,14 @@
+
+  { "stem" : "rest",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rested",
+            "weight" : "1",
+            "pos" : 1585,
+            "context" : "19 The action and the fact that his  <mark>rested<\/mark> on the top of hers expressed their feelings in a strange...",
+            "fid" : "page-19" } ] } ] }

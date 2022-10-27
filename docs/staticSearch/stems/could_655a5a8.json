@@ -1,0 +1,14 @@
+
+  { "stem" : "could",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "could",
+            "weight" : "1",
+            "pos" : 1142,
+            "context" : "...company with the most beautiful young woman in Europe. He <mark>could<\/mark> be heard mur- muring about  of Uruguay blanketed with the...",
+            "fid" : "page-14" } ] } ] }

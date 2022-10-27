@@ -1,0 +1,20 @@
+
+  { "stem" : "elder",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "elder",
+            "weight" : "1",
+            "pos" : 929,
+            "context" : "...long pauseand sometimes did not open them at all.The <mark>elder<\/mark> man had a curiously uneven andshaky method of walking,...",
+            "fid" : "page-12" },
+          
+          { "form" : "elderly",
+            "weight" : "1",
+            "pos" : 1203,
+            "context" : "...closely as to be slightly puzzled by his gestures came two <mark>elderly<\/mark> women of the lower middle class, one  and , the...",
+            "fid" : "page-15" } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "author",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "author",
+            "weight" : "1",
+            "pos" : 5,
+            "context" : "<mark>author<\/mark>: Virginia Woolf" } ] } ] }

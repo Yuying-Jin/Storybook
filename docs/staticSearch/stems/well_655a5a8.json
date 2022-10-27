@@ -1,0 +1,42 @@
+
+  { "stem" : "well",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "well",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...part of the border decoration that takes up the margins as <mark>well<\/mark> as the bottom half of the page. The designs are...",
+            "fid" : "page-4" },
+          
+          { "form" : "Well",
+            "weight" : "1",
+            "pos" : 546,
+            "context" : "...thinking of Lily, the woman I might have married.... <mark>Well<\/mark>, why are you silent? Do you mind my thinking...",
+            "fid" : "page-8" },
+          
+          { "form" : "well",
+            "weight" : "1",
+            "pos" : 1034,
+            "context" : "...of rubber to insulate the wire—isolate?—insulate?—<mark>well<\/mark>, we'll skip the details, no good going into details...",
+            "fid" : "page-13" },
+          
+          { "form" : "well",
+            "weight" : "1",
+            "pos" : 1227,
+            "context" : "...any sign of eccentricity betokening a disordered , especially in the <mark>well<\/mark>-to-do; but they were too far off to be certain...",
+            "fid" : "page-15" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "well",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...how the writing imitated the social structure of the time as <mark>well<\/mark> as how the language differs from today. " } ] } ] }

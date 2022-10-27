@@ -1,0 +1,14 @@
+
+  { "stem" : "proper",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "properly",
+            "weight" : "1",
+            "pos" : 1056,
+            "context" : "...will say, on a neat  stand. All arrangements being <mark>properly<\/mark> fixed by workmen under my direction, the widow applies her...",
+            "fid" : "page-13" } ] } ] }

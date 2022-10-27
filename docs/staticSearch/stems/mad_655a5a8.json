@@ -1,0 +1,14 @@
+
+  { "stem" : "mad",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mad",
+            "weight" : "1",
+            "pos" : 1235,
+            "context" : "...to be certain whether the gestures were merely eccentric or genuinely <mark>mad<\/mark>. After they had scrutinised the old man' back in silence...",
+            "fid" : "page-15" } ] } ] }

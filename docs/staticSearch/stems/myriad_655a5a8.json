@@ -1,0 +1,14 @@
+
+  { "stem" : "myriad",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "myriads",
+            "weight" : "1",
+            "pos" : 2056,
+            "context" : "...the top of which the voices cried aloud and the  of <mark>myriads<\/mark> of s flashed their colours into the . ",
+            "fid" : "page-24" } ] } ] }

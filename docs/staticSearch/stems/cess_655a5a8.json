@@ -1,0 +1,14 @@
+
+  { "stem" : "cess",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Cess",
+            "weight" : "1",
+            "pos" : 1255,
+            "context" : "...their very complicated dialogue: \"Nell, Bert, Lot, <mark>Cess<\/mark>, Phil, Pa, he says, I says,...",
+            "fid" : "page-15" } ] } ] }

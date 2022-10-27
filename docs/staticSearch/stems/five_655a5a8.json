@@ -1,0 +1,14 @@
+
+  { "stem" : "five",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "five",
+            "weight" : "1",
+            "pos" : 666,
+            "context" : "...when I would allow myself to think of the kiss for <mark>five<\/mark> minutes only—it was so precious— the kiss of an old...",
+            "fid" : "page-9" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "knew",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "knew",
+            "weight" : "1",
+            "pos" : 459,
+            "context" : "...I spoke I saw her  and when it moved impatiently I <mark>knew<\/mark> without looking up what she was going to say: the...",
+            "fid" : "page-7" } ] } ] }

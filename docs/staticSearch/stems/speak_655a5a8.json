@@ -1,0 +1,20 @@
+
+  { "stem" : "speak",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "speaking",
+            "weight" : "1",
+            "pos" : 919,
+            "context" : "...while his companion spoke, anddirectly his companion had done <mark>speaking<\/mark>he looked on the  again and some-times opened his  only...",
+            "fid" : "page-12" },
+          
+          { "form" : "speaking",
+            "weight" : "1",
+            "pos" : 1128,
+            "context" : "...man bent his  to it and seemed to answer a voice <mark>speaking<\/mark> from it, for he began talking about the  of Uruguay which...",
+            "fid" : "page-14" } ] } ] }

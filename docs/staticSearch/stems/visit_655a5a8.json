@@ -1,0 +1,14 @@
+
+  { "stem" : "visit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "visited",
+            "weight" : "1",
+            "pos" : 1133,
+            "context" : "...for he began talking about the  of Uruguay which he had <mark>visited<\/mark> hundreds of years ago in company with the most beautiful young...",
+            "fid" : "page-14" } ] } ] }

@@ -1,0 +1,56 @@
+
+  { "stem" : "thick",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "thick",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...grey speckling. The title font and information is the same <mark>thick<\/mark> typefaced font, almost like \"Impact\". —— #edm",
+            "fid" : "page-1" },
+          
+          { "form" : "thick",
+            "weight" : "1",
+            "pos" : 335,
+            "context" : "...same origin. They sit upon large leaves that cast a <mark>thick<\/mark> shadow. —— #edm",
+            "fid" : "page-6" },
+          
+          { "form" : "thick",
+            "weight" : "1",
+            "pos" : 510,
+            "context" : "...text. At the very bottom of the page are three <mark>thick<\/mark> black lines. —— #edm",
+            "fid" : "page-8" },
+          
+          { "form" : "thick",
+            "weight" : "1",
+            "pos" : 1073,
+            "context" : "14One <mark>thick<\/mark> and one thin curve at the top, right and bottom...",
+            "fid" : "page-14" },
+          
+          { "form" : "thick",
+            "weight" : "1",
+            "pos" : 1186,
+            "context" : "...side of the text. At the bottom, there is <mark>thick<\/mark> solid curve, and a rhombus grid breaks it in the...",
+            "fid" : "page-15" },
+          
+          { "form" : "thick",
+            "weight" : "1",
+            "pos" : 1287,
+            "context" : "...top, 15 short arcs form a long arc. One <mark>thick<\/mark> solid straight line is on the left, and one is...",
+            "fid" : "page-16" },
+          
+          { "form" : "thickness",
+            "weight" : "1",
+            "pos" : 1757,
+            "context" : "...there are two straight lines with the similar length but different <mark>thickness<\/mark>. —— #yxj",
+            "fid" : "page-21" },
+          
+          { "form" : "thick",
+            "weight" : "1",
+            "pos" : 1982,
+            "context" : "...wavering from them as if they were flames lolling from the <mark>thick<\/mark> waxen  of candles. ",
+            "fid" : "page-23" } ] } ] }

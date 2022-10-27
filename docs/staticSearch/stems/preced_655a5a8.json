@@ -1,0 +1,14 @@
+
+  { "stem" : "preced",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "precedes",
+            "weight" : "1",
+            "pos" : 1493,
+            "context" : "...the prime of youth, or even in that season which <mark>precedes<\/mark> the prime of youth, the season before the smooth  folds...",
+            "fid" : "page-18" } ] } ] }

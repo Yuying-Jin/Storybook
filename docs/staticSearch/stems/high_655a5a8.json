@@ -1,0 +1,26 @@
+
+  { "stem" : "high",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 759,
+            "context" : "...in front of it, differing in this respect from the singular <mark>high<\/mark> stepping angular green  who attempted to cross in front of it,...",
+            "fid" : "page-10" },
+          
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 1442,
+            "context" : "...and beneath it, for there was a point where the  curved <mark>high<\/mark> enough from the ground to admit him. He had just inserted...",
+            "fid" : "page-17" },
+          
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 1451,
+            "context" : "...inserted his  in the opening and was taking stock of the <mark>high<\/mark>  roof and was getting used to the cool  light when two...",
+            "fid" : "page-17" } ] } ] }

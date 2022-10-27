@@ -1,0 +1,20 @@
+
+  { "stem" : "smooth",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "smooth",
+            "weight" : "1",
+            "pos" : 255,
+            "context" : "...the most intricate colour. The light fell either upon the <mark>smooth<\/mark>,  back of a , or, the shell of a  with...",
+            "fid" : "page-5" },
+          
+          { "form" : "smooth",
+            "weight" : "1",
+            "pos" : 1497,
+            "context" : "...which precedes the prime of youth, the season before the <mark>smooth<\/mark>  folds of the s have burst their gummy case, when...",
+            "fid" : "page-18" } ] } ] }

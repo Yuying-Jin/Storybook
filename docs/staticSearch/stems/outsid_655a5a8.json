@@ -1,0 +1,20 @@
+
+  { "stem" : "outsid",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "outside",
+            "weight" : "1",
+            "pos" : 949,
+            "context" : "...rather in the manner of an impatient carriage tired of waiting <mark>outside<\/mark> a ; butin the man these gestures were irresolute and...",
+            "fid" : "page-12" },
+          
+          { "form" : "outside",
+            "weight" : "1",
+            "pos" : 1463,
+            "context" : "...used to the cool  light when two other people came past <mark>outside<\/mark> on the . This time they were both young, a...",
+            "fid" : "page-17" } ] } ] }

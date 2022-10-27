@@ -1,0 +1,14 @@
+
+  { "stem" : "throw",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throwing",
+            "weight" : "1",
+            "pos" : 939,
+            "context" : "...andshaky method of walking, jerking his handforward and <mark>throwing<\/mark> up his  abruptly,rather in the manner of an impatient...",
+            "fid" : "page-12" } ] } ] }

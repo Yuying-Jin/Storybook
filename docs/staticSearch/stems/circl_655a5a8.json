@@ -1,0 +1,44 @@
+
+  { "stem" : "circl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "circling",
+            "weight" : "1",
+            "pos" : 440,
+            "context" : "...marry me all through the hot afternoon. How the  kept <mark>circling<\/mark> round us: how clearly I see the  and her  with...",
+            "fid" : "page-7" },
+          
+          { "form" : "circle",
+            "weight" : "1",
+            "pos" : 979,
+            "context" : "...symmetrical. At the center of bottom, there is a <mark>circle<\/mark> filled with many dots. There are symmetrical dashed curves on...",
+            "fid" : "page-13" },
+          
+          { "form" : "circle",
+            "weight" : "1",
+            "pos" : 987,
+            "context" : ".... There are symmetrical dashed curves on both sides of the <mark>circle<\/mark>. A long solid curve is below the circle.—— #...",
+            "fid" : "page-13" },
+          
+          { "form" : "circle",
+            "weight" : "1",
+            "pos" : 991,
+            "context" : "...of the circle. A long solid curve is below the <mark>circle<\/mark>.—— #yxj",
+            "fid" : "page-13" },
+          
+          { "form" : "circles",
+            "weight" : "1",
+            "pos" : 1579,
+            "context" : "...consists of six arcs, and each arc has two concentric <mark>circles<\/mark> above it. —— #yxj",
+            "fid" : "page-19" },
+          
+          { "form" : "circle",
+            "weight" : "1",
+            "pos" : 2008,
+            "context" : "...polylines separately. Between the two arcs, there is a <mark>circle<\/mark> flower core.—— #yxj",
+            "fid" : "page-24" } ] } ] }

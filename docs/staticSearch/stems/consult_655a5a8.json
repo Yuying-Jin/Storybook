@@ -1,0 +1,30 @@
+
+  { "stem" : "consult",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "consultant",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "...my imagination lead me with these pages. Along with our <mark>consultant<\/mark>, Professor Beshero of Penn State: The Behrend Campus,...",
+            "fid" : "#edm" },
+          
+          { "form" : "consultant",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...lot of help on coding relax NG and xslt from our <mark>consultant<\/mark>, professor Beshero, so finally we got satisfactory relax ng...",
+            "fid" : "#yxj" } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "consultant",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "<mark>consultant<\/mark>: ebb" } ] } ] }

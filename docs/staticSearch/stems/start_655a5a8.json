@@ -1,0 +1,14 @@
+
+  { "stem" : "start",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "starts",
+            "weight" : "1",
+            "pos" : 1346,
+            "context" : "...his  and opens them, and seeing the brass candlestick again, finally <mark>starts<\/mark> wide awake and stares at the candle- stick with all...",
+            "fid" : "page-16" } ] } ] }

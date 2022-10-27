@@ -1,0 +1,44 @@
+
+  { "stem" : "light",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...-shape center with yellow squiggles with burnt maroon, and <mark>light<\/mark> bluish-grey speckling. The title font and information is...",
+            "fid" : "page-1" },
+          
+          { "form" : "lights",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "...by the , and when they moved, the ,  and  <mark>lights<\/mark> passed one over the other, staining an inch of the   beneath...",
+            "fid" : "page-5" },
+          
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...beneath with a spot of the most intricate colour. The <mark>light<\/mark> fell either upon the smooth,  back of a , or,...",
+            "fid" : "page-5" },
+          
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "..., the  was left in a second  once more, and the <mark>light<\/mark> now settled upon the flesh of a , revealing the branching...",
+            "fid" : "page-5" },
+          
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 1336,
+            "context" : "...waking from a heavy sleep sees a brass candlestick reflecting the <mark>light<\/mark> in an unfamiliar way, and closes his  and opens them,...",
+            "fid" : "page-16" },
+          
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 1458,
+            "context" : "...of the high  roof and was getting used to the cool  <mark>light<\/mark> when two other people came past outside on the . This...",
+            "fid" : "page-17" } ] } ] }

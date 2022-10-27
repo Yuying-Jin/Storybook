@@ -1,0 +1,14 @@
+
+  { "stem" : "insert",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "inserted",
+            "weight" : "1",
+            "pos" : 1446,
+            "context" : "...high enough from the ground to admit him. He had just <mark>inserted<\/mark> his  in the opening and was taking stock of the high...",
+            "fid" : "page-17" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "nest",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "nesting",
+            "weight" : "1",
+            "pos" : 620,
+            "context" : "...under margin patterns. The bottom area has big curly loops <mark>nesting<\/mark> black dots between it and the text. —— #edm...",
+            "fid" : "page-9" },
+          
+          { "form" : "nest",
+            "weight" : "1",
+            "pos" : 2039,
+            "context" : "...the  were turning their  and changing their ; like a vast <mark>nest<\/mark> of Chinese boxes all of wrought  turning ceaselessly one within another...",
+            "fid" : "page-24" } ] } ] }

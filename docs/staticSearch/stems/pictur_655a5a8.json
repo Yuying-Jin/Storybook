@@ -1,0 +1,20 @@
+
+  { "stem" : "pictur",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Picture",
+            "weight" : "1",
+            "pos" : 1175,
+            "context" : "15<mark>Picture<\/mark> of bushes fills at the top. A twist is on...",
+            "fid" : "page-15" },
+          
+          { "form" : "picture",
+            "weight" : "1",
+            "pos" : 1808,
+            "context" : "22At the top of the page, the <mark>picture<\/mark> looks like the roof of a pavilion. We can find...",
+            "fid" : "page-22" } ] } ] }

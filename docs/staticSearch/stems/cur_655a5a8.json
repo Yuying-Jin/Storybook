@@ -1,0 +1,20 @@
+
+  { "stem" : "cur",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "curly",
+            "weight" : "1",
+            "pos" : 618,
+            "context" : "...under the under margin patterns. The bottom area has big <mark>curly<\/mark> loops nesting black dots between it and the text. ——...",
+            "fid" : "page-9" },
+          
+          { "form" : "curly",
+            "weight" : "1",
+            "pos" : 788,
+            "context" : "...plants sprout from the bottom left corner, and end in <mark>curly<\/mark> lines that have straight shading lines above them to convey petals...",
+            "fid" : "page-11" } ] } ] }

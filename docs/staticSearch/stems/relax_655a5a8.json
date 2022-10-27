@@ -1,0 +1,26 @@
+
+  { "stem" : "relax",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "relax",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...for transcribing and describing of pages 13-24 and coding <mark>relax<\/mark> NG and xslt files. I got a lot of help...",
+            "fid" : "#yxj" },
+          
+          { "form" : "relax",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...xslt files. I got a lot of help on coding <mark>relax<\/mark> NG and xslt from our consultant, professor Beshero, so...",
+            "fid" : "#yxj" },
+          
+          { "form" : "relax",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...our consultant, professor Beshero, so finally we got satisfactory <mark>relax<\/mark> ng and xslt files. ",
+            "fid" : "#yxj" } ] } ] }

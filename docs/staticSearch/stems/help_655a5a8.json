@@ -1,0 +1,14 @@
+
+  { "stem" : "help",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "help",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...relax NG and xslt files. I got a lot of <mark>help<\/mark> on coding relax NG and xslt from our consultant, professor...",
+            "fid" : "#yxj" } ] } ] }

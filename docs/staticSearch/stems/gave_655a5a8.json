@@ -1,0 +1,14 @@
+
+  { "stem" : "gave",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gave",
+            "weight" : "1",
+            "pos" : 1637,
+            "context" : "...this before? Even when she wondered what sort of tea they <mark>gave<\/mark> you at Kew he felt that something loomed up behind her...",
+            "fid" : "page-19" } ] } ] }

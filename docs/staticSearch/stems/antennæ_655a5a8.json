@@ -1,0 +1,14 @@
+
+  { "stem" : "antennæ",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "antennæ",
+            "weight" : "1",
+            "pos" : 769,
+            "context" : "...in front of it, and waited for a second withits <mark>antennæ<\/mark> trembling as if in deliberation, and then stepped off as...",
+            "fid" : "page-10" } ] } ] }

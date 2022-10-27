@@ -1,0 +1,14 @@
+
+  { "stem" : "typefac",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "typefaced",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...speckling. The title font and information is the same thick <mark>typefaced<\/mark> font, almost like \"Impact\". —— #edm",
+            "fid" : "page-1" } ] } ] }

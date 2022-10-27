@@ -1,0 +1,14 @@
+
+  { "stem" : "ceaseless",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ceaselessly",
+            "weight" : "1",
+            "pos" : 2045,
+            "context" : "...like a vast nest of Chinese boxes all of wrought  turning <mark>ceaselessly<\/mark> one within another the city murmured; on the top of...",
+            "fid" : "page-24" } ] } ] }

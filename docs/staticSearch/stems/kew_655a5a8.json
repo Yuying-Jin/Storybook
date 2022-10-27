@@ -1,0 +1,83 @@
+
+  { "stem" : "kew",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 1,
+            "context" : " <mark>Kew<\/mark> Gardens | Table | About ",
+            "fid" : "menu" },
+          
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "sourceLink: <mark>Kew<\/mark> Gardens by Virginia Woolf, 1927 " },
+          
+          { "form" : "KEW",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "1 <mark>KEW<\/mark> GARDENSBYVIRGINIA WOOLFDECORATIONSBYVANESSA BELLTHEHOGARTH PRESS...",
+            "fid" : "page-1" },
+          
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "2 <mark>Kew<\/mark> Gardens by Virginia Woolf decorated by Vanessa Bell published by the...",
+            "fid" : "page-2" },
+          
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "4 <mark>Kew<\/mark> Gardens is written at the top in a handwritten, storybook...",
+            "fid" : "page-4" },
+          
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 350,
+            "context" : "<mark>Kew<\/mark> Gardens",
+            "fid" : "page-6",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 1638,
+            "context" : "...when she wondered what sort of tea they gave you at <mark>Kew<\/mark> he felt that something loomed up behind her words and stood...",
+            "fid" : "page-19" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 1,
+            "context" : " <mark>Kew<\/mark> Gardens | Table | About ",
+            "fid" : "menu" },
+          
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : " Though <mark>Kew<\/mark> Gardens is not my favorite writing, I do love the..." } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 1,
+            "context" : " <mark>Kew<\/mark> Gardens | Table | About ",
+            "fid" : "menu" },
+          
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "<mark>Kew<\/mark> Gardens" } ] } ] }

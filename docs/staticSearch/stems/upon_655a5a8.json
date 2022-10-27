@@ -1,0 +1,68 @@
+
+  { "stem" : "upon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "upon",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "...at the tip  or  or   marked with spots of colour raised <mark>upon<\/mark> the surface; and from the ,  or  gloom of the...",
+            "fid" : "page-4" },
+          
+          { "form" : "upon",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "...spot of the most intricate colour. The light fell either <mark>upon<\/mark> the smooth,  back of a , or, the shell of...",
+            "fid" : "page-5" },
+          
+          { "form" : "upon",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...left in a second  once more, and the light now settled <mark>upon<\/mark> the flesh of a , revealing the branching thread of fibre...",
+            "fid" : "page-5" },
+          
+          { "form" : "upon",
+            "weight" : "1",
+            "pos" : 331,
+            "context" : "...flowers that seemingly come from the same origin. They sit <mark>upon<\/mark> large leaves that cast a thick shadow. —— #edm...",
+            "fid" : "page-6" },
+          
+          { "form" : "upon",
+            "weight" : "1",
+            "pos" : 1097,
+            "context" : "...shade looked a . He took off his , placed his  <mark>upon<\/mark> his , and hurried towards her muttering and gesticulating feverishly....",
+            "fid" : "page-14" },
+          
+          { "form" : "upon",
+            "weight" : "1",
+            "pos" : 1164,
+            "context" : "...as he suffered himself to be moved on by William, <mark>upon<\/mark> whose  the look of stoical patience grew slowly deeper and deeper...",
+            "fid" : "page-14" },
+          
+          { "form" : "upon",
+            "weight" : "1",
+            "pos" : 1609,
+            "context" : "...meaning, inadequate to carry them far and thus alighting awkwardly <mark>upon<\/mark> the very common objects that surrounded them and were to their...",
+            "fid" : "page-19" },
+          
+          { "form" : "upon",
+            "weight" : "1",
+            "pos" : 1942,
+            "context" : "..., men, women and children were spotted for a second <mark>upon<\/mark> the horizon, and then, seeing the breadth of  that lay...",
+            "fid" : "page-23" },
+          
+          { "form" : "upon",
+            "weight" : "1",
+            "pos" : 1948,
+            "context" : "...the horizon, and then, seeing the breadth of  that lay <mark>upon<\/mark> the , they wavered and sought shade beneath the , dissolving...",
+            "fid" : "page-23" },
+          
+          { "form" : "upon",
+            "weight" : "1",
+            "pos" : 1975,
+            "context" : "...heavy  had sunk down in the heat motionless and lay huddled <mark>upon<\/mark> the ground, but their voices went wavering from them as...",
+            "fid" : "page-23" } ] } ] }

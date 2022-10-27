@@ -1,0 +1,26 @@
+
+  { "stem" : "wart",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wart",
+            "weight" : "1",
+            "pos" : 674,
+            "context" : "<mark>wart<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wart",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "<mark>wart<\/mark>" } ] } ] }

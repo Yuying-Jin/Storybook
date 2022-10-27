@@ -1,0 +1,26 @@
+
+  { "stem" : "whose",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "whose",
+            "weight" : "1",
+            "pos" : 729,
+            "context" : "10 In the   the , <mark>whose<\/mark> shellhad been stained , , and  for thespace of...",
+            "fid" : "page-10" },
+          
+          { "form" : "whose",
+            "weight" : "1",
+            "pos" : 1165,
+            "context" : "...he suffered himself to be moved on by William, upon <mark>whose<\/mark>  the look of stoical patience grew slowly deeper and deeper....",
+            "fid" : "page-14" },
+          
+          { "form" : "whose",
+            "weight" : "1",
+            "pos" : 1562,
+            "context" : "...The container of this page looks like a piece of paper <mark>whose<\/mark> upper left corner and upper right corner are slightly rolled up....",
+            "fid" : "page-19" } ] } ] }

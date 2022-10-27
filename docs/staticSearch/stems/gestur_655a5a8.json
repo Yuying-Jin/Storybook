@@ -1,0 +1,26 @@
+
+  { "stem" : "gestur",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "gestures",
+            "weight" : "1",
+            "pos" : 952,
+            "context" : "...tired of waiting outside a ; butin the man these <mark>gestures<\/mark> were irresolute andpointless. He talked almost incessantly; he...",
+            "fid" : "page-12" },
+          
+          { "form" : "gestures",
+            "weight" : "1",
+            "pos" : 1200,
+            "context" : "...his steps so closely as to be slightly puzzled by his <mark>gestures<\/mark> came two elderly women of the lower middle class, one...",
+            "fid" : "page-15" },
+          
+          { "form" : "gestures",
+            "weight" : "1",
+            "pos" : 1231,
+            "context" : "...but they were too far off to be certain whether the <mark>gestures<\/mark> were merely eccentric or genuinely mad. After they had scrutinised...",
+            "fid" : "page-15" } ] } ] }

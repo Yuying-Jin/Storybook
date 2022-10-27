@@ -1,0 +1,24 @@
+
+  { "stem" : "scroll",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scrolling",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...I do love the imagery. I also like how the <mark>scrolling<\/mark> drawings on the margins correlate to some of the content...." } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scroll",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...The designs are flowers and leaves painting in a simplisting, <mark>scroll<\/mark>-y style with black ink. —— #edm",
+            "fid" : "page-4" } ] } ] }

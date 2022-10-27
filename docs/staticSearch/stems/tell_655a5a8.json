@@ -1,0 +1,20 @@
+
+  { "stem" : "tell",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tell",
+            "weight" : "1",
+            "pos" : 529,
+            "context" : "...I shouldn't be walking here with Eleanor and the children—<mark>Tell<\/mark> me, Eleanor. D'you ever think of the past?\" \"Why...",
+            "fid" : "page-8" },
+          
+          { "form" : "telling",
+            "weight" : "1",
+            "pos" : 1000,
+            "context" : "...of the dead, who, according to him, were even now <mark>telling<\/mark> him all sorts of odd things about their experiences in Heaven...",
+            "fid" : "page-13" } ] } ] }

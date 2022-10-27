@@ -1,0 +1,39 @@
+
+  { "stem" : "buckl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "buckle",
+            "weight" : "1",
+            "pos" : 451,
+            "context" : "<mark>buckle<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "buckle",
+            "weight" : "1",
+            "pos" : 579,
+            "context" : "shoe <mark>buckle<\/mark>",
+            "fid" : "page-8",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "buckle",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "<mark>buckle<\/mark>" },
+          
+          { "form" : "buckle",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "shoe <mark>buckle<\/mark>" } ] } ] }

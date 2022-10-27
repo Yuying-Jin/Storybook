@@ -1,0 +1,14 @@
+
+  { "stem" : "flight",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flights",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "...that of the  and   who crossed the  in zig-zag <mark>flights<\/mark> from bed to bed. The man was about six inches...",
+            "fid" : "page-6" } ] } ] }

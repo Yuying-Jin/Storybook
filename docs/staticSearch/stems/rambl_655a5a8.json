@@ -1,0 +1,14 @@
+
+  { "stem" : "rambl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rambling",
+            "weight" : "1",
+            "pos" : 1872,
+            "context" : "...long pauses between one movement and the next; instead of <mark>rambling<\/mark> vaguely the   danced one above another, making with their  shifting...",
+            "fid" : "page-22" } ] } ] }

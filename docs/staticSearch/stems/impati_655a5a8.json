@@ -1,0 +1,26 @@
+
+  { "stem" : "impati",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "impatiently",
+            "weight" : "1",
+            "pos" : 458,
+            "context" : "...the time I spoke I saw her  and when it moved <mark>impatiently<\/mark> I knew without looking up what she was going to say...",
+            "fid" : "page-7" },
+          
+          { "form" : "impatient",
+            "weight" : "1",
+            "pos" : 944,
+            "context" : "...throwing up his  abruptly,rather in the manner of an <mark>impatient<\/mark> carriage tired of waiting outside a ; butin the man...",
+            "fid" : "page-12" },
+          
+          { "form" : "impatient",
+            "weight" : "1",
+            "pos" : 1715,
+            "context" : "...pulled the parasol out of the  with a jerk and was <mark>impatient<\/mark> to find the place where one had tea with other people...",
+            "fid" : "page-20" } ] } ] }

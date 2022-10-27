@@ -1,0 +1,20 @@
+
+  { "stem" : "answer",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "answer",
+            "weight" : "1",
+            "pos" : 962,
+            "context" : "...began to talk,as if the smile had been an <mark>answer<\/mark>. ",
+            "fid" : "page-12" },
+          
+          { "form" : "answer",
+            "weight" : "1",
+            "pos" : 1126,
+            "context" : "...confusion the old man bent his  to it and seemed to <mark>answer<\/mark> a voice speaking from it, for he began talking about the...",
+            "fid" : "page-14" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "pagoda",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pagoda",
+            "weight" : "1",
+            "pos" : 1799,
+            "context" : "<mark>pagoda<\/mark>",
+            "fid" : "page-21",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pagoda",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "<mark>pagoda<\/mark>" } ] } ] }

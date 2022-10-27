@@ -1,0 +1,14 @@
+
+  { "stem" : "waitress",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "waitresses",
+            "weight" : "1",
+            "pos" : 1683,
+            "context" : "...heavens!— what were those shapes?—little  tables, and <mark>waitresses<\/mark> who looked first at her and then at him; and there...",
+            "fid" : "page-20" } ] } ] }

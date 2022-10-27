@@ -1,0 +1,14 @@
+
+  { "stem" : "progress",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "progress",
+            "weight" : "1",
+            "pos" : 844,
+            "context" : "...athin crackling texture—all these objects layacross the 's <mark>progress<\/mark> between one stalkand another to his goal. Before he...",
+            "fid" : "page-11" } ] } ] }

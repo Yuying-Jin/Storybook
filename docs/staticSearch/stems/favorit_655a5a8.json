@@ -1,0 +1,19 @@
+
+  { "stem" : "favorit",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "favorite",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...of trial and error, but that is one of my <mark>favorite<\/mark> ways to learn in this medium. I also drew the...",
+            "fid" : "#edm" },
+          
+          { "form" : "favorite",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : " Though Kew Gardens is not my <mark>favorite<\/mark> writing, I do love the imagery. I also like..." } ] } ] }

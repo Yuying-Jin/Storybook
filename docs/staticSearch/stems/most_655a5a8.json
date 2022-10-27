@@ -1,0 +1,14 @@
+
+  { "stem" : "most",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mostly",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : " During this project, I <mark>mostly<\/mark> worked on the HTML and CSS (with some XSLT and XML...",
+            "fid" : "#edm" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "curious",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "curiously",
+            "weight" : "1",
+            "pos" : 361,
+            "context" : "...figures of these men and women straggled past the  with a <mark>curiously<\/mark> irregular movement not unlike that of the  and   who crossed the...",
+            "fid" : "page-6" },
+          
+          { "form" : "curiously",
+            "weight" : "1",
+            "pos" : 931,
+            "context" : "...did not open them at all.The elder man had a <mark>curiously<\/mark> uneven andshaky method of walking, jerking his handforward...",
+            "fid" : "page-12" },
+          
+          { "form" : "curious",
+            "weight" : "1",
+            "pos" : 1325,
+            "context" : "...cool, firm and upright in the earth, with a <mark>curious<\/mark> expression. She saw them as a sleeper waking from a...",
+            "fid" : "page-16" } ] } ] }

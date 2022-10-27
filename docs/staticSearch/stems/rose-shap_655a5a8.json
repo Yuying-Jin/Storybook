@@ -1,0 +1,14 @@
+
+  { "stem" : "rose-shap",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rose-shaped",
+            "weight" : "1",
+            "pos" : 419,
+            "context" : "..., there is a bouncy swirly design that ends in a <mark>rose-shaped<\/mark> flower. —— #edm",
+            "fid" : "page-7" } ] } ] }

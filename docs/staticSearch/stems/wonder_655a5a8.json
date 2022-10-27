@@ -1,0 +1,14 @@
+
+  { "stem" : "wonder",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wondered",
+            "weight" : "1",
+            "pos" : 1634,
+            "context" : "...knows? Who has ever seen this before? Even when she <mark>wondered<\/mark> what sort of tea they gave you at Kew he felt...",
+            "fid" : "page-19" } ] } ] }

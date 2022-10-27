@@ -1,0 +1,14 @@
+
+  { "stem" : "forget",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "forgetting",
+            "weight" : "1",
+            "pos" : 1788,
+            "context" : "...her parasol, turning her  this way and that way, <mark>forgetting<\/mark> her tea, wishing to go down there and then down...",
+            "fid" : "page-21" } ] } ] }

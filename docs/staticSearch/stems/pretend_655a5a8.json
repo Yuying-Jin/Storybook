@@ -1,0 +1,14 @@
+
+  { "stem" : "pretend",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pretend",
+            "weight" : "1",
+            "pos" : 1364,
+            "context" : "...to a standstill opposite the  shaped , and ceased even to <mark>pretend<\/mark> to listen to what the other woman was saying. She...",
+            "fid" : "page-16" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "imagin",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "imagination",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...which was 100% fine with me! So, I let my <mark>imagination<\/mark> lead me with these pages. Along with our consultant,...",
+            "fid" : "#edm" } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Imagine",
+            "weight" : "1",
+            "pos" : 626,
+            "context" : "9 \"For me, a kiss. <mark>Imagine<\/mark> six little girls sitting before their  twenty years ago, down...",
+            "fid" : "page-9" } ] } ] }

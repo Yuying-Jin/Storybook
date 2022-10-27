@@ -1,0 +1,30 @@
+
+  { "stem" : "though",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "though",
+            "weight" : "1",
+            "pos" : 399,
+            "context" : "...man kept this distance in front of the woman purposely, <mark>though<\/mark> perhaps unconsciously, for he wished to go on with his...",
+            "fid" : "page-6" },
+          
+          { "form" : "though",
+            "weight" : "1",
+            "pos" : 1506,
+            "context" : "...burst their gummy case, when the wings of the , <mark>though<\/mark> fully grown, are motionless in the . \"Lucky it isn't...",
+            "fid" : "page-18" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Though",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : " <mark>Though<\/mark> Kew Gardens is not my favorite writing, I do love..." } ] } ] }

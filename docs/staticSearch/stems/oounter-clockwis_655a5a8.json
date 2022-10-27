@@ -1,0 +1,14 @@
+
+  { "stem" : "oounter-clockwis",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "oounter-clockwise",
+            "weight" : "1",
+            "pos" : 409,
+            "context" : "7 Going from the top right, moving <mark>oounter-clockwise<\/mark> and ending at the bottom right, there is a bouncy...",
+            "fid" : "page-7" } ] } ] }

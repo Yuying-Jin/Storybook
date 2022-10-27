@@ -1,0 +1,14 @@
+
+  { "stem" : "doubt",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "doubtful",
+            "weight" : "1",
+            "pos" : 1421,
+            "context" : "...Let alone the effort needed for climbing a , he was <mark>doubtful<\/mark> whether the thin texture which vibrated with such an alarming crackle...",
+            "fid" : "page-17" } ] } ] }

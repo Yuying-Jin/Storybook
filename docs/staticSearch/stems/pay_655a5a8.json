@@ -1,0 +1,20 @@
+
+  { "stem" : "pay",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "pay",
+            "weight" : "1",
+            "pos" : 1519,
+            "context" : "...observed. \"Why? D'you believe in luck?\" \"They make you <mark>pay<\/mark> sixpence on Friday.\" What's sixpence anyway? Isn't it worth...",
+            "fid" : "page-18" },
+          
+          { "form" : "pay",
+            "weight" : "1",
+            "pos" : 1688,
+            "context" : "...then at him; and there was a bill that he would <mark>pay<\/mark> with a real two shilling piece, and it was real...",
+            "fid" : "page-20" } ] } ] }

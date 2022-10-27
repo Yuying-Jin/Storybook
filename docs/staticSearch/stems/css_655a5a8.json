@@ -1,0 +1,20 @@
+
+  { "stem" : "css",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "CSS",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "...During this project, I mostly worked on the HTML and <mark>CSS<\/mark> (with some XSLT and XML debugging). My greatest experience was...",
+            "fid" : "#edm" },
+          
+          { "form" : "CSS",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "...XSLT and XML debugging). My greatest experience was with the <mark>CSS<\/mark>. I was assigned to be the designer of this website...",
+            "fid" : "#edm" } ] } ] }

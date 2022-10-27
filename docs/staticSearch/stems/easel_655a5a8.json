@@ -1,0 +1,26 @@
+
+  { "stem" : "easel",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "easels",
+            "weight" : "1",
+            "pos" : 631,
+            "context" : "<mark>easels<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "easels",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "<mark>easels<\/mark>" } ] } ] }

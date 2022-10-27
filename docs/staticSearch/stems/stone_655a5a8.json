@@ -1,0 +1,26 @@
+
+  { "stem" : "stone",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stone",
+            "weight" : "1",
+            "pos" : 833,
+            "context" : "<mark>stone<\/mark>",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stone",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "<mark>stone<\/mark>" } ] } ] }

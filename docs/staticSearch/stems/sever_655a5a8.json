@@ -1,0 +1,14 @@
+
+  { "stem" : "sever",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "several",
+            "weight" : "1",
+            "pos" : 1295,
+            "context" : "...one is on the right. Both they are broken by <mark>several<\/mark> petals. At the bottom, some curves and straight lines...",
+            "fid" : "page-16" } ] } ] }

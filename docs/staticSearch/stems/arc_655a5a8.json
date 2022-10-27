@@ -1,0 +1,44 @@
+
+  { "stem" : "arc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "arcs",
+            "weight" : "1",
+            "pos" : 1282,
+            "context" : "16At the top, 15 short <mark>arcs<\/mark> form a long arc. One thick solid straight line is...",
+            "fid" : "page-16" },
+          
+          { "form" : "arc",
+            "weight" : "1",
+            "pos" : 1285,
+            "context" : "...16At the top, 15 short arcs form a long <mark>arc<\/mark>. One thick solid straight line is on the left,...",
+            "fid" : "page-16" },
+          
+          { "form" : "arcs",
+            "weight" : "1",
+            "pos" : 1575,
+            "context" : "...are slightly rolled up. The bottom the paper consists of six <mark>arcs<\/mark>, and each arc has two concentric circles above it. ——...",
+            "fid" : "page-19" },
+          
+          { "form" : "arc",
+            "weight" : "1",
+            "pos" : 1576,
+            "context" : "...The bottom the paper consists of six arcs, and each <mark>arc<\/mark> has two concentric circles above it. —— #yxj",
+            "fid" : "page-19" },
+          
+          { "form" : "arcs",
+            "weight" : "1",
+            "pos" : 2001,
+            "context" : "...the page. In the center of the bottom, two <mark>arcs<\/mark> break two polylines separately. Between the two arcs, there...",
+            "fid" : "page-24" },
+          
+          { "form" : "arcs",
+            "weight" : "1",
+            "pos" : 2007,
+            "context" : "..., two arcs break two polylines separately. Between the two <mark>arcs<\/mark>, there is a circle flower core.—— #yxj",
+            "fid" : "page-24" } ] } ] }

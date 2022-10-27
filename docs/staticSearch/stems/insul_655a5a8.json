@@ -1,0 +1,20 @@
+
+  { "stem" : "insul",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "insulate",
+            "weight" : "1",
+            "pos" : 1030,
+            "context" : "...\"You have a small eletric  and a piece of rubber to <mark>insulate<\/mark> the wire—isolate?—insulate?—well, we'll skip...",
+            "fid" : "page-13" },
+          
+          { "form" : "insulate",
+            "weight" : "1",
+            "pos" : 1033,
+            "context" : "...a piece of rubber to insulate the wire—isolate?—<mark>insulate<\/mark>?—well, we'll skip the details, no good going...",
+            "fid" : "page-13" } ] } ] }

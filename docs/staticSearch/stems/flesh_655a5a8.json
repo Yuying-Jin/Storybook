@@ -1,0 +1,14 @@
+
+  { "stem" : "flesh",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flesh",
+            "weight" : "1",
+            "pos" : 287,
+            "context" : "...a second  once more, and the light now settled upon the <mark>flesh<\/mark> of a , revealing the branching thread of fibre beneath the...",
+            "fid" : "page-5" } ] } ] }

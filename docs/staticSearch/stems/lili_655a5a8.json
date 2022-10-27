@@ -1,0 +1,46 @@
+
+  { "stem" : "lili",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Lily",
+            "weight" : "1",
+            "pos" : 428,
+            "context" : "7 \"Fifteen years ago I came here with <mark>Lily<\/mark>,\" he thought. \"We sat somewhere over there by a...",
+            "fid" : "page-7" },
+          
+          { "form" : "Lily",
+            "weight" : "1",
+            "pos" : 542,
+            "context" : "...I've been thinking of the past. I've been thinking of <mark>Lily<\/mark>, the woman I might have married.... Well, why...",
+            "fid" : "page-8" },
+          
+          { "form" : "lilies",
+            "weight" : "1",
+            "pos" : 640,
+            "context" : "water-<mark>lilies<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "lilies",
+            "weight" : "1",
+            "pos" : 645,
+            "context" : "water-<mark>lilies<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lilies",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "water-<mark>lilies<\/mark>" } ] } ] }

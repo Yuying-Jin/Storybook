@@ -1,0 +1,14 @@
+
+  { "stem" : "150",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "150",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...limited to 500 numbered copies, of which this is number <mark>150<\/mark> ",
+            "fid" : "page-3" } ] } ] }

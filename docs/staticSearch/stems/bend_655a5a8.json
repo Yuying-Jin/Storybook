@@ -1,0 +1,14 @@
+
+  { "stem" : "bend",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bend",
+            "weight" : "1",
+            "pos" : 797,
+            "context" : "...shading lines above them to convey petals. The reed plants <mark>bend<\/mark> at the top margin and curve over the text. On...",
+            "fid" : "page-11" } ] } ] }

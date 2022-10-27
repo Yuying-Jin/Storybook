@@ -1,0 +1,14 @@
+
+  { "stem" : "mechan",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mechanical",
+            "weight" : "1",
+            "pos" : 1862,
+            "context" : "...hot that even the thrush chose to hop, like a <mark>mechanical<\/mark> , in the shadow of the s, with long pauses between...",
+            "fid" : "page-22" } ] } ] }

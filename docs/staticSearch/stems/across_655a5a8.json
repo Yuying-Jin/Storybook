@@ -1,0 +1,20 @@
+
+  { "stem" : "across",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "across",
+            "weight" : "1",
+            "pos" : 495,
+            "context" : "..., there is a tree, with a branch that cuts <mark>across<\/mark> the top margin. One third of the way down the...",
+            "fid" : "page-8" },
+          
+          { "form" : "across",
+            "weight" : "1",
+            "pos" : 842,
+            "context" : "...crumpled surfaces of athin crackling texture—all these objects lay<mark>across<\/mark> the 's progress between one stalkand another to his goal...",
+            "fid" : "page-11" } ] } ] }

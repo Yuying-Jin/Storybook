@@ -1,0 +1,57 @@
+
+  { "stem" : "heart",
+    "instances" : 
+    [ 
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "heart",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "<mark>heart<\/mark>-shaped, heart" },
+          
+          { "form" : "heart",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "heart-shaped, <mark>heart<\/mark>" },
+          
+          { "form" : "heart",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "<mark>heart<\/mark>-shaped, heart" },
+          
+          { "form" : "heart",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "heart-shaped, <mark>heart<\/mark>" } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "heart",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "<mark>heart<\/mark>-shaped",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "heart",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "<mark>heart<\/mark>-shaped",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "heart",
+            "weight" : "1",
+            "pos" : 1098,
+            "context" : "<mark>heart<\/mark>",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

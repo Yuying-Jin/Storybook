@@ -1,0 +1,26 @@
+
+  { "stem" : "hot",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "hot",
+            "weight" : "1",
+            "pos" : 435,
+            "context" : "...a  and I begged her to marry me all through the <mark>hot<\/mark> afternoon. How the  kept circling round us: how clearly...",
+            "fid" : "page-7" },
+          
+          { "form" : "hot",
+            "weight" : "1",
+            "pos" : 1855,
+            "context" : "...both substance and colour dissolved in the  and atmosphere. How <mark>hot<\/mark> it was! So hot that even the thrush chose to hop...",
+            "fid" : "page-22" },
+          
+          { "form" : "hot",
+            "weight" : "1",
+            "pos" : 1856,
+            "context" : "...dissolved in the  and atmosphere. How hot it was! So <mark>hot<\/mark> that even the thrush chose to hop, like a mechanical...",
+            "fid" : "page-22" } ] } ] }

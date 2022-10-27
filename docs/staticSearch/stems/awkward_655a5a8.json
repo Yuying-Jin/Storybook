@@ -1,0 +1,14 @@
+
+  { "stem" : "awkward",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "awkwardly",
+            "weight" : "1",
+            "pos" : 1608,
+            "context" : "...of meaning, inadequate to carry them far and thus alighting <mark>awkwardly<\/mark> upon the very common objects that surrounded them and were to...",
+            "fid" : "page-19" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "prime",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "prime",
+            "weight" : "1",
+            "pos" : 1489,
+            "context" : "18 They were both in the <mark>prime<\/mark> of youth, or even in that season which precedes the...",
+            "fid" : "page-18" },
+          
+          { "form" : "prime",
+            "weight" : "1",
+            "pos" : 1494,
+            "context" : "...of youth, or even in that season which precedes the <mark>prime<\/mark> of youth, the season before the smooth  folds of the...",
+            "fid" : "page-18" } ] } ] }

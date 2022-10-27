@@ -1,0 +1,14 @@
+
+  { "stem" : "100",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "100",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "...assigned to be the designer of this website, which was <mark>100<\/mark>% fine with me! So, I let my imagination lead me...",
+            "fid" : "#edm" } ] } ] }

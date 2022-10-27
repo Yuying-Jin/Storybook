@@ -1,0 +1,26 @@
+
+  { "stem" : "crumb",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crumbs",
+            "weight" : "1",
+            "pos" : 745,
+            "context" : "<mark>crumbs<\/mark> of looseearth",
+            "fid" : "page-10",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crumbs",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "<mark>crumbs<\/mark> of looseearth" } ] } ] }

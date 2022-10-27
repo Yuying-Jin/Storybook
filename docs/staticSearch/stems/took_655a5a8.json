@@ -1,0 +1,20 @@
+
+  { "stem" : "took",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "took",
+            "weight" : "1",
+            "pos" : 658,
+            "context" : "...all the after- noon so that I couldn't paint. I <mark>took<\/mark> out my  and marked the hour when I would allow myself...",
+            "fid" : "page-9" },
+          
+          { "form" : "took",
+            "weight" : "1",
+            "pos" : 1093,
+            "context" : "...the distance, which in the shade looked a . He <mark>took<\/mark> off his , placed his  upon his , and hurried towards...",
+            "fid" : "page-14" } ] } ] }

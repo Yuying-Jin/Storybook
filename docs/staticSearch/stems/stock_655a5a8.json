@@ -1,0 +1,14 @@
+
+  { "stem" : "stock",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stock",
+            "weight" : "1",
+            "pos" : 1450,
+            "context" : "...He had just inserted his  in the opening and was taking <mark>stock<\/mark> of the high  roof and was getting used to the cool...",
+            "fid" : "page-17" } ] } ] }

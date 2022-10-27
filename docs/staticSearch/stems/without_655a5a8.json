@@ -1,0 +1,20 @@
+
+  { "stem" : "without",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "without",
+            "weight" : "1",
+            "pos" : 460,
+            "context" : "...spoke I saw her  and when it moved impatiently I knew <mark>without<\/mark> looking up what she was going to say: the whole...",
+            "fid" : "page-7" },
+          
+          { "form" : "without",
+            "weight" : "1",
+            "pos" : 1409,
+            "context" : "...The  had now considered every possible method of reaching his goal <mark>without<\/mark> going round the dead  or climbing over it. Let alone the...",
+            "fid" : "page-17" } ] } ] }

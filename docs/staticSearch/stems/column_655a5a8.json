@@ -1,0 +1,20 @@
+
+  { "stem" : "column",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "column",
+            "weight" : "1",
+            "pos" : 874,
+            "context" : "...and connect to a bumpy line that looks similar to a <mark>column<\/mark>. The bottom margin has one long bumpy line with large...",
+            "fid" : "page-12" },
+          
+          { "form" : "column",
+            "weight" : "1",
+            "pos" : 1886,
+            "context" : "...making with their  shifting flakes the outline of a shattered marble <mark>column<\/mark> above the tallest s; the glass roofs of the  shone as...",
+            "fid" : "page-22" } ] } ] }

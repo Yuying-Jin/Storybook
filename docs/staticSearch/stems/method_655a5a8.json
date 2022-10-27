@@ -1,0 +1,20 @@
+
+  { "stem" : "method",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "method",
+            "weight" : "1",
+            "pos" : 934,
+            "context" : "...at all.The elder man had a curiously uneven andshaky <mark>method<\/mark> of walking, jerking his handforward and throwing up his...",
+            "fid" : "page-12" },
+          
+          { "form" : "method",
+            "weight" : "1",
+            "pos" : 1406,
+            "context" : "17 The  had now considered every possible <mark>method<\/mark> of reaching his goal without going round the dead  or climbing...",
+            "fid" : "page-17" } ] } ] }

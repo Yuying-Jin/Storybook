@@ -1,0 +1,14 @@
+
+  { "stem" : "blade",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 824,
+            "context" : "11   with deep  s in the hollows, flat, <mark>blade<\/mark>-like that waved from  to tip, round of  ,...",
+            "fid" : "page-11" } ] } ] }

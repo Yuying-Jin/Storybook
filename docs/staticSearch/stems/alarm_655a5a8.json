@@ -1,0 +1,14 @@
+
+  { "stem" : "alarm",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "alarming",
+            "weight" : "1",
+            "pos" : 1426,
+            "context" : "...was doubtful whether the thin texture which vibrated with such an <mark>alarming<\/mark> crackle when touched even by the tip of his horns would...",
+            "fid" : "page-17" } ] } ] }

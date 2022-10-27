@@ -1,0 +1,20 @@
+
+  { "stem" : "waver",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wavered",
+            "weight" : "1",
+            "pos" : 1950,
+            "context" : "...then, seeing the breadth of  that lay upon the , they <mark>wavered<\/mark> and sought shade beneath the , dissolving like drops of  in...",
+            "fid" : "page-23" },
+          
+          { "form" : "wavering",
+            "weight" : "1",
+            "pos" : 1979,
+            "context" : "...and lay huddled upon the ground, but their voices went <mark>wavering<\/mark> from them as if they were flames lolling from the thick...",
+            "fid" : "page-23" } ] } ] }

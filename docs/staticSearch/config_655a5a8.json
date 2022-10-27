@@ -1,0 +1,21 @@
+
+  { "params" : 
+    [ 
+      { "searchFile" : "..\/..\/Storybook\/docs\/search.html",
+        "versionFile" : "VERSION",
+        "recurse" : "true",
+        "linkToFragmentId" : "true",
+        "scrollToTextFragment" : "false",
+        "phrasalSearch" : "true",
+        "wildcardSearch" : "true",
+        "createContexts" : "true",
+        "resultsPerPage" : 5,
+        "minWordLength" : 2,
+        "maxKwicsToHarvest" : 5,
+        "maxKwicsToShow" : 10,
+        "totalKwicLength" : 20,
+        "kwicTruncateString" : "...",
+        "verbose" : "false",
+        "stopwordsFile" : "stopwords.txt",
+        "dictionaryFile" : "..\/xsl\/english_words.txt",
+        "indentJSON" : "true" } ] }

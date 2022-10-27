@@ -1,0 +1,13 @@
+
+  { "stem" : "librari",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "archive: British <mark>Library<\/mark>" } ] } ] }

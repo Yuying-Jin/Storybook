@@ -1,0 +1,26 @@
+
+  { "stem" : "smile",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "smiled",
+            "weight" : "1",
+            "pos" : 958,
+            "context" : "...were irresolute andpointless. He talked almost incessantly; he<mark>smiled<\/mark> to himself and again began to talk,as if the...",
+            "fid" : "page-12" },
+          
+          { "form" : "smile",
+            "weight" : "1",
+            "pos" : 961,
+            "context" : "...to himself and again began to talk,as if the <mark>smile<\/mark> had been an answer. ",
+            "fid" : "page-12" },
+          
+          { "form" : "smiled",
+            "weight" : "1",
+            "pos" : 1021,
+            "context" : "...between the  like .\" He paused, seemed to listen, <mark>smiled<\/mark>, jerked his  and continued:— \"You have a small eletric...",
+            "fid" : "page-13" } ] } ] }

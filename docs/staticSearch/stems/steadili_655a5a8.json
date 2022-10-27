@@ -1,0 +1,14 @@
+
+  { "stem" : "steadili",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "steadily",
+            "weight" : "1",
+            "pos" : 912,
+            "context" : "...perhaps unnatural calm; he raised his and fixed them very <mark>steadily<\/mark> in frontof him while his companion spoke, anddirectly...",
+            "fid" : "page-12" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "use",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "used",
+            "weight" : "1",
+            "pos" : 1455,
+            "context" : "...and was taking stock of the high  roof and was getting <mark>used<\/mark> to the cool  light when two other people came past outside...",
+            "fid" : "page-17" } ] } ] }

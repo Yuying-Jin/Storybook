@@ -1,0 +1,20 @@
+
+  { "stem" : "simplist",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "simplisting",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...page. The designs are flowers and leaves painting in a <mark>simplisting<\/mark>, scroll-y style with black ink. —— #edm...",
+            "fid" : "page-4" },
+          
+          { "form" : "simplistic",
+            "weight" : "1",
+            "pos" : 585,
+            "context" : "9 The top of the page has <mark>simplistic<\/mark> rope-braid like patterns that somewhat connects to the side...",
+            "fid" : "page-9" } ] } ] }

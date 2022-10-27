@@ -1,0 +1,26 @@
+
+  { "stem" : "spot",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "spots",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...way up and unfurling at the tip  or  or   marked with <mark>spots<\/mark> of colour raised upon the surface; and from the ,...",
+            "fid" : "page-4" },
+          
+          { "form" : "spot",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "...over the other, staining an inch of the   beneath with a <mark>spot<\/mark> of the most intricate colour. The light fell either upon...",
+            "fid" : "page-5" },
+          
+          { "form" : "spotted",
+            "weight" : "1",
+            "pos" : 1940,
+            "context" : "...of all these colours, men, women and children were <mark>spotted<\/mark> for a second upon the horizon, and then, seeing the...",
+            "fid" : "page-23" } ] } ] }

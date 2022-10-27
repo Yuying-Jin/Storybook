@@ -1,0 +1,20 @@
+
+  { "stem" : "almost",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "almost",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...title font and information is the same thick typefaced font, <mark>almost<\/mark> like \"Impact\". —— #edm",
+            "fid" : "page-1" },
+          
+          { "form" : "almost",
+            "weight" : "1",
+            "pos" : 956,
+            "context" : "...the man these gestures were irresolute andpointless. He talked <mark>almost<\/mark> incessantly; hesmiled to himself and again began to talk...",
+            "fid" : "page-12" } ] } ] }

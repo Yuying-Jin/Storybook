@@ -1,0 +1,14 @@
+
+  { "stem" : "abrupt",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "abruptly",
+            "weight" : "1",
+            "pos" : 941,
+            "context" : "...of walking, jerking his handforward and throwing up his  <mark>abruptly<\/mark>,rather in the manner of an impatient carriage tired of...",
+            "fid" : "page-12" } ] } ] }

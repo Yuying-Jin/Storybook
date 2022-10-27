@@ -1,0 +1,20 @@
+
+  { "stem" : "next",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 742,
+            "context" : "...appeared tobe moving very slightly in its shell, and <mark>next<\/mark>began to labour over the  which broke away and rolled down...",
+            "fid" : "page-10" },
+          
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 1870,
+            "context" : "...of the s, with long pauses between one movement and the <mark>next<\/mark>; instead of rambling vaguely the   danced one above another,...",
+            "fid" : "page-22" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "main",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "main",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : " My <mark>main<\/mark> contribution to the project was work on the transcription and xml...",
+            "fid" : "#avr" } ] } ] }

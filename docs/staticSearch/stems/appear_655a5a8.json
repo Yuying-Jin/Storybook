@@ -1,0 +1,20 @@
+
+  { "stem" : "appear",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "appeared",
+            "weight" : "1",
+            "pos" : 738,
+            "context" : "..., and  for thespace of two minutes or so, now <mark>appeared<\/mark> tobe moving very slightly in its shell, and next...",
+            "fid" : "page-10" },
+          
+          { "form" : "appeared",
+            "weight" : "1",
+            "pos" : 752,
+            "context" : "...broke away and rolled downas it passed over them. It <mark>appeared<\/mark> tohave a definite goal in front of it, differing in...",
+            "fid" : "page-10" } ] } ] }

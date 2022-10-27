@@ -1,0 +1,20 @@
+
+  { "stem" : "murmur",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "murmured",
+            "weight" : "1",
+            "pos" : 1907,
+            "context" : "...in the drone of the aeroplane the voice of the summer  <mark>murmured<\/mark> its fierce soul. ",
+            "fid" : "page-22" },
+          
+          { "form" : "murmured",
+            "weight" : "1",
+            "pos" : 2050,
+            "context" : "...boxes all of wrought  turning ceaselessly one within another the city <mark>murmured<\/mark>; on the top of which the voices cried aloud and...",
+            "fid" : "page-24" } ] } ] }

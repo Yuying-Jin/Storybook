@@ -1,0 +1,14 @@
+
+  { "stem" : "websit",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "website",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "...CSS. I was assigned to be the designer of this <mark>website<\/mark>, which was 100% fine with me! So, I let...",
+            "fid" : "#edm" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "gloom",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gloom",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...colour raised upon the surface; and from the ,  or  <mark>gloom<\/mark> of the throat emerged a straight bar, rough with  dust...",
+            "fid" : "page-4" } ] } ] }

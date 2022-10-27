@@ -1,0 +1,14 @@
+
+  { "stem" : "drew",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "drew",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...my favorite ways to learn in this medium. I also <mark>drew<\/mark> the cursor image! However, I cannot take credit for...",
+            "fid" : "#edm" } ] } ] }

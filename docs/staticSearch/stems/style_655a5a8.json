@@ -1,0 +1,14 @@
+
+  { "stem" : "style",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "style",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...are flowers and leaves painting in a simplisting, scroll-y <mark>style<\/mark> with black ink. —— #edm",
+            "fid" : "page-4" } ] } ] }

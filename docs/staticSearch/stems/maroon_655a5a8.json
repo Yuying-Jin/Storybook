@@ -1,0 +1,32 @@
+
+  { "stem" : "maroon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "maroon",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "1 Burnt <mark>maroon<\/mark> cover with a tan key-shape center with yellow squiggles...",
+            "fid" : "page-1" },
+          
+          { "form" : "maroon",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...a tan key-shape center with yellow squiggles with burnt <mark>maroon<\/mark>, and light bluish-grey speckling. The title font...",
+            "fid" : "page-1" },
+          
+          { "form" : "maroon",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "2 Off-white page with <mark>maroon<\/mark> dotting down the left-hand side. The writing on...",
+            "fid" : "page-2" },
+          
+          { "form" : "maroon",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...side. The writing on the page was the same burnt <mark>maroon<\/mark> as the cover. The font is in a more handwritten...",
+            "fid" : "page-2" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "respect",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "respect",
+            "weight" : "1",
+            "pos" : 757,
+            "context" : "...have a definite goal in front of it, differing in this <mark>respect<\/mark> from the singular high stepping angular green  who attempted to cross...",
+            "fid" : "page-10" } ] } ] }

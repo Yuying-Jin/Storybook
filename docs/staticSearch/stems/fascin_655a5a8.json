@@ -1,0 +1,14 @@
+
+  { "stem" : "fascin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fascinated",
+            "weight" : "1",
+            "pos" : 1219,
+            "context" : "...and . Like most people of their station they were frankly <mark>fascinated<\/mark> by any sign of eccentricity betokening a disordered , especially in...",
+            "fid" : "page-15" } ] } ] }

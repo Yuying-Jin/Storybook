@@ -1,0 +1,14 @@
+
+  { "stem" : "hum",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hum",
+            "weight" : "1",
+            "pos" : 1702,
+            "context" : "...the coin in his pocket, real to everyone except to <mark>hum<\/mark> and to her; even to him it began to seem real...",
+            "fid" : "page-20" } ] } ] }

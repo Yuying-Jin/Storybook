@@ -1,0 +1,14 @@
+
+  { "stem" : "shone",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shone",
+            "weight" : "1",
+            "pos" : 1893,
+            "context" : "...marble column above the tallest s; the glass roofs of the  <mark>shone<\/mark> as if a whole market full of shiny  umbrellas had opened...",
+            "fid" : "page-22" } ] } ] }

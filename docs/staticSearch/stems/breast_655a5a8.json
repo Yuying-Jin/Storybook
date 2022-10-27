@@ -1,0 +1,14 @@
+
+  { "stem" : "breast",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "breast",
+            "weight" : "1",
+            "pos" : 856,
+            "context" : "...decided whether to circumvent the archedtent of a  or to <mark>breast<\/mark> it therecame past the bed the feet of other human...",
+            "fid" : "page-11" } ] } ] }

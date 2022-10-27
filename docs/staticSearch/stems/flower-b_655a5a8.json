@@ -1,0 +1,50 @@
+
+  { "stem" : "flower-b",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "flower-bed",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "<mark>flower-bed<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower-bed",
+            "weight" : "1",
+            "pos" : 358,
+            "context" : "<mark>flower-bed<\/mark>",
+            "fid" : "page-6",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower-bed",
+            "weight" : "1",
+            "pos" : 685,
+            "context" : "<mark>flower-bed<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower-bed",
+            "weight" : "1",
+            "pos" : 1833,
+            "context" : "<mark>flower-bed<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flower-bed",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "<mark>flower-bed<\/mark>, flower bed" } ] } ] }

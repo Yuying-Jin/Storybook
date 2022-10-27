@@ -1,0 +1,14 @@
+
+  { "stem" : "sli",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sly",
+            "weight" : "1",
+            "pos" : 1244,
+            "context" : "...silence for a moment and given each other a queer, <mark>sly<\/mark> look, they went on energeticlly piecing together their very complicated...",
+            "fid" : "page-15" } ] } ] }

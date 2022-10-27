@@ -1,0 +1,26 @@
+
+  { "stem" : "surfac",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "surface",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "...tip  or  or   marked with spots of colour raised upon the <mark>surface<\/mark>; and from the ,  or  gloom of the throat emerged...",
+            "fid" : "page-4" },
+          
+          { "form" : "surface",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...of a , revealing the branching thread of fibre beneath the <mark>surface<\/mark>, and again it moved on and spread its illumination in...",
+            "fid" : "page-5" },
+          
+          { "form" : "surfaces",
+            "weight" : "1",
+            "pos" : 836,
+            "context" : "...that waved from  to tip, round of  , vast crumpled <mark>surfaces<\/mark> of athin crackling texture—all these objects layacross the...",
+            "fid" : "page-11" } ] } ] }

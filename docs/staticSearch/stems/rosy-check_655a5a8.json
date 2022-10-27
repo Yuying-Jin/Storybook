@@ -1,0 +1,26 @@
+
+  { "stem" : "rosy-check",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rosy-checked",
+            "weight" : "1",
+            "pos" : 1211,
+            "context" : "<mark>rosy-checked<\/mark>",
+            "fid" : "page-15",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rosy-checked",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "<mark>rosy-checked<\/mark>" } ] } ] }

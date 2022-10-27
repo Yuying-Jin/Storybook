@@ -1,0 +1,20 @@
+
+  { "stem" : "candlestick",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "candlestick",
+            "weight" : "1",
+            "pos" : 1334,
+            "context" : "...as a sleeper waking from a heavy sleep sees a brass <mark>candlestick<\/mark> reflecting the light in an unfamiliar way, and closes his...",
+            "fid" : "page-16" },
+          
+          { "form" : "candlestick",
+            "weight" : "1",
+            "pos" : 1344,
+            "context" : "..., and closes his  and opens them, and seeing the brass <mark>candlestick<\/mark> again, finally starts wide awake and stares at the candle-...",
+            "fid" : "page-16" } ] } ] }

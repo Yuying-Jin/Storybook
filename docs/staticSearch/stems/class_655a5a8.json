@@ -1,0 +1,14 @@
+
+  { "stem" : "class",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "class",
+            "weight" : "1",
+            "pos" : 1207,
+            "context" : "...by his gestures came two elderly women of the lower middle <mark>class<\/mark>, one  and , the other  and . Like most people...",
+            "fid" : "page-15" } ] } ] }

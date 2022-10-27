@@ -1,0 +1,14 @@
+
+  { "stem" : "dialogu",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dialogue",
+            "weight" : "1",
+            "pos" : 1251,
+            "context" : "...look, they went on energeticlly piecing together their very complicated <mark>dialogue<\/mark>: \"Nell, Bert, Lot, Cess, Phil,...",
+            "fid" : "page-15" } ] } ] }

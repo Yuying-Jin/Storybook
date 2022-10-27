@@ -1,0 +1,41 @@
+
+  { "stem" : "also",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "also",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...of my favorite ways to learn in this medium. I <mark>also<\/mark> drew the cursor image! However, I cannot take credit...",
+            "fid" : "#edm" },
+          
+          { "form" : "also",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...actually working, that was all #yxj! I was <mark>also<\/mark> the Quality Control Manager. ",
+            "fid" : "#edm" },
+          
+          { "form" : "also",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...my favorite writing, I do love the imagery. I <mark>also<\/mark> like how the scrolling drawings on the margins correlate to some..." },
+          
+          { "form" : "also",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...the margins correlate to some of the content. It was <mark>also<\/mark> interesting to perceive how the writing imitated the social structure of..." } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "also",
+            "weight" : "1",
+            "pos" : 1594,
+            "context" : "...feelings in a strange way, as these short insignificant words <mark>also<\/mark> expressed something, words with short wings for their heavy body...",
+            "fid" : "page-19" } ] } ] }

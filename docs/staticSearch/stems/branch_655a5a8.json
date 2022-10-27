@@ -1,0 +1,26 @@
+
+  { "stem" : "branch",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "branching",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "...light now settled upon the flesh of a , revealing the <mark>branching<\/mark> thread of fibre beneath the surface, and again it moved...",
+            "fid" : "page-5" },
+          
+          { "form" : "branch",
+            "weight" : "1",
+            "pos" : 493,
+            "context" : "...the left margin, there is a tree, with a <mark>branch<\/mark> that cuts across the top margin. One third of the...",
+            "fid" : "page-8" },
+          
+          { "form" : "branch",
+            "weight" : "1",
+            "pos" : 504,
+            "context" : "...of the way down the page, there is another tree <mark>branch<\/mark> sprouting from the text. At the very bottom of the...",
+            "fid" : "page-8" } ] } ] }

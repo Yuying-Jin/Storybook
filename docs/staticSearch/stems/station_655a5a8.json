@@ -1,0 +1,14 @@
+
+  { "stem" : "station",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "station",
+            "weight" : "1",
+            "pos" : 1217,
+            "context" : "...and , the other  and . Like most people of their <mark>station<\/mark> they were frankly fascinated by any sign of eccentricity betokening a...",
+            "fid" : "page-15" } ] } ] }

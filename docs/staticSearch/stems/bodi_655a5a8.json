@@ -1,0 +1,61 @@
+
+  { "stem" : "bodi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "body",
+            "weight" : "1",
+            "pos" : 1375,
+            "context" : "<mark>body<\/mark>",
+            "fid" : "page-16",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "body",
+            "weight" : "1",
+            "pos" : 1601,
+            "context" : "...also expressed something, words with short wings for their heavy <mark>body<\/mark> of meaning, inadequate to carry them far and thus alighting...",
+            "fid" : "page-19" },
+          
+          { "form" : "bodies",
+            "weight" : "1",
+            "pos" : 1843,
+            "context" : "<mark>bodies<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "bodies",
+            "weight" : "1",
+            "pos" : 1969,
+            "context" : "<mark>bodies<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "bodies",
+            "weight" : "1",
+            "pos" : 1984,
+            "context" : "<mark>bodies<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "body",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "<mark>body<\/mark>, bodies" },
+          
+          { "form" : "bodies",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "body, <mark>bodies<\/mark>" } ] } ] }

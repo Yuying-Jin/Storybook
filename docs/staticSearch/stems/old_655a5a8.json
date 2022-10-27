@@ -1,0 +1,38 @@
+
+  { "stem" : "old",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "old",
+            "weight" : "1",
+            "pos" : 670,
+            "context" : "...five minutes only—it was so precious— the kiss of an <mark>old<\/mark> - woman with a  on her , the mother of all...",
+            "fid" : "page-9" },
+          
+          { "form" : "old",
+            "weight" : "1",
+            "pos" : 1115,
+            "context" : "...tip of his walking-stick in order to divert the <mark>old<\/mark> man's attention. After looking at it for a moment in...",
+            "fid" : "page-14" },
+          
+          { "form" : "old",
+            "weight" : "1",
+            "pos" : 1121,
+            "context" : "...After looking at it for a moment in some confusion the <mark>old<\/mark> man bent his  to it and seemed to answer a voice...",
+            "fid" : "page-14" },
+          
+          { "form" : "old",
+            "weight" : "1",
+            "pos" : 1237,
+            "context" : "...merely eccentric or genuinely mad. After they had scrutinised the <mark>old<\/mark> man' back in silence for a moment and given each other...",
+            "fid" : "page-15" },
+          
+          { "form" : "old",
+            "weight" : "1",
+            "pos" : 1268,
+            "context" : "...—\" \"My Bert, Sis, Bill, Grandad, the <mark>old<\/mark> man, sugar. Sugar, flour, kippers, greens...",
+            "fid" : "page-15" } ] } ] }

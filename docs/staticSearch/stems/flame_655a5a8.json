@@ -1,0 +1,14 @@
+
+  { "stem" : "flame",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flames",
+            "weight" : "1",
+            "pos" : 1980,
+            "context" : "...but their voices went wavering from them as if they were <mark>flames<\/mark> lolling from the thick waxen  of candles. ",
+            "fid" : "page-23" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "decor",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "DECORATIONS",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "1 KEW GARDENSBYVIRGINIA WOOLF<mark>DECORATIONS<\/mark>BYVANESSA BELLTHEHOGARTH PRESS",
+            "fid" : "page-1" },
+          
+          { "form" : "decorated",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "2 Kew Gardens by Virginia Woolf <mark>decorated<\/mark> by Vanessa Bell published by the Hogarth Press ",
+            "fid" : "page-2" },
+          
+          { "form" : "decoration",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...storybook font. it is the top part of the border <mark>decoration<\/mark> that takes up the margins as well as the bottom half...",
+            "fid" : "page-4" } ] } ] }

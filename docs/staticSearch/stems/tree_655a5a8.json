@@ -1,0 +1,76 @@
+
+  { "stem" : "tree",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "tree",
+            "weight" : "1",
+            "pos" : 492,
+            "context" : "8 Along the left margin, there is a <mark>tree<\/mark>, with a branch that cuts across the top margin....",
+            "fid" : "page-8" },
+          
+          { "form" : "tree",
+            "weight" : "1",
+            "pos" : 503,
+            "context" : "...third of the way down the page, there is another <mark>tree<\/mark> branch sprouting from the text. At the very bottom of...",
+            "fid" : "page-8" },
+          
+          { "form" : "trees",
+            "weight" : "1",
+            "pos" : 562,
+            "context" : "<mark>trees<\/mark>",
+            "fid" : "page-8",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "trees",
+            "weight" : "1",
+            "pos" : 571,
+            "context" : "<mark>trees<\/mark>",
+            "fid" : "page-8",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "trees",
+            "weight" : "1",
+            "pos" : 695,
+            "context" : "<mark>trees<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "trees",
+            "weight" : "1",
+            "pos" : 826,
+            "context" : "<mark>trees<\/mark>",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "trees",
+            "weight" : "1",
+            "pos" : 1817,
+            "context" : "...a pavilion. We can find a curvy path and three <mark>trees<\/mark> both on the left and on the right. At the...",
+            "fid" : "page-22" },
+          
+          { "form" : "trees",
+            "weight" : "1",
+            "pos" : 1954,
+            "context" : "<mark>trees<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trees",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "<mark>trees<\/mark>" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "grown",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "grown",
+            "weight" : "1",
+            "pos" : 1508,
+            "context" : "...gummy case, when the wings of the , though fully <mark>grown<\/mark>, are motionless in the . \"Lucky it isn't Friday,\"...",
+            "fid" : "page-18" } ] } ] }

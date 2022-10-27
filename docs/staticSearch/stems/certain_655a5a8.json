@@ -1,0 +1,14 @@
+
+  { "stem" : "certain",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "certain",
+            "weight" : "1",
+            "pos" : 1229,
+            "context" : "...well-to-do; but they were too far off to be <mark>certain<\/mark> whether the gestures were merely eccentric or genuinely mad. After...",
+            "fid" : "page-15" } ] } ] }

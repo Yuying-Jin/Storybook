@@ -1,0 +1,14 @@
+
+  { "stem" : "grew",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "grew",
+            "weight" : "1",
+            "pos" : 1170,
+            "context" : "...on by William, upon whose  the look of stoical patience <mark>grew<\/mark> slowly deeper and deeper. ",
+            "fid" : "page-14" } ] } ] }

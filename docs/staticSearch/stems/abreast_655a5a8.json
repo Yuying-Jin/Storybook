@@ -1,0 +1,14 @@
+
+  { "stem" : "abreast",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "abreast",
+            "weight" : "1",
+            "pos" : 690,
+            "context" : "...Hubert. \"They walked on past the , now walking four <mark>abreast<\/mark>, and soon diminished in size among the  and looked half...",
+            "fid" : "page-9" } ] } ] }

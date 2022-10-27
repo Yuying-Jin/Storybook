@@ -1,0 +1,14 @@
+
+  { "stem" : "stretch",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stretch",
+            "weight" : "1",
+            "pos" : 1736,
+            "context" : "..., there is half a vase pattern, and two flowers <mark>stretch<\/mark> to the right from the mouth of the vase. Below...",
+            "fid" : "page-21" } ] } ] }

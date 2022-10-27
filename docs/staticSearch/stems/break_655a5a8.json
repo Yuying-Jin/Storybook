@@ -1,0 +1,38 @@
+
+  { "stem" : "break",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "breaks",
+            "weight" : "1",
+            "pos" : 1191,
+            "context" : "..., there is thick solid curve, and a rhombus grid <mark>breaks<\/mark> it in the middle.—— #yxj",
+            "fid" : "page-15" },
+          
+          { "form" : "break",
+            "weight" : "1",
+            "pos" : 1307,
+            "context" : "...shape of the ground. A large flower and some petals <mark>break<\/mark> the sentences in the line 6-16.—— #yxj",
+            "fid" : "page-16" },
+          
+          { "form" : "break",
+            "weight" : "1",
+            "pos" : 2002,
+            "context" : "...page. In the center of the bottom, two arcs <mark>break<\/mark> two polylines separately. Between the two arcs, there is...",
+            "fid" : "page-24" },
+          
+          { "form" : "breaking",
+            "weight" : "1",
+            "pos" : 2016,
+            "context" : "24 Voices, yes, vioces, <mark>breaking<\/mark> the silence suddently with such depth of contentment, such passion...",
+            "fid" : "page-24" },
+          
+          { "form" : "breaking",
+            "weight" : "1",
+            "pos" : 2027,
+            "context" : "...in the voices of children, such freshness of surprise; <mark>breaking<\/mark> the silence? But there was no silence; all the...",
+            "fid" : "page-24" } ] } ] }

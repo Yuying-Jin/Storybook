@@ -1,0 +1,62 @@
+
+  { "stem" : "straight",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...and from the ,  or  gloom of the throat emerged a <mark>straight<\/mark> bar, rough with  dust and slightly  at the end....",
+            "fid" : "page-4" },
+          
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 790,
+            "context" : "...bottom left corner, and end in curly lines that have <mark>straight<\/mark> shading lines above them to convey petals. The reed plants...",
+            "fid" : "page-11" },
+          
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 1289,
+            "context" : "...15 short arcs form a long arc. One thick solid <mark>straight<\/mark> line is on the left, and one is on the...",
+            "fid" : "page-16" },
+          
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 1299,
+            "context" : "...by several petals. At the bottom, some curves and <mark>straight<\/mark> lines form the shape of the ground. A large flower...",
+            "fid" : "page-16" },
+          
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 1387,
+            "context" : "17Curves and <mark>straight<\/mark> line form a net which is around left, right and...",
+            "fid" : "page-17" },
+          
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 1726,
+            "context" : "21At the top, there is a long <mark>straight<\/mark> line. In the upper left corner, there is half...",
+            "fid" : "page-21" },
+          
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 1743,
+            "context" : "...the vase. Below the vase, we can see two <mark>straight<\/mark> lines with different length. On the right, there are...",
+            "fid" : "page-21" },
+          
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 1752,
+            "context" : "...are two curves. At the bottom, there are two <mark>straight<\/mark> lines with the similar length but different thickness. —— #...",
+            "fid" : "page-21" },
+          
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 1922,
+            "context" : "...leaves at the bottom left of the forest. A long <mark>straight<\/mark> is on the left. At the bottom, there are...",
+            "fid" : "page-23" } ] } ] }

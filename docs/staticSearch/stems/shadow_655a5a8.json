@@ -1,0 +1,20 @@
+
+  { "stem" : "shadow",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "shadow",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : "...origin. They sit upon large leaves that cast a thick <mark>shadow<\/mark>. —— #edm",
+            "fid" : "page-6" },
+          
+          { "form" : "shadow",
+            "weight" : "1",
+            "pos" : 1864,
+            "context" : "...thrush chose to hop, like a mechanical , in the <mark>shadow<\/mark> of the s, with long pauses between one movement and the...",
+            "fid" : "page-22" } ] } ] }

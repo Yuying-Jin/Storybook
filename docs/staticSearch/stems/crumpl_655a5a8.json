@@ -1,0 +1,14 @@
+
+  { "stem" : "crumpl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crumpled",
+            "weight" : "1",
+            "pos" : 835,
+            "context" : "...like that waved from  to tip, round of  , vast <mark>crumpled<\/mark> surfaces of athin crackling texture—all these objects layacross...",
+            "fid" : "page-11" } ] } ] }

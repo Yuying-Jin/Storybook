@@ -1,0 +1,14 @@
+
+  { "stem" : "juli",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "July",
+            "weight" : "1",
+            "pos" : 352,
+            "context" : "...the eyes of the men and women who walk in  in <mark>July<\/mark>. The figures of these men and women straggled past the...",
+            "fid" : "page-6" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "excit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "exciting",
+            "weight" : "1",
+            "pos" : 1707,
+            "context" : "...it began to seem real; and then—but it was too <mark>exciting<\/mark> to stand and think any longer, and he pulled the...",
+            "fid" : "page-20" },
+          
+          { "form" : "excitement",
+            "weight" : "1",
+            "pos" : 1773,
+            "context" : "...have one's tea?\" she asked with the oddest thrill of <mark>excitement<\/mark> in her voice, looking vaguely round and letting herself be...",
+            "fid" : "page-21" } ] } ] }

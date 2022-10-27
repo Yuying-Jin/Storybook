@@ -1,0 +1,14 @@
+
+  { "stem" : "carolin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Caroline",
+            "weight" : "1",
+            "pos" : 680,
+            "context" : "...mother of all my kisses all my life. Come, <mark>Caroline<\/mark>, come, Hubert. \"They walked on past the ,...",
+            "fid" : "page-9" } ] } ] }

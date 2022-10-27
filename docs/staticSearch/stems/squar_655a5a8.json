@@ -1,0 +1,38 @@
+
+  { "stem" : "squar",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "square",
+            "weight" : "1",
+            "pos" : 449,
+            "context" : "<mark>square<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "square",
+            "weight" : "1",
+            "pos" : 576,
+            "context" : "...the ,... one's happiness, one's reality?\" \"For me, a <mark>square<\/mark>   and a —\" ",
+            "fid" : "page-8" },
+          
+          { "form" : "square",
+            "weight" : "1",
+            "pos" : 894,
+            "context" : "..., there are two arched lines in the center with two <mark>square<\/mark>-like shapes on the corners. —— #edm",
+            "fid" : "page-12" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "square",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "<mark>square<\/mark>" } ] } ] }

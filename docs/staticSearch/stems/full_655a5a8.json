@@ -1,0 +1,14 @@
+
+  { "stem" : "full",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "full",
+            "weight" : "1",
+            "pos" : 1896,
+            "context" : "...the glass roofs of the  shone as if a whole market <mark>full<\/mark> of shiny  umbrellas had opened in the ; and in the...",
+            "fid" : "page-22" } ] } ] }

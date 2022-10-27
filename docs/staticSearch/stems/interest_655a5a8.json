@@ -1,0 +1,19 @@
+
+  { "stem" : "interest",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "interesting",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...margins correlate to some of the content. It was also <mark>interesting<\/mark> to perceive how the writing imitated the social structure of the..." },
+          
+          { "form" : "interesting",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...applying it to some actual historical documents has been a pretty <mark>interesting<\/mark> experience. ",
+            "fid" : "#avr" } ] } ] }

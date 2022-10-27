@@ -1,0 +1,20 @@
+
+  { "stem" : "seen",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "seen",
+            "weight" : "1",
+            "pos" : 648,
+            "context" : "...side of a , painting the , the first   I'd ever <mark>seen<\/mark>. And suddenly a kiss, there on the back of...",
+            "fid" : "page-9" },
+          
+          { "form" : "seen",
+            "weight" : "1",
+            "pos" : 1632,
+            "context" : "...on the other side? who knows? Who has ever <mark>seen<\/mark> this before? Even when she wondered what sort of tea they...",
+            "fid" : "page-19" } ] } ] }

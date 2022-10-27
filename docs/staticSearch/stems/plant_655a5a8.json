@@ -1,0 +1,26 @@
+
+  { "stem" : "plant",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "plants",
+            "weight" : "1",
+            "pos" : 782,
+            "context" : "11 Tall reed-like <mark>plants<\/mark> sprout from the bottom left corner, and end in curly...",
+            "fid" : "page-11" },
+          
+          { "form" : "plants",
+            "weight" : "1",
+            "pos" : 796,
+            "context" : "...straight shading lines above them to convey petals. The reed <mark>plants<\/mark> bend at the top margin and curve over the text....",
+            "fid" : "page-11" },
+          
+          { "form" : "plant",
+            "weight" : "1",
+            "pos" : 806,
+            "context" : "...text. On the right side, there is another reed <mark>plant<\/mark> that simply climbs the right margin side and blooms at the...",
+            "fid" : "page-11" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "whether",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "whether",
+            "weight" : "1",
+            "pos" : 850,
+            "context" : "...stalkand another to his goal. Before he haddecided <mark>whether<\/mark> to circumvent the archedtent of a  or to breast it...",
+            "fid" : "page-11" },
+          
+          { "form" : "whether",
+            "weight" : "1",
+            "pos" : 1230,
+            "context" : "...-to-do; but they were too far off to be certain <mark>whether<\/mark> the gestures were merely eccentric or genuinely mad. After they...",
+            "fid" : "page-15" },
+          
+          { "form" : "whether",
+            "weight" : "1",
+            "pos" : 1422,
+            "context" : "...alone the effort needed for climbing a , he was doubtful <mark>whether<\/mark> the thin texture which vibrated with such an alarming crackle when...",
+            "fid" : "page-17" } ] } ] }

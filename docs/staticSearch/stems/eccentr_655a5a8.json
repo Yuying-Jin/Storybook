@@ -1,0 +1,20 @@
+
+  { "stem" : "eccentr",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "eccentricity",
+            "weight" : "1",
+            "pos" : 1221,
+            "context" : "...of their station they were frankly fascinated by any sign of <mark>eccentricity<\/mark> betokening a disordered , especially in the well-to-do; but...",
+            "fid" : "page-15" },
+          
+          { "form" : "eccentric",
+            "weight" : "1",
+            "pos" : 1233,
+            "context" : "...too far off to be certain whether the gestures were merely <mark>eccentric<\/mark> or genuinely mad. After they had scrutinised the old man'...",
+            "fid" : "page-15" } ] } ] }

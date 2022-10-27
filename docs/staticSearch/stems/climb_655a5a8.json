@@ -1,0 +1,32 @@
+
+  { "stem" : "climb",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "climbs",
+            "weight" : "1",
+            "pos" : 715,
+            "context" : "...sprouting leaves come from the bottom of the page, and <mark>climbs<\/mark> up the margins. At the top, there are trumpet...",
+            "fid" : "page-10" },
+          
+          { "form" : "climbs",
+            "weight" : "1",
+            "pos" : 808,
+            "context" : "...the right side, there is another reed plant that simply <mark>climbs<\/mark> the right margin side and blooms at the top. ——...",
+            "fid" : "page-11" },
+          
+          { "form" : "climbing",
+            "weight" : "1",
+            "pos" : 1414,
+            "context" : "...method of reaching his goal without going round the dead  or <mark>climbing<\/mark> over it. Let alone the effort needed for climbing a ,...",
+            "fid" : "page-17" },
+          
+          { "form" : "climbing",
+            "weight" : "1",
+            "pos" : 1419,
+            "context" : "...dead  or climbing over it. Let alone the effort needed for <mark>climbing<\/mark> a , he was doubtful whether the thin texture which vibrated...",
+            "fid" : "page-17" } ] } ] }

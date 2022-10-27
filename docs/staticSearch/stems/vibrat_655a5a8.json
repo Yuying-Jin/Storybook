@@ -1,0 +1,14 @@
+
+  { "stem" : "vibrat",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vibrated",
+            "weight" : "1",
+            "pos" : 1425,
+            "context" : "...climbing a , he was doubtful whether the thin texture which <mark>vibrated<\/mark> with such an alarming crackle when touched even by the tip...",
+            "fid" : "page-17" } ] } ] }

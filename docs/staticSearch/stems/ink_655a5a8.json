@@ -1,0 +1,14 @@
+
+  { "stem" : "ink",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ink",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...leaves painting in a simplisting, scroll-y style with black <mark>ink<\/mark>. —— #edm",
+            "fid" : "page-4" } ] } ] }

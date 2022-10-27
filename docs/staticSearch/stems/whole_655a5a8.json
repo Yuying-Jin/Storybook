@@ -1,0 +1,20 @@
+
+  { "stem" : "whole",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "whole",
+            "weight" : "1",
+            "pos" : 464,
+            "context" : "...without looking up what she was going to say: the <mark>whole<\/mark> of her seemed to be in her . And my love...",
+            "fid" : "page-7" },
+          
+          { "form" : "whole",
+            "weight" : "1",
+            "pos" : 1894,
+            "context" : "...tallest s; the glass roofs of the  shone as if a <mark>whole<\/mark> market full of shiny  umbrellas had opened in the ; and...",
+            "fid" : "page-22" } ] } ] }

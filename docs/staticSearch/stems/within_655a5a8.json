@@ -1,0 +1,14 @@
+
+  { "stem" : "within",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "within",
+            "weight" : "1",
+            "pos" : 2047,
+            "context" : "...vast nest of Chinese boxes all of wrought  turning ceaselessly one <mark>within<\/mark> another the city murmured; on the top of which the...",
+            "fid" : "page-24" } ] } ] }

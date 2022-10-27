@@ -1,0 +1,14 @@
+
+  { "stem" : "outlin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "outline",
+            "weight" : "1",
+            "pos" : 1883,
+            "context" : "...danced one above another, making with their  shifting flakes the <mark>outline<\/mark> of a shattered marble column above the tallest s; the glass...",
+            "fid" : "page-22" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "candl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "candle",
+            "weight" : "1",
+            "pos" : 1350,
+            "context" : "...brass candlestick again, finally starts wide awake and stares at the <mark>candle<\/mark>- stick with all his powers. So the heavy woman...",
+            "fid" : "page-16" },
+          
+          { "form" : "candles",
+            "weight" : "1",
+            "pos" : 1985,
+            "context" : "...as if they were flames lolling from the thick waxen  of <mark>candles<\/mark>. ",
+            "fid" : "page-23" } ] } ] }

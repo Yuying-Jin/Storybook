@@ -1,0 +1,39 @@
+
+  { "stem" : "heart-shap",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "heart-shaped",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "<mark>heart-shaped<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "heart-shaped",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "<mark>heart-shaped<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "heart-shaped",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "<mark>heart-shaped<\/mark>, heart" },
+          
+          { "form" : "heart-shaped",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "<mark>heart-shaped<\/mark>, heart" } ] } ] }

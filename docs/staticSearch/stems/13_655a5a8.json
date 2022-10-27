@@ -1,0 +1,31 @@
+
+  { "stem" : "13",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "13",
+            "weight" : "1",
+            "pos" : 963,
+            "context" : "<mark>13<\/mark>Surrounded by curves. At the top, there is a...",
+            "fid" : "page-13" },
+          
+          { "form" : "13",
+            "weight" : "1",
+            "pos" : 993,
+            "context" : "<mark>13<\/mark> He was talking about spirits—the spirits of the dead,...",
+            "fid" : "page-13" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "13",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : " I was responsible for transcribing and describing of pages <mark>13<\/mark>-24 and coding relax NG and xslt files. I...",
+            "fid" : "#yxj" } ] } ] }

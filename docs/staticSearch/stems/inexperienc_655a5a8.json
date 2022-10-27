@@ -1,0 +1,14 @@
+
+  { "stem" : "inexperienc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "inexperienced",
+            "weight" : "1",
+            "pos" : 1613,
+            "context" : "...the very common objects that surrounded them and were to their <mark>inexperienced<\/mark> touch so massive: but who knows (so they thought as...",
+            "fid" : "page-19" } ] } ] }

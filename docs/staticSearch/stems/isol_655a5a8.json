@@ -1,0 +1,14 @@
+
+  { "stem" : "isol",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "isolate",
+            "weight" : "1",
+            "pos" : 1032,
+            "context" : "...eletric  and a piece of rubber to insulate the wire—<mark>isolate<\/mark>?—insulate?—well, we'll skip the details, no...",
+            "fid" : "page-13" } ] } ] }

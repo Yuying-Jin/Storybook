@@ -1,0 +1,14 @@
+
+  { "stem" : "unfamiliar",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unfamiliar",
+            "weight" : "1",
+            "pos" : 1337,
+            "context" : "...heavy sleep sees a brass candlestick reflecting the light in an <mark>unfamiliar<\/mark> way, and closes his  and opens them, and seeing the...",
+            "fid" : "page-16" } ] } ] }

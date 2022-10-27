@@ -1,0 +1,14 @@
+
+  { "stem" : "tire",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tired",
+            "weight" : "1",
+            "pos" : 947,
+            "context" : "...his  abruptly,rather in the manner of an impatient carriage <mark>tired<\/mark> of waiting outside a ; butin the man these gestures...",
+            "fid" : "page-12" } ] } ] }

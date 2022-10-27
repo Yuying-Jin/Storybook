@@ -1,0 +1,14 @@
+
+  { "stem" : "gummi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gummy",
+            "weight" : "1",
+            "pos" : 1502,
+            "context" : "...season before the smooth  folds of the s have burst their <mark>gummy<\/mark> case, when the wings of the , though fully grown...",
+            "fid" : "page-18" } ] } ] }

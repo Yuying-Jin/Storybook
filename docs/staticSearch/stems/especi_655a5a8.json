@@ -1,0 +1,14 @@
+
+  { "stem" : "especi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "especially",
+            "weight" : "1",
+            "pos" : 1225,
+            "context" : "...frankly fascinated by any sign of eccentricity betokening a disordered , <mark>especially<\/mark> in the well-to-do; but they were too far off...",
+            "fid" : "page-15" } ] } ] }

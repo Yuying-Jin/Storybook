@@ -1,0 +1,14 @@
+
+  { "stem" : "thrill",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thrill",
+            "weight" : "1",
+            "pos" : 1772,
+            "context" : "...does one have one's tea?\" she asked with the oddest <mark>thrill<\/mark> of excitement in her voice, looking vaguely round and letting...",
+            "fid" : "page-21" } ] } ] }

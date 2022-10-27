@@ -1,0 +1,14 @@
+
+  { "stem" : "soon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soon",
+            "weight" : "1",
+            "pos" : 691,
+            "context" : "...walked on past the , now walking four abreast, and <mark>soon<\/mark> diminished in size among the  and looked half  as the  and...",
+            "fid" : "page-9" } ] } ] }

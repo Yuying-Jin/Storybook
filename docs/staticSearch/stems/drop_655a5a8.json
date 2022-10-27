@@ -1,0 +1,32 @@
+
+  { "stem" : "drop",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "drop",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "<mark>drop<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "drops",
+            "weight" : "1",
+            "pos" : 1957,
+            "context" : "..., they wavered and sought shade beneath the , dissolving like <mark>drops<\/mark> of  in the  and  atmosphere, staining it faintly with  and...",
+            "fid" : "page-23" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "drop",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "<mark>drop<\/mark>" } ] } ] }

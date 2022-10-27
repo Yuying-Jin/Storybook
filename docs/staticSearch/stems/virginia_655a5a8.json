@@ -1,0 +1,30 @@
+
+  { "stem" : "virginia",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Virginia",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "author: <mark>Virginia<\/mark> Woolf" },
+          
+          { "form" : "Virginia",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "sourceLink: Kew Gardens by <mark>Virginia<\/mark> Woolf, 1927 " },
+          
+          { "form" : "VIRGINIA",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "1 KEW GARDENSBY<mark>VIRGINIA<\/mark> WOOLFDECORATIONSBYVANESSA BELLTHEHOGARTH PRESS",
+            "fid" : "page-1" },
+          
+          { "form" : "Virginia",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "2 Kew Gardens by <mark>Virginia<\/mark> Woolf decorated by Vanessa Bell published by the Hogarth Press ",
+            "fid" : "page-2" } ] } ] }

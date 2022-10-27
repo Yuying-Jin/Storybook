@@ -1,0 +1,20 @@
+
+  { "stem" : "season",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "season",
+            "weight" : "1",
+            "pos" : 1492,
+            "context" : "...both in the prime of youth, or even in that <mark>season<\/mark> which precedes the prime of youth, the season before the...",
+            "fid" : "page-18" },
+          
+          { "form" : "season",
+            "weight" : "1",
+            "pos" : 1496,
+            "context" : "...in that season which precedes the prime of youth, the <mark>season<\/mark> before the smooth  folds of the s have burst their gummy...",
+            "fid" : "page-18" } ] } ] }

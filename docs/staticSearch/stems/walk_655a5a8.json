@@ -1,0 +1,44 @@
+
+  { "stem" : "walk",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "walk",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "...air above, into the eyes of the men and women who <mark>walk<\/mark> in  in July. The figures of these men and women...",
+            "fid" : "page-6" },
+          
+          { "form" : "walking",
+            "weight" : "1",
+            "pos" : 526,
+            "context" : "...settled anywhere—of course not, happily not, or I shouldn't be <mark>walking<\/mark> here with Eleanor and the children—Tell me, Eleanor....",
+            "fid" : "page-8" },
+          
+          { "form" : "walked",
+            "weight" : "1",
+            "pos" : 683,
+            "context" : "...life. Come, Caroline, come, Hubert. \"They <mark>walked<\/mark> on past the , now walking four abreast, and soon...",
+            "fid" : "page-9" },
+          
+          { "form" : "walking",
+            "weight" : "1",
+            "pos" : 688,
+            "context" : "...come, Hubert. \"They walked on past the , now <mark>walking<\/mark> four abreast, and soon diminished in size among the  and...",
+            "fid" : "page-9" },
+          
+          { "form" : "walking",
+            "weight" : "1",
+            "pos" : 935,
+            "context" : "...The elder man had a curiously uneven andshaky method of <mark>walking<\/mark>, jerking his handforward and throwing up his  abruptly,...",
+            "fid" : "page-12" },
+          
+          { "form" : "walking",
+            "weight" : "1",
+            "pos" : 1111,
+            "context" : "...by the sleeve and touched a  with the tip of his <mark>walking<\/mark>-stick in order to divert the old man's attention....",
+            "fid" : "page-14" } ] } ] }

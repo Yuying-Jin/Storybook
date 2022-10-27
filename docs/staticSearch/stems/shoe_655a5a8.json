@@ -1,0 +1,55 @@
+
+  { "stem" : "shoe",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "shoe",
+            "weight" : "1",
+            "pos" : 448,
+            "context" : "<mark>shoe<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "shoe",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "<mark>shoe<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "shoe",
+            "weight" : "1",
+            "pos" : 466,
+            "context" : "<mark>shoe<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "shoe",
+            "weight" : "1",
+            "pos" : 578,
+            "context" : "<mark>shoe<\/mark> buckle",
+            "fid" : "page-8",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "shoe",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "<mark>shoe<\/mark>" },
+          
+          { "form" : "shoe",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "<mark>shoe<\/mark> buckle" } ] } ] }

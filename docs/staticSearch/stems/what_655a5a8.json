@@ -1,0 +1,20 @@
+
+  { "stem" : "what",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "What's",
+            "weight" : "1",
+            "pos" : 1522,
+            "context" : "...in luck?\" \"They make you pay sixpence on Friday.\" <mark>What's<\/mark> sixpence anyway? Isn't it worth sixpence?\" \"What's 'it'—what do...",
+            "fid" : "page-18" },
+          
+          { "form" : "\"What's",
+            "weight" : "1",
+            "pos" : 1528,
+            "context" : "...Friday.\" What's sixpence anyway? Isn't it worth sixpence?\" <mark>\"What's<\/mark> 'it'—what do you mean by 'it'?\" \"O anything—I mean—you...",
+            "fid" : "page-18" } ] } ] }

@@ -1,0 +1,47 @@
+
+  { "stem" : "oval",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "oval",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "<mark>oval<\/mark>-shaped",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "oval",
+            "weight" : "1",
+            "pos" : 725,
+            "context" : "<mark>oval<\/mark>",
+            "fid" : "page-10",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "oval",
+            "weight" : "1",
+            "pos" : 1358,
+            "context" : "<mark>oval<\/mark>",
+            "fid" : "page-16",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "oval",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "<mark>oval<\/mark>-shaped, oval" },
+          
+          { "form" : "oval",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "oval-shaped, <mark>oval<\/mark>" } ] } ] }

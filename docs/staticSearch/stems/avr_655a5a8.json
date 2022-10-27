@@ -1,0 +1,23 @@
+
+  { "stem" : "avr",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "AVR",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "<mark>AVR<\/mark>:" } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "avr",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "editor: <mark>avr<\/mark> edm yxj" } ] } ] }

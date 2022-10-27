@@ -1,0 +1,20 @@
+
+  { "stem" : "motionless",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "motionless",
+            "weight" : "1",
+            "pos" : 1509,
+            "context" : "...when the wings of the , though fully grown, are <mark>motionless<\/mark> in the . \"Lucky it isn't Friday,\" he observed....",
+            "fid" : "page-18" },
+          
+          { "form" : "motionless",
+            "weight" : "1",
+            "pos" : 1972,
+            "context" : "...if all gross and heavy  had sunk down in the heat <mark>motionless<\/mark> and lay huddled upon the ground, but their voices went...",
+            "fid" : "page-23" } ] } ] }

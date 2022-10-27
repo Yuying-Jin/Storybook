@@ -1,0 +1,14 @@
+
+  { "stem" : "thrush",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thrush",
+            "weight" : "1",
+            "pos" : 1858,
+            "context" : "...atmosphere. How hot it was! So hot that even the <mark>thrush<\/mark> chose to hop, like a mechanical , in the shadow...",
+            "fid" : "page-22" } ] } ] }

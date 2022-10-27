@@ -1,0 +1,14 @@
+
+  { "stem" : "greatest",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "...HTML and CSS (with some XSLT and XML debugging). My <mark>greatest<\/mark> experience was with the CSS. I was assigned to be...",
+            "fid" : "#edm" } ] } ] }

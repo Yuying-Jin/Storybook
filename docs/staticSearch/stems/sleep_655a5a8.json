@@ -1,0 +1,14 @@
+
+  { "stem" : "sleep",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sleep",
+            "weight" : "1",
+            "pos" : 1331,
+            "context" : ".... She saw them as a sleeper waking from a heavy <mark>sleep<\/mark> sees a brass candlestick reflecting the light in an unfamiliar way...",
+            "fid" : "page-16" } ] } ] }

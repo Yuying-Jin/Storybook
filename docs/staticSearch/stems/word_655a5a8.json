@@ -1,0 +1,38 @@
+
+  { "stem" : "word",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "words",
+            "weight" : "1",
+            "pos" : 1318,
+            "context" : "16 The  woman looked through the pattern of falling <mark>words<\/mark> at the s standing cool, firm and upright in the...",
+            "fid" : "page-16" },
+          
+          { "form" : "words",
+            "weight" : "1",
+            "pos" : 1370,
+            "context" : "...the other woman was saying. She stood there letting the <mark>words<\/mark> fall over her, swaying the top part of her  slowly backwards...",
+            "fid" : "page-16" },
+          
+          { "form" : "words",
+            "weight" : "1",
+            "pos" : 1593,
+            "context" : "...their feelings in a strange way, as these short insignificant <mark>words<\/mark> also expressed something, words with short wings for their heavy...",
+            "fid" : "page-19" },
+          
+          { "form" : "words",
+            "weight" : "1",
+            "pos" : 1597,
+            "context" : "...way, as these short insignificant words also expressed something, <mark>words<\/mark> with short wings for their heavy body of meaning, inadequate...",
+            "fid" : "page-19" },
+          
+          { "form" : "words",
+            "weight" : "1",
+            "pos" : 1643,
+            "context" : "...you at Kew he felt that something loomed up behind her <mark>words<\/mark> and stood vast and solid behind them; and the mist very...",
+            "fid" : "page-19" } ] } ] }

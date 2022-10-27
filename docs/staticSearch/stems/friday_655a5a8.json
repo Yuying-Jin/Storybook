@@ -1,0 +1,20 @@
+
+  { "stem" : "friday",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Friday",
+            "weight" : "1",
+            "pos" : 1513,
+            "context" : "...fully grown, are motionless in the . \"Lucky it isn't <mark>Friday<\/mark>,\" he observed. \"Why? D'you believe in luck?\" \"They...",
+            "fid" : "page-18" },
+          
+          { "form" : "Friday",
+            "weight" : "1",
+            "pos" : 1521,
+            "context" : "...D'you believe in luck?\" \"They make you pay sixpence on <mark>Friday<\/mark>.\" What's sixpence anyway? Isn't it worth sixpence?\" \"What's...",
+            "fid" : "page-18" } ] } ] }

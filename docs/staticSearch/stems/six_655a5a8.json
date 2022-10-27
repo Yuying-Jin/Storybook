@@ -1,0 +1,26 @@
+
+  { "stem" : "six",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "six",
+            "weight" : "1",
+            "pos" : 377,
+            "context" : "...zag flights from bed to bed. The man was about <mark>six<\/mark> inches in front of the woman, strolling care- lessly...",
+            "fid" : "page-6" },
+          
+          { "form" : "six",
+            "weight" : "1",
+            "pos" : 627,
+            "context" : "9 \"For me, a kiss. Imagine <mark>six<\/mark> little girls sitting before their  twenty years ago, down by...",
+            "fid" : "page-9" },
+          
+          { "form" : "six",
+            "weight" : "1",
+            "pos" : 1574,
+            "context" : "...corner are slightly rolled up. The bottom the paper consists of <mark>six<\/mark> arcs, and each arc has two concentric circles above it....",
+            "fid" : "page-19" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "cast",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cast",
+            "weight" : "1",
+            "pos" : 334,
+            "context" : "...from the same origin. They sit upon large leaves that <mark>cast<\/mark> a thick shadow. —— #edm",
+            "fid" : "page-6" } ] } ] }

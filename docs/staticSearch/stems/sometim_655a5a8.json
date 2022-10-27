@@ -1,0 +1,14 @@
+
+  { "stem" : "sometim",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sometimes",
+            "weight" : "1",
+            "pos" : 927,
+            "context" : "...and some-times opened his  only after a long pauseand <mark>sometimes<\/mark> did not open them at all.The elder man had a...",
+            "fid" : "page-12" } ] } ] }

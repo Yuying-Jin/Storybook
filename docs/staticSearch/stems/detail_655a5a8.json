@@ -1,0 +1,20 @@
+
+  { "stem" : "detail",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "details",
+            "weight" : "1",
+            "pos" : 1037,
+            "context" : "...wire—isolate?—insulate?—well, we'll skip the <mark>details<\/mark>, no good going into details that wouldn't be understood—and...",
+            "fid" : "page-13" },
+          
+          { "form" : "details",
+            "weight" : "1",
+            "pos" : 1040,
+            "context" : "...well, we'll skip the details, no good going into <mark>details<\/mark> that wouldn't be understood—and in short the little machine stands...",
+            "fid" : "page-13" } ] } ] }

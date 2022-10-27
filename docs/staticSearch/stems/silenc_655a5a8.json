@@ -1,0 +1,32 @@
+
+  { "stem" : "silenc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "silence",
+            "weight" : "1",
+            "pos" : 1240,
+            "context" : "...mad. After they had scrutinised the old man' back in <mark>silence<\/mark> for a moment and given each other a queer, sly...",
+            "fid" : "page-15" },
+          
+          { "form" : "silence",
+            "weight" : "1",
+            "pos" : 2017,
+            "context" : "24 Voices, yes, vioces, breaking the <mark>silence<\/mark> suddently with such depth of contentment, such passion of desire...",
+            "fid" : "page-24" },
+          
+          { "form" : "silence",
+            "weight" : "1",
+            "pos" : 2028,
+            "context" : "...voices of children, such freshness of surprise; breaking the <mark>silence<\/mark>? But there was no silence; all the time the...",
+            "fid" : "page-24" },
+          
+          { "form" : "silence",
+            "weight" : "1",
+            "pos" : 2029,
+            "context" : "...of surprise; breaking the silence? But there was no <mark>silence<\/mark>; all the time the  were turning their  and changing their...",
+            "fid" : "page-24" } ] } ] }

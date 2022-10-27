@@ -1,0 +1,32 @@
+
+  { "stem" : "peopl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "people",
+            "weight" : "1",
+            "pos" : 1216,
+            "context" : "...class, one  and , the other  and . Like most <mark>people<\/mark> of their station they were frankly fascinated by any sign of...",
+            "fid" : "page-15" },
+          
+          { "form" : "people",
+            "weight" : "1",
+            "pos" : 1460,
+            "context" : "...and was getting used to the cool  light when two other <mark>people<\/mark> came past outside on the . This time they were both...",
+            "fid" : "page-17" },
+          
+          { "form" : "people",
+            "weight" : "1",
+            "pos" : 1720,
+            "context" : "...impatient to find the place where one had tea with other <mark>people<\/mark>, like other people. ",
+            "fid" : "page-20" },
+          
+          { "form" : "people",
+            "weight" : "1",
+            "pos" : 1722,
+            "context" : "...place where one had tea with other people, like other <mark>people<\/mark>. ",
+            "fid" : "page-20" } ] } ] }

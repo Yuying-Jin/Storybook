@@ -1,0 +1,50 @@
+
+  { "stem" : "even",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "even",
+            "weight" : "1",
+            "pos" : 999,
+            "context" : "...—the spirits of the dead, who, according to him, were <mark>even<\/mark> now telling him all sorts of odd things about their experiences...",
+            "fid" : "page-13" },
+          
+          { "form" : "even",
+            "weight" : "1",
+            "pos" : 1363,
+            "context" : "...woman came to a standstill opposite the  shaped , and ceased <mark>even<\/mark> to pretend to listen to what the other woman was saying...",
+            "fid" : "page-16" },
+          
+          { "form" : "even",
+            "weight" : "1",
+            "pos" : 1429,
+            "context" : "...thin texture which vibrated with such an alarming crackle when touched <mark>even<\/mark> by the tip of his horns would bear his weight;...",
+            "fid" : "page-17" },
+          
+          { "form" : "even",
+            "weight" : "1",
+            "pos" : 1491,
+            "context" : "...18 They were both in the prime of youth, or <mark>even<\/mark> in that season which precedes the prime of youth, the...",
+            "fid" : "page-18" },
+          
+          { "form" : "Even",
+            "weight" : "1",
+            "pos" : 1633,
+            "context" : "...side? who knows? Who has ever seen this before? <mark>Even<\/mark> when she wondered what sort of tea they gave you at...",
+            "fid" : "page-19" },
+          
+          { "form" : "even",
+            "weight" : "1",
+            "pos" : 1703,
+            "context" : "...pocket, real to everyone except to hum and to her; <mark>even<\/mark> to him it began to seem real; and then—but it...",
+            "fid" : "page-20" },
+          
+          { "form" : "even",
+            "weight" : "1",
+            "pos" : 1857,
+            "context" : "...the  and atmosphere. How hot it was! So hot that <mark>even<\/mark> the thrush chose to hop, like a mechanical , in...",
+            "fid" : "page-22" } ] } ] }

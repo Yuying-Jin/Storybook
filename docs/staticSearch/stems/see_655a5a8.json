@@ -1,0 +1,44 @@
+
+  { "stem" : "see",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "see",
+            "weight" : "1",
+            "pos" : 389,
+            "context" : "...with greater purpose, only turning her  now and then to <mark>see<\/mark> that the children were not too far behind. The man...",
+            "fid" : "page-6" },
+          
+          { "form" : "see",
+            "weight" : "1",
+            "pos" : 444,
+            "context" : ".... How the  kept circling round us: how clearly I <mark>see<\/mark> the  and her  with the    at the toe. All the...",
+            "fid" : "page-7" },
+          
+          { "form" : "sees",
+            "weight" : "1",
+            "pos" : 1332,
+            "context" : "...She saw them as a sleeper waking from a heavy sleep <mark>sees<\/mark> a brass candlestick reflecting the light in an unfamiliar way,...",
+            "fid" : "page-16" },
+          
+          { "form" : "seeing",
+            "weight" : "1",
+            "pos" : 1342,
+            "context" : "...an unfamiliar way, and closes his  and opens them, and <mark>seeing<\/mark> the brass candlestick again, finally starts wide awake and stares at...",
+            "fid" : "page-16" },
+          
+          { "form" : "see",
+            "weight" : "1",
+            "pos" : 1741,
+            "context" : "...mouth of the vase. Below the vase, we can <mark>see<\/mark> two straight lines with different length. On the right,...",
+            "fid" : "page-21" },
+          
+          { "form" : "seeing",
+            "weight" : "1",
+            "pos" : 1944,
+            "context" : "...were spotted for a second upon the horizon, and then, <mark>seeing<\/mark> the breadth of  that lay upon the , they wavered and...",
+            "fid" : "page-23" } ] } ] }

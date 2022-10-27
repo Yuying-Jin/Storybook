@@ -1,0 +1,50 @@
+
+  { "stem" : "colour",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "colour",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...and unfurling at the tip  or  or   marked with spots of <mark>colour<\/mark> raised upon the surface; and from the ,  or  gloom...",
+            "fid" : "page-4" },
+          
+          { "form" : "colour",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "...inch of the   beneath with a spot of the most intricate <mark>colour<\/mark>. The light fell either upon the smooth,  back of...",
+            "fid" : "page-5" },
+          
+          { "form" : "colour",
+            "weight" : "1",
+            "pos" : 343,
+            "context" : "6 Then the  stirred rather more briskly overhead and the <mark>colour<\/mark> was flashed into the air above, into the eyes of the...",
+            "fid" : "page-6" },
+          
+          { "form" : "colour",
+            "weight" : "1",
+            "pos" : 1846,
+            "context" : "...in which at first their  had substance and a dash of <mark>colour<\/mark>, but later both substance and colour dissolved in the  and...",
+            "fid" : "page-22" },
+          
+          { "form" : "colour",
+            "weight" : "1",
+            "pos" : 1849,
+            "context" : "...and a dash of colour, but later both substance and <mark>colour<\/mark> dissolved in the  and atmosphere. How hot it was! So...",
+            "fid" : "page-22" },
+          
+          { "form" : "colours",
+            "weight" : "1",
+            "pos" : 1936,
+            "context" : "23  and ,  and , shapes of all these <mark>colours<\/mark>, men, women and children were spotted for a second...",
+            "fid" : "page-23" },
+          
+          { "form" : "colours",
+            "weight" : "1",
+            "pos" : 2059,
+            "context" : "...voices cried aloud and the  of myriads of s flashed their <mark>colours<\/mark> into the . ",
+            "fid" : "page-24" } ] } ] }

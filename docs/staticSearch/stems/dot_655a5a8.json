@@ -1,0 +1,44 @@
+
+  { "stem" : "dot",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "dotting",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "2 Off-white page with maroon <mark>dotting<\/mark> down the left-hand side. The writing on the...",
+            "fid" : "page-2" },
+          
+          { "form" : "dots",
+            "weight" : "1",
+            "pos" : 622,
+            "context" : "...patterns. The bottom area has big curly loops nesting black <mark>dots<\/mark> between it and the text. —— #edm",
+            "fid" : "page-9" },
+          
+          { "form" : "dots",
+            "weight" : "1",
+            "pos" : 982,
+            "context" : "...center of bottom, there is a circle filled with many <mark>dots<\/mark>. There are symmetrical dashed curves on both sides of the...",
+            "fid" : "page-13" },
+          
+          { "form" : "dots",
+            "weight" : "1",
+            "pos" : 1399,
+            "context" : "...page. At the top, there are many flowers and <mark>dots<\/mark>.—— #yxj",
+            "fid" : "page-17" },
+          
+          { "form" : "dots",
+            "weight" : "1",
+            "pos" : 1670,
+            "context" : "...At the bottom, there are 6 smaller jars. Many <mark>dots<\/mark> and curves are below them, which form something like cushions....",
+            "fid" : "page-20" },
+          
+          { "form" : "dots",
+            "weight" : "1",
+            "pos" : 1913,
+            "context" : "23At the top, there are many <mark>dots<\/mark>, which form a forest. There are some fallen leaves...",
+            "fid" : "page-23" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "stout",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stout",
+            "weight" : "1",
+            "pos" : 1209,
+            "context" : "<mark>stout<\/mark>",
+            "fid" : "page-15",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stout",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "<mark>stout<\/mark>" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "carriag",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "carriage",
+            "weight" : "1",
+            "pos" : 945,
+            "context" : "...up his  abruptly,rather in the manner of an impatient <mark>carriage<\/mark> tired of waiting outside a ; butin the man these...",
+            "fid" : "page-12" } ] } ] }

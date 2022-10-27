@@ -1,0 +1,14 @@
+
+  { "stem" : "ridg",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ridges",
+            "weight" : "1",
+            "pos" : 1624,
+            "context" : "...into the ) what precipices aren't concealed in them, or what <mark>ridges<\/mark> of  don't shine in the  on the other side? who...",
+            "fid" : "page-19" } ] } ] }

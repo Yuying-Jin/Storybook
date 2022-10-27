@@ -1,0 +1,14 @@
+
+  { "stem" : "pa",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pa",
+            "weight" : "1",
+            "pos" : 1257,
+            "context" : "...: \"Nell, Bert, Lot, Cess, Phil, <mark>Pa<\/mark>, he says, I says, she says, I...",
+            "fid" : "page-15" } ] } ] }

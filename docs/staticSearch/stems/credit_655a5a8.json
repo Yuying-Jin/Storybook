@@ -1,0 +1,14 @@
+
+  { "stem" : "credit",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "credit",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...also drew the cursor image! However, I cannot take <mark>credit<\/mark> for the cursor actually working, that was all #yxj...",
+            "fid" : "#edm" } ] } ] }

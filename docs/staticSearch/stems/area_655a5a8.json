@@ -1,0 +1,14 @@
+
+  { "stem" : "area",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "area",
+            "weight" : "1",
+            "pos" : 616,
+            "context" : "...travels down and under the under margin patterns. The bottom <mark>area<\/mark> has big curly loops nesting black dots between it and the...",
+            "fid" : "page-9" } ] } ] }

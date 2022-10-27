@@ -1,0 +1,20 @@
+
+  { "stem" : "listen",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "listen",
+            "weight" : "1",
+            "pos" : 1020,
+            "context" : "...is rolling between the  like .\" He paused, seemed to <mark>listen<\/mark>, smiled, jerked his  and continued:— \"You have a...",
+            "fid" : "page-13" },
+          
+          { "form" : "listen",
+            "weight" : "1",
+            "pos" : 1365,
+            "context" : "...standstill opposite the  shaped , and ceased even to pretend to <mark>listen<\/mark> to what the other woman was saying. She stood there...",
+            "fid" : "page-16" } ] } ] }

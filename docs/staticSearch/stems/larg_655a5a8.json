@@ -1,0 +1,38 @@
+
+  { "stem" : "larg",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 332,
+            "context" : "...that seemingly come from the same origin. They sit upon <mark>large<\/mark> leaves that cast a thick shadow. —— #edm",
+            "fid" : "page-6" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 704,
+            "context" : "...looked half  as the  and shade swam over their backs in <mark>large<\/mark> trembling irregular patches. ",
+            "fid" : "page-9" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 881,
+            "context" : "...column. The bottom margin has one long bumpy line with <mark>large<\/mark> black cradled in the dips of the bumps. On the...",
+            "fid" : "page-12" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 1304,
+            "context" : "...and straight lines form the shape of the ground. A <mark>large<\/mark> flower and some petals break the sentences in the line 6-...",
+            "fid" : "page-16" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 1657,
+            "context" : "20The container of this page looks like a <mark>large<\/mark> jar. Its top, left and right consist of two...",
+            "fid" : "page-20" } ] } ] }

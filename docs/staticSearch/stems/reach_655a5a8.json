@@ -1,0 +1,14 @@
+
+  { "stem" : "reach",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reaching",
+            "weight" : "1",
+            "pos" : 1407,
+            "context" : "17 The  had now considered every possible method of <mark>reaching<\/mark> his goal without going round the dead  or climbing over it....",
+            "fid" : "page-17" } ] } ] }

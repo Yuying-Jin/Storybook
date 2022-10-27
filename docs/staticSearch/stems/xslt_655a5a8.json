@@ -1,0 +1,32 @@
+
+  { "stem" : "xslt",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "XSLT",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "..., I mostly worked on the HTML and CSS (with some <mark>XSLT<\/mark> and XML debugging). My greatest experience was with the CSS...",
+            "fid" : "#edm" },
+          
+          { "form" : "xslt",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...describing of pages 13-24 and coding relax NG and <mark>xslt<\/mark> files. I got a lot of help on coding relax...",
+            "fid" : "#yxj" },
+          
+          { "form" : "xslt",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...I got a lot of help on coding relax NG and <mark>xslt<\/mark> from our consultant, professor Beshero, so finally we got...",
+            "fid" : "#yxj" },
+          
+          { "form" : "xslt",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "...professor Beshero, so finally we got satisfactory relax ng and <mark>xslt<\/mark> files. ",
+            "fid" : "#yxj" } ] } ] }

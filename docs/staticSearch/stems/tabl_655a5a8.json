@@ -1,0 +1,42 @@
+
+  { "stem" : "tabl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 3,
+            "context" : " Kew Gardens | <mark>Table<\/mark> | About ",
+            "fid" : "menu" },
+          
+          { "form" : "tables",
+            "weight" : "1",
+            "pos" : 1682,
+            "context" : "20 —O heavens!— what were those shapes?—little  <mark>tables<\/mark>, and waitresses who looked first at her and then at...",
+            "fid" : "page-20" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 3,
+            "context" : " Kew Gardens | <mark>Table<\/mark> | About ",
+            "fid" : "menu" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 3,
+            "context" : " Kew Gardens | <mark>Table<\/mark> | About ",
+            "fid" : "menu" } ] } ] }

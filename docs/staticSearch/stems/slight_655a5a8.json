@@ -1,0 +1,32 @@
+
+  { "stem" : "slight",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "slightly",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...the throat emerged a straight bar, rough with  dust and <mark>slightly<\/mark>  at the end. ",
+            "fid" : "page-4" },
+          
+          { "form" : "slightly",
+            "weight" : "1",
+            "pos" : 740,
+            "context" : "...of two minutes or so, now appeared tobe moving very <mark>slightly<\/mark> in its shell, and nextbegan to labour over the...",
+            "fid" : "page-10" },
+          
+          { "form" : "slightly",
+            "weight" : "1",
+            "pos" : 1198,
+            "context" : "15 Following his steps so closely as to be <mark>slightly<\/mark> puzzled by his gestures came two elderly women of the lower...",
+            "fid" : "page-15" },
+          
+          { "form" : "slightly",
+            "weight" : "1",
+            "pos" : 1569,
+            "context" : "...of paper whose upper left corner and upper right corner are <mark>slightly<\/mark> rolled up. The bottom the paper consists of six arcs,...",
+            "fid" : "page-19" } ] } ] }

@@ -1,0 +1,54 @@
+
+  { "stem" : "hand",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "hand",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "...2 Off-white page with maroon dotting down the left-<mark>hand<\/mark> side. The writing on the page was the same burnt...",
+            "fid" : "page-2" },
+          
+          { "form" : "hand",
+            "weight" : "1",
+            "pos" : 653,
+            "context" : "<mark>hand<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "hand",
+            "weight" : "1",
+            "pos" : 937,
+            "context" : "...a curiously uneven andshaky method of walking, jerking his <mark>hand<\/mark>forward and throwing up his  abruptly,rather in the manner...",
+            "fid" : "page-12" },
+          
+          { "form" : "hand",
+            "weight" : "1",
+            "pos" : 1096,
+            "context" : "<mark>hand<\/mark>",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "hand",
+            "weight" : "1",
+            "pos" : 1584,
+            "context" : "<mark>hand<\/mark>",
+            "fid" : "page-19",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hand",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "<mark>hand<\/mark>" } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "licens",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "license",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "<mark>license<\/mark>: Public Domain" } ] } ] }

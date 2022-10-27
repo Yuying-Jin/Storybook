@@ -1,0 +1,14 @@
+
+  { "stem" : "bent",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bent",
+            "weight" : "1",
+            "pos" : 1123,
+            "context" : "...at it for a moment in some confusion the old man <mark>bent<\/mark> his  to it and seemed to answer a voice speaking from...",
+            "fid" : "page-14" } ] } ] }

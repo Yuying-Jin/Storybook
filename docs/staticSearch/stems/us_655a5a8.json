@@ -1,0 +1,14 @@
+
+  { "stem" : "us",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "us",
+            "weight" : "1",
+            "pos" : 442,
+            "context" : "...all through the hot afternoon. How the  kept circling round <mark>us<\/mark>: how clearly I see the  and her  with the    at...",
+            "fid" : "page-7" } ] } ] }

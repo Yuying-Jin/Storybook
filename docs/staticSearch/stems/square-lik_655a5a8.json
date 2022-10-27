@@ -1,0 +1,14 @@
+
+  { "stem" : "square-lik",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "square-like",
+            "weight" : "1",
+            "pos" : 893,
+            "context" : "..., there are two arched lines in the center with two <mark>square-like<\/mark> shapes on the corners. —— #edm",
+            "fid" : "page-12" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "cradl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cradled",
+            "weight" : "1",
+            "pos" : 883,
+            "context" : "...The bottom margin has one long bumpy line with large black <mark>cradled<\/mark> in the dips of the bumps. On the top margin...",
+            "fid" : "page-12" } ] } ] }

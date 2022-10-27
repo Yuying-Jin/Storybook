@@ -1,0 +1,26 @@
+
+  { "stem" : "roll",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "rolled",
+            "weight" : "1",
+            "pos" : 750,
+            "context" : "...and nextbegan to labour over the  which broke away and <mark>rolled<\/mark> downas it passed over them. It appeared tohave a...",
+            "fid" : "page-10" },
+          
+          { "form" : "rolling",
+            "weight" : "1",
+            "pos" : 1014,
+            "context" : "..., and now, with this war, the spirit matter is <mark>rolling<\/mark> between the  like .\" He paused, seemed to listen,...",
+            "fid" : "page-13" },
+          
+          { "form" : "rolled",
+            "weight" : "1",
+            "pos" : 1570,
+            "context" : "...paper whose upper left corner and upper right corner are slightly <mark>rolled<\/mark> up. The bottom the paper consists of six arcs, and...",
+            "fid" : "page-19" } ] } ] }

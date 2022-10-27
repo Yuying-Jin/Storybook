@@ -1,0 +1,14 @@
+
+  { "stem" : "pull",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pulled",
+            "weight" : "1",
+            "pos" : 1711,
+            "context" : "...too exciting to stand and think any longer, and he <mark>pulled<\/mark> the parasol out of the  with a jerk and was impatient...",
+            "fid" : "page-20" } ] } ] }

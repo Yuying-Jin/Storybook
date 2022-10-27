@@ -1,0 +1,14 @@
+
+  { "stem" : "gather",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gathered",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...handled the transcription of the first half of the book and <mark>gathered<\/mark> the images of them. Afterwards, I marked up that same...",
+            "fid" : "#avr" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "press",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Press",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "publisher: Hogarth <mark>Press<\/mark>" },
+          
+          { "form" : "PRESS",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...KEW GARDENSBYVIRGINIA WOOLFDECORATIONSBYVANESSA BELLTHEHOGARTH <mark>PRESS<\/mark>",
+            "fid" : "page-1" },
+          
+          { "form" : "Press",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...by Virginia Woolf decorated by Vanessa Bell published by the Hogarth <mark>Press<\/mark> ",
+            "fid" : "page-2" },
+          
+          { "form" : "pressed",
+            "weight" : "1",
+            "pos" : 1549,
+            "context" : "...still on the edge of the flower bed, and together <mark>pressed<\/mark> the end of her parasol deep down into the . ",
+            "fid" : "page-18" },
+          
+          { "form" : "pressed",
+            "weight" : "1",
+            "pos" : 1618,
+            "context" : "...so massive: but who knows (so they thought as they <mark>pressed<\/mark> the parasol into the ) what precipices aren't concealed in them,...",
+            "fid" : "page-19" } ] } ] }

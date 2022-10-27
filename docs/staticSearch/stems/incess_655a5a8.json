@@ -1,0 +1,14 @@
+
+  { "stem" : "incess",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "incessantly",
+            "weight" : "1",
+            "pos" : 957,
+            "context" : "...man these gestures were irresolute andpointless. He talked almost <mark>incessantly<\/mark>; hesmiled to himself and again began to talk,...",
+            "fid" : "page-12" } ] } ] }

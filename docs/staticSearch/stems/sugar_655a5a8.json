@@ -1,0 +1,38 @@
+
+  { "stem" : "sugar",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "sugar",
+            "weight" : "1",
+            "pos" : 1270,
+            "context" : "..., Sis, Bill, Grandad, the old man, <mark>sugar<\/mark>. Sugar, flour, kippers, greens, Sugar,...",
+            "fid" : "page-15" },
+          
+          { "form" : "Sugar",
+            "weight" : "1",
+            "pos" : 1271,
+            "context" : "..., Bill, Grandad, the old man, sugar. <mark>Sugar<\/mark>, flour, kippers, greens, Sugar, sugar,...",
+            "fid" : "page-15" },
+          
+          { "form" : "Sugar",
+            "weight" : "1",
+            "pos" : 1275,
+            "context" : "..., sugar. Sugar, flour, kippers, greens, <mark>Sugar<\/mark>, sugar, sugar. ",
+            "fid" : "page-15" },
+          
+          { "form" : "sugar",
+            "weight" : "1",
+            "pos" : 1276,
+            "context" : ".... Sugar, flour, kippers, greens, Sugar, <mark>sugar<\/mark>, sugar. ",
+            "fid" : "page-15" },
+          
+          { "form" : "sugar",
+            "weight" : "1",
+            "pos" : 1277,
+            "context" : "..., flour, kippers, greens, Sugar, sugar, <mark>sugar<\/mark>. ",
+            "fid" : "page-15" } ] } ] }

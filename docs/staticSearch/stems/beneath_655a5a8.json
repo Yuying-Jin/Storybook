@@ -1,0 +1,38 @@
+
+  { "stem" : "beneath",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "...lights passed one over the other, staining an inch of the   <mark>beneath<\/mark> with a spot of the most intricate colour. The light...",
+            "fid" : "page-5" },
+          
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "...the flesh of a , revealing the branching thread of fibre <mark>beneath<\/mark> the surface, and again it moved on and spread its...",
+            "fid" : "page-5" },
+          
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 301,
+            "context" : "...it moved on and spread its illumination in the vast  spaces <mark>beneath<\/mark> the dome of the  and  . ",
+            "fid" : "page-5" },
+          
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 1438,
+            "context" : "...his weight; and this determined him finally to creep and <mark>beneath<\/mark> it, for there was a point where the  curved high enough...",
+            "fid" : "page-17" },
+          
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 1953,
+            "context" : "...of  that lay upon the , they wavered and sought shade <mark>beneath<\/mark> the , dissolving like drops of  in the  and  atmosphere,...",
+            "fid" : "page-23" } ] } ] }

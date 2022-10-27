@@ -1,0 +1,14 @@
+
+  { "stem" : "border",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "border",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "..., storybook font. it is the top part of the <mark>border<\/mark> decoration that takes up the margins as well as the bottom...",
+            "fid" : "page-4" } ] } ] }

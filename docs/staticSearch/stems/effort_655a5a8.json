@@ -1,0 +1,14 @@
+
+  { "stem" : "effort",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "effort",
+            "weight" : "1",
+            "pos" : 1417,
+            "context" : "...going round the dead  or climbing over it. Let alone the <mark>effort<\/mark> needed for climbing a , he was doubtful whether the thin...",
+            "fid" : "page-17" } ] } ] }

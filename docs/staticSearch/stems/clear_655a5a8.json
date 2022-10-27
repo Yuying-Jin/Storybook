@@ -1,0 +1,25 @@
+
+  { "stem" : "clear",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "clearly",
+            "weight" : "1",
+            "pos" : 443,
+            "context" : "...hot afternoon. How the  kept circling round us: how <mark>clearly<\/mark> I see the  and her  with the    at the toe....",
+            "fid" : "page-7" } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Clear",
+            "weight" : "1",
+            "pos" : 5,
+            "context" : " This page requires JavaScript.Search<mark>Clear<\/mark>Search                          ",
+            "fid" : "ssClear" } ] } ] }

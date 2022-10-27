@@ -1,0 +1,14 @@
+
+  { "stem" : "lessli",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lessly",
+            "weight" : "1",
+            "pos" : 383,
+            "context" : "...six inches in front of the woman, strolling care- <mark>lessly<\/mark>, while she bore on with greater purpose, only turning...",
+            "fid" : "page-6" } ] } ] }

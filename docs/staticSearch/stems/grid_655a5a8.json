@@ -1,0 +1,14 @@
+
+  { "stem" : "grid",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "grid",
+            "weight" : "1",
+            "pos" : 1190,
+            "context" : "...bottom, there is thick solid curve, and a rhombus <mark>grid<\/mark> breaks it in the middle.—— #yxj",
+            "fid" : "page-15" } ] } ] }

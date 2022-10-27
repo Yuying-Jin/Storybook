@@ -1,0 +1,14 @@
+
+  { "stem" : "wave",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "waved",
+            "weight" : "1",
+            "pos" : 827,
+            "context" : "...s in the hollows, flat, blade-like that <mark>waved<\/mark> from  to tip, round of  , vast crumpled surfaces of...",
+            "fid" : "page-11" } ] } ] }

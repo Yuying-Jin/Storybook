@@ -1,0 +1,61 @@
+
+  { "stem" : "half",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "half",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...decoration that takes up the margins as well as the bottom <mark>half<\/mark> of the page. The designs are flowers and leaves painting...",
+            "fid" : "page-4" },
+          
+          { "form" : "half",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...4 From the   there rose perhaps a hundred  spreading into  or   <mark>half<\/mark> way up and unfurling at the tip  or  or   marked with...",
+            "fid" : "page-4" },
+          
+          { "form" : "half",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "...are two conifer-type flowers. Around the bottom-<mark>half<\/mark> of the page, there are similar swish-y designs with...",
+            "fid" : "page-5" },
+          
+          { "form" : "half",
+            "weight" : "1",
+            "pos" : 605,
+            "context" : "...margin patterns are two loose swiggle lines. Around the bottom <mark>half<\/mark> of the page another squiggle line joins the three, then...",
+            "fid" : "page-9" },
+          
+          { "form" : "half",
+            "weight" : "1",
+            "pos" : 697,
+            "context" : "...abreast, and soon diminished in size among the  and looked <mark>half<\/mark>  as the  and shade swam over their backs in large trembling...",
+            "fid" : "page-9" },
+          
+          { "form" : "half",
+            "weight" : "1",
+            "pos" : 1731,
+            "context" : "...straight line. In the upper left corner, there is <mark>half<\/mark> a vase pattern, and two flowers stretch to the right...",
+            "fid" : "page-21" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "half",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...and xml markup. I handled the transcription of the first <mark>half<\/mark> of the book and gathered the images of them. Afterwards,...",
+            "fid" : "#avr" },
+          
+          { "form" : "half",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...the images of them. Afterwards, I marked up that same <mark>half<\/mark> in xml to fit our group's schema. Overall, learning...",
+            "fid" : "#avr" } ] } ] }

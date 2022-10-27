@@ -1,0 +1,69 @@
+
+  { "stem" : "earth",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "earth",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "<mark>earth<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "earth",
+            "weight" : "1",
+            "pos" : 747,
+            "context" : "crumbs of loose<mark>earth<\/mark>",
+            "fid" : "page-10",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "earth",
+            "weight" : "1",
+            "pos" : 1324,
+            "context" : "...at the s standing cool, firm and upright in the <mark>earth<\/mark>, with a curious expression. She saw them as a...",
+            "fid" : "page-16" },
+          
+          { "form" : "earth",
+            "weight" : "1",
+            "pos" : 1554,
+            "context" : "soft <mark>earth<\/mark>",
+            "fid" : "page-18",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "earth",
+            "weight" : "1",
+            "pos" : 1620,
+            "context" : "<mark>earth<\/mark>",
+            "fid" : "page-19",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "earth",
+            "weight" : "1",
+            "pos" : 1713,
+            "context" : "<mark>earth<\/mark>",
+            "fid" : "page-20",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "earth",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "<mark>earth<\/mark>" },
+          
+          { "form" : "earth",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "soft <mark>earth<\/mark>" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "angular",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "angular",
+            "weight" : "1",
+            "pos" : 761,
+            "context" : "...of it, differing in this respect from the singular high stepping <mark>angular<\/mark> green  who attempted to cross in front of it, and waited...",
+            "fid" : "page-10" } ] } ] }

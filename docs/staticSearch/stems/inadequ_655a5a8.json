@@ -1,0 +1,14 @@
+
+  { "stem" : "inadequ",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "inadequate",
+            "weight" : "1",
+            "pos" : 1603,
+            "context" : "...words with short wings for their heavy body of meaning, <mark>inadequate<\/mark> to carry them far and thus alighting awkwardly upon the very...",
+            "fid" : "page-19" } ] } ] }

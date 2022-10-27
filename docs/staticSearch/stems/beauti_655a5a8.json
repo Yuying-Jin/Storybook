@@ -1,0 +1,14 @@
+
+  { "stem" : "beauti",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beautiful",
+            "weight" : "1",
+            "pos" : 1138,
+            "context" : "...had visited hundreds of years ago in company with the most <mark>beautiful<\/mark> young woman in Europe. He could be heard mur-...",
+            "fid" : "page-14" } ] } ] }

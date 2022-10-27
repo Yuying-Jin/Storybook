@@ -1,0 +1,14 @@
+
+  { "stem" : "sway",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swaying",
+            "weight" : "1",
+            "pos" : 1372,
+            "context" : "...saying. She stood there letting the words fall over her, <mark>swaying<\/mark> the top part of her  slowly backwards and forwards, looking...",
+            "fid" : "page-16" } ] } ] }

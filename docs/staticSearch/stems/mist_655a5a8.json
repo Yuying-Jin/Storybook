@@ -1,0 +1,14 @@
+
+  { "stem" : "mist",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mist",
+            "weight" : "1",
+            "pos" : 1648,
+            "context" : "...her words and stood vast and solid behind them; and the <mark>mist<\/mark> very slowly rose and uncovered ",
+            "fid" : "page-19" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "unnatur",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unnatural",
+            "weight" : "1",
+            "pos" : 907,
+            "context" : ".... Theyounger of the two wore an expressionof perhaps <mark>unnatural<\/mark> calm; he raised his and fixed them very steadily in...",
+            "fid" : "page-12" } ] } ] }

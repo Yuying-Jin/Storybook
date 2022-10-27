@@ -1,0 +1,68 @@
+
+  { "stem" : "side",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "side",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...Off-white page with maroon dotting down the left-hand <mark>side<\/mark>. The writing on the page was the same burnt maroon...",
+            "fid" : "page-2" },
+          
+          { "form" : "side",
+            "weight" : "1",
+            "pos" : 593,
+            "context" : "...simplistic rope-braid like patterns that somewhat connects to the <mark>side<\/mark> margin patterns. The side margin patterns are two loose swiggle...",
+            "fid" : "page-9" },
+          
+          { "form" : "side",
+            "weight" : "1",
+            "pos" : 596,
+            "context" : "...patterns that somewhat connects to the side margin patterns. The <mark>side<\/mark> margin patterns are two loose swiggle lines. Around the bottom...",
+            "fid" : "page-9" },
+          
+          { "form" : "side",
+            "weight" : "1",
+            "pos" : 635,
+            "context" : "...girls sitting before their  twenty years ago, down by the <mark>side<\/mark> of a , painting the , the first   I'd ever seen...",
+            "fid" : "page-9" },
+          
+          { "form" : "side",
+            "weight" : "1",
+            "pos" : 803,
+            "context" : "...top margin and curve over the text. On the right <mark>side<\/mark>, there is another reed plant that simply climbs the right...",
+            "fid" : "page-11" },
+          
+          { "form" : "side",
+            "weight" : "1",
+            "pos" : 811,
+            "context" : "...there is another reed plant that simply climbs the right margin <mark>side<\/mark> and blooms at the top. —— #edm",
+            "fid" : "page-11" },
+          
+          { "form" : "sides",
+            "weight" : "1",
+            "pos" : 986,
+            "context" : "...with many dots. There are symmetrical dashed curves on both <mark>sides<\/mark> of the circle. A long solid curve is below the...",
+            "fid" : "page-13" },
+          
+          { "form" : "side",
+            "weight" : "1",
+            "pos" : 1181,
+            "context" : "...fills at the top. A twist is on the left <mark>side<\/mark> and right side of the text. At the bottom,...",
+            "fid" : "page-15" },
+          
+          { "form" : "side",
+            "weight" : "1",
+            "pos" : 1183,
+            "context" : "...top. A twist is on the left side and right <mark>side<\/mark> of the text. At the bottom, there is thick...",
+            "fid" : "page-15" },
+          
+          { "form" : "side",
+            "weight" : "1",
+            "pos" : 1629,
+            "context" : "...or what ridges of  don't shine in the  on the other <mark>side<\/mark>? who knows? Who has ever seen this before? Even...",
+            "fid" : "page-19" } ] } ] }

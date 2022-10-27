@@ -1,0 +1,14 @@
+
+  { "stem" : "wrought",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wrought",
+            "weight" : "1",
+            "pos" : 2042,
+            "context" : "...their ; like a vast nest of Chinese boxes all of <mark>wrought<\/mark>  turning ceaselessly one within another the city murmured; on the...",
+            "fid" : "page-24" } ] } ] }

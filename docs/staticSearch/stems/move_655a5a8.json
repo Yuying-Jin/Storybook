@@ -1,0 +1,44 @@
+
+  { "stem" : "move",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "moved",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...voluminous enough to be stirred by the , and when they <mark>moved<\/mark>, the ,  and  lights passed one over the other, staining...",
+            "fid" : "page-5" },
+          
+          { "form" : "moved",
+            "weight" : "1",
+            "pos" : 295,
+            "context" : "...branching thread of fibre beneath the surface, and again it <mark>moved<\/mark> on and spread its illumination in the vast  spaces beneath the...",
+            "fid" : "page-5" },
+          
+          { "form" : "moving",
+            "weight" : "1",
+            "pos" : 408,
+            "context" : "7 Going from the top right, <mark>moving<\/mark> oounter-clockwise and ending at the bottom right, there...",
+            "fid" : "page-7" },
+          
+          { "form" : "moved",
+            "weight" : "1",
+            "pos" : 457,
+            "context" : "...All the time I spoke I saw her  and when it <mark>moved<\/mark> impatiently I knew without looking up what she was going to...",
+            "fid" : "page-7" },
+          
+          { "form" : "moving",
+            "weight" : "1",
+            "pos" : 739,
+            "context" : "...thespace of two minutes or so, now appeared tobe <mark>moving<\/mark> very slightly in its shell, and nextbegan to labour...",
+            "fid" : "page-10" },
+          
+          { "form" : "moved",
+            "weight" : "1",
+            "pos" : 1162,
+            "context" : "...women drowned at sea, as he suffered himself to be <mark>moved<\/mark> on by William, upon whose  the look of stoical patience...",
+            "fid" : "page-14" } ] } ] }

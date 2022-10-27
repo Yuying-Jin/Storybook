@@ -1,0 +1,14 @@
+
+  { "stem" : "envelop",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enveloped",
+            "weight" : "1",
+            "pos" : 1836,
+            "context" : "...much the same irregular and aimless movement passed the  and were <mark>enveloped<\/mark> in layer after layer of  vapour, in which at first...",
+            "fid" : "page-22" } ] } ] }

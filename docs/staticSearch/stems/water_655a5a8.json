@@ -1,0 +1,55 @@
+
+  { "stem" : "water",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "water",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "<mark>water<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "water",
+            "weight" : "1",
+            "pos" : 639,
+            "context" : "<mark>water<\/mark>-lilies",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "water",
+            "weight" : "1",
+            "pos" : 644,
+            "context" : "<mark>water<\/mark>-lilies",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "water",
+            "weight" : "1",
+            "pos" : 1958,
+            "context" : "<mark>water<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "water",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "<mark>water<\/mark>" },
+          
+          { "form" : "water",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "<mark>water<\/mark>-lilies" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "vapour",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vapour",
+            "weight" : "1",
+            "pos" : 1841,
+            "context" : "...movement passed the  and were enveloped in layer after layer of  <mark>vapour<\/mark>, in which at first their  had substance and a dash...",
+            "fid" : "page-22" } ] } ] }

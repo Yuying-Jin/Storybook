@@ -1,0 +1,14 @@
+
+  { "stem" : "good",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "good",
+            "weight" : "1",
+            "pos" : 1038,
+            "context" : "...?—insulate?—well, we'll skip the details, no <mark>good<\/mark> going into details that wouldn't be understood—and in short the...",
+            "fid" : "page-13" } ] } ] }

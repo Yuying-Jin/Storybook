@@ -1,0 +1,14 @@
+
+  { "stem" : "coin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coin",
+            "weight" : "1",
+            "pos" : 1697,
+            "context" : "...was real, all real, he assured himself, fingering the <mark>coin<\/mark> in his pocket, real to everyone except to hum and...",
+            "fid" : "page-20" } ] } ] }

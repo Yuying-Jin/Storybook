@@ -1,0 +1,14 @@
+
+  { "stem" : "cut",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cuts",
+            "weight" : "1",
+            "pos" : 494,
+            "context" : "...margin, there is a tree, with a branch that <mark>cuts<\/mark> across the top margin. One third of the way down...",
+            "fid" : "page-8" } ] } ] }

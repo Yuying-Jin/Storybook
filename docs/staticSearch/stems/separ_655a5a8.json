@@ -1,0 +1,14 @@
+
+  { "stem" : "separ",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "separately",
+            "weight" : "1",
+            "pos" : 2005,
+            "context" : "...the center of the bottom, two arcs break two polylines <mark>separately<\/mark>. Between the two arcs, there is a circle flower...",
+            "fid" : "page-24" } ] } ] }

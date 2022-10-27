@@ -1,0 +1,14 @@
+
+  { "stem" : "danc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "danced",
+            "weight" : "1",
+            "pos" : 1876,
+            "context" : "...one movement and the next; instead of rambling vaguely the   <mark>danced<\/mark> one above another, making with their  shifting flakes the outline...",
+            "fid" : "page-22" } ] } ] }

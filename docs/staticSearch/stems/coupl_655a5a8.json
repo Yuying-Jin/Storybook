@@ -1,0 +1,20 @@
+
+  { "stem" : "coupl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "couple",
+            "weight" : "1",
+            "pos" : 1542,
+            "context" : "...; they were uttered in toneless and monotonous voices. The <mark>couple<\/mark> stood still on the edge of the flower bed, and...",
+            "fid" : "page-18" },
+          
+          { "form" : "couple",
+            "weight" : "1",
+            "pos" : 1826,
+            "context" : "22 Thus one <mark>couple<\/mark> after another with much the same irregular and aimless movement passed...",
+            "fid" : "page-22" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "loll",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lolling",
+            "weight" : "1",
+            "pos" : 1981,
+            "context" : "...their voices went wavering from them as if they were flames <mark>lolling<\/mark> from the thick waxen  of candles. ",
+            "fid" : "page-23" } ] } ] }

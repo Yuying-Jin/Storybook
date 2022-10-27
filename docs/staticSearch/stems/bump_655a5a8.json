@@ -1,0 +1,14 @@
+
+  { "stem" : "bump",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bumps",
+            "weight" : "1",
+            "pos" : 885,
+            "context" : "...bumpy line with large black cradled in the dips of the <mark>bumps<\/mark>. On the top margin, there are two arched lines...",
+            "fid" : "page-12" } ] } ] }

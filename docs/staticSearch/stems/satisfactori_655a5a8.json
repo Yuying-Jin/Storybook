@@ -1,0 +1,14 @@
+
+  { "stem" : "satisfactori",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "satisfactory",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...from our consultant, professor Beshero, so finally we got <mark>satisfactory<\/mark> relax ng and xslt files. ",
+            "fid" : "#yxj" } ] } ] }

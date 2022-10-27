@@ -1,0 +1,26 @@
+
+  { "stem" : "circular",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "circular",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "<mark>circular<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "circular",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "<mark>circular<\/mark>" } ] } ] }

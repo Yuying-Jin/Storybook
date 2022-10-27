@@ -1,0 +1,14 @@
+
+  { "stem" : "rough",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rough",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "...,  or  gloom of the throat emerged a straight bar, <mark>rough<\/mark> with  dust and slightly  at the end. ",
+            "fid" : "page-4" } ] } ] }

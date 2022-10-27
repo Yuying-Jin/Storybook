@@ -1,0 +1,14 @@
+
+  { "stem" : "genuin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "genuinely",
+            "weight" : "1",
+            "pos" : 1234,
+            "context" : "...off to be certain whether the gestures were merely eccentric or <mark>genuinely<\/mark> mad. After they had scrutinised the old man' back in...",
+            "fid" : "page-15" } ] } ] }

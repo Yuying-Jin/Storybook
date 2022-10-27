@@ -1,0 +1,14 @@
+
+  { "stem" : "technolog",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Technology",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "<mark>Technology<\/mark>",
+            "fid" : "ssForm" } ] } ] }

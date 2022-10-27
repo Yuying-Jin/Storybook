@@ -1,0 +1,134 @@
+
+  { "stem" : "two",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 21,
+        "contexts" : 
+        [ 
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 212,
+            "context" : "...mid-page. On the top left, there are <mark>two<\/mark> conifer-type flowers. Around the bottom-half of...",
+            "fid" : "page-5" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : "...At the bottom, centered under the text, there are <mark>two<\/mark> flowers that seemingly come from the same origin. They sit...",
+            "fid" : "page-6" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 599,
+            "context" : "...to the side margin patterns. The side margin patterns are <mark>two<\/mark> loose swiggle lines. Around the bottom half of the page...",
+            "fid" : "page-9" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 736,
+            "context" : "...shellhad been stained , , and  for thespace of <mark>two<\/mark> minutes or so, now appeared tobe moving very slightly in...",
+            "fid" : "page-10" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 888,
+            "context" : "...of the bumps. On the top margin, there are <mark>two<\/mark> arched lines in the center with two square-like shapes...",
+            "fid" : "page-12" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 892,
+            "context" : "...margin, there are two arched lines in the center with <mark>two<\/mark> square-like shapes on the corners. —— #edm...",
+            "fid" : "page-12" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 903,
+            "context" : "...This time they were both men. Theyounger of the <mark>two<\/mark> wore an expressionof perhaps unnatural calm; he raised his...",
+            "fid" : "page-12" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 1202,
+            "context" : "...so closely as to be slightly puzzled by his gestures came <mark>two<\/mark> elderly women of the lower middle class, one  and ,...",
+            "fid" : "page-15" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 1459,
+            "context" : "...high  roof and was getting used to the cool  light when <mark>two<\/mark> other people came past outside on the . This time they...",
+            "fid" : "page-17" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 1483,
+            "context" : "...a flower at the top. The big window consists of <mark>two<\/mark> thin solid lines.—— #yxj",
+            "fid" : "page-18" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 1577,
+            "context" : "...the paper consists of six arcs, and each arc has <mark>two<\/mark> concentric circles above it. —— #yxj",
+            "fid" : "page-19" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 1663,
+            "context" : "...large jar. Its top, left and right consist of <mark>two<\/mark> layers of curves. At the bottom, there are 6...",
+            "fid" : "page-20" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 1690,
+            "context" : "...there was a bill that he would pay with a real <mark>two<\/mark> shilling piece, and it was real, all real,...",
+            "fid" : "page-20" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 1734,
+            "context" : "...left corner, there is half a vase pattern, and <mark>two<\/mark> flowers stretch to the right from the mouth of the vase...",
+            "fid" : "page-21" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 1742,
+            "context" : "...of the vase. Below the vase, we can see <mark>two<\/mark> straight lines with different length. On the right, there...",
+            "fid" : "page-21" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 1748,
+            "context" : "...lines with different length. On the right, there are <mark>two<\/mark> curves. At the bottom, there are two straight lines...",
+            "fid" : "page-21" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 1751,
+            "context" : "...there are two curves. At the bottom, there are <mark>two<\/mark> straight lines with the similar length but different thickness. ——...",
+            "fid" : "page-21" },
+          
+          { "form" : "Two",
+            "weight" : "1",
+            "pos" : 1990,
+            "context" : "...24At the top, there is a semicircular flowerbed. <mark>Two<\/mark> polylines interlaced are around left, right and bottom of the...",
+            "fid" : "page-24" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 2000,
+            "context" : "...of the page. In the center of the bottom, <mark>two<\/mark> arcs break two polylines separately. Between the two arcs,...",
+            "fid" : "page-24" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 2003,
+            "context" : ".... In the center of the bottom, two arcs break <mark>two<\/mark> polylines separately. Between the two arcs, there is a...",
+            "fid" : "page-24" },
+          
+          { "form" : "two",
+            "weight" : "1",
+            "pos" : 2006,
+            "context" : "...bottom, two arcs break two polylines separately. Between the <mark>two<\/mark> arcs, there is a circle flower core.—— #yxj...",
+            "fid" : "page-24" } ] } ] }

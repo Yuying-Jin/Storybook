@@ -1,0 +1,14 @@
+
+  { "stem" : "somewhat",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "somewhat",
+            "weight" : "1",
+            "pos" : 591,
+            "context" : "...of the page has simplistic rope-braid like patterns that <mark>somewhat<\/mark> connects to the side margin patterns. The side margin patterns...",
+            "fid" : "page-9" } ] } ] }

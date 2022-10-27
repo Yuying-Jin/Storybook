@@ -1,0 +1,100 @@
+
+  { "stem" : "blue",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "<mark>blue<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "<mark>blue<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "<mark>blue<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "<mark>blue<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 366,
+            "context" : "<mark>blue<\/mark>",
+            "fid" : "page-6",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 733,
+            "context" : "<mark>blue<\/mark>",
+            "fid" : "page-10",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 1840,
+            "context" : "green <mark>blue<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 1853,
+            "context" : "green-<mark>blue<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 1965,
+            "context" : "<mark>blue<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "<mark>blue<\/mark>" },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "green <mark>blue<\/mark>, green-blue" },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "green blue, green-<mark>blue<\/mark>" } ] } ] }

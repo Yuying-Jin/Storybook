@@ -1,0 +1,26 @@
+
+  { "stem" : "snow",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "snow",
+            "weight" : "1",
+            "pos" : 1933,
+            "context" : "<mark>snow<\/mark> white",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "snow",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "<mark>snow<\/mark> white" } ] } ] }

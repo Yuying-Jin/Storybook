@@ -1,0 +1,13 @@
+
+  { "stem" : "today",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "today",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...of the time as well as how the language differs from <mark>today<\/mark>. " } ] } ] }

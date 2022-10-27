@@ -1,0 +1,69 @@
+
+  { "stem" : "black",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...and leaves painting in a simplisting, scroll-y style with <mark>black<\/mark> ink. —— #edm",
+            "fid" : "page-4" },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 511,
+            "context" : ".... At the very bottom of the page are three thick <mark>black<\/mark> lines. —— #edm",
+            "fid" : "page-8" },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 621,
+            "context" : "...margin patterns. The bottom area has big curly loops nesting <mark>black<\/mark> dots between it and the text. —— #edm",
+            "fid" : "page-9" },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 882,
+            "context" : ".... The bottom margin has one long bumpy line with large <mark>black<\/mark> cradled in the dips of the bumps. On the top...",
+            "fid" : "page-12" },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 1070,
+            "context" : "...by sign as agreed, Women! Widows! Women in <mark>black<\/mark>—\" ",
+            "fid" : "page-13" },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 1092,
+            "context" : "purple <mark>black<\/mark>",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 1931,
+            "context" : "<mark>black<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "purple <mark>black<\/mark>" },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "<mark>black<\/mark>" } ] } ] }

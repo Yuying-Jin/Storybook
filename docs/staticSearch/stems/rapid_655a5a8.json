@@ -1,0 +1,14 @@
+
+  { "stem" : "rapid",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rapidly",
+            "weight" : "1",
+            "pos" : 773,
+            "context" : "...trembling as if in deliberation, and then stepped off as <mark>rapidly<\/mark> and strangelyin the opposite direction.",
+            "fid" : "page-10" } ] } ] }

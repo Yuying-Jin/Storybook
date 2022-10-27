@@ -1,0 +1,14 @@
+
+  { "stem" : "arrang",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arrangements",
+            "weight" : "1",
+            "pos" : 1055,
+            "context" : "..., we will say, on a neat  stand. All <mark>arrangements<\/mark> being properly fixed by workmen under my direction, the widow...",
+            "fid" : "page-13" } ] } ] }

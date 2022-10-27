@@ -1,0 +1,14 @@
+
+  { "stem" : "cri",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cried",
+            "weight" : "1",
+            "pos" : 2053,
+            "context" : "...the city murmured; on the top of which the voices <mark>cried<\/mark> aloud and the  of myriads of s flashed their colours into...",
+            "fid" : "page-24" } ] } ] }

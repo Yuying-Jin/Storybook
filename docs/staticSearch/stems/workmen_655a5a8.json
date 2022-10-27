@@ -1,0 +1,14 @@
+
+  { "stem" : "workmen",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "workmen",
+            "weight" : "1",
+            "pos" : 1058,
+            "context" : "...on a neat  stand. All arrangements being properly fixed by <mark>workmen<\/mark> under my direction, the widow applies her  and summons the...",
+            "fid" : "page-13" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "year",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 425,
+            "context" : "7 \"Fifteen <mark>years<\/mark> ago I came here with Lily,\" he thought. \"We...",
+            "fid" : "page-7" },
+          
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 633,
+            "context" : "...a kiss. Imagine six little girls sitting before their  twenty <mark>years<\/mark> ago, down by the side of a , painting the...",
+            "fid" : "page-9" },
+          
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 1135,
+            "context" : "...talking about the  of Uruguay which he had visited hundreds of <mark>years<\/mark> ago in company with the most beautiful young woman in Europe...",
+            "fid" : "page-14" } ] } ] }

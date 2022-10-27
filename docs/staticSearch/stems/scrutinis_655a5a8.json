@@ -1,0 +1,14 @@
+
+  { "stem" : "scrutinis",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scrutinised",
+            "weight" : "1",
+            "pos" : 1236,
+            "context" : "...gestures were merely eccentric or genuinely mad. After they had <mark>scrutinised<\/mark> the old man' back in silence for a moment and given...",
+            "fid" : "page-15" } ] } ] }

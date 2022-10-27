@@ -1,0 +1,14 @@
+
+  { "stem" : "worth",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worth",
+            "weight" : "1",
+            "pos" : 1526,
+            "context" : "...pay sixpence on Friday.\" What's sixpence anyway? Isn't it <mark>worth<\/mark> sixpence?\" \"What's 'it'—what do you mean by 'it'?\" \"O anything...",
+            "fid" : "page-18" } ] } ] }

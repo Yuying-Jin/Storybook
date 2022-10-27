@@ -1,0 +1,20 @@
+
+  { "stem" : "21",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "21",
+            "weight" : "1",
+            "pos" : 1723,
+            "context" : "<mark>21<\/mark>At the top, there is a long straight line....",
+            "fid" : "page-21" },
+          
+          { "form" : "21",
+            "weight" : "1",
+            "pos" : 1759,
+            "context" : "<mark>21<\/mark> \"Come along, Trissie; it's time we had our tea...",
+            "fid" : "page-21" } ] } ] }

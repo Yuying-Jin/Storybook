@@ -1,0 +1,14 @@
+
+  { "stem" : "creep",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "creep",
+            "weight" : "1",
+            "pos" : 1437,
+            "context" : "...would bear his weight; and this determined him finally to <mark>creep<\/mark> and beneath it, for there was a point where the  curved...",
+            "fid" : "page-17" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "i'd",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "I'd",
+            "weight" : "1",
+            "pos" : 646,
+            "context" : "...by the side of a , painting the , the first   <mark>I'd<\/mark> ever seen. And suddenly a kiss, there on the...",
+            "fid" : "page-9" } ] } ] }

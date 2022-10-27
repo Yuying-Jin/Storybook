@@ -1,0 +1,20 @@
+
+  { "stem" : "i'v",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "I've",
+            "weight" : "1",
+            "pos" : 537,
+            "context" : "...the past?\" \"Why do you ask, Simon?\" \"Because <mark>I've<\/mark> been thinking of the past. I've been thinking of Lily...",
+            "fid" : "page-8" },
+          
+          { "form" : "I've",
+            "weight" : "1",
+            "pos" : 540,
+            "context" : "..., Simon?\" \"Because I've been thinking of the past. <mark>I've<\/mark> been thinking of Lily, the woman I might have married...",
+            "fid" : "page-8" } ] } ] }

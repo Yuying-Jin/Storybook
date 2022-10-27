@@ -1,0 +1,26 @@
+
+  { "stem" : "motor",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "motor",
+            "weight" : "1",
+            "pos" : 2031,
+            "context" : "<mark>motor<\/mark> omnibuses",
+            "fid" : "page-24",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "motor",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "<mark>motor<\/mark> omnibuses" } ] } ] }

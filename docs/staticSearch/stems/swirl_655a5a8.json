@@ -1,0 +1,14 @@
+
+  { "stem" : "swirl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swirls",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "6 An arch with broad <mark>swirls<\/mark> sits on the top margin. A line runs along the...",
+            "fid" : "page-6" } ] } ] }

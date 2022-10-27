@@ -1,0 +1,20 @@
+
+  { "stem" : "cross",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "crossed",
+            "weight" : "1",
+            "pos" : 368,
+            "context" : "...a curiously irregular movement not unlike that of the  and   who <mark>crossed<\/mark> the  in zig-zag flights from bed to bed....",
+            "fid" : "page-6" },
+          
+          { "form" : "cross",
+            "weight" : "1",
+            "pos" : 765,
+            "context" : "...respect from the singular high stepping angular green  who attempted to <mark>cross<\/mark> in front of it, and waited for a second withits...",
+            "fid" : "page-10" } ] } ] }

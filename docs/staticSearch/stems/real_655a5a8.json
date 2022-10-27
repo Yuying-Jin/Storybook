@@ -1,0 +1,38 @@
+
+  { "stem" : "real",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "real",
+            "weight" : "1",
+            "pos" : 1689,
+            "context" : "...and there was a bill that he would pay with a <mark>real<\/mark> two shilling piece, and it was real, all real...",
+            "fid" : "page-20" },
+          
+          { "form" : "real",
+            "weight" : "1",
+            "pos" : 1693,
+            "context" : "...pay with a real two shilling piece, and it was <mark>real<\/mark>, all real, he assured himself, fingering the coin in...",
+            "fid" : "page-20" },
+          
+          { "form" : "real",
+            "weight" : "1",
+            "pos" : 1694,
+            "context" : "...real two shilling piece, and it was real, all <mark>real<\/mark>, he assured himself, fingering the coin in his pocket,...",
+            "fid" : "page-20" },
+          
+          { "form" : "real",
+            "weight" : "1",
+            "pos" : 1699,
+            "context" : "..., he assured himself, fingering the coin in his pocket, <mark>real<\/mark> to everyone except to hum and to her; even to him...",
+            "fid" : "page-20" },
+          
+          { "form" : "real",
+            "weight" : "1",
+            "pos" : 1706,
+            "context" : "...hum and to her; even to him it began to seem <mark>real<\/mark>; and then—but it was too exciting to stand and think...",
+            "fid" : "page-20" } ] } ] }

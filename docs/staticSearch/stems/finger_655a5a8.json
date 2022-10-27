@@ -1,0 +1,14 @@
+
+  { "stem" : "finger",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fingering",
+            "weight" : "1",
+            "pos" : 1696,
+            "context" : "...and it was real, all real, he assured himself, <mark>fingering<\/mark> the coin in his pocket, real to everyone except to...",
+            "fid" : "page-20" } ] } ] }

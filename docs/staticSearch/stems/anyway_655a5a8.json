@@ -1,0 +1,14 @@
+
+  { "stem" : "anyway",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anyway",
+            "weight" : "1",
+            "pos" : 1524,
+            "context" : "...?\" \"They make you pay sixpence on Friday.\" What's sixpence <mark>anyway<\/mark>? Isn't it worth sixpence?\" \"What's 'it'—what do you mean...",
+            "fid" : "page-18" } ] } ] }

@@ -1,0 +1,28 @@
+
+  { "stem" : "count",
+    "instances" : 
+    [ 
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "count",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "                    color <mark>count<\/mark>                                                                     nature count                                                                                                                                                                                                                                                                     shape count                             tech count                                                               " },
+          
+          { "form" : "count",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "                    color count                                                                     nature <mark>count<\/mark>                                                                                                                                                                                                                                                                     shape count                             tech count                                                               " },
+          
+          { "form" : "count",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "                    color count                                                                     nature count                                                                                                                                                                                                                                                                     shape <mark>count<\/mark>                             tech count                                                               " },
+          
+          { "form" : "count",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "                    color count                                                                     nature count                                                                                                                                                                                                                                                                     shape count                             tech <mark>count<\/mark>                                                               " } ] } ] }

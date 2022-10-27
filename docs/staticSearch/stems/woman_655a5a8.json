@@ -1,0 +1,68 @@
+
+  { "stem" : "woman",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "woman",
+            "weight" : "1",
+            "pos" : 380,
+            "context" : ".... The man was about six inches in front of the <mark>woman<\/mark>, strolling care- lessly, while she bore on with...",
+            "fid" : "page-6" },
+          
+          { "form" : "woman",
+            "weight" : "1",
+            "pos" : 397,
+            "context" : "...behind. The man kept this distance in front of the <mark>woman<\/mark> purposely, though perhaps unconsciously, for he wished to go...",
+            "fid" : "page-6" },
+          
+          { "form" : "woman",
+            "weight" : "1",
+            "pos" : 543,
+            "context" : "...of the past. I've been thinking of Lily, the <mark>woman<\/mark> I might have married.... Well, why are you silent...",
+            "fid" : "page-8" },
+          
+          { "form" : "woman",
+            "weight" : "1",
+            "pos" : 673,
+            "context" : "...only—it was so precious— the kiss of an old - <mark>woman<\/mark> with a  on her , the mother of all my kisses...",
+            "fid" : "page-9" },
+          
+          { "form" : "woman's",
+            "weight" : "1",
+            "pos" : 1086,
+            "context" : "14 Here he seemed to have caught sight of a <mark>woman's<\/mark>  in the distance, which in the shade looked a ....",
+            "fid" : "page-14" },
+          
+          { "form" : "woman",
+            "weight" : "1",
+            "pos" : 1140,
+            "context" : "...hundreds of years ago in company with the most beautiful young <mark>woman<\/mark> in Europe. He could be heard mur- muring about...",
+            "fid" : "page-14" },
+          
+          { "form" : "woman",
+            "weight" : "1",
+            "pos" : 1314,
+            "context" : "16 The  <mark>woman<\/mark> looked through the pattern of falling words at the s standing...",
+            "fid" : "page-16" },
+          
+          { "form" : "woman",
+            "weight" : "1",
+            "pos" : 1354,
+            "context" : "...candle- stick with all his powers. So the heavy <mark>woman<\/mark> came to a standstill opposite the  shaped , and ceased even...",
+            "fid" : "page-16" },
+          
+          { "form" : "woman",
+            "weight" : "1",
+            "pos" : 1366,
+            "context" : "...and ceased even to pretend to listen to what the other <mark>woman<\/mark> was saying. She stood there letting the words fall over...",
+            "fid" : "page-16" },
+          
+          { "form" : "woman",
+            "weight" : "1",
+            "pos" : 1470,
+            "context" : "...they were both young, a young man and a young <mark>woman<\/mark>. ",
+            "fid" : "page-17" } ] } ] }

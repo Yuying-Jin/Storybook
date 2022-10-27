@@ -1,0 +1,14 @@
+
+  { "stem" : "debug",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "debugging",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "...worked on the HTML and CSS (with some XSLT and XML <mark>debugging<\/mark>). My greatest experience was with the CSS. I was...",
+            "fid" : "#edm" } ] } ] }

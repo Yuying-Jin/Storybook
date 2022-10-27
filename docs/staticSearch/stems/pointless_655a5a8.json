@@ -1,0 +1,14 @@
+
+  { "stem" : "pointless",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pointless",
+            "weight" : "1",
+            "pos" : 954,
+            "context" : "...a ; butin the man these gestures were irresolute and<mark>pointless<\/mark>. He talked almost incessantly; hesmiled to himself and...",
+            "fid" : "page-12" } ] } ] }

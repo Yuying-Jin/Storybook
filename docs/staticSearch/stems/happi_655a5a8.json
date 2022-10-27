@@ -1,0 +1,14 @@
+
+  { "stem" : "happi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "happiness",
+            "weight" : "1",
+            "pos" : 573,
+            "context" : "...men and women, those ghosts lying under the ,... one's <mark>happiness<\/mark>, one's reality?\" \"For me, a square   and a —\"...",
+            "fid" : "page-8" } ] } ] }

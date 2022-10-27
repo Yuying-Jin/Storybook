@@ -1,0 +1,20 @@
+
+  { "stem" : "cool",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "cool",
+            "weight" : "1",
+            "pos" : 1321,
+            "context" : "...looked through the pattern of falling words at the s standing <mark>cool<\/mark>, firm and upright in the earth, with a curious...",
+            "fid" : "page-16" },
+          
+          { "form" : "cool",
+            "weight" : "1",
+            "pos" : 1456,
+            "context" : "...stock of the high  roof and was getting used to the <mark>cool<\/mark>  light when two other people came past outside on the ....",
+            "fid" : "page-17" } ] } ] }

@@ -1,0 +1,146 @@
+
+  { "stem" : "bottom",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 23,
+        "contexts" : 
+        [ 
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...border decoration that takes up the margins as well as the <mark>bottom<\/mark> half of the page. The designs are flowers and leaves...",
+            "fid" : "page-4" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "..., there are two conifer-type flowers. Around the <mark>bottom<\/mark>-half of the page, there are similar swish-y...",
+            "fid" : "page-5" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 322,
+            "context" : "...line runs along the left and right margins. At the <mark>bottom<\/mark>, centered under the text, there are two flowers that...",
+            "fid" : "page-6" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 413,
+            "context" : "...top right, moving oounter-clockwise and ending at the <mark>bottom<\/mark> right, there is a bouncy swirly design that ends in...",
+            "fid" : "page-7" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 507,
+            "context" : "...another tree branch sprouting from the text. At the very <mark>bottom<\/mark> of the page are three thick black lines. —— #...",
+            "fid" : "page-8" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 604,
+            "context" : "...side margin patterns are two loose swiggle lines. Around the <mark>bottom<\/mark> half of the page another squiggle line joins the three,...",
+            "fid" : "page-9" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 615,
+            "context" : "...then travels down and under the under margin patterns. The <mark>bottom<\/mark> area has big curly loops nesting black dots between it and...",
+            "fid" : "page-9" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 713,
+            "context" : "10 Wildly sprouting leaves come from the <mark>bottom<\/mark> of the page, and climbs up the margins. At...",
+            "fid" : "page-10" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 784,
+            "context" : "11 Tall reed-like plants sprout from the <mark>bottom<\/mark> left corner, and end in curly lines that have straight...",
+            "fid" : "page-11" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 875,
+            "context" : "...a bumpy line that looks similar to a column. The <mark>bottom<\/mark> margin has one long bumpy line with large black cradled in...",
+            "fid" : "page-12" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 978,
+            "context" : "...left and right curves are symmetrical. At the center of <mark>bottom<\/mark>, there is a circle filled with many dots. There...",
+            "fid" : "page-13" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1079,
+            "context" : "...thick and one thin curve at the top, right and <mark>bottom<\/mark> of the text. —— #yxj",
+            "fid" : "page-14" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1185,
+            "context" : "...left side and right side of the text. At the <mark>bottom<\/mark>, there is thick solid curve, and a rhombus grid...",
+            "fid" : "page-15" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1297,
+            "context" : ".... Both they are broken by several petals. At the <mark>bottom<\/mark>, some curves and straight lines form the shape of the...",
+            "fid" : "page-16" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1394,
+            "context" : "...line form a net which is around left, right and <mark>bottom<\/mark> of the page. At the top, there are many...",
+            "fid" : "page-17" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1571,
+            "context" : "...left corner and upper right corner are slightly rolled up. The <mark>bottom<\/mark> the paper consists of six arcs, and each arc has...",
+            "fid" : "page-19" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1666,
+            "context" : "...and right consist of two layers of curves. At the <mark>bottom<\/mark>, there are 6 smaller jars. Many dots and curves...",
+            "fid" : "page-20" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1750,
+            "context" : "...On the right, there are two curves. At the <mark>bottom<\/mark>, there are two straight lines with the similar length but...",
+            "fid" : "page-21" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1820,
+            "context" : "...both on the left and on the right. At the <mark>bottom<\/mark>, there are some fences. —— #yxj",
+            "fid" : "page-22" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1918,
+            "context" : "...form a forest. There are some fallen leaves at the <mark>bottom<\/mark> left of the forest. A long straight is on the...",
+            "fid" : "page-23" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1924,
+            "context" : ".... A long straight is on the left. At the <mark>bottom<\/mark>, there are 6 similar unclear pattern.—— #yxj",
+            "fid" : "page-23" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1996,
+            "context" : "...flowerbed. Two polylines interlaced are around left, right and <mark>bottom<\/mark> of the page. In the center of the bottom,...",
+            "fid" : "page-24" },
+          
+          { "form" : "bottom",
+            "weight" : "1",
+            "pos" : 1999,
+            "context" : "...and bottom of the page. In the center of the <mark>bottom<\/mark>, two arcs break two polylines separately. Between the two...",
+            "fid" : "page-24" } ] } ] }

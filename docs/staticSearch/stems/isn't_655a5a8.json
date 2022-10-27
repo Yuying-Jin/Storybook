@@ -1,0 +1,20 @@
+
+  { "stem" : "isn't",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "isn't",
+            "weight" : "1",
+            "pos" : 1512,
+            "context" : "...though fully grown, are motionless in the . \"Lucky it <mark>isn't<\/mark> Friday,\" he observed. \"Why? D'you believe in luck?\"...",
+            "fid" : "page-18" },
+          
+          { "form" : "Isn't",
+            "weight" : "1",
+            "pos" : 1525,
+            "context" : "...make you pay sixpence on Friday.\" What's sixpence anyway? <mark>Isn't<\/mark> it worth sixpence?\" \"What's 'it'—what do you mean by 'it'?\"...",
+            "fid" : "page-18" } ] } ] }

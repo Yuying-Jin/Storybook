@@ -1,0 +1,14 @@
+
+  { "stem" : "neat",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "neat",
+            "weight" : "1",
+            "pos" : 1052,
+            "context" : "...head of the bed, we will say, on a <mark>neat<\/mark>  stand. All arrangements being properly fixed by workmen under my...",
+            "fid" : "page-13" } ] } ] }

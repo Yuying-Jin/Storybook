@@ -1,0 +1,214 @@
+
+  { "stem" : "flower",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 26,
+        "contexts" : 
+        [ 
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...as the bottom half of the page. The designs are <mark>flowers<\/mark> and leaves painting in a simplisting, scroll-y style with...",
+            "fid" : "page-4" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "<mark>flower<\/mark>-bed",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 216,
+            "context" : "...On the top left, there are two conifer-type <mark>flowers<\/mark>. Around the bottom-half of the page, there...",
+            "fid" : "page-5" },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 326,
+            "context" : "...the bottom, centered under the text, there are two <mark>flowers<\/mark> that seemingly come from the same origin. They sit upon...",
+            "fid" : "page-6" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 359,
+            "context" : "<mark>flower<\/mark>-bed",
+            "fid" : "page-6",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 422,
+            "context" : "...a bouncy swirly design that ends in a rose-shaped <mark>flower<\/mark>. —— #edm",
+            "fid" : "page-7" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 479,
+            "context" : "<mark>flower<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 686,
+            "context" : "<mark>flower<\/mark>-bed",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 720,
+            "context" : "...the margins. At the top, there are trumpet-<mark>flower<\/mark>-like designs. —— #edm",
+            "fid" : "page-10" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 726,
+            "context" : "<mark>flower<\/mark> bed",
+            "fid" : "page-10",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1108,
+            "context" : "<mark>flower<\/mark>",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1305,
+            "context" : "...straight lines form the shape of the ground. A large <mark>flower<\/mark> and some petals break the sentences in the line 6-16...",
+            "fid" : "page-16" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1319,
+            "context" : "<mark>flower<\/mark>",
+            "fid" : "page-16",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1360,
+            "context" : "<mark>flower<\/mark> bed",
+            "fid" : "page-16",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1380,
+            "context" : "<mark>flower<\/mark>",
+            "fid" : "page-16",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 1398,
+            "context" : "...of the page. At the top, there are many <mark>flowers<\/mark> and dots.—— #yxj",
+            "fid" : "page-17" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1478,
+            "context" : "...container of this page looks like a big window with a <mark>flower<\/mark> at the top. The big window consists of two thin...",
+            "fid" : "page-18" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1500,
+            "context" : "<mark>flower<\/mark>",
+            "fid" : "page-18",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1546,
+            "context" : "...voices. The couple stood still on the edge of the <mark>flower<\/mark> bed, and together pressed the end of her parasol deep...",
+            "fid" : "page-18" },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 1735,
+            "context" : "...corner, there is half a vase pattern, and two <mark>flowers<\/mark> stretch to the right from the mouth of the vase....",
+            "fid" : "page-21" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1797,
+            "context" : "<mark>flower<\/mark>",
+            "fid" : "page-21",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1834,
+            "context" : "<mark>flower<\/mark>-bed",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1865,
+            "context" : "<mark>flower<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 1888,
+            "context" : "<mark>flower<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 2009,
+            "context" : "...separately. Between the two arcs, there is a circle <mark>flower<\/mark> core.—— #yxj",
+            "fid" : "page-24" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 2057,
+            "context" : "<mark>flower<\/mark>",
+            "fid" : "page-24",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "<mark>flower<\/mark>" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "<mark>flower<\/mark>-bed, flower bed" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "flower-bed, <mark>flower<\/mark> bed" } ] } ] }

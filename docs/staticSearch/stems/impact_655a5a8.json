@@ -1,0 +1,14 @@
+
+  { "stem" : "impact",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "\"Impact\"",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "...and information is the same thick typefaced font, almost like <mark>\"Impact\"<\/mark>. —— #edm",
+            "fid" : "page-1" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "throat",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throat",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...the surface; and from the ,  or  gloom of the <mark>throat<\/mark> emerged a straight bar, rough with  dust and slightly  at...",
+            "fid" : "page-4" } ] } ] }

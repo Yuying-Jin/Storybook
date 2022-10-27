@@ -1,0 +1,13 @@
+
+  { "stem" : "draw",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "drawings",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...do love the imagery. I also like how the scrolling <mark>drawings<\/mark> on the margins correlate to some of the content. It..." } ] } ] }

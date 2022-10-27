@@ -1,0 +1,26 @@
+
+  { "stem" : "direct",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "direction",
+            "weight" : "1",
+            "pos" : 776,
+            "context" : "...and then stepped off as rapidly and strangelyin the opposite <mark>direction<\/mark>.",
+            "fid" : "page-10" },
+          
+          { "form" : "directly",
+            "weight" : "1",
+            "pos" : 916,
+            "context" : "...steadily in frontof him while his companion spoke, and<mark>directly<\/mark> his companion had done speakinghe looked on the  again and...",
+            "fid" : "page-12" },
+          
+          { "form" : "direction",
+            "weight" : "1",
+            "pos" : 1059,
+            "context" : "...stand. All arrangements being properly fixed by workmen under my <mark>direction<\/mark>, the widow applies her  and summons the spirit by sign...",
+            "fid" : "page-13" } ] } ] }

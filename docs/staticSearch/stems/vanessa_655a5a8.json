@@ -1,0 +1,25 @@
+
+  { "stem" : "vanessa",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Vanessa",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "illustrator: <mark>Vanessa<\/mark> Bell" },
+          
+          { "form" : "VANESSA",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "1 KEW GARDENSBYVIRGINIA WOOLFDECORATIONSBY<mark>VANESSA<\/mark> BELLTHEHOGARTH PRESS",
+            "fid" : "page-1" },
+          
+          { "form" : "Vanessa",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "2 Kew Gardens by Virginia Woolf decorated by <mark>Vanessa<\/mark> Bell published by the Hogarth Press ",
+            "fid" : "page-2" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "conceal",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "concealed",
+            "weight" : "1",
+            "pos" : 1623,
+            "context" : "...as they pressed the parasol into the ) what precipices aren't <mark>concealed<\/mark> in them, or what ridges of  don't shine in the  on...",
+            "fid" : "page-19" } ] } ] }

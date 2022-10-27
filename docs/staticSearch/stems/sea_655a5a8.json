@@ -1,0 +1,20 @@
+
+  { "stem" : "sea",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sea",
+            "weight" : "1",
+            "pos" : 1155,
+            "context" : "...about  of Uruguay blanketed with the wax  of tropical , , <mark>sea<\/mark> , mermaids, and women drowned at sea, as he...",
+            "fid" : "page-14" },
+          
+          { "form" : "sea",
+            "weight" : "1",
+            "pos" : 1160,
+            "context" : "...tropical , , sea , mermaids, and women drowned at <mark>sea<\/mark>, as he suffered himself to be moved on by William...",
+            "fid" : "page-14" } ] } ] }

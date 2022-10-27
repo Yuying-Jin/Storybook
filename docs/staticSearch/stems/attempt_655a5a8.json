@@ -1,0 +1,14 @@
+
+  { "stem" : "attempt",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "attempted",
+            "weight" : "1",
+            "pos" : 764,
+            "context" : "...in this respect from the singular high stepping angular green  who <mark>attempted<\/mark> to cross in front of it, and waited for a second...",
+            "fid" : "page-10" } ] } ] }

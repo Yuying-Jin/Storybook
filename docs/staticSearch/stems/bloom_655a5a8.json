@@ -1,0 +1,14 @@
+
+  { "stem" : "bloom",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blooms",
+            "weight" : "1",
+            "pos" : 812,
+            "context" : "...another reed plant that simply climbs the right margin side and <mark>blooms<\/mark> at the top. —— #edm",
+            "fid" : "page-11" } ] } ] }

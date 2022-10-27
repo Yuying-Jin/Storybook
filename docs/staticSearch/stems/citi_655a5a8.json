@@ -1,0 +1,14 @@
+
+  { "stem" : "citi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 2049,
+            "context" : "...Chinese boxes all of wrought  turning ceaselessly one within another the <mark>city<\/mark> murmured; on the top of which the voices cried aloud...",
+            "fid" : "page-24" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "blanket",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blanketed",
+            "weight" : "1",
+            "pos" : 1148,
+            "context" : ".... He could be heard mur- muring about  of Uruguay <mark>blanketed<\/mark> with the wax  of tropical , , sea , mermaids,...",
+            "fid" : "page-14" } ] } ] }

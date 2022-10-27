@@ -1,0 +1,50 @@
+
+  { "stem" : "text",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "text",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "3 Plain off-white page with <mark>text<\/mark> centered and justified. —— #edm",
+            "fid" : "page-3" },
+          
+          { "form" : "text",
+            "weight" : "1",
+            "pos" : 324,
+            "context" : "...and right margins. At the bottom, centered under the <mark>text<\/mark>, there are two flowers that seemingly come from the same...",
+            "fid" : "page-6" },
+          
+          { "form" : "text",
+            "weight" : "1",
+            "pos" : 506,
+            "context" : "...the page, there is another tree branch sprouting from the <mark>text<\/mark>. At the very bottom of the page are three thick...",
+            "fid" : "page-8" },
+          
+          { "form" : "text",
+            "weight" : "1",
+            "pos" : 623,
+            "context" : "...has big curly loops nesting black dots between it and the <mark>text<\/mark>. —— #edm",
+            "fid" : "page-9" },
+          
+          { "form" : "text",
+            "weight" : "1",
+            "pos" : 801,
+            "context" : "...reed plants bend at the top margin and curve over the <mark>text<\/mark>. On the right side, there is another reed plant...",
+            "fid" : "page-11" },
+          
+          { "form" : "text",
+            "weight" : "1",
+            "pos" : 1080,
+            "context" : "...thin curve at the top, right and bottom of the <mark>text<\/mark>. —— #yxj",
+            "fid" : "page-14" },
+          
+          { "form" : "text",
+            "weight" : "1",
+            "pos" : 1184,
+            "context" : "...twist is on the left side and right side of the <mark>text<\/mark>. At the bottom, there is thick solid curve,...",
+            "fid" : "page-15" } ] } ] }

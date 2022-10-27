@@ -1,0 +1,62 @@
+
+  { "stem" : "women",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "women",
+            "weight" : "1",
+            "pos" : 348,
+            "context" : "...into the air above, into the eyes of the men and <mark>women<\/mark> who walk in  in July. The figures of these men...",
+            "fid" : "page-6" },
+          
+          { "form" : "women",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "...walk in  in July. The figures of these men and <mark>women<\/mark> straggled past the  with a curiously irregular movement not unlike that...",
+            "fid" : "page-6" },
+          
+          { "form" : "women",
+            "weight" : "1",
+            "pos" : 560,
+            "context" : "...always think of the past, in a  with men and <mark>women<\/mark> lying under the ? Aren't they one's past, all that...",
+            "fid" : "page-8" },
+          
+          { "form" : "women",
+            "weight" : "1",
+            "pos" : 568,
+            "context" : "...one's past, all that remains of it, those men and <mark>women<\/mark>, those ghosts lying under the ,... one's happiness, one's...",
+            "fid" : "page-8" },
+          
+          { "form" : "Women",
+            "weight" : "1",
+            "pos" : 1067,
+            "context" : "...applies her  and summons the spirit by sign as agreed, <mark>Women<\/mark>! Widows! Women in black—\" ",
+            "fid" : "page-13" },
+          
+          { "form" : "Women",
+            "weight" : "1",
+            "pos" : 1069,
+            "context" : "...the spirit by sign as agreed, Women! Widows! <mark>Women<\/mark> in black—\" ",
+            "fid" : "page-13" },
+          
+          { "form" : "women",
+            "weight" : "1",
+            "pos" : 1158,
+            "context" : "...the wax  of tropical , , sea , mermaids, and <mark>women<\/mark> drowned at sea, as he suffered himself to be moved...",
+            "fid" : "page-14" },
+          
+          { "form" : "women",
+            "weight" : "1",
+            "pos" : 1204,
+            "context" : "...as to be slightly puzzled by his gestures came two elderly <mark>women<\/mark> of the lower middle class, one  and , the other...",
+            "fid" : "page-15" },
+          
+          { "form" : "women",
+            "weight" : "1",
+            "pos" : 1938,
+            "context" : "...,  and , shapes of all these colours, men, <mark>women<\/mark> and children were spotted for a second upon the horizon,...",
+            "fid" : "page-23" } ] } ] }

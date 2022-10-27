@@ -1,0 +1,14 @@
+
+  { "stem" : "seat",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seat",
+            "weight" : "1",
+            "pos" : 1383,
+            "context" : "...at the s. Then she suggested that they should find a <mark>seat<\/mark> and have their tea. ",
+            "fid" : "page-16" } ] } ] }

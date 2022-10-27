@@ -1,0 +1,38 @@
+
+  { "stem" : "come",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "come",
+            "weight" : "1",
+            "pos" : 328,
+            "context" : "...centered under the text, there are two flowers that seemingly <mark>come<\/mark> from the same origin. They sit upon large leaves that...",
+            "fid" : "page-6" },
+          
+          { "form" : "Come",
+            "weight" : "1",
+            "pos" : 679,
+            "context" : "..., the mother of all my kisses all my life. <mark>Come<\/mark>, Caroline, come, Hubert. \"They walked on past...",
+            "fid" : "page-9" },
+          
+          { "form" : "come",
+            "weight" : "1",
+            "pos" : 681,
+            "context" : "...all my kisses all my life. Come, Caroline, <mark>come<\/mark>, Hubert. \"They walked on past the , now walking...",
+            "fid" : "page-9" },
+          
+          { "form" : "come",
+            "weight" : "1",
+            "pos" : 712,
+            "context" : "10 Wildly sprouting leaves <mark>come<\/mark> from the bottom of the page, and climbs up the...",
+            "fid" : "page-10" },
+          
+          { "form" : "\"Come",
+            "weight" : "1",
+            "pos" : 1760,
+            "context" : "21 <mark>\"Come<\/mark> along, Trissie; it's time we had our tea.\"...",
+            "fid" : "page-21" } ] } ] }

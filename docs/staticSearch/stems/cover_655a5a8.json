@@ -1,0 +1,20 @@
+
+  { "stem" : "cover",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "cover",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "1 Burnt maroon <mark>cover<\/mark> with a tan key-shape center with yellow squiggles with...",
+            "fid" : "page-1" },
+          
+          { "form" : "cover",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...writing on the page was the same burnt maroon as the <mark>cover<\/mark>. The font is in a more handwritten, storybook font...",
+            "fid" : "page-2" } ] } ] }

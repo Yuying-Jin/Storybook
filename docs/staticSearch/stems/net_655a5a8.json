@@ -1,0 +1,14 @@
+
+  { "stem" : "net",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "net",
+            "weight" : "1",
+            "pos" : 1390,
+            "context" : "17Curves and straight line form a <mark>net<\/mark> which is around left, right and bottom of the page...",
+            "fid" : "page-17" } ] } ] }

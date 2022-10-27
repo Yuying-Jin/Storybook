@@ -1,0 +1,14 @@
+
+  { "stem" : "gross",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gross",
+            "weight" : "1",
+            "pos" : 1967,
+            "context" : "...staining it faintly with  and . It seemed as if all <mark>gross<\/mark> and heavy  had sunk down in the heat motionless and lay...",
+            "fid" : "page-23" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "patienc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "patience",
+            "weight" : "1",
+            "pos" : 1169,
+            "context" : "...moved on by William, upon whose  the look of stoical <mark>patience<\/mark> grew slowly deeper and deeper. ",
+            "fid" : "page-14" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "puzzl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "puzzled",
+            "weight" : "1",
+            "pos" : 1199,
+            "context" : "15 Following his steps so closely as to be slightly <mark>puzzled<\/mark> by his gestures came two elderly women of the lower middle...",
+            "fid" : "page-15" } ] } ] }

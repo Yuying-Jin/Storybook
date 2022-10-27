@@ -1,0 +1,20 @@
+
+  { "stem" : "fix",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "fixed",
+            "weight" : "1",
+            "pos" : 911,
+            "context" : "...an expressionof perhaps unnatural calm; he raised his and <mark>fixed<\/mark> them very steadily in frontof him while his companion spoke...",
+            "fid" : "page-12" },
+          
+          { "form" : "fixed",
+            "weight" : "1",
+            "pos" : 1057,
+            "context" : "...say, on a neat  stand. All arrangements being properly <mark>fixed<\/mark> by workmen under my direction, the widow applies her  and...",
+            "fid" : "page-13" } ] } ] }

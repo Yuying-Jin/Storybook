@@ -1,0 +1,14 @@
+
+  { "stem" : "dip",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dips",
+            "weight" : "1",
+            "pos" : 884,
+            "context" : "...has one long bumpy line with large black cradled in the <mark>dips<\/mark> of the bumps. On the top margin, there are...",
+            "fid" : "page-12" } ] } ] }

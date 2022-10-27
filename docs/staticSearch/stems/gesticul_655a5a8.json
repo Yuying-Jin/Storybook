@@ -1,0 +1,14 @@
+
+  { "stem" : "gesticul",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gesticulating",
+            "weight" : "1",
+            "pos" : 1102,
+            "context" : "...placed his  upon his , and hurried towards her muttering and <mark>gesticulating<\/mark> feverishly. But William caught him by the sleeve and touched...",
+            "fid" : "page-14" } ] } ] }

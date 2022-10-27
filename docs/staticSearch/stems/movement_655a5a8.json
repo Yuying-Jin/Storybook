@@ -1,0 +1,26 @@
+
+  { "stem" : "movement",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "movement",
+            "weight" : "1",
+            "pos" : 363,
+            "context" : "...these men and women straggled past the  with a curiously irregular <mark>movement<\/mark> not unlike that of the  and   who crossed the  in zig...",
+            "fid" : "page-6" },
+          
+          { "form" : "movement",
+            "weight" : "1",
+            "pos" : 1831,
+            "context" : "...one couple after another with much the same irregular and aimless <mark>movement<\/mark> passed the  and were enveloped in layer after layer of  vapour...",
+            "fid" : "page-22" },
+          
+          { "form" : "movement",
+            "weight" : "1",
+            "pos" : 1869,
+            "context" : "...in the shadow of the s, with long pauses between one <mark>movement<\/mark> and the next; instead of rambling vaguely the   danced one...",
+            "fid" : "page-22" } ] } ] }

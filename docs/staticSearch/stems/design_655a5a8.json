@@ -1,0 +1,55 @@
+
+  { "stem" : "design",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "designs",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...as well as the bottom half of the page. The <mark>designs<\/mark> are flowers and leaves painting in a simplisting, scroll-y...",
+            "fid" : "page-4" },
+          
+          { "form" : "design",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "...painted arch. On the right, there is a bumpy <mark>design<\/mark> that falls to about mid-page. On the top...",
+            "fid" : "page-5" },
+          
+          { "form" : "designs",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...-half of the page, there are similar swish-y <mark>designs<\/mark> with the bumpy design on the right. —— #edm...",
+            "fid" : "page-5" },
+          
+          { "form" : "design",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "...page, there are similar swish-y designs with the bumpy <mark>design<\/mark> on the right. —— #edm",
+            "fid" : "page-5" },
+          
+          { "form" : "design",
+            "weight" : "1",
+            "pos" : 417,
+            "context" : "...ending at the bottom right, there is a bouncy swirly <mark>design<\/mark> that ends in a rose-shaped flower. —— #...",
+            "fid" : "page-7" },
+          
+          { "form" : "designs",
+            "weight" : "1",
+            "pos" : 722,
+            "context" : "...At the top, there are trumpet-flower-like <mark>designs<\/mark>. —— #edm",
+            "fid" : "page-10" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "designer",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "...was with the CSS. I was assigned to be the <mark>designer<\/mark> of this website, which was 100% fine with me!...",
+            "fid" : "#edm" } ] } ] }

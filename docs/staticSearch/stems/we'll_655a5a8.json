@@ -1,0 +1,14 @@
+
+  { "stem" : "we'll",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "we'll",
+            "weight" : "1",
+            "pos" : 1035,
+            "context" : "...to insulate the wire—isolate?—insulate?—well, <mark>we'll<\/mark> skip the details, no good going into details that wouldn't...",
+            "fid" : "page-13" } ] } ] }

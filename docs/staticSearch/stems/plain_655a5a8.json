@@ -1,0 +1,14 @@
+
+  { "stem" : "plain",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Plain",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "3 <mark>Plain<\/mark> off-white page with text centered and justified. —— #...",
+            "fid" : "page-3" } ] } ] }

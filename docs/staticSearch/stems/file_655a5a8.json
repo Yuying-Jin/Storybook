@@ -1,0 +1,20 @@
+
+  { "stem" : "file",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "files",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...of pages 13-24 and coding relax NG and xslt <mark>files<\/mark>. I got a lot of help on coding relax NG...",
+            "fid" : "#yxj" },
+          
+          { "form" : "files",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...Beshero, so finally we got satisfactory relax ng and xslt <mark>files<\/mark>. ",
+            "fid" : "#yxj" } ] } ] }

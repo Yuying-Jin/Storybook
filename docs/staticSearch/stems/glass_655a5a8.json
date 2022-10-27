@@ -1,0 +1,14 @@
+
+  { "stem" : "glass",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "glass",
+            "weight" : "1",
+            "pos" : 1889,
+            "context" : "...outline of a shattered marble column above the tallest s; the <mark>glass<\/mark> roofs of the  shone as if a whole market full of...",
+            "fid" : "page-22" } ] } ] }

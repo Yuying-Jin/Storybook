@@ -1,0 +1,14 @@
+
+  { "stem" : "complic",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "complicated",
+            "weight" : "1",
+            "pos" : 1250,
+            "context" : "...sly look, they went on energeticlly piecing together their very <mark>complicated<\/mark> dialogue: \"Nell, Bert, Lot, Cess, Phil...",
+            "fid" : "page-15" } ] } ] }

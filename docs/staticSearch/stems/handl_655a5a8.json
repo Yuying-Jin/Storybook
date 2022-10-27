@@ -1,0 +1,14 @@
+
+  { "stem" : "handl",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "handled",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...project was work on the transcription and xml markup. I <mark>handled<\/mark> the transcription of the first half of the book and gathered...",
+            "fid" : "#avr" } ] } ] }

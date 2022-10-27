@@ -1,0 +1,26 @@
+
+  { "stem" : "code",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "code",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : ".... Overall, learning to work with a variety of different <mark>code<\/mark> and then applying it to some actual historical documents has been...",
+            "fid" : "#avr" },
+          
+          { "form" : "coding",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...responsible for transcribing and describing of pages 13-24 and <mark>coding<\/mark> relax NG and xslt files. I got a lot of...",
+            "fid" : "#yxj" },
+          
+          { "form" : "coding",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...and xslt files. I got a lot of help on <mark>coding<\/mark> relax NG and xslt from our consultant, professor Beshero,...",
+            "fid" : "#yxj" } ] } ] }

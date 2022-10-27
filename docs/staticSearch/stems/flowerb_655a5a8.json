@@ -1,0 +1,14 @@
+
+  { "stem" : "flowerb",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flowerbed",
+            "weight" : "1",
+            "pos" : 1989,
+            "context" : "24At the top, there is a semicircular <mark>flowerbed<\/mark>. Two polylines interlaced are around left, right and bottom...",
+            "fid" : "page-24" } ] } ] }

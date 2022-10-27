@@ -1,0 +1,20 @@
+
+  { "stem" : "caught",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "caught",
+            "weight" : "1",
+            "pos" : 1084,
+            "context" : "14 Here he seemed to have <mark>caught<\/mark> sight of a woman's  in the distance, which in the...",
+            "fid" : "page-14" },
+          
+          { "form" : "caught",
+            "weight" : "1",
+            "pos" : 1105,
+            "context" : "...and hurried towards her muttering and gesticulating feverishly. But William <mark>caught<\/mark> him by the sleeve and touched a  with the tip of...",
+            "fid" : "page-14" } ] } ] }

@@ -1,0 +1,68 @@
+
+  { "stem" : "say",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 463,
+            "context" : "...impatiently I knew without looking up what she was going to <mark>say<\/mark>: the whole of her seemed to be in her ....",
+            "fid" : "page-7" },
+          
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 487,
+            "context" : "...the middle of it, if the  settled on the  she would <mark>say<\/mark> \"Yes\" at once. ",
+            "fid" : "page-7" },
+          
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 1051,
+            "context" : "...convenient position by the head of the bed, we will <mark>say<\/mark>, on a neat  stand. All arrangements being properly fixed...",
+            "fid" : "page-13" },
+          
+          { "form" : "says",
+            "weight" : "1",
+            "pos" : 1258,
+            "context" : "...Bert, Lot, Cess, Phil, Pa, he <mark>says<\/mark>, I says, she says, I says, I...",
+            "fid" : "page-15" },
+          
+          { "form" : "says",
+            "weight" : "1",
+            "pos" : 1259,
+            "context" : "..., Cess, Phil, Pa, he says, I <mark>says<\/mark>, she says, I says, I says, I...",
+            "fid" : "page-15" },
+          
+          { "form" : "says",
+            "weight" : "1",
+            "pos" : 1260,
+            "context" : "...Phil, Pa, he says, I says, she <mark>says<\/mark>, I says, I says, I says—\" \"My...",
+            "fid" : "page-15" },
+          
+          { "form" : "says",
+            "weight" : "1",
+            "pos" : 1261,
+            "context" : "..., he says, I says, she says, I <mark>says<\/mark>, I says, I says—\" \"My Bert, Sis...",
+            "fid" : "page-15" },
+          
+          { "form" : "says",
+            "weight" : "1",
+            "pos" : 1262,
+            "context" : "..., I says, she says, I says, I <mark>says<\/mark>, I says—\" \"My Bert, Sis, Bill,...",
+            "fid" : "page-15" },
+          
+          { "form" : "says",
+            "weight" : "1",
+            "pos" : 1263,
+            "context" : "..., she says, I says, I says, I <mark>says<\/mark>—\" \"My Bert, Sis, Bill, Grandad, the...",
+            "fid" : "page-15" },
+          
+          { "form" : "saying",
+            "weight" : "1",
+            "pos" : 1367,
+            "context" : "...even to pretend to listen to what the other woman was <mark>saying<\/mark>. She stood there letting the words fall over her, swaying...",
+            "fid" : "page-16" } ] } ] }

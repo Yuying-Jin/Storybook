@@ -1,0 +1,14 @@
+
+  { "stem" : "hour",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hour",
+            "weight" : "1",
+            "pos" : 661,
+            "context" : "...I couldn't paint. I took out my  and marked the <mark>hour<\/mark> when I would allow myself to think of the kiss for...",
+            "fid" : "page-9" } ] } ] }

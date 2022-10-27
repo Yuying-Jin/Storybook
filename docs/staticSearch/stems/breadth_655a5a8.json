@@ -1,0 +1,14 @@
+
+  { "stem" : "breadth",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "breadth",
+            "weight" : "1",
+            "pos" : 1945,
+            "context" : "...for a second upon the horizon, and then, seeing the <mark>breadth<\/mark> of  that lay upon the , they wavered and sought shade...",
+            "fid" : "page-23" } ] } ] }

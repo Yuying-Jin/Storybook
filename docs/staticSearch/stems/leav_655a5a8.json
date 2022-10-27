@@ -1,0 +1,58 @@
+
+  { "stem" : "leav",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "leaves",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...bottom half of the page. The designs are flowers and <mark>leaves<\/mark> painting in a simplisting, scroll-y style with black ink...",
+            "fid" : "page-4" },
+          
+          { "form" : "leaves",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "<mark>leaves<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "leaves",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : "<mark>leaves<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "leaves",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "...seemingly come from the same origin. They sit upon large <mark>leaves<\/mark> that cast a thick shadow. —— #edm",
+            "fid" : "page-6" },
+          
+          { "form" : "leaves",
+            "weight" : "1",
+            "pos" : 711,
+            "context" : "10 Wildly sprouting <mark>leaves<\/mark> come from the bottom of the page, and climbs up...",
+            "fid" : "page-10" },
+          
+          { "form" : "leaves",
+            "weight" : "1",
+            "pos" : 1917,
+            "context" : "...dots, which form a forest. There are some fallen <mark>leaves<\/mark> at the bottom left of the forest. A long straight...",
+            "fid" : "page-23" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "leaves",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "<mark>leaves<\/mark>, leaf" } ] } ] }

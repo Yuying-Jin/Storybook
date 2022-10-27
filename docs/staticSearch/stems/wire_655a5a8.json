@@ -1,0 +1,14 @@
+
+  { "stem" : "wire",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wire",
+            "weight" : "1",
+            "pos" : 1031,
+            "context" : "...a small eletric  and a piece of rubber to insulate the <mark>wire<\/mark>—isolate?—insulate?—well, we'll skip the details...",
+            "fid" : "page-13" } ] } ] }

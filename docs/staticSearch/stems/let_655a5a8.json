@@ -1,0 +1,37 @@
+
+  { "stem" : "let",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "letting",
+            "weight" : "1",
+            "pos" : 1369,
+            "context" : "...to what the other woman was saying. She stood there <mark>letting<\/mark> the words fall over her, swaying the top part of her...",
+            "fid" : "page-16" },
+          
+          { "form" : "Let",
+            "weight" : "1",
+            "pos" : 1415,
+            "context" : "...his goal without going round the dead  or climbing over it. <mark>Let<\/mark> alone the effort needed for climbing a , he was doubtful...",
+            "fid" : "page-17" },
+          
+          { "form" : "letting",
+            "weight" : "1",
+            "pos" : 1778,
+            "context" : "...thrill of excitement in her voice, looking vaguely round and <mark>letting<\/mark> herself be drawn on down the , trailing her parasol,...",
+            "fid" : "page-21" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "let",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "...website, which was 100% fine with me! So, I <mark>let<\/mark> my imagination lead me with these pages. Along with our...",
+            "fid" : "#edm" } ] } ] }

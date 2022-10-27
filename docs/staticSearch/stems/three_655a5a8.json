@@ -1,0 +1,26 @@
+
+  { "stem" : "three",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "three",
+            "weight" : "1",
+            "pos" : 509,
+            "context" : "...the text. At the very bottom of the page are <mark>three<\/mark> thick black lines. —— #edm",
+            "fid" : "page-8" },
+          
+          { "form" : "three",
+            "weight" : "1",
+            "pos" : 611,
+            "context" : "...the bottom half of the page another squiggle line joins the <mark>three<\/mark>, then travels down and under the under margin patterns....",
+            "fid" : "page-9" },
+          
+          { "form" : "three",
+            "weight" : "1",
+            "pos" : 1816,
+            "context" : "...of a pavilion. We can find a curvy path and <mark>three<\/mark> trees both on the left and on the right. At...",
+            "fid" : "page-22" } ] } ] }

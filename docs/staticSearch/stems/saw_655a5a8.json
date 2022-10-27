@@ -1,0 +1,20 @@
+
+  { "stem" : "saw",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "saw",
+            "weight" : "1",
+            "pos" : 455,
+            "context" : "...the    at the toe. All the time I spoke I <mark>saw<\/mark> her  and when it moved impatiently I knew without looking up...",
+            "fid" : "page-7" },
+          
+          { "form" : "saw",
+            "weight" : "1",
+            "pos" : 1327,
+            "context" : "...upright in the earth, with a curious expression. She <mark>saw<\/mark> them as a sleeper waking from a heavy sleep sees a...",
+            "fid" : "page-16" } ] } ] }

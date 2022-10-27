@@ -1,0 +1,14 @@
+
+  { "stem" : "deliber",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "deliberation",
+            "weight" : "1",
+            "pos" : 771,
+            "context" : "...waited for a second withits antennæ trembling as if in <mark>deliberation<\/mark>, and then stepped off as rapidly and strangelyin the...",
+            "fid" : "page-10" } ] } ] }

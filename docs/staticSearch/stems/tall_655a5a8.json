@@ -1,0 +1,14 @@
+
+  { "stem" : "tall",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tall",
+            "weight" : "1",
+            "pos" : 778,
+            "context" : "11 <mark>Tall<\/mark> reed-like plants sprout from the bottom left corner,...",
+            "fid" : "page-11" } ] } ] }

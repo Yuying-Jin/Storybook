@@ -1,0 +1,14 @@
+
+  { "stem" : "calm",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "calm",
+            "weight" : "1",
+            "pos" : 908,
+            "context" : "...Theyounger of the two wore an expressionof perhaps unnatural <mark>calm<\/mark>; he raised his and fixed them very steadily in front...",
+            "fid" : "page-12" } ] } ] }

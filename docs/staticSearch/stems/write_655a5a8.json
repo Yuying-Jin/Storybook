@@ -1,0 +1,29 @@
+
+  { "stem" : "write",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "writing",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : " Though Kew Gardens is not my favorite <mark>writing<\/mark>, I do love the imagery. I also like how..." },
+          
+          { "form" : "writing",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...the content. It was also interesting to perceive how the <mark>writing<\/mark> imitated the social structure of the time as well as how..." } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "writing",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...with maroon dotting down the left-hand side. The <mark>writing<\/mark> on the page was the same burnt maroon as the cover...",
+            "fid" : "page-2" } ] } ] }

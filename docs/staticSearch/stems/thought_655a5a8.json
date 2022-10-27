@@ -1,0 +1,32 @@
+
+  { "stem" : "thought",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "thoughts",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "...perhaps unconsciously, for he wished to go on with his <mark>thoughts<\/mark>. ",
+            "fid" : "page-6" },
+          
+          { "form" : "thought",
+            "weight" : "1",
+            "pos" : 429,
+            "context" : "...7 \"Fifteen years ago I came here with Lily,\" he <mark>thought<\/mark>. \"We sat somewhere over there by a  and I begged...",
+            "fid" : "page-7" },
+          
+          { "form" : "thought",
+            "weight" : "1",
+            "pos" : 473,
+            "context" : "...my desire, were in the ; for some reason I <mark>thought<\/mark> that if it settled there, on that , the broad one...",
+            "fid" : "page-7" },
+          
+          { "form" : "thought",
+            "weight" : "1",
+            "pos" : 1617,
+            "context" : "...their inexperienced touch so massive: but who knows (so they <mark>thought<\/mark> as they pressed the parasol into the ) what precipices aren't...",
+            "fid" : "page-19" } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "british",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "British",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "archive: <mark>British<\/mark> Library" } ] } ] }

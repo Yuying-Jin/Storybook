@@ -1,0 +1,20 @@
+
+  { "stem" : "instead",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Instead",
+            "weight" : "1",
+            "pos" : 278,
+            "context" : "...walls of  that one expected them to burst and disappear. <mark>Instead<\/mark>, the  was left in a second  once more, and the...",
+            "fid" : "page-5" },
+          
+          { "form" : "instead",
+            "weight" : "1",
+            "pos" : 1871,
+            "context" : "...s, with long pauses between one movement and the next; <mark>instead<\/mark> of rambling vaguely the   danced one above another, making with...",
+            "fid" : "page-22" } ] } ] }

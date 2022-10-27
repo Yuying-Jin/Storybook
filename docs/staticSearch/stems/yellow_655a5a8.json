@@ -1,0 +1,93 @@
+
+  { "stem" : "yellow",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "yellow",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...Burnt maroon cover with a tan key-shape center with <mark>yellow<\/mark> squiggles with burnt maroon, and light bluish-grey speckling...",
+            "fid" : "page-1" },
+          
+          { "form" : "yellow",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "<mark>yellow<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "yellow",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "<mark>yellow<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "yellow",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "<mark>yellow<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "yellow",
+            "weight" : "1",
+            "pos" : 270,
+            "context" : "<mark>yellow<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "yellow",
+            "weight" : "1",
+            "pos" : 734,
+            "context" : "<mark>yellow<\/mark>",
+            "fid" : "page-10",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1930,
+            "context" : "<mark>Yellow<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "yellow",
+            "weight" : "1",
+            "pos" : 1946,
+            "context" : "<mark>yellow<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "yellow",
+            "weight" : "1",
+            "pos" : 1959,
+            "context" : "<mark>yellow<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "yellow",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "<mark>yellow<\/mark>, Yellow" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "yellow, <mark>Yellow<\/mark>" } ] } ] }

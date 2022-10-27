@@ -1,0 +1,14 @@
+
+  { "stem" : "observ",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "observed",
+            "weight" : "1",
+            "pos" : 1514,
+            "context" : "...are motionless in the . \"Lucky it isn't Friday,\" he <mark>observed<\/mark>. \"Why? D'you believe in luck?\" \"They make you pay...",
+            "fid" : "page-18" } ] } ] }

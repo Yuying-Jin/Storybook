@@ -1,0 +1,20 @@
+
+  { "stem" : "project",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "project",
+            "weight" : "1",
+            "pos" : 5,
+            "context" : " During this <mark>project<\/mark>, I mostly worked on the HTML and CSS (with some...",
+            "fid" : "#edm" },
+          
+          { "form" : "project",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : " My main contribution to the <mark>project<\/mark> was work on the transcription and xml markup. I handled...",
+            "fid" : "#avr" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "carri",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "carry",
+            "weight" : "1",
+            "pos" : 1604,
+            "context" : "...short wings for their heavy body of meaning, inadequate to <mark>carry<\/mark> them far and thus alighting awkwardly upon the very common objects...",
+            "fid" : "page-19" } ] } ] }

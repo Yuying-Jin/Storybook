@@ -1,0 +1,20 @@
+
+  { "stem" : "sign",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sign",
+            "weight" : "1",
+            "pos" : 1065,
+            "context" : "...direction, the widow applies her  and summons the spirit by <mark>sign<\/mark> as agreed, Women! Widows! Women in black—\"...",
+            "fid" : "page-13" },
+          
+          { "form" : "sign",
+            "weight" : "1",
+            "pos" : 1220,
+            "context" : "...most people of their station they were frankly fascinated by any <mark>sign<\/mark> of eccentricity betokening a disordered , especially in the well-to-do...",
+            "fid" : "page-15" } ] } ] }

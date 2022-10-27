@@ -1,0 +1,14 @@
+
+  { "stem" : "luck",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "luck",
+            "weight" : "1",
+            "pos" : 1517,
+            "context" : "...it isn't Friday,\" he observed. \"Why? D'you believe in <mark>luck<\/mark>?\" \"They make you pay sixpence on Friday.\" What's sixpence...",
+            "fid" : "page-18" } ] } ] }

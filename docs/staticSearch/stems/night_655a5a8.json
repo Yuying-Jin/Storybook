@@ -1,0 +1,26 @@
+
+  { "stem" : "night",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "night",
+            "weight" : "1",
+            "pos" : 1153,
+            "context" : "<mark>night<\/mark>- ingales",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "night",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "<mark>night<\/mark>- ingales" } ] } ] }

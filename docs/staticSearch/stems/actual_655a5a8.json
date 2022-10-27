@@ -1,0 +1,20 @@
+
+  { "stem" : "actual",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "actually",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...image! However, I cannot take credit for the cursor <mark>actually<\/mark> working, that was all #yxj! I was also...",
+            "fid" : "#edm" },
+          
+          { "form" : "actual",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...a variety of different code and then applying it to some <mark>actual<\/mark> historical documents has been a pretty interesting experience. ",
+            "fid" : "#avr" } ] } ] }

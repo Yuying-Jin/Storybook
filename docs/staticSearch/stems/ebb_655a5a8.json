@@ -1,0 +1,13 @@
+
+  { "stem" : "ebb",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ebb",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "consultant: <mark>ebb<\/mark>" } ] } ] }

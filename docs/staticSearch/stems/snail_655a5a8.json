@@ -1,0 +1,50 @@
+
+  { "stem" : "snail",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "snail",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "<mark>snail<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "snail",
+            "weight" : "1",
+            "pos" : 728,
+            "context" : "<mark>snail<\/mark>",
+            "fid" : "page-10",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "snail",
+            "weight" : "1",
+            "pos" : 843,
+            "context" : "<mark>snail<\/mark>",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "snail",
+            "weight" : "1",
+            "pos" : 1402,
+            "context" : "<mark>snail<\/mark>",
+            "fid" : "page-17",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "snail",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "<mark>snail<\/mark>" } ] } ] }

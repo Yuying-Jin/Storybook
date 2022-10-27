@@ -1,0 +1,14 @@
+
+  { "stem" : "interlac",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "interlaced",
+            "weight" : "1",
+            "pos" : 1992,
+            "context" : "...the top, there is a semicircular flowerbed. Two polylines <mark>interlaced<\/mark> are around left, right and bottom of the page....",
+            "fid" : "page-24" } ] } ] }

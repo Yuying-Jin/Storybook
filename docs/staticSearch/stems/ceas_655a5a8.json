@@ -1,0 +1,14 @@
+
+  { "stem" : "ceas",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ceased",
+            "weight" : "1",
+            "pos" : 1362,
+            "context" : "...heavy woman came to a standstill opposite the  shaped , and <mark>ceased<\/mark> even to pretend to listen to what the other woman was...",
+            "fid" : "page-16" } ] } ] }

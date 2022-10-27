@@ -1,0 +1,14 @@
+
+  { "stem" : "huddl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "huddled",
+            "weight" : "1",
+            "pos" : 1974,
+            "context" : "...and heavy  had sunk down in the heat motionless and lay <mark>huddled<\/mark> upon the ground, but their voices went wavering from them...",
+            "fid" : "page-23" } ] } ] }

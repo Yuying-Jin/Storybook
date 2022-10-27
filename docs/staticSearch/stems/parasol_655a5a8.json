@@ -1,0 +1,32 @@
+
+  { "stem" : "parasol",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "parasol",
+            "weight" : "1",
+            "pos" : 1551,
+            "context" : "...the flower bed, and together pressed the end of her <mark>parasol<\/mark> deep down into the . ",
+            "fid" : "page-18" },
+          
+          { "form" : "parasol",
+            "weight" : "1",
+            "pos" : 1619,
+            "context" : "...: but who knows (so they thought as they pressed the <mark>parasol<\/mark> into the ) what precipices aren't concealed in them, or what...",
+            "fid" : "page-19" },
+          
+          { "form" : "parasol",
+            "weight" : "1",
+            "pos" : 1712,
+            "context" : "...to stand and think any longer, and he pulled the <mark>parasol<\/mark> out of the  with a jerk and was impatient to find...",
+            "fid" : "page-20" },
+          
+          { "form" : "parasol",
+            "weight" : "1",
+            "pos" : 1783,
+            "context" : "...and letting herself be drawn on down the , trailing her <mark>parasol<\/mark>, turning her  this way and that way, forgetting her...",
+            "fid" : "page-21" } ] } ] }

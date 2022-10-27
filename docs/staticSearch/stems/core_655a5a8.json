@@ -1,0 +1,14 @@
+
+  { "stem" : "core",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "core",
+            "weight" : "1",
+            "pos" : 2010,
+            "context" : ".... Between the two arcs, there is a circle flower <mark>core<\/mark>.—— #yxj",
+            "fid" : "page-24" } ] } ] }

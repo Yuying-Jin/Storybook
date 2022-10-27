@@ -1,0 +1,20 @@
+
+  { "stem" : "opposit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "opposite",
+            "weight" : "1",
+            "pos" : 775,
+            "context" : "..., and then stepped off as rapidly and strangelyin the <mark>opposite<\/mark> direction.",
+            "fid" : "page-10" },
+          
+          { "form" : "opposite",
+            "weight" : "1",
+            "pos" : 1357,
+            "context" : "...his powers. So the heavy woman came to a standstill <mark>opposite<\/mark> the  shaped , and ceased even to pretend to listen to...",
+            "fid" : "page-16" } ] } ] }

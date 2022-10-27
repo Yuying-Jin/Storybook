@@ -1,0 +1,14 @@
+
+  { "stem" : "lead",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lead",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...was 100% fine with me! So, I let my imagination <mark>lead<\/mark> me with these pages. Along with our consultant, Professor...",
+            "fid" : "#edm" } ] } ] }

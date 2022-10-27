@@ -1,0 +1,14 @@
+
+  { "stem" : "alway",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "always",
+            "weight" : "1",
+            "pos" : 555,
+            "context" : "...past?\" \"Why should I mind, Simon? Doesn't one <mark>always<\/mark> think of the past, in a  with men and women...",
+            "fid" : "page-8" } ] } ] }

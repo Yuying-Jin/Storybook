@@ -1,0 +1,14 @@
+
+  { "stem" : "sought",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sought",
+            "weight" : "1",
+            "pos" : 1951,
+            "context" : "...the breadth of  that lay upon the , they wavered and <mark>sought<\/mark> shade beneath the , dissolving like drops of  in the  and...",
+            "fid" : "page-23" } ] } ] }

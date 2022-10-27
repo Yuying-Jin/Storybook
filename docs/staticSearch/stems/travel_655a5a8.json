@@ -1,0 +1,14 @@
+
+  { "stem" : "travel",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "travels",
+            "weight" : "1",
+            "pos" : 612,
+            "context" : "...of the page another squiggle line joins the three, then <mark>travels<\/mark> down and under the under margin patterns. The bottom area...",
+            "fid" : "page-9" } ] } ] }

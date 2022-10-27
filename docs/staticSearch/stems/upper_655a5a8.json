@@ -1,0 +1,26 @@
+
+  { "stem" : "upper",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "upper",
+            "weight" : "1",
+            "pos" : 1563,
+            "context" : "...container of this page looks like a piece of paper whose <mark>upper<\/mark> left corner and upper right corner are slightly rolled up. The...",
+            "fid" : "page-19" },
+          
+          { "form" : "upper",
+            "weight" : "1",
+            "pos" : 1566,
+            "context" : "...looks like a piece of paper whose upper left corner and <mark>upper<\/mark> right corner are slightly rolled up. The bottom the paper consists...",
+            "fid" : "page-19" },
+          
+          { "form" : "upper",
+            "weight" : "1",
+            "pos" : 1728,
+            "context" : "...top, there is a long straight line. In the <mark>upper<\/mark> left corner, there is half a vase pattern, and...",
+            "fid" : "page-21" } ] } ] }

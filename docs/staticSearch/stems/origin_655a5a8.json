@@ -1,0 +1,14 @@
+
+  { "stem" : "origin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "origin",
+            "weight" : "1",
+            "pos" : 329,
+            "context" : "..., there are two flowers that seemingly come from the same <mark>origin<\/mark>. They sit upon large leaves that cast a thick shadow...",
+            "fid" : "page-6" } ] } ] }

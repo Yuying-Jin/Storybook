@@ -1,0 +1,14 @@
+
+  { "stem" : "cushion",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cushions",
+            "weight" : "1",
+            "pos" : 1675,
+            "context" : "...Many dots and curves are below them, which form something like <mark>cushions<\/mark>. —— #yxj",
+            "fid" : "page-20" } ] } ] }

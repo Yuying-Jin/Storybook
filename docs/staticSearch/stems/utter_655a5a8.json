@@ -1,0 +1,14 @@
+
+  { "stem" : "utter",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "uttered",
+            "weight" : "1",
+            "pos" : 1538,
+            "context" : "...Long pauses came between each of these remarks; they were <mark>uttered<\/mark> in toneless and monotonous voices. The couple stood still on...",
+            "fid" : "page-18" } ] } ] }

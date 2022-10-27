@@ -1,0 +1,31 @@
+
+  { "stem" : "final",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "finally",
+            "weight" : "1",
+            "pos" : 1345,
+            "context" : "...closes his  and opens them, and seeing the brass candlestick again, <mark>finally<\/mark> starts wide awake and stares at the candle- stick with...",
+            "fid" : "page-16" },
+          
+          { "form" : "finally",
+            "weight" : "1",
+            "pos" : 1436,
+            "context" : "...his horns would bear his weight; and this determined him <mark>finally<\/mark> to creep and beneath it, for there was a point where...",
+            "fid" : "page-17" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "finally",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...NG and xslt from our consultant, professor Beshero, so <mark>finally<\/mark> we got satisfactory relax ng and xslt files. ",
+            "fid" : "#yxj" } ] } ] }

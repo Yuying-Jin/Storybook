@@ -1,0 +1,14 @@
+
+  { "stem" : "sat",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sat",
+            "weight" : "1",
+            "pos" : 430,
+            "context" : "...ago I came here with Lily,\" he thought. \"We <mark>sat<\/mark> somewhere over there by a  and I begged her to marry...",
+            "fid" : "page-7" } ] } ] }

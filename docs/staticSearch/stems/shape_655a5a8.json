@@ -1,0 +1,138 @@
+
+  { "stem" : "shape",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "shape",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "1 Burnt maroon cover with a tan key-<mark>shape<\/mark> center with yellow squiggles with burnt maroon, and light bluish...",
+            "fid" : "page-1" },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "oval-<mark>shaped<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "heart-<mark>shaped<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "tongue-<mark>shaped<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 305,
+            "context" : "heart-<mark>shaped<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "tongue-<mark>shaped<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 421,
+            "context" : "...is a bouncy swirly design that ends in a rose-<mark>shaped<\/mark> flower. —— #edm",
+            "fid" : "page-7" },
+          
+          { "form" : "shapes",
+            "weight" : "1",
+            "pos" : 896,
+            "context" : "...two arched lines in the center with two square-like <mark>shapes<\/mark> on the corners. —— #edm",
+            "fid" : "page-12" },
+          
+          { "form" : "shape",
+            "weight" : "1",
+            "pos" : 1302,
+            "context" : "...At the bottom, some curves and straight lines form the <mark>shape<\/mark> of the ground. A large flower and some petals break...",
+            "fid" : "page-16" },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 1359,
+            "context" : ".... So the heavy woman came to a standstill opposite the  <mark>shaped<\/mark> , and ceased even to pretend to listen to what the...",
+            "fid" : "page-16" },
+          
+          { "form" : "shapes",
+            "weight" : "1",
+            "pos" : 1679,
+            "context" : "20 —O heavens!— what were those <mark>shapes<\/mark>?—little  tables, and waitresses who looked first at her...",
+            "fid" : "page-20" },
+          
+          { "form" : "shapes",
+            "weight" : "1",
+            "pos" : 1935,
+            "context" : "23  and ,  and , <mark>shapes<\/mark> of all these colours, men, women and children were...",
+            "fid" : "page-23" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "shape",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>shape<\/mark>",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "heart-<mark>shaped<\/mark>, heart" },
+          
+          { "form" : "shape",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "                    color count                                                                     nature count                                                                                                                                                                                                                                                                     <mark>shape<\/mark> count                             tech count                                                               " },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "oval-<mark>shaped<\/mark>, oval" },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "heart-<mark>shaped<\/mark>, heart" },
+          
+          { "form" : "shaped",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "tongue-<mark>shaped<\/mark>" } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shape",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "<mark>Shape<\/mark>",
+            "fid" : "ssForm" } ] } ] }

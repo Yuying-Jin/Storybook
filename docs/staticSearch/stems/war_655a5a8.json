@@ -1,0 +1,14 @@
+
+  { "stem" : "war",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "war",
+            "weight" : "1",
+            "pos" : 1011,
+            "context" : "...the ancients as Thessaly, William, and now, with this <mark>war<\/mark>, the spirit matter is rolling between the  like .\" He...",
+            "fid" : "page-13" } ] } ] }

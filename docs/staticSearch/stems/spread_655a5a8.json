@@ -1,0 +1,20 @@
+
+  { "stem" : "spread",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "spreading",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "4 From the   there rose perhaps a hundred  <mark>spreading<\/mark> into  or   half way up and unfurling at the tip  or...",
+            "fid" : "page-4" },
+          
+          { "form" : "spread",
+            "weight" : "1",
+            "pos" : 296,
+            "context" : "...fibre beneath the surface, and again it moved on and <mark>spread<\/mark> its illumination in the vast  spaces beneath the dome of the...",
+            "fid" : "page-5" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "size",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "size",
+            "weight" : "1",
+            "pos" : 693,
+            "context" : "...the , now walking four abreast, and soon diminished in <mark>size<\/mark> among the  and looked half  as the  and shade swam over...",
+            "fid" : "page-9" } ] } ] }

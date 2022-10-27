@@ -1,0 +1,14 @@
+
+  { "stem" : "sleev",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sleeve",
+            "weight" : "1",
+            "pos" : 1106,
+            "context" : "...muttering and gesticulating feverishly. But William caught him by the <mark>sleeve<\/mark> and touched a  with the tip of his walking-stick...",
+            "fid" : "page-14" } ] } ] }

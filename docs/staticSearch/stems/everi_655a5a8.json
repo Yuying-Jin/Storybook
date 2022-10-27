@@ -1,0 +1,14 @@
+
+  { "stem" : "everi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "every",
+            "weight" : "1",
+            "pos" : 1404,
+            "context" : "17 The  had now considered <mark>every<\/mark> possible method of reaching his goal without going round the dead...",
+            "fid" : "page-17" } ] } ] }

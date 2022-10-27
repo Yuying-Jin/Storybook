@@ -1,0 +1,32 @@
+
+  { "stem" : "express",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "expression",
+            "weight" : "1",
+            "pos" : 905,
+            "context" : "...were both men. Theyounger of the two wore an <mark>expression<\/mark>of perhaps unnatural calm; he raised his and fixed them...",
+            "fid" : "page-12" },
+          
+          { "form" : "expression",
+            "weight" : "1",
+            "pos" : 1326,
+            "context" : "..., firm and upright in the earth, with a curious <mark>expression<\/mark>. She saw them as a sleeper waking from a heavy...",
+            "fid" : "page-16" },
+          
+          { "form" : "expressed",
+            "weight" : "1",
+            "pos" : 1587,
+            "context" : "...and the fact that his  rested on the top of hers <mark>expressed<\/mark> their feelings in a strange way, as these short insignificant...",
+            "fid" : "page-19" },
+          
+          { "form" : "expressed",
+            "weight" : "1",
+            "pos" : 1595,
+            "context" : "...in a strange way, as these short insignificant words also <mark>expressed<\/mark> something, words with short wings for their heavy body of...",
+            "fid" : "page-19" } ] } ] }

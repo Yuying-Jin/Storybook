@@ -1,0 +1,14 @@
+
+  { "stem" : "brisk",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "briskly",
+            "weight" : "1",
+            "pos" : 341,
+            "context" : "6 Then the  stirred rather more <mark>briskly<\/mark> overhead and the colour was flashed into the air above, into...",
+            "fid" : "page-6" } ] } ] }

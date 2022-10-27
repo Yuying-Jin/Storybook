@@ -1,0 +1,32 @@
+
+  { "stem" : "turn",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "turning",
+            "weight" : "1",
+            "pos" : 387,
+            "context" : "...lessly, while she bore on with greater purpose, only <mark>turning<\/mark> her  now and then to see that the children were not...",
+            "fid" : "page-6" },
+          
+          { "form" : "turning",
+            "weight" : "1",
+            "pos" : 1784,
+            "context" : "...herself be drawn on down the , trailing her parasol, <mark>turning<\/mark> her  this way and that way, forgetting her tea,...",
+            "fid" : "page-21" },
+          
+          { "form" : "turning",
+            "weight" : "1",
+            "pos" : 2033,
+            "context" : "...But there was no silence; all the time the  were <mark>turning<\/mark> their  and changing their ; like a vast nest of Chinese...",
+            "fid" : "page-24" },
+          
+          { "form" : "turning",
+            "weight" : "1",
+            "pos" : 2044,
+            "context" : "...; like a vast nest of Chinese boxes all of wrought  <mark>turning<\/mark> ceaselessly one within another the city murmured; on the top...",
+            "fid" : "page-24" } ] } ] }

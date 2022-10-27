@@ -1,0 +1,26 @@
+
+  { "stem" : "goal",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "goal",
+            "weight" : "1",
+            "pos" : 754,
+            "context" : "...as it passed over them. It appeared tohave a definite <mark>goal<\/mark> in front of it, differing in this respect from the singular...",
+            "fid" : "page-10" },
+          
+          { "form" : "goal",
+            "weight" : "1",
+            "pos" : 848,
+            "context" : "...across the 's progress between one stalkand another to his <mark>goal<\/mark>. Before he haddecided whether to circumvent the archedtent...",
+            "fid" : "page-11" },
+          
+          { "form" : "goal",
+            "weight" : "1",
+            "pos" : 1408,
+            "context" : "...17 The  had now considered every possible method of reaching his <mark>goal<\/mark> without going round the dead  or climbing over it. Let alone...",
+            "fid" : "page-17" } ] } ] }

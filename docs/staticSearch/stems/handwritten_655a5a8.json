@@ -1,0 +1,20 @@
+
+  { "stem" : "handwritten",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "handwritten",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...maroon as the cover. The font is in a more <mark>handwritten<\/mark>, storybook font. —— #edm",
+            "fid" : "page-2" },
+          
+          { "form" : "handwritten",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "4 Kew Gardens is written at the top in a <mark>handwritten<\/mark>, storybook font. it is the top part of the...",
+            "fid" : "page-4" } ] } ] }

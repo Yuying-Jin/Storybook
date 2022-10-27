@@ -1,0 +1,26 @@
+
+  { "stem" : "rosi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rosy",
+            "weight" : "1",
+            "pos" : 1212,
+            "context" : "<mark>rosy<\/mark>-checked",
+            "fid" : "page-15",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rosy",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "<mark>rosy<\/mark>-checked" } ] } ] }

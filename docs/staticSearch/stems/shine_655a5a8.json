@@ -1,0 +1,14 @@
+
+  { "stem" : "shine",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shine",
+            "weight" : "1",
+            "pos" : 1627,
+            "context" : "...what precipices aren't concealed in them, or what ridges of  don't <mark>shine<\/mark> in the  on the other side? who knows? Who...",
+            "fid" : "page-19" } ] } ] }

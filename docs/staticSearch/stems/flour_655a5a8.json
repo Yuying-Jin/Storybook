@@ -1,0 +1,14 @@
+
+  { "stem" : "flour",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flour",
+            "weight" : "1",
+            "pos" : 1272,
+            "context" : "..., Grandad, the old man, sugar. Sugar, <mark>flour<\/mark>, kippers, greens, Sugar, sugar, sugar....",
+            "fid" : "page-15" } ] } ] }

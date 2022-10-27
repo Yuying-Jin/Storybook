@@ -1,0 +1,20 @@
+
+  { "stem" : "vagu",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "vaguely",
+            "weight" : "1",
+            "pos" : 1776,
+            "context" : "...with the oddest thrill of excitement in her voice, looking <mark>vaguely<\/mark> round and letting herself be drawn on down the , trailing...",
+            "fid" : "page-21" },
+          
+          { "form" : "vaguely",
+            "weight" : "1",
+            "pos" : 1873,
+            "context" : "...pauses between one movement and the next; instead of rambling <mark>vaguely<\/mark> the   danced one above another, making with their  shifting flakes...",
+            "fid" : "page-22" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "box",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "boxes",
+            "weight" : "1",
+            "pos" : 2041,
+            "context" : "...their  and changing their ; like a vast nest of Chinese <mark>boxes<\/mark> all of wrought  turning ceaselessly one within another the city murmured...",
+            "fid" : "page-24" } ] } ] }

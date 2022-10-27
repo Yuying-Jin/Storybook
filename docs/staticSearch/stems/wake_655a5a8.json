@@ -1,0 +1,14 @@
+
+  { "stem" : "wake",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "waking",
+            "weight" : "1",
+            "pos" : 1329,
+            "context" : "...with a curious expression. She saw them as a sleeper <mark>waking<\/mark> from a heavy sleep sees a brass candlestick reflecting the light...",
+            "fid" : "page-16" } ] } ] }

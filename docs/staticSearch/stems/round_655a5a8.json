@@ -1,0 +1,44 @@
+
+  { "stem" : "round",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "round",
+            "weight" : "1",
+            "pos" : 441,
+            "context" : "...me all through the hot afternoon. How the  kept circling <mark>round<\/mark> us: how clearly I see the  and her  with the...",
+            "fid" : "page-7" },
+          
+          { "form" : "round",
+            "weight" : "1",
+            "pos" : 518,
+            "context" : "8 But the  went <mark>round<\/mark> and round: it never settled anywhere—of course not, happily...",
+            "fid" : "page-8" },
+          
+          { "form" : "round",
+            "weight" : "1",
+            "pos" : 519,
+            "context" : "8 But the  went round and <mark>round<\/mark>: it never settled anywhere—of course not, happily not, or...",
+            "fid" : "page-8" },
+          
+          { "form" : "round",
+            "weight" : "1",
+            "pos" : 830,
+            "context" : "...flat, blade-like that waved from  to tip, <mark>round<\/mark> of  , vast crumpled surfaces of athin crackling texture—all...",
+            "fid" : "page-11" },
+          
+          { "form" : "round",
+            "weight" : "1",
+            "pos" : 1411,
+            "context" : "...now considered every possible method of reaching his goal without going <mark>round<\/mark> the dead  or climbing over it. Let alone the effort needed...",
+            "fid" : "page-17" },
+          
+          { "form" : "round",
+            "weight" : "1",
+            "pos" : 1777,
+            "context" : "...the oddest thrill of excitement in her voice, looking vaguely <mark>round<\/mark> and letting herself be drawn on down the , trailing her...",
+            "fid" : "page-21" } ] } ] }

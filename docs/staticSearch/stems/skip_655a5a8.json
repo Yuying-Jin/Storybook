@@ -1,0 +1,14 @@
+
+  { "stem" : "skip",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skip",
+            "weight" : "1",
+            "pos" : 1036,
+            "context" : "...insulate the wire—isolate?—insulate?—well, we'll <mark>skip<\/mark> the details, no good going into details that wouldn't be...",
+            "fid" : "page-13" } ] } ] }

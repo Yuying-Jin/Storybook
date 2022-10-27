@@ -1,0 +1,19 @@
+
+  { "stem" : "edit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "edition",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "<mark>edition<\/mark>" },
+          
+          { "form" : "edition",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "3 This <mark>edition<\/mark>, published in 1927, is limited to 500 numbered copies...",
+            "fid" : "page-3" } ] } ] }

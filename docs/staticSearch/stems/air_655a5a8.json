@@ -1,0 +1,32 @@
+
+  { "stem" : "air",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "air",
+            "weight" : "1",
+            "pos" : 345,
+            "context" : "...rather more briskly overhead and the colour was flashed into the <mark>air<\/mark> above, into the eyes of the men and women who walk...",
+            "fid" : "page-6" },
+          
+          { "form" : "air",
+            "weight" : "1",
+            "pos" : 2060,
+            "context" : "<mark>air<\/mark>",
+            "fid" : "page-24",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "air",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "<mark>air<\/mark>" } ] } ] }

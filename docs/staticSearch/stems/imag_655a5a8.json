@@ -1,0 +1,26 @@
+
+  { "stem" : "imag",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "image",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...State: The Behrend Campus, I worked on making the <mark>image<\/mark> frames for each page wrap around the correspond page content....",
+            "fid" : "#edm" },
+          
+          { "form" : "image",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...to learn in this medium. I also drew the cursor <mark>image<\/mark>! However, I cannot take credit for the cursor actually...",
+            "fid" : "#edm" },
+          
+          { "form" : "images",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...transcription of the first half of the book and gathered the <mark>images<\/mark> of them. Afterwards, I marked up that same half in...",
+            "fid" : "#avr" } ] } ] }

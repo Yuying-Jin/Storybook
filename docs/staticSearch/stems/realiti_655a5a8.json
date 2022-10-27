@@ -1,0 +1,14 @@
+
+  { "stem" : "realiti",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reality",
+            "weight" : "1",
+            "pos" : 575,
+            "context" : "..., those ghosts lying under the ,... one's happiness, one's <mark>reality<\/mark>?\" \"For me, a square   and a —\" ",
+            "fid" : "page-8" } ] } ] }

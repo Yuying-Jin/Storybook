@@ -1,0 +1,14 @@
+
+  { "stem" : "posit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "position",
+            "weight" : "1",
+            "pos" : 1048,
+            "context" : "...understood—and in short the little machine stands in any convenient <mark>position<\/mark> by the head of the bed, we will say,...",
+            "fid" : "page-13" } ] } ] }

@@ -1,0 +1,102 @@
+
+  { "stem" : "margin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 14,
+        "contexts" : 
+        [ 
+          { "form" : "margins",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...the top part of the border decoration that takes up the <mark>margins<\/mark> as well as the bottom half of the page. The...",
+            "fid" : "page-4" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "6 An arch with broad swirls sits on the top <mark>margin<\/mark>. A line runs along the left and right margins....",
+            "fid" : "page-6" },
+          
+          { "form" : "margins",
+            "weight" : "1",
+            "pos" : 321,
+            "context" : "...top margin. A line runs along the left and right <mark>margins<\/mark>. At the bottom, centered under the text, there...",
+            "fid" : "page-6" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 491,
+            "context" : "8 Along the left <mark>margin<\/mark>, there is a tree, with a branch that cuts...",
+            "fid" : "page-8" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 497,
+            "context" : "...a tree, with a branch that cuts across the top <mark>margin<\/mark>. One third of the way down the page, there...",
+            "fid" : "page-8" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 594,
+            "context" : "...rope-braid like patterns that somewhat connects to the side <mark>margin<\/mark> patterns. The side margin patterns are two loose swiggle lines...",
+            "fid" : "page-9" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 597,
+            "context" : "...that somewhat connects to the side margin patterns. The side <mark>margin<\/mark> patterns are two loose swiggle lines. Around the bottom half...",
+            "fid" : "page-9" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 613,
+            "context" : "...joins the three, then travels down and under the under <mark>margin<\/mark> patterns. The bottom area has big curly loops nesting black...",
+            "fid" : "page-9" },
+          
+          { "form" : "margins",
+            "weight" : "1",
+            "pos" : 716,
+            "context" : "...from the bottom of the page, and climbs up the <mark>margins<\/mark>. At the top, there are trumpet-flower-...",
+            "fid" : "page-10" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 799,
+            "context" : "...to convey petals. The reed plants bend at the top <mark>margin<\/mark> and curve over the text. On the right side,...",
+            "fid" : "page-11" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 810,
+            "context" : "..., there is another reed plant that simply climbs the right <mark>margin<\/mark> side and blooms at the top. —— #edm",
+            "fid" : "page-11" },
+          
+          { "form" : "margins",
+            "weight" : "1",
+            "pos" : 866,
+            "context" : "12On the left and right <mark>margins<\/mark> there are 4 lines that go up and connect to a...",
+            "fid" : "page-12" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 876,
+            "context" : "...bumpy line that looks similar to a column. The bottom <mark>margin<\/mark> has one long bumpy line with large black cradled in the...",
+            "fid" : "page-12" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 887,
+            "context" : "...cradled in the dips of the bumps. On the top <mark>margin<\/mark>, there are two arched lines in the center with two...",
+            "fid" : "page-12" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "margins",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...imagery. I also like how the scrolling drawings on the <mark>margins<\/mark> correlate to some of the content. It was also interesting..." } ] } ] }

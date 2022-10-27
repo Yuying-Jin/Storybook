@@ -1,0 +1,14 @@
+
+  { "stem" : "intens",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "intensity",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...veins, or falling into a , it expanded with such <mark>intensity<\/mark> of ,  and  the thin walls of  that one expected them...",
+            "fid" : "page-5" } ] } ] }

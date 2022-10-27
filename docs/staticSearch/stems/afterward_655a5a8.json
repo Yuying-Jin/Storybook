@@ -1,0 +1,14 @@
+
+  { "stem" : "afterward",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Afterwards",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...first half of the book and gathered the images of them. <mark>Afterwards<\/mark>, I marked up that same half in xml to fit...",
+            "fid" : "#avr" } ] } ] }

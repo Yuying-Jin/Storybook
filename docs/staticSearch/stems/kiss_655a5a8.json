@@ -1,0 +1,38 @@
+
+  { "stem" : "kiss",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "kiss",
+            "weight" : "1",
+            "pos" : 625,
+            "context" : "9 \"For me, a <mark>kiss<\/mark>. Imagine six little girls sitting before their  twenty years ago...",
+            "fid" : "page-9" },
+          
+          { "form" : "kiss",
+            "weight" : "1",
+            "pos" : 650,
+            "context" : "...the , the first   I'd ever seen. And suddenly a <mark>kiss<\/mark>, there on the back of my . And my  shook...",
+            "fid" : "page-9" },
+          
+          { "form" : "kiss",
+            "weight" : "1",
+            "pos" : 665,
+            "context" : "...the hour when I would allow myself to think of the <mark>kiss<\/mark> for five minutes only—it was so precious— the kiss of...",
+            "fid" : "page-9" },
+          
+          { "form" : "kiss",
+            "weight" : "1",
+            "pos" : 669,
+            "context" : "...the kiss for five minutes only—it was so precious— the <mark>kiss<\/mark> of an old - woman with a  on her , the...",
+            "fid" : "page-9" },
+          
+          { "form" : "kisses",
+            "weight" : "1",
+            "pos" : 677,
+            "context" : "...woman with a  on her , the mother of all my <mark>kisses<\/mark> all my life. Come, Caroline, come, Hubert...",
+            "fid" : "page-9" } ] } ] }

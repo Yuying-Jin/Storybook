@@ -1,0 +1,31 @@
+
+  { "stem" : "mark",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "marked",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...or   half way up and unfurling at the tip  or  or   <mark>marked<\/mark> with spots of colour raised upon the surface; and from...",
+            "fid" : "page-4" },
+          
+          { "form" : "marked",
+            "weight" : "1",
+            "pos" : 660,
+            "context" : "...so that I couldn't paint. I took out my  and <mark>marked<\/mark> the hour when I would allow myself to think of the...",
+            "fid" : "page-9" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "marked",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...the book and gathered the images of them. Afterwards, I <mark>marked<\/mark> up that same half in xml to fit our group's schema...",
+            "fid" : "#avr" } ] } ] }

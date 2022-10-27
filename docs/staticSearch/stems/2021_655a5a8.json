@@ -1,0 +1,13 @@
+
+  { "stem" : "2021",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2021",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "date: <mark>2021<\/mark>" } ] } ] }

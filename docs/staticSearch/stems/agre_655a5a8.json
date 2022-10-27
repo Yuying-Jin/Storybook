@@ -1,0 +1,14 @@
+
+  { "stem" : "agre",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "agreed",
+            "weight" : "1",
+            "pos" : 1066,
+            "context" : "...the widow applies her  and summons the spirit by sign as <mark>agreed<\/mark>, Women! Widows! Women in black—\" ",
+            "fid" : "page-13" } ] } ] }

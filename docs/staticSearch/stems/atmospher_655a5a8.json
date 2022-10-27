@@ -1,0 +1,20 @@
+
+  { "stem" : "atmospher",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "atmosphere",
+            "weight" : "1",
+            "pos" : 1854,
+            "context" : "..., but later both substance and colour dissolved in the  and <mark>atmosphere<\/mark>. How hot it was! So hot that even the thrush...",
+            "fid" : "page-22" },
+          
+          { "form" : "atmosphere",
+            "weight" : "1",
+            "pos" : 1961,
+            "context" : "...shade beneath the , dissolving like drops of  in the  and  <mark>atmosphere<\/mark>, staining it faintly with  and . It seemed as if...",
+            "fid" : "page-23" } ] } ] }

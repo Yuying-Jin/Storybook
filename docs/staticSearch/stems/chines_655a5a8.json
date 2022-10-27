@@ -1,0 +1,20 @@
+
+  { "stem" : "chines",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Chinese",
+            "weight" : "1",
+            "pos" : 1798,
+            "context" : "...then down there, remembering orchids and cranes among wild s, a <mark>Chinese<\/mark>  and a; but he bore her on. ",
+            "fid" : "page-21" },
+          
+          { "form" : "Chinese",
+            "weight" : "1",
+            "pos" : 2040,
+            "context" : "...turning their  and changing their ; like a vast nest of <mark>Chinese<\/mark> boxes all of wrought  turning ceaselessly one within another the city...",
+            "fid" : "page-24" } ] } ] }

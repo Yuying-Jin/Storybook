@@ -1,0 +1,31 @@
+
+  { "stem" : "24",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "24",
+            "weight" : "1",
+            "pos" : 1986,
+            "context" : "<mark>24<\/mark>At the top, there is a semicircular flowerbed. Two...",
+            "fid" : "page-24" },
+          
+          { "form" : "24",
+            "weight" : "1",
+            "pos" : 2012,
+            "context" : "<mark>24<\/mark> Voices, yes, vioces, breaking the silence suddently with...",
+            "fid" : "page-24" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "24",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...I was responsible for transcribing and describing of pages 13-<mark>24<\/mark> and coding relax NG and xslt files. I got a...",
+            "fid" : "#yxj" } ] } ] }

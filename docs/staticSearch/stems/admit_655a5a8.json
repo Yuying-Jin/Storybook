@@ -1,0 +1,14 @@
+
+  { "stem" : "admit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "admit",
+            "weight" : "1",
+            "pos" : 1445,
+            "context" : "...a point where the  curved high enough from the ground to <mark>admit<\/mark> him. He had just inserted his  in the opening and was...",
+            "fid" : "page-17" } ] } ] }

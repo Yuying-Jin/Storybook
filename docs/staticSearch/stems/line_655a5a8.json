@@ -1,0 +1,116 @@
+
+  { "stem" : "line",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 18,
+        "contexts" : 
+        [ 
+          { "form" : "line",
+            "weight" : "1",
+            "pos" : 316,
+            "context" : "...arch with broad swirls sits on the top margin. A <mark>line<\/mark> runs along the left and right margins. At the bottom...",
+            "fid" : "page-6" },
+          
+          { "form" : "lines",
+            "weight" : "1",
+            "pos" : 512,
+            "context" : "...At the very bottom of the page are three thick black <mark>lines<\/mark>. —— #edm",
+            "fid" : "page-8" },
+          
+          { "form" : "lines",
+            "weight" : "1",
+            "pos" : 602,
+            "context" : "...margin patterns. The side margin patterns are two loose swiggle <mark>lines<\/mark>. Around the bottom half of the page another squiggle line...",
+            "fid" : "page-9" },
+          
+          { "form" : "line",
+            "weight" : "1",
+            "pos" : 609,
+            "context" : "...lines. Around the bottom half of the page another squiggle <mark>line<\/mark> joins the three, then travels down and under the under...",
+            "fid" : "page-9" },
+          
+          { "form" : "lines",
+            "weight" : "1",
+            "pos" : 789,
+            "context" : "...sprout from the bottom left corner, and end in curly <mark>lines<\/mark> that have straight shading lines above them to convey petals....",
+            "fid" : "page-11" },
+          
+          { "form" : "lines",
+            "weight" : "1",
+            "pos" : 792,
+            "context" : "...corner, and end in curly lines that have straight shading <mark>lines<\/mark> above them to convey petals. The reed plants bend at...",
+            "fid" : "page-11" },
+          
+          { "form" : "lines",
+            "weight" : "1",
+            "pos" : 867,
+            "context" : "12On the left and right margins there are 4 <mark>lines<\/mark> that go up and connect to a bumpy line that looks...",
+            "fid" : "page-12" },
+          
+          { "form" : "line",
+            "weight" : "1",
+            "pos" : 871,
+            "context" : "...are 4 lines that go up and connect to a bumpy <mark>line<\/mark> that looks similar to a column. The bottom margin has...",
+            "fid" : "page-12" },
+          
+          { "form" : "line",
+            "weight" : "1",
+            "pos" : 880,
+            "context" : "...to a column. The bottom margin has one long bumpy <mark>line<\/mark> with large black cradled in the dips of the bumps....",
+            "fid" : "page-12" },
+          
+          { "form" : "lines",
+            "weight" : "1",
+            "pos" : 890,
+            "context" : "...bumps. On the top margin, there are two arched <mark>lines<\/mark> in the center with two square-like shapes on the...",
+            "fid" : "page-12" },
+          
+          { "form" : "line",
+            "weight" : "1",
+            "pos" : 1290,
+            "context" : "...short arcs form a long arc. One thick solid straight <mark>line<\/mark> is on the left, and one is on the right...",
+            "fid" : "page-16" },
+          
+          { "form" : "lines",
+            "weight" : "1",
+            "pos" : 1300,
+            "context" : "...several petals. At the bottom, some curves and straight <mark>lines<\/mark> form the shape of the ground. A large flower and...",
+            "fid" : "page-16" },
+          
+          { "form" : "line",
+            "weight" : "1",
+            "pos" : 1309,
+            "context" : "...A large flower and some petals break the sentences in the <mark>line<\/mark> 6-16.—— #yxj",
+            "fid" : "page-16" },
+          
+          { "form" : "line",
+            "weight" : "1",
+            "pos" : 1388,
+            "context" : "17Curves and straight <mark>line<\/mark> form a net which is around left, right and bottom...",
+            "fid" : "page-17" },
+          
+          { "form" : "lines",
+            "weight" : "1",
+            "pos" : 1486,
+            "context" : "...the top. The big window consists of two thin solid <mark>lines<\/mark>.—— #yxj",
+            "fid" : "page-18" },
+          
+          { "form" : "line",
+            "weight" : "1",
+            "pos" : 1727,
+            "context" : "21At the top, there is a long straight <mark>line<\/mark>. In the upper left corner, there is half a...",
+            "fid" : "page-21" },
+          
+          { "form" : "lines",
+            "weight" : "1",
+            "pos" : 1744,
+            "context" : "...vase. Below the vase, we can see two straight <mark>lines<\/mark> with different length. On the right, there are two...",
+            "fid" : "page-21" },
+          
+          { "form" : "lines",
+            "weight" : "1",
+            "pos" : 1753,
+            "context" : "...two curves. At the bottom, there are two straight <mark>lines<\/mark> with the similar length but different thickness. —— #yxj...",
+            "fid" : "page-21" } ] } ] }

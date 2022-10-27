@@ -1,0 +1,14 @@
+
+  { "stem" : "stroll",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strolling",
+            "weight" : "1",
+            "pos" : 381,
+            "context" : "...man was about six inches in front of the woman, <mark>strolling<\/mark> care- lessly, while she bore on with greater purpose...",
+            "fid" : "page-6" } ] } ] }

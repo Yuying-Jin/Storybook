@@ -1,0 +1,14 @@
+
+  { "stem" : "curvi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "curvy",
+            "weight" : "1",
+            "pos" : 1814,
+            "context" : "...like the roof of a pavilion. We can find a <mark>curvy<\/mark> path and three trees both on the left and on the...",
+            "fid" : "page-22" } ] } ] }

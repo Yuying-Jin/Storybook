@@ -1,0 +1,14 @@
+
+  { "stem" : "shini",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shiny",
+            "weight" : "1",
+            "pos" : 1897,
+            "context" : "...roofs of the  shone as if a whole market full of <mark>shiny<\/mark>  umbrellas had opened in the ; and in the drone of...",
+            "fid" : "page-22" } ] } ] }

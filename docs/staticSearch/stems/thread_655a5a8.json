@@ -1,0 +1,14 @@
+
+  { "stem" : "thread",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thread",
+            "weight" : "1",
+            "pos" : 291,
+            "context" : "...now settled upon the flesh of a , revealing the branching <mark>thread<\/mark> of fibre beneath the surface, and again it moved on...",
+            "fid" : "page-5" } ] } ] }

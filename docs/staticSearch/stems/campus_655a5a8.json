@@ -1,0 +1,14 @@
+
+  { "stem" : "campus",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Campus",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...our consultant, Professor Beshero of Penn State: The Behrend <mark>Campus<\/mark>, I worked on making the image frames for each page...",
+            "fid" : "#edm" } ] } ] }

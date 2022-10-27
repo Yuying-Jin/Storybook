@@ -1,0 +1,14 @@
+
+  { "stem" : "shorter",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shorter",
+            "weight" : "1",
+            "pos" : 970,
+            "context" : "...At the top, there is a dashed curve and four <mark>shorter<\/mark> solid curve. The left and right curves are symmetrical....",
+            "fid" : "page-13" } ] } ] }

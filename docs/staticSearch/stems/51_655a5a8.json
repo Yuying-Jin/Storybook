@@ -1,0 +1,13 @@
+
+  { "stem" : "51",
+    "instances" : 
+    [ 
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "51",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "<mark>51<\/mark>" } ] } ] }

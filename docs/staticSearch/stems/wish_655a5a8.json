@@ -1,0 +1,20 @@
+
+  { "stem" : "wish",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wished",
+            "weight" : "1",
+            "pos" : 402,
+            "context" : "...of the woman purposely, though perhaps unconsciously, for he <mark>wished<\/mark> to go on with his thoughts. ",
+            "fid" : "page-6" },
+          
+          { "form" : "wishing",
+            "weight" : "1",
+            "pos" : 1790,
+            "context" : "...her  this way and that way, forgetting her tea, <mark>wishing<\/mark> to go down there and then down there, remembering orchids and...",
+            "fid" : "page-21" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "simon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Simon",
+            "weight" : "1",
+            "pos" : 536,
+            "context" : "...ever think of the past?\" \"Why do you ask, <mark>Simon<\/mark>?\" \"Because I've been thinking of the past. I've been...",
+            "fid" : "page-8" },
+          
+          { "form" : "Simon",
+            "weight" : "1",
+            "pos" : 552,
+            "context" : "...my thinking of the past?\" \"Why should I mind, <mark>Simon<\/mark>? Doesn't one always think of the past, in a...",
+            "fid" : "page-8" } ] } ] }

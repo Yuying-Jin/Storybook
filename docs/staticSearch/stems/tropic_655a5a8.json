@@ -1,0 +1,14 @@
+
+  { "stem" : "tropic",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tropical",
+            "weight" : "1",
+            "pos" : 1151,
+            "context" : "...mur- muring about  of Uruguay blanketed with the wax  of <mark>tropical<\/mark> , , sea , mermaids, and women drowned at sea...",
+            "fid" : "page-14" } ] } ] }

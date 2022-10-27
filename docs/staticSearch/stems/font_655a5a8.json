@@ -1,0 +1,38 @@
+
+  { "stem" : "font",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "font",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...maroon, and light bluish-grey speckling. The title <mark>font<\/mark> and information is the same thick typefaced font, almost like...",
+            "fid" : "page-1" },
+          
+          { "form" : "font",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : ".... The title font and information is the same thick typefaced <mark>font<\/mark>, almost like \"Impact\". —— #edm",
+            "fid" : "page-1" },
+          
+          { "form" : "font",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...page was the same burnt maroon as the cover. The <mark>font<\/mark> is in a more handwritten, storybook font. —— #...",
+            "fid" : "page-2" },
+          
+          { "form" : "font",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...cover. The font is in a more handwritten, storybook <mark>font<\/mark>. —— #edm",
+            "fid" : "page-2" },
+          
+          { "form" : "font",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...Gardens is written at the top in a handwritten, storybook <mark>font<\/mark>. it is the top part of the border decoration that...",
+            "fid" : "page-4" } ] } ] }

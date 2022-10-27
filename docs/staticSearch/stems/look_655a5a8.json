@@ -1,0 +1,104 @@
+
+  { "stem" : "look",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 16,
+        "contexts" : 
+        [ 
+          { "form" : "looking",
+            "weight" : "1",
+            "pos" : 461,
+            "context" : "...I saw her  and when it moved impatiently I knew without <mark>looking<\/mark> up what she was going to say: the whole of...",
+            "fid" : "page-7" },
+          
+          { "form" : "looked",
+            "weight" : "1",
+            "pos" : 696,
+            "context" : "...four abreast, and soon diminished in size among the  and <mark>looked<\/mark> half  as the  and shade swam over their backs in large...",
+            "fid" : "page-9" },
+          
+          { "form" : "looks",
+            "weight" : "1",
+            "pos" : 872,
+            "context" : "...lines that go up and connect to a bumpy line that <mark>looks<\/mark> similar to a column. The bottom margin has one long...",
+            "fid" : "page-12" },
+          
+          { "form" : "looked",
+            "weight" : "1",
+            "pos" : 920,
+            "context" : "...companion spoke, anddirectly his companion had done speakinghe <mark>looked<\/mark> on the  again and some-times opened his  only after a...",
+            "fid" : "page-12" },
+          
+          { "form" : "looked",
+            "weight" : "1",
+            "pos" : 1090,
+            "context" : "...of a woman's  in the distance, which in the shade <mark>looked<\/mark> a . He took off his , placed his  upon his...",
+            "fid" : "page-14" },
+          
+          { "form" : "looking",
+            "weight" : "1",
+            "pos" : 1118,
+            "context" : "...stick in order to divert the old man's attention. After <mark>looking<\/mark> at it for a moment in some confusion the old man...",
+            "fid" : "page-14" },
+          
+          { "form" : "look",
+            "weight" : "1",
+            "pos" : 1167,
+            "context" : "...himself to be moved on by William, upon whose  the <mark>look<\/mark> of stoical patience grew slowly deeper and deeper. ",
+            "fid" : "page-14" },
+          
+          { "form" : "look",
+            "weight" : "1",
+            "pos" : 1245,
+            "context" : "...for a moment and given each other a queer, sly <mark>look<\/mark>, they went on energeticlly piecing together their very complicated dialogue...",
+            "fid" : "page-15" },
+          
+          { "form" : "looked",
+            "weight" : "1",
+            "pos" : 1315,
+            "context" : "16 The  woman <mark>looked<\/mark> through the pattern of falling words at the s standing cool...",
+            "fid" : "page-16" },
+          
+          { "form" : "looking",
+            "weight" : "1",
+            "pos" : 1379,
+            "context" : "...swaying the top part of her  slowly backwards and forwards, <mark>looking<\/mark> at the s. Then she suggested that they should find a...",
+            "fid" : "page-16" },
+          
+          { "form" : "looks",
+            "weight" : "1",
+            "pos" : 1474,
+            "context" : "18The container of this page <mark>looks<\/mark> like a big window with a flower at the top....",
+            "fid" : "page-18" },
+          
+          { "form" : "looks",
+            "weight" : "1",
+            "pos" : 1558,
+            "context" : "19The container of this page <mark>looks<\/mark> like a piece of paper whose upper left corner and upper...",
+            "fid" : "page-19" },
+          
+          { "form" : "looks",
+            "weight" : "1",
+            "pos" : 1655,
+            "context" : "20The container of this page <mark>looks<\/mark> like a large jar. Its top, left and right...",
+            "fid" : "page-20" },
+          
+          { "form" : "looked",
+            "weight" : "1",
+            "pos" : 1684,
+            "context" : "...what were those shapes?—little  tables, and waitresses who <mark>looked<\/mark> first at her and then at him; and there was a...",
+            "fid" : "page-20" },
+          
+          { "form" : "looking",
+            "weight" : "1",
+            "pos" : 1775,
+            "context" : "...asked with the oddest thrill of excitement in her voice, <mark>looking<\/mark> vaguely round and letting herself be drawn on down the ,...",
+            "fid" : "page-21" },
+          
+          { "form" : "looks",
+            "weight" : "1",
+            "pos" : 1809,
+            "context" : "22At the top of the page, the picture <mark>looks<\/mark> like the roof of a pavilion. We can find a...",
+            "fid" : "page-22" } ] } ] }

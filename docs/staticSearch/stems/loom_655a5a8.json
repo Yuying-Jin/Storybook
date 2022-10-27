@@ -1,0 +1,14 @@
+
+  { "stem" : "loom",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "loomed",
+            "weight" : "1",
+            "pos" : 1641,
+            "context" : "...of tea they gave you at Kew he felt that something <mark>loomed<\/mark> up behind her words and stood vast and solid behind them;...",
+            "fid" : "page-19" } ] } ] }

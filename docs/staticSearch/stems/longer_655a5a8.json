@@ -1,0 +1,14 @@
+
+  { "stem" : "longer",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "longer",
+            "weight" : "1",
+            "pos" : 1710,
+            "context" : "...and then—but it was too exciting to stand and think any <mark>longer<\/mark>, and he pulled the parasol out of the  with a...",
+            "fid" : "page-20" } ] } ] }

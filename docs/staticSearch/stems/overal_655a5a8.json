@@ -1,0 +1,14 @@
+
+  { "stem" : "overal",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Overall",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...that same half in xml to fit our group's schema. <mark>Overall<\/mark>, learning to work with a variety of different code and...",
+            "fid" : "#avr" } ] } ] }

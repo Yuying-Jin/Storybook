@@ -1,0 +1,20 @@
+
+  { "stem" : "stir",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "stirred",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "5 The  were voluminous enough to be <mark>stirred<\/mark> by the , and when they moved, the ,  and...",
+            "fid" : "page-5" },
+          
+          { "form" : "stirred",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "6 Then the  <mark>stirred<\/mark> rather more briskly overhead and the colour was flashed into the...",
+            "fid" : "page-6" } ] } ] }

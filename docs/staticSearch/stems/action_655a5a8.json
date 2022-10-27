@@ -1,0 +1,14 @@
+
+  { "stem" : "action",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "action",
+            "weight" : "1",
+            "pos" : 1582,
+            "context" : "19 The <mark>action<\/mark> and the fact that his  rested on the top of hers...",
+            "fid" : "page-19" } ] } ] }

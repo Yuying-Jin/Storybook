@@ -1,0 +1,14 @@
+
+  { "stem" : "greater",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greater",
+            "weight" : "1",
+            "pos" : 385,
+            "context" : "..., strolling care- lessly, while she bore on with <mark>greater<\/mark> purpose, only turning her  now and then to see that...",
+            "fid" : "page-6" } ] } ] }

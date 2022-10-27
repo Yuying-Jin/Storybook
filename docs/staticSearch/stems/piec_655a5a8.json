@@ -1,0 +1,32 @@
+
+  { "stem" : "piec",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "piece",
+            "weight" : "1",
+            "pos" : 1028,
+            "context" : "...his  and continued:— \"You have a small eletric  and a <mark>piece<\/mark> of rubber to insulate the wire—isolate?—insulate?—...",
+            "fid" : "page-13" },
+          
+          { "form" : "piecing",
+            "weight" : "1",
+            "pos" : 1248,
+            "context" : "...other a queer, sly look, they went on energeticlly <mark>piecing<\/mark> together their very complicated dialogue: \"Nell, Bert, Lot...",
+            "fid" : "page-15" },
+          
+          { "form" : "piece",
+            "weight" : "1",
+            "pos" : 1560,
+            "context" : "19The container of this page looks like a <mark>piece<\/mark> of paper whose upper left corner and upper right corner are...",
+            "fid" : "page-19" },
+          
+          { "form" : "piece",
+            "weight" : "1",
+            "pos" : 1692,
+            "context" : "...a bill that he would pay with a real two shilling <mark>piece<\/mark>, and it was real, all real, he assured...",
+            "fid" : "page-20" } ] } ] }

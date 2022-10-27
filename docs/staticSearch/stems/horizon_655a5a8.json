@@ -1,0 +1,14 @@
+
+  { "stem" : "horizon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "horizon",
+            "weight" : "1",
+            "pos" : 1943,
+            "context" : "..., women and children were spotted for a second upon the <mark>horizon<\/mark>, and then, seeing the breadth of  that lay upon the...",
+            "fid" : "page-23" } ] } ] }

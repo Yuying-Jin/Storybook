@@ -1,0 +1,54 @@
+
+  { "stem" : "time",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "time",
+            "weight" : "1",
+            "pos" : 453,
+            "context" : "...the  and her  with the    at the toe. All the <mark>time<\/mark> I spoke I saw her  and when it moved impatiently I...",
+            "fid" : "page-7" },
+          
+          { "form" : "time",
+            "weight" : "1",
+            "pos" : 900,
+            "context" : "12 This <mark>time<\/mark> they were both men. Theyounger of the two wore...",
+            "fid" : "page-12" },
+          
+          { "form" : "times",
+            "weight" : "1",
+            "pos" : 922,
+            "context" : "...companion had done speakinghe looked on the  again and some-<mark>times<\/mark> opened his  only after a long pauseand sometimes did not...",
+            "fid" : "page-12" },
+          
+          { "form" : "time",
+            "weight" : "1",
+            "pos" : 1465,
+            "context" : "...when two other people came past outside on the . This <mark>time<\/mark> they were both young, a young man and a young...",
+            "fid" : "page-17" },
+          
+          { "form" : "time",
+            "weight" : "1",
+            "pos" : 1764,
+            "context" : "21 \"Come along, Trissie; it's <mark>time<\/mark> we had our tea.\" \"Wherever does one have one's tea...",
+            "fid" : "page-21" },
+          
+          { "form" : "time",
+            "weight" : "1",
+            "pos" : 2030,
+            "context" : "...the silence? But there was no silence; all the <mark>time<\/mark> the  were turning their  and changing their ; like a vast...",
+            "fid" : "page-24" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "time",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...to perceive how the writing imitated the social structure of the <mark>time<\/mark> as well as how the language differs from today. " } ] } ] }

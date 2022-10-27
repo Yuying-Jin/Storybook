@@ -1,0 +1,26 @@
+
+  { "stem" : "sprout",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "sprouting",
+            "weight" : "1",
+            "pos" : 505,
+            "context" : "...the way down the page, there is another tree branch <mark>sprouting<\/mark> from the text. At the very bottom of the page...",
+            "fid" : "page-8" },
+          
+          { "form" : "sprouting",
+            "weight" : "1",
+            "pos" : 710,
+            "context" : "10 Wildly <mark>sprouting<\/mark> leaves come from the bottom of the page, and climbs...",
+            "fid" : "page-10" },
+          
+          { "form" : "sprout",
+            "weight" : "1",
+            "pos" : 783,
+            "context" : "11 Tall reed-like plants <mark>sprout<\/mark> from the bottom left corner, and end in curly lines...",
+            "fid" : "page-11" } ] } ] }

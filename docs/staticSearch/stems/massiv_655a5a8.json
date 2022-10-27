@@ -1,0 +1,14 @@
+
+  { "stem" : "massiv",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "massive",
+            "weight" : "1",
+            "pos" : 1615,
+            "context" : "...objects that surrounded them and were to their inexperienced touch so <mark>massive<\/mark>: but who knows (so they thought as they pressed the...",
+            "fid" : "page-19" } ] } ] }

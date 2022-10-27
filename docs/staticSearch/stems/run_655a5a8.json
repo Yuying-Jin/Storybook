@@ -1,0 +1,14 @@
+
+  { "stem" : "run",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "runs",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...with broad swirls sits on the top margin. A line <mark>runs<\/mark> along the left and right margins. At the bottom,...",
+            "fid" : "page-6" } ] } ] }

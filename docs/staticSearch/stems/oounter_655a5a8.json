@@ -1,0 +1,14 @@
+
+  { "stem" : "oounter",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "oounter",
+            "weight" : "1",
+            "pos" : 410,
+            "context" : "7 Going from the top right, moving <mark>oounter<\/mark>-clockwise and ending at the bottom right, there is...",
+            "fid" : "page-7" } ] } ] }

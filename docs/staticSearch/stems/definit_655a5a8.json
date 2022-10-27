@@ -1,0 +1,14 @@
+
+  { "stem" : "definit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "definite",
+            "weight" : "1",
+            "pos" : 753,
+            "context" : "...downas it passed over them. It appeared tohave a <mark>definite<\/mark> goal in front of it, differing in this respect from the...",
+            "fid" : "page-10" } ] } ] }

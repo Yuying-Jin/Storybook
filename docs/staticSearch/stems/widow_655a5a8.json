@@ -1,0 +1,20 @@
+
+  { "stem" : "widow",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "widow",
+            "weight" : "1",
+            "pos" : 1060,
+            "context" : "...arrangements being properly fixed by workmen under my direction, the <mark>widow<\/mark> applies her  and summons the spirit by sign as agreed,...",
+            "fid" : "page-13" },
+          
+          { "form" : "Widows",
+            "weight" : "1",
+            "pos" : 1068,
+            "context" : "...and summons the spirit by sign as agreed, Women! <mark>Widows<\/mark>! Women in black—\" ",
+            "fid" : "page-13" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "thessali",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Thessaly",
+            "weight" : "1",
+            "pos" : 1009,
+            "context" : "...experiences in Heaven. \"Heaven was known to the ancients as <mark>Thessaly<\/mark>, William, and now, with this war, the spirit...",
+            "fid" : "page-13" } ] } ] }

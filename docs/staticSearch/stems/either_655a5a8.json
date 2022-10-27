@@ -1,0 +1,14 @@
+
+  { "stem" : "either",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "either",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "...a spot of the most intricate colour. The light fell <mark>either<\/mark> upon the smooth,  back of a , or, the shell...",
+            "fid" : "page-5" } ] } ] }

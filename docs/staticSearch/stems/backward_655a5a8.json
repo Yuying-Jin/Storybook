@@ -1,0 +1,14 @@
+
+  { "stem" : "backward",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "backwards",
+            "weight" : "1",
+            "pos" : 1377,
+            "context" : "...words fall over her, swaying the top part of her  slowly <mark>backwards<\/mark> and forwards, looking at the s. Then she suggested that...",
+            "fid" : "page-16" } ] } ] }

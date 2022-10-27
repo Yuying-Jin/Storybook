@@ -1,0 +1,14 @@
+
+  { "stem" : "rope-braid",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rope-braid",
+            "weight" : "1",
+            "pos" : 586,
+            "context" : "9 The top of the page has simplistic <mark>rope-braid<\/mark> like patterns that somewhat connects to the side margin patterns....",
+            "fid" : "page-9" } ] } ] }

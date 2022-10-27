@@ -1,0 +1,26 @@
+
+  { "stem" : "perhap",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "4 From the   there rose <mark>perhaps<\/mark> a hundred  spreading into  or   half way up and unfurling at...",
+            "fid" : "page-4" },
+          
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 400,
+            "context" : "...kept this distance in front of the woman purposely, though <mark>perhaps<\/mark> unconsciously, for he wished to go on with his thoughts...",
+            "fid" : "page-6" },
+          
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 906,
+            "context" : "...men. Theyounger of the two wore an expressionof <mark>perhaps<\/mark> unnatural calm; he raised his and fixed them very steadily...",
+            "fid" : "page-12" } ] } ] }

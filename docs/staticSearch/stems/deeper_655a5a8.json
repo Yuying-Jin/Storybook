@@ -1,0 +1,20 @@
+
+  { "stem" : "deeper",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "deeper",
+            "weight" : "1",
+            "pos" : 1172,
+            "context" : "...William, upon whose  the look of stoical patience grew slowly <mark>deeper<\/mark> and deeper. ",
+            "fid" : "page-14" },
+          
+          { "form" : "deeper",
+            "weight" : "1",
+            "pos" : 1173,
+            "context" : "...upon whose  the look of stoical patience grew slowly deeper and <mark>deeper<\/mark>. ",
+            "fid" : "page-14" } ] } ] }

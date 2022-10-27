@@ -1,0 +1,14 @@
+
+  { "stem" : "zig-zag",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "zig-zag",
+            "weight" : "1",
+            "pos" : 370,
+            "context" : "...movement not unlike that of the  and   who crossed the  in <mark>zig-zag<\/mark> flights from bed to bed. The man was about six...",
+            "fid" : "page-6" } ] } ] }

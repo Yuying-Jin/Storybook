@@ -1,0 +1,20 @@
+
+  { "stem" : "professor",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Professor",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "...lead me with these pages. Along with our consultant, <mark>Professor<\/mark> Beshero of Penn State: The Behrend Campus, I worked...",
+            "fid" : "#edm" },
+          
+          { "form" : "professor",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...help on coding relax NG and xslt from our consultant, <mark>professor<\/mark> Beshero, so finally we got satisfactory relax ng and xslt...",
+            "fid" : "#yxj" } ] } ] }

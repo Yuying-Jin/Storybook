@@ -1,0 +1,14 @@
+
+  { "stem" : "decid",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "decided",
+            "weight" : "1",
+            "pos" : 849,
+            "context" : "...one stalkand another to his goal. Before he had<mark>decided<\/mark> whether to circumvent the archedtent of a  or to breast...",
+            "fid" : "page-11" } ] } ] }

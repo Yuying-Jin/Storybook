@@ -1,0 +1,31 @@
+
+  { "stem" : "take",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "takes",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : ".... it is the top part of the border decoration that <mark>takes<\/mark> up the margins as well as the bottom half of the...",
+            "fid" : "page-4" },
+          
+          { "form" : "taking",
+            "weight" : "1",
+            "pos" : 1449,
+            "context" : "...him. He had just inserted his  in the opening and was <mark>taking<\/mark> stock of the high  roof and was getting used to the...",
+            "fid" : "page-17" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "take",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...I also drew the cursor image! However, I cannot <mark>take<\/mark> credit for the cursor actually working, that was all #...",
+            "fid" : "#edm" } ] } ] }

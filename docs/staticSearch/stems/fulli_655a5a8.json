@@ -1,0 +1,14 @@
+
+  { "stem" : "fulli",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fully",
+            "weight" : "1",
+            "pos" : 1507,
+            "context" : "...their gummy case, when the wings of the , though <mark>fully<\/mark> grown, are motionless in the . \"Lucky it isn't Friday...",
+            "fid" : "page-18" } ] } ] }

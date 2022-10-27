@@ -1,0 +1,14 @@
+
+  { "stem" : "bluish-grey",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bluish-grey",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...shape center with yellow squiggles with burnt maroon, and light <mark>bluish-grey<\/mark> speckling. The title font and information is the same thick...",
+            "fid" : "page-1" } ] } ] }

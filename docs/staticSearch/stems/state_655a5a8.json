@@ -1,0 +1,24 @@
+
+  { "stem" : "state",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "State",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "...pages. Along with our consultant, Professor Beshero of Penn <mark>State<\/mark>: The Behrend Campus, I worked on making the image...",
+            "fid" : "#edm" } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "State",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "place: Penn <mark>State<\/mark> Behrend" } ] } ] }

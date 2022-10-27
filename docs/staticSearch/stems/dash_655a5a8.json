@@ -1,0 +1,26 @@
+
+  { "stem" : "dash",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "dashed",
+            "weight" : "1",
+            "pos" : 967,
+            "context" : "...Surrounded by curves. At the top, there is a <mark>dashed<\/mark> curve and four shorter solid curve. The left and right...",
+            "fid" : "page-13" },
+          
+          { "form" : "dashed",
+            "weight" : "1",
+            "pos" : 984,
+            "context" : "...is a circle filled with many dots. There are symmetrical <mark>dashed<\/mark> curves on both sides of the circle. A long solid...",
+            "fid" : "page-13" },
+          
+          { "form" : "dash",
+            "weight" : "1",
+            "pos" : 1845,
+            "context" : "...vapour, in which at first their  had substance and a <mark>dash<\/mark> of colour, but later both substance and colour dissolved in...",
+            "fid" : "page-22" } ] } ] }

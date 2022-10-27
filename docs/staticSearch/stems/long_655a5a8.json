@@ -1,0 +1,56 @@
+
+  { "stem" : "long",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "long",
+            "weight" : "1",
+            "pos" : 878,
+            "context" : "...looks similar to a column. The bottom margin has one <mark>long<\/mark> bumpy line with large black cradled in the dips of the...",
+            "fid" : "page-12" },
+          
+          { "form" : "long",
+            "weight" : "1",
+            "pos" : 925,
+            "context" : "...on the  again and some-times opened his  only after a <mark>long<\/mark> pauseand sometimes did not open them at all.The elder...",
+            "fid" : "page-12" },
+          
+          { "form" : "long",
+            "weight" : "1",
+            "pos" : 988,
+            "context" : "...symmetrical dashed curves on both sides of the circle. A <mark>long<\/mark> solid curve is below the circle.—— #yxj",
+            "fid" : "page-13" },
+          
+          { "form" : "long",
+            "weight" : "1",
+            "pos" : 1284,
+            "context" : "16At the top, 15 short arcs form a <mark>long<\/mark> arc. One thick solid straight line is on the left...",
+            "fid" : "page-16" },
+          
+          { "form" : "Long",
+            "weight" : "1",
+            "pos" : 1534,
+            "context" : "...'it'?\" \"O anything—I mean—you know what I mean.\" <mark>Long<\/mark> pauses came between each of these remarks; they were uttered...",
+            "fid" : "page-18" },
+          
+          { "form" : "long",
+            "weight" : "1",
+            "pos" : 1725,
+            "context" : "21At the top, there is a <mark>long<\/mark> straight line. In the upper left corner, there is...",
+            "fid" : "page-21" },
+          
+          { "form" : "long",
+            "weight" : "1",
+            "pos" : 1866,
+            "context" : "...like a mechanical , in the shadow of the s, with <mark>long<\/mark> pauses between one movement and the next; instead of rambling...",
+            "fid" : "page-22" },
+          
+          { "form" : "long",
+            "weight" : "1",
+            "pos" : 1921,
+            "context" : "...fallen leaves at the bottom left of the forest. A <mark>long<\/mark> straight is on the left. At the bottom, there...",
+            "fid" : "page-23" } ] } ] }

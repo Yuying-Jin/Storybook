@@ -1,0 +1,20 @@
+
+  { "stem" : "off-whit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Off-white",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "2 <mark>Off-white<\/mark> page with maroon dotting down the left-hand side....",
+            "fid" : "page-2" },
+          
+          { "form" : "off-white",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "3 Plain <mark>off-white<\/mark> page with text centered and justified. —— #edm",
+            "fid" : "page-3" } ] } ] }

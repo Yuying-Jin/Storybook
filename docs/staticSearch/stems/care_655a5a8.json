@@ -1,0 +1,14 @@
+
+  { "stem" : "care",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "care",
+            "weight" : "1",
+            "pos" : 382,
+            "context" : "...was about six inches in front of the woman, strolling <mark>care<\/mark>- lessly, while she bore on with greater purpose,...",
+            "fid" : "page-6" } ] } ] }

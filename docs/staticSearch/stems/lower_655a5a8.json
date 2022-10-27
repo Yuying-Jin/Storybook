@@ -1,0 +1,14 @@
+
+  { "stem" : "lower",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lower",
+            "weight" : "1",
+            "pos" : 1205,
+            "context" : "...slightly puzzled by his gestures came two elderly women of the <mark>lower<\/mark> middle class, one  and , the other  and . Like...",
+            "fid" : "page-15" } ] } ] }

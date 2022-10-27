@@ -1,0 +1,14 @@
+
+  { "stem" : "expand",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "expanded",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...with its ,  veins, or falling into a , it <mark>expanded<\/mark> with such intensity of ,  and  the thin walls of  that...",
+            "fid" : "page-5" } ] } ] }

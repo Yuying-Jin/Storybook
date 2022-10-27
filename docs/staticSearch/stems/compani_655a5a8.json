@@ -1,0 +1,14 @@
+
+  { "stem" : "compani",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "company",
+            "weight" : "1",
+            "pos" : 1137,
+            "context" : "...of Uruguay which he had visited hundreds of years ago in <mark>company<\/mark> with the most beautiful young woman in Europe. He could...",
+            "fid" : "page-14" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "somewher",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "somewhere",
+            "weight" : "1",
+            "pos" : 431,
+            "context" : "...I came here with Lily,\" he thought. \"We sat <mark>somewhere<\/mark> over there by a  and I begged her to marry me...",
+            "fid" : "page-7" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "it",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "it's",
+            "weight" : "1",
+            "pos" : 1763,
+            "context" : "21 \"Come along, Trissie; <mark>it's<\/mark> time we had our tea.\" \"Wherever does one have one's...",
+            "fid" : "page-21" } ] } ] }

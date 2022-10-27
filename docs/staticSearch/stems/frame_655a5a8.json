@@ -1,0 +1,14 @@
+
+  { "stem" : "frame",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "frames",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...: The Behrend Campus, I worked on making the image <mark>frames<\/mark> for each page wrap around the correspond page content. This...",
+            "fid" : "#edm" } ] } ] }

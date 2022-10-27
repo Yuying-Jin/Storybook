@@ -1,0 +1,20 @@
+
+  { "stem" : "distanc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "distance",
+            "weight" : "1",
+            "pos" : 395,
+            "context" : "...children were not too far behind. The man kept this <mark>distance<\/mark> in front of the woman purposely, though perhaps unconsciously,...",
+            "fid" : "page-6" },
+          
+          { "form" : "distance",
+            "weight" : "1",
+            "pos" : 1088,
+            "context" : "...he seemed to have caught sight of a woman's  in the <mark>distance<\/mark>, which in the shade looked a . He took off...",
+            "fid" : "page-14" } ] } ] }

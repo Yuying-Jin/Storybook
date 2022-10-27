@@ -1,0 +1,88 @@
+
+  { "stem" : "green",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 299,
+            "context" : "<mark>green<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 762,
+            "context" : "...it, differing in this respect from the singular high stepping angular <mark>green<\/mark>  who attempted to cross in front of it, and waited for...",
+            "fid" : "page-10" },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 819,
+            "context" : "<mark>green<\/mark>",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "greens",
+            "weight" : "1",
+            "pos" : 1274,
+            "context" : "...old man, sugar. Sugar, flour, kippers, <mark>greens<\/mark>, Sugar, sugar, sugar. ",
+            "fid" : "page-15" },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 1839,
+            "context" : "<mark>green<\/mark> blue",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 1852,
+            "context" : "<mark>green<\/mark>-blue",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 1898,
+            "context" : "<mark>green<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 1960,
+            "context" : "<mark>green<\/mark>",
+            "fid" : "page-23",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "<mark>green<\/mark>" },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "<mark>green<\/mark> blue, green-blue" },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "green blue, <mark>green<\/mark>-blue" } ] } ] }

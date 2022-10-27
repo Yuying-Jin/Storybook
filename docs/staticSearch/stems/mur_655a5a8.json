@@ -1,0 +1,14 @@
+
+  { "stem" : "mur",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mur",
+            "weight" : "1",
+            "pos" : 1144,
+            "context" : "...most beautiful young woman in Europe. He could be heard <mark>mur<\/mark>- muring about  of Uruguay blanketed with the wax  of tropical...",
+            "fid" : "page-14" } ] } ] }

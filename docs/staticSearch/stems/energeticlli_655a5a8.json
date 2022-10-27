@@ -1,0 +1,14 @@
+
+  { "stem" : "energeticlli",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "energeticlly",
+            "weight" : "1",
+            "pos" : 1247,
+            "context" : "...each other a queer, sly look, they went on <mark>energeticlly<\/mark> piecing together their very complicated dialogue: \"Nell, Bert,...",
+            "fid" : "page-15" } ] } ] }

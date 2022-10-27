@@ -1,0 +1,26 @@
+
+  { "stem" : "ago",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "ago",
+            "weight" : "1",
+            "pos" : 426,
+            "context" : "7 \"Fifteen years <mark>ago<\/mark> I came here with Lily,\" he thought. \"We sat...",
+            "fid" : "page-7" },
+          
+          { "form" : "ago",
+            "weight" : "1",
+            "pos" : 634,
+            "context" : "...kiss. Imagine six little girls sitting before their  twenty years <mark>ago<\/mark>, down by the side of a , painting the ,...",
+            "fid" : "page-9" },
+          
+          { "form" : "ago",
+            "weight" : "1",
+            "pos" : 1136,
+            "context" : "...about the  of Uruguay which he had visited hundreds of years <mark>ago<\/mark> in company with the most beautiful young woman in Europe....",
+            "fid" : "page-14" } ] } ] }

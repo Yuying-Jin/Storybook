@@ -1,0 +1,14 @@
+
+  { "stem" : "passion",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "passion",
+            "weight" : "1",
+            "pos" : 2021,
+            "context" : "...breaking the silence suddently with such depth of contentment, such <mark>passion<\/mark> of desire, or, in the voices of children, such...",
+            "fid" : "page-24" } ] } ] }

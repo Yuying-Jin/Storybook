@@ -1,0 +1,14 @@
+
+  { "stem" : "lucki",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "\"Lucky",
+            "weight" : "1",
+            "pos" : 1511,
+            "context" : "...the , though fully grown, are motionless in the . <mark>\"Lucky<\/mark> it isn't Friday,\" he observed. \"Why? D'you believe in...",
+            "fid" : "page-18" } ] } ] }

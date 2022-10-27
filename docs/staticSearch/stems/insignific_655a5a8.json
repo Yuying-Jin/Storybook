@@ -1,0 +1,14 @@
+
+  { "stem" : "insignific",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "insignificant",
+            "weight" : "1",
+            "pos" : 1592,
+            "context" : "...expressed their feelings in a strange way, as these short <mark>insignificant<\/mark> words also expressed something, words with short wings for their...",
+            "fid" : "page-19" } ] } ] }

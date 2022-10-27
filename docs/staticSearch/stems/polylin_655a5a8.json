@@ -1,0 +1,20 @@
+
+  { "stem" : "polylin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "polylines",
+            "weight" : "1",
+            "pos" : 1991,
+            "context" : "...At the top, there is a semicircular flowerbed. Two <mark>polylines<\/mark> interlaced are around left, right and bottom of the page...",
+            "fid" : "page-24" },
+          
+          { "form" : "polylines",
+            "weight" : "1",
+            "pos" : 2004,
+            "context" : "...In the center of the bottom, two arcs break two <mark>polylines<\/mark> separately. Between the two arcs, there is a circle...",
+            "fid" : "page-24" } ] } ] }

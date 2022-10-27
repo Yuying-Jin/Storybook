@@ -1,0 +1,14 @@
+
+  { "stem" : "get",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "getting",
+            "weight" : "1",
+            "pos" : 1454,
+            "context" : "...opening and was taking stock of the high  roof and was <mark>getting<\/mark> used to the cool  light when two other people came past...",
+            "fid" : "page-17" } ] } ] }

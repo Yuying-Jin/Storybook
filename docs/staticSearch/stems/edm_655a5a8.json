@@ -1,0 +1,95 @@
+
+  { "stem" : "edm",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 13,
+        "contexts" : 
+        [ 
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "editor: avr <mark>edm<\/mark> yxj" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...same thick typefaced font, almost like \"Impact\". —— #<mark>edm<\/mark>",
+            "fid" : "page-1" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...is in a more handwritten, storybook font. —— #<mark>edm<\/mark>",
+            "fid" : "page-2" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...off-white page with text centered and justified. —— #<mark>edm<\/mark>",
+            "fid" : "page-3" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...simplisting, scroll-y style with black ink. —— #<mark>edm<\/mark>",
+            "fid" : "page-4" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "...designs with the bumpy design on the right. —— #<mark>edm<\/mark>",
+            "fid" : "page-5" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 337,
+            "context" : "...upon large leaves that cast a thick shadow. —— #<mark>edm<\/mark>",
+            "fid" : "page-6" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 423,
+            "context" : "...that ends in a rose-shaped flower. —— #<mark>edm<\/mark>",
+            "fid" : "page-7" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 513,
+            "context" : "...of the page are three thick black lines. —— #<mark>edm<\/mark>",
+            "fid" : "page-8" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 624,
+            "context" : "...nesting black dots between it and the text. —— #<mark>edm<\/mark>",
+            "fid" : "page-9" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 723,
+            "context" : "...there are trumpet-flower-like designs. —— #<mark>edm<\/mark>",
+            "fid" : "page-10" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 814,
+            "context" : "...right margin side and blooms at the top. —— #<mark>edm<\/mark>",
+            "fid" : "page-11" },
+          
+          { "form" : "edm",
+            "weight" : "1",
+            "pos" : 898,
+            "context" : "...two square-like shapes on the corners. —— #<mark>edm<\/mark>",
+            "fid" : "page-12" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "EDM",
+            "weight" : "1",
+            "pos" : 4,
+            "context" : "<mark>EDM<\/mark>:" } ] } ] }

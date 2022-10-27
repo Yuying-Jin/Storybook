@@ -1,0 +1,26 @@
+
+  { "stem" : "layer",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "layers",
+            "weight" : "1",
+            "pos" : 1664,
+            "context" : "...jar. Its top, left and right consist of two <mark>layers<\/mark> of curves. At the bottom, there are 6 smaller...",
+            "fid" : "page-20" },
+          
+          { "form" : "layer",
+            "weight" : "1",
+            "pos" : 1837,
+            "context" : "...same irregular and aimless movement passed the  and were enveloped in <mark>layer<\/mark> after layer of  vapour, in which at first their  had...",
+            "fid" : "page-22" },
+          
+          { "form" : "layer",
+            "weight" : "1",
+            "pos" : 1838,
+            "context" : "...and aimless movement passed the  and were enveloped in layer after <mark>layer<\/mark> of  vapour, in which at first their  had substance and...",
+            "fid" : "page-22" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "vioc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vioces",
+            "weight" : "1",
+            "pos" : 2015,
+            "context" : "24 Voices, yes, <mark>vioces<\/mark>, breaking the silence suddently with such depth of contentment,...",
+            "fid" : "page-24" } ] } ] }

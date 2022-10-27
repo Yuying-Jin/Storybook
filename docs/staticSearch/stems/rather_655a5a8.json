@@ -1,0 +1,20 @@
+
+  { "stem" : "rather",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rather",
+            "weight" : "1",
+            "pos" : 340,
+            "context" : "6 Then the  stirred <mark>rather<\/mark> more briskly overhead and the colour was flashed into the air...",
+            "fid" : "page-6" },
+          
+          { "form" : "rather",
+            "weight" : "1",
+            "pos" : 942,
+            "context" : "..., jerking his handforward and throwing up his  abruptly,<mark>rather<\/mark> in the manner of an impatient carriage tired of waiting outside...",
+            "fid" : "page-12" } ] } ] }

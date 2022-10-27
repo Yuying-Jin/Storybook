@@ -1,0 +1,32 @@
+
+  { "stem" : "vast",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "vast",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...and again it moved on and spread its illumination in the <mark>vast<\/mark>  spaces beneath the dome of the  and  . ",
+            "fid" : "page-5" },
+          
+          { "form" : "vast",
+            "weight" : "1",
+            "pos" : 834,
+            "context" : "...-like that waved from  to tip, round of  , <mark>vast<\/mark> crumpled surfaces of athin crackling texture—all these objects lay...",
+            "fid" : "page-11" },
+          
+          { "form" : "vast",
+            "weight" : "1",
+            "pos" : 1645,
+            "context" : "...he felt that something loomed up behind her words and stood <mark>vast<\/mark> and solid behind them; and the mist very slowly rose and...",
+            "fid" : "page-19" },
+          
+          { "form" : "vast",
+            "weight" : "1",
+            "pos" : 2038,
+            "context" : "...time the  were turning their  and changing their ; like a <mark>vast<\/mark> nest of Chinese boxes all of wrought  turning ceaselessly one within...",
+            "fid" : "page-24" } ] } ] }

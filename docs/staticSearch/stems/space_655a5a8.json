@@ -1,0 +1,20 @@
+
+  { "stem" : "space",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "spaces",
+            "weight" : "1",
+            "pos" : 300,
+            "context" : "...again it moved on and spread its illumination in the vast  <mark>spaces<\/mark> beneath the dome of the  and  . ",
+            "fid" : "page-5" },
+          
+          { "form" : "space",
+            "weight" : "1",
+            "pos" : 735,
+            "context" : "..., whose shellhad been stained , , and  for the<mark>space<\/mark> of two minutes or so, now appeared tobe moving very...",
+            "fid" : "page-10" } ] } ] }

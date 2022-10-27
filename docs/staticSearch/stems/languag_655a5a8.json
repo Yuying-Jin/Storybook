@@ -1,0 +1,13 @@
+
+  { "stem" : "languag",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "language",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...the social structure of the time as well as how the <mark>language<\/mark> differs from today. " } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "social",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "social",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...It was also interesting to perceive how the writing imitated the <mark>social<\/mark> structure of the time as well as how the language differs..." } ] } ] }

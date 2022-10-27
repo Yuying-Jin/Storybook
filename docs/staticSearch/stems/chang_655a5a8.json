@@ -1,0 +1,14 @@
+
+  { "stem" : "chang",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "changing",
+            "weight" : "1",
+            "pos" : 2035,
+            "context" : "...no silence; all the time the  were turning their  and <mark>changing<\/mark> their ; like a vast nest of Chinese boxes all of...",
+            "fid" : "page-24" } ] } ] }

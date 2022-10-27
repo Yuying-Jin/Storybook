@@ -1,0 +1,14 @@
+
+  { "stem" : "beg",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "begged",
+            "weight" : "1",
+            "pos" : 433,
+            "context" : "...thought. \"We sat somewhere over there by a  and I <mark>begged<\/mark> her to marry me all through the hot afternoon. How...",
+            "fid" : "page-7" } ] } ] }

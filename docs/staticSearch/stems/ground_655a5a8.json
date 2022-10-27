@@ -1,0 +1,44 @@
+
+  { "stem" : "ground",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 921,
+            "context" : "<mark>ground<\/mark>",
+            "fid" : "page-12",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 1303,
+            "context" : "..., some curves and straight lines form the shape of the <mark>ground<\/mark>. A large flower and some petals break the sentences in...",
+            "fid" : "page-16" },
+          
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 1444,
+            "context" : "...there was a point where the  curved high enough from the <mark>ground<\/mark> to admit him. He had just inserted his  in the opening...",
+            "fid" : "page-17" },
+          
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 1976,
+            "context" : "...sunk down in the heat motionless and lay huddled upon the <mark>ground<\/mark>, but their voices went wavering from them as if they...",
+            "fid" : "page-23" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "<mark>ground<\/mark>" } ] } ] }

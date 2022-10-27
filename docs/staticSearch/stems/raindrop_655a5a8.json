@@ -1,0 +1,26 @@
+
+  { "stem" : "raindrop",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "raindrop",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "<mark>raindrop<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "raindrop",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "<mark>raindrop<\/mark>" } ] } ] }

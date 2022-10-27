@@ -1,0 +1,14 @@
+
+  { "stem" : "divert",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "divert",
+            "weight" : "1",
+            "pos" : 1114,
+            "context" : "...with the tip of his walking-stick in order to <mark>divert<\/mark> the old man's attention. After looking at it for a...",
+            "fid" : "page-14" } ] } ] }

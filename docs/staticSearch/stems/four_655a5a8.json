@@ -1,0 +1,20 @@
+
+  { "stem" : "four",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "four",
+            "weight" : "1",
+            "pos" : 689,
+            "context" : "..., Hubert. \"They walked on past the , now walking <mark>four<\/mark> abreast, and soon diminished in size among the  and looked...",
+            "fid" : "page-9" },
+          
+          { "form" : "four",
+            "weight" : "1",
+            "pos" : 969,
+            "context" : ".... At the top, there is a dashed curve and <mark>four<\/mark> shorter solid curve. The left and right curves are symmetrical...",
+            "fid" : "page-13" } ] } ] }

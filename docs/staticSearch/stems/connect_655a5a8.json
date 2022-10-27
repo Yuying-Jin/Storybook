@@ -1,0 +1,20 @@
+
+  { "stem" : "connect",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "connects",
+            "weight" : "1",
+            "pos" : 592,
+            "context" : "...the page has simplistic rope-braid like patterns that somewhat <mark>connects<\/mark> to the side margin patterns. The side margin patterns are...",
+            "fid" : "page-9" },
+          
+          { "form" : "connect",
+            "weight" : "1",
+            "pos" : 869,
+            "context" : "...and right margins there are 4 lines that go up and <mark>connect<\/mark> to a bumpy line that looks similar to a column....",
+            "fid" : "page-12" } ] } ] }

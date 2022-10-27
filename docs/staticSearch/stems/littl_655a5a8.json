@@ -1,0 +1,26 @@
+
+  { "stem" : "littl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "little",
+            "weight" : "1",
+            "pos" : 628,
+            "context" : "9 \"For me, a kiss. Imagine six <mark>little<\/mark> girls sitting before their  twenty years ago, down by the...",
+            "fid" : "page-9" },
+          
+          { "form" : "little",
+            "weight" : "1",
+            "pos" : 1044,
+            "context" : "...going into details that wouldn't be understood—and in short the <mark>little<\/mark> machine stands in any convenient position by the head of the...",
+            "fid" : "page-13" },
+          
+          { "form" : "little",
+            "weight" : "1",
+            "pos" : 1680,
+            "context" : "20 —O heavens!— what were those shapes?—<mark>little<\/mark>  tables, and waitresses who looked first at her and then...",
+            "fid" : "page-20" } ] } ] }

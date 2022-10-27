@@ -1,0 +1,38 @@
+
+  { "stem" : "open",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "opened",
+            "weight" : "1",
+            "pos" : 923,
+            "context" : "...had done speakinghe looked on the  again and some-times <mark>opened<\/mark> his  only after a long pauseand sometimes did not open...",
+            "fid" : "page-12" },
+          
+          { "form" : "open",
+            "weight" : "1",
+            "pos" : 928,
+            "context" : "...opened his  only after a long pauseand sometimes did not <mark>open<\/mark> them at all.The elder man had a curiously uneven and...",
+            "fid" : "page-12" },
+          
+          { "form" : "opens",
+            "weight" : "1",
+            "pos" : 1341,
+            "context" : "...the light in an unfamiliar way, and closes his  and <mark>opens<\/mark> them, and seeing the brass candlestick again, finally starts wide awake...",
+            "fid" : "page-16" },
+          
+          { "form" : "opening",
+            "weight" : "1",
+            "pos" : 1448,
+            "context" : "...ground to admit him. He had just inserted his  in the <mark>opening<\/mark> and was taking stock of the high  roof and was getting...",
+            "fid" : "page-17" },
+          
+          { "form" : "opened",
+            "weight" : "1",
+            "pos" : 1900,
+            "context" : "...shone as if a whole market full of shiny  umbrellas had <mark>opened<\/mark> in the ; and in the drone of the aeroplane the...",
+            "fid" : "page-22" } ] } ] }

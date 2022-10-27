@@ -1,0 +1,61 @@
+
+  { "stem" : "grey",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "grey",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...with yellow squiggles with burnt maroon, and light bluish-<mark>grey<\/mark> speckling. The title font and information is the same thick...",
+            "fid" : "page-1" },
+          
+          { "form" : "grey",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "<mark>grey<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "grey",
+            "weight" : "1",
+            "pos" : 283,
+            "context" : "silver <mark>grey<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "grey",
+            "weight" : "1",
+            "pos" : 671,
+            "context" : "<mark>grey<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "grey",
+            "weight" : "1",
+            "pos" : 832,
+            "context" : "<mark>grey<\/mark>",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "grey",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "<mark>grey<\/mark>" },
+          
+          { "form" : "grey",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "silver <mark>grey<\/mark>" } ] } ] }

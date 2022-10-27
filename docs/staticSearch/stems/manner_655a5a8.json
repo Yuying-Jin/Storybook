@@ -1,0 +1,14 @@
+
+  { "stem" : "manner",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "manner",
+            "weight" : "1",
+            "pos" : 943,
+            "context" : "...handforward and throwing up his  abruptly,rather in the <mark>manner<\/mark> of an impatient carriage tired of waiting outside a ; but...",
+            "fid" : "page-12" } ] } ] }

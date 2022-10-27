@@ -1,0 +1,26 @@
+
+  { "stem" : "lip",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lips",
+            "weight" : "1",
+            "pos" : 924,
+            "context" : "<mark>lips<\/mark>",
+            "fid" : "page-12",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lips",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "<mark>lips<\/mark>" } ] } ] }

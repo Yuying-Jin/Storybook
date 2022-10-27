@@ -1,0 +1,32 @@
+
+  { "stem" : "mean",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "mean",
+            "weight" : "1",
+            "pos" : 1529,
+            "context" : "...anyway? Isn't it worth sixpence?\" \"What's 'it'—what do you <mark>mean<\/mark> by 'it'?\" \"O anything—I mean—you know what I mean...",
+            "fid" : "page-18" },
+          
+          { "form" : "mean",
+            "weight" : "1",
+            "pos" : 1531,
+            "context" : "...?\" \"What's 'it'—what do you mean by 'it'?\" \"O anything—I <mark>mean<\/mark>—you know what I mean.\" Long pauses came between each...",
+            "fid" : "page-18" },
+          
+          { "form" : "mean",
+            "weight" : "1",
+            "pos" : 1533,
+            "context" : "...mean by 'it'?\" \"O anything—I mean—you know what I <mark>mean<\/mark>.\" Long pauses came between each of these remarks; they...",
+            "fid" : "page-18" },
+          
+          { "form" : "meaning",
+            "weight" : "1",
+            "pos" : 1602,
+            "context" : "...something, words with short wings for their heavy body of <mark>meaning<\/mark>, inadequate to carry them far and thus alighting awkwardly upon...",
+            "fid" : "page-19" } ] } ] }

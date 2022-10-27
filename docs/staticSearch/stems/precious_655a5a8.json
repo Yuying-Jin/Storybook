@@ -1,0 +1,14 @@
+
+  { "stem" : "precious",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "precious",
+            "weight" : "1",
+            "pos" : 668,
+            "context" : "...to think of the kiss for five minutes only—it was so <mark>precious<\/mark>— the kiss of an old - woman with a  on...",
+            "fid" : "page-9" } ] } ] }

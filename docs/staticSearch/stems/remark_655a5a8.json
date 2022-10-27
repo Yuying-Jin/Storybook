@@ -1,0 +1,14 @@
+
+  { "stem" : "remark",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remarks",
+            "weight" : "1",
+            "pos" : 1537,
+            "context" : "...what I mean.\" Long pauses came between each of these <mark>remarks<\/mark>; they were uttered in toneless and monotonous voices. The...",
+            "fid" : "page-18" } ] } ] }

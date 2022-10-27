@@ -1,0 +1,14 @@
+
+  { "stem" : "straggl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "straggled",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "...in  in July. The figures of these men and women <mark>straggled<\/mark> past the  with a curiously irregular movement not unlike that of...",
+            "fid" : "page-6" } ] } ] }

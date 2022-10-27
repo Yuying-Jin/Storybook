@@ -1,0 +1,20 @@
+
+  { "stem" : "12",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "12",
+            "weight" : "1",
+            "pos" : 863,
+            "context" : "<mark>12<\/mark>On the left and right margins there are 4 lines that...",
+            "fid" : "page-12" },
+          
+          { "form" : "12",
+            "weight" : "1",
+            "pos" : 899,
+            "context" : "<mark>12<\/mark> This time they were both men. Theyounger of the...",
+            "fid" : "page-12" } ] } ] }

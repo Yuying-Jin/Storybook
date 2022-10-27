@@ -1,0 +1,32 @@
+
+  { "stem" : "mani",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "many",
+            "weight" : "1",
+            "pos" : 981,
+            "context" : "...the center of bottom, there is a circle filled with <mark>many<\/mark> dots. There are symmetrical dashed curves on both sides of...",
+            "fid" : "page-13" },
+          
+          { "form" : "many",
+            "weight" : "1",
+            "pos" : 1397,
+            "context" : "...bottom of the page. At the top, there are <mark>many<\/mark> flowers and dots.—— #yxj",
+            "fid" : "page-17" },
+          
+          { "form" : "Many",
+            "weight" : "1",
+            "pos" : 1669,
+            "context" : ".... At the bottom, there are 6 smaller jars. <mark>Many<\/mark> dots and curves are below them, which form something like cushions...",
+            "fid" : "page-20" },
+          
+          { "form" : "many",
+            "weight" : "1",
+            "pos" : 1912,
+            "context" : "23At the top, there are <mark>many<\/mark> dots, which form a forest. There are some fallen...",
+            "fid" : "page-23" } ] } ] }

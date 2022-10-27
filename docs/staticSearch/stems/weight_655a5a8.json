@@ -1,0 +1,14 @@
+
+  { "stem" : "weight",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weight",
+            "weight" : "1",
+            "pos" : 1434,
+            "context" : "...touched even by the tip of his horns would bear his <mark>weight<\/mark>; and this determined him finally to creep and beneath it,...",
+            "fid" : "page-17" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "disappear",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "disappear",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "...the thin walls of  that one expected them to burst and <mark>disappear<\/mark>. Instead, the  was left in a second  once more,...",
+            "fid" : "page-5" } ] } ] }

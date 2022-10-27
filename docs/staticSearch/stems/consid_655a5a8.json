@@ -1,0 +1,14 @@
+
+  { "stem" : "consid",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "considered",
+            "weight" : "1",
+            "pos" : 1403,
+            "context" : "17 The  had now <mark>considered<\/mark> every possible method of reaching his goal without going round the...",
+            "fid" : "page-17" } ] } ] }

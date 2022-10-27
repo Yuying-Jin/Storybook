@@ -1,0 +1,14 @@
+
+  { "stem" : "crane",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cranes",
+            "weight" : "1",
+            "pos" : 1794,
+            "context" : "...to go down there and then down there, remembering orchids and <mark>cranes<\/mark> among wild s, a Chinese  and a; but he bore...",
+            "fid" : "page-21" } ] } ] }

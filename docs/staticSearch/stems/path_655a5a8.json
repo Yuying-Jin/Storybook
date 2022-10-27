@@ -1,0 +1,32 @@
+
+  { "stem" : "path",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "path",
+            "weight" : "1",
+            "pos" : 1781,
+            "context" : "grass <mark>path<\/mark>",
+            "fid" : "page-21",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "path",
+            "weight" : "1",
+            "pos" : 1815,
+            "context" : "...the roof of a pavilion. We can find a curvy <mark>path<\/mark> and three trees both on the left and on the right...",
+            "fid" : "page-22" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "path",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "grass <mark>path<\/mark>" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "touch",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "touched",
+            "weight" : "1",
+            "pos" : 1107,
+            "context" : "...gesticulating feverishly. But William caught him by the sleeve and <mark>touched<\/mark> a  with the tip of his walking-stick in order...",
+            "fid" : "page-14" },
+          
+          { "form" : "touched",
+            "weight" : "1",
+            "pos" : 1428,
+            "context" : "...the thin texture which vibrated with such an alarming crackle when <mark>touched<\/mark> even by the tip of his horns would bear his weight...",
+            "fid" : "page-17" },
+          
+          { "form" : "touch",
+            "weight" : "1",
+            "pos" : 1614,
+            "context" : "...very common objects that surrounded them and were to their inexperienced <mark>touch<\/mark> so massive: but who knows (so they thought as they...",
+            "fid" : "page-19" } ] } ] }

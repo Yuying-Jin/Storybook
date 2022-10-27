@@ -1,0 +1,14 @@
+
+  { "stem" : "group",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "group's",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...I marked up that same half in xml to fit our <mark>group's<\/mark> schema. Overall, learning to work with a variety of...",
+            "fid" : "#avr" } ] } ] }

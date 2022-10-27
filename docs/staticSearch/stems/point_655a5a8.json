@@ -1,0 +1,14 @@
+
+  { "stem" : "point",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "point",
+            "weight" : "1",
+            "pos" : 1439,
+            "context" : "...him finally to creep and beneath it, for there was a <mark>point<\/mark> where the  curved high enough from the ground to admit him....",
+            "fid" : "page-17" } ] } ] }

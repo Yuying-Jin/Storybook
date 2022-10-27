@@ -1,0 +1,120 @@
+
+  { "stem" : "like",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 17,
+        "contexts" : 
+        [ 
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...font and information is the same thick typefaced font, almost <mark>like<\/mark> \"Impact\". —— #edm",
+            "fid" : "page-1" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 589,
+            "context" : "...9 The top of the page has simplistic rope-braid <mark>like<\/mark> patterns that somewhat connects to the side margin patterns. The...",
+            "fid" : "page-9" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 721,
+            "context" : ".... At the top, there are trumpet-flower-<mark>like<\/mark> designs. —— #edm",
+            "fid" : "page-10" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 781,
+            "context" : "11 Tall reed-<mark>like<\/mark> plants sprout from the bottom left corner, and end in...",
+            "fid" : "page-11" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 825,
+            "context" : "...with deep  s in the hollows, flat, blade-<mark>like<\/mark> that waved from  to tip, round of  , vast crumpled...",
+            "fid" : "page-11" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 895,
+            "context" : "...are two arched lines in the center with two square-<mark>like<\/mark> shapes on the corners. —— #edm",
+            "fid" : "page-12" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 1016,
+            "context" : "...with this war, the spirit matter is rolling between the  <mark>like<\/mark> .\" He paused, seemed to listen, smiled, jerked...",
+            "fid" : "page-13" },
+          
+          { "form" : "Like",
+            "weight" : "1",
+            "pos" : 1215,
+            "context" : "...lower middle class, one  and , the other  and . <mark>Like<\/mark> most people of their station they were frankly fascinated by any...",
+            "fid" : "page-15" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 1475,
+            "context" : "18The container of this page looks <mark>like<\/mark> a big window with a flower at the top. The...",
+            "fid" : "page-18" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 1559,
+            "context" : "19The container of this page looks <mark>like<\/mark> a piece of paper whose upper left corner and upper right...",
+            "fid" : "page-19" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 1656,
+            "context" : "20The container of this page looks <mark>like<\/mark> a large jar. Its top, left and right consist...",
+            "fid" : "page-20" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 1674,
+            "context" : ".... Many dots and curves are below them, which form something <mark>like<\/mark> cushions. —— #yxj",
+            "fid" : "page-20" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 1721,
+            "context" : "...find the place where one had tea with other people, <mark>like<\/mark> other people. ",
+            "fid" : "page-20" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 1810,
+            "context" : "...22At the top of the page, the picture looks <mark>like<\/mark> the roof of a pavilion. We can find a curvy...",
+            "fid" : "page-22" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 1861,
+            "context" : "...was! So hot that even the thrush chose to hop, <mark>like<\/mark> a mechanical , in the shadow of the s, with long...",
+            "fid" : "page-22" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 1956,
+            "context" : "...the , they wavered and sought shade beneath the , dissolving <mark>like<\/mark> drops of  in the  and  atmosphere, staining it faintly with...",
+            "fid" : "page-23" },
+          
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 2037,
+            "context" : "...all the time the  were turning their  and changing their ; <mark>like<\/mark> a vast nest of Chinese boxes all of wrought  turning ceaselessly...",
+            "fid" : "page-24" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "like",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...favorite writing, I do love the imagery. I also <mark>like<\/mark> how the scrolling drawings on the margins correlate to some of..." } ] } ] }

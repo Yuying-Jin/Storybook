@@ -1,0 +1,14 @@
+
+  { "stem" : "doesn't",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Doesn't",
+            "weight" : "1",
+            "pos" : 553,
+            "context" : "...of the past?\" \"Why should I mind, Simon? <mark>Doesn't<\/mark> one always think of the past, in a  with men...",
+            "fid" : "page-8" } ] } ] }

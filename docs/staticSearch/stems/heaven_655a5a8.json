@@ -1,0 +1,26 @@
+
+  { "stem" : "heaven",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Heaven",
+            "weight" : "1",
+            "pos" : 1005,
+            "context" : "...telling him all sorts of odd things about their experiences in <mark>Heaven<\/mark>. \"Heaven was known to the ancients as Thessaly, William...",
+            "fid" : "page-13" },
+          
+          { "form" : "\"Heaven",
+            "weight" : "1",
+            "pos" : 1006,
+            "context" : "...all sorts of odd things about their experiences in Heaven. <mark>\"Heaven<\/mark> was known to the ancients as Thessaly, William, and...",
+            "fid" : "page-13" },
+          
+          { "form" : "heavens",
+            "weight" : "1",
+            "pos" : 1678,
+            "context" : "20 —O <mark>heavens<\/mark>!— what were those shapes?—little  tables, and waitresses...",
+            "fid" : "page-20" } ] } ] }

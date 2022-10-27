@@ -1,0 +1,20 @@
+
+  { "stem" : "crackl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "crackling",
+            "weight" : "1",
+            "pos" : 838,
+            "context" : "...tip, round of  , vast crumpled surfaces of athin <mark>crackling<\/mark> texture—all these objects layacross the 's progress between one...",
+            "fid" : "page-11" },
+          
+          { "form" : "crackle",
+            "weight" : "1",
+            "pos" : 1427,
+            "context" : "...doubtful whether the thin texture which vibrated with such an alarming <mark>crackle<\/mark> when touched even by the tip of his horns would bear...",
+            "fid" : "page-17" } ] } ] }

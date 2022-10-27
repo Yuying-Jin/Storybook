@@ -1,0 +1,20 @@
+
+  { "stem" : "burst",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "burst",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...,  and  the thin walls of  that one expected them to <mark>burst<\/mark> and disappear. Instead, the  was left in a second...",
+            "fid" : "page-5" },
+          
+          { "form" : "burst",
+            "weight" : "1",
+            "pos" : 1501,
+            "context" : "..., the season before the smooth  folds of the s have <mark>burst<\/mark> their gummy case, when the wings of the , though...",
+            "fid" : "page-18" } ] } ] }

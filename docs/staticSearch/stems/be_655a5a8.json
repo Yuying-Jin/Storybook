@@ -1,0 +1,14 @@
+
+  { "stem" : "be",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beings",
+            "weight" : "1",
+            "pos" : 862,
+            "context" : "...it therecame past the bed the feet of other human<mark>beings<\/mark>.",
+            "fid" : "page-11" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "dome",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dome",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "...on and spread its illumination in the vast  spaces beneath the <mark>dome<\/mark> of the  and  . ",
+            "fid" : "page-5" } ] } ] }

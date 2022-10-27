@@ -1,0 +1,14 @@
+
+  { "stem" : "queer",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "queer",
+            "weight" : "1",
+            "pos" : 1243,
+            "context" : "...back in silence for a moment and given each other a <mark>queer<\/mark>, sly look, they went on energeticlly piecing together their...",
+            "fid" : "page-15" } ] } ] }

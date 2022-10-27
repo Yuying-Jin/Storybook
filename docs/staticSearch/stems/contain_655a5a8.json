@@ -1,0 +1,26 @@
+
+  { "stem" : "contain",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "container",
+            "weight" : "1",
+            "pos" : 1472,
+            "context" : "18The <mark>container<\/mark> of this page looks like a big window with a flower...",
+            "fid" : "page-18" },
+          
+          { "form" : "container",
+            "weight" : "1",
+            "pos" : 1556,
+            "context" : "19The <mark>container<\/mark> of this page looks like a piece of paper whose upper...",
+            "fid" : "page-19" },
+          
+          { "form" : "container",
+            "weight" : "1",
+            "pos" : 1653,
+            "context" : "20The <mark>container<\/mark> of this page looks like a large jar. Its top...",
+            "fid" : "page-20" } ] } ] }

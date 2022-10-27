@@ -1,0 +1,14 @@
+
+  { "stem" : "sentenc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sentences",
+            "weight" : "1",
+            "pos" : 1308,
+            "context" : "...the ground. A large flower and some petals break the <mark>sentences<\/mark> in the line 6-16.—— #yxj",
+            "fid" : "page-16" } ] } ] }

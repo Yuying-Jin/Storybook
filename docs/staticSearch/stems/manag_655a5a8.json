@@ -1,0 +1,14 @@
+
+  { "stem" : "manag",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Manager",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...was all #yxj! I was also the Quality Control <mark>Manager<\/mark>. ",
+            "fid" : "#edm" } ] } ] }

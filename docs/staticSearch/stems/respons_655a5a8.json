@@ -1,0 +1,14 @@
+
+  { "stem" : "respons",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "responsible",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : " I was <mark>responsible<\/mark> for transcribing and describing of pages 13-24 and coding...",
+            "fid" : "#yxj" } ] } ] }

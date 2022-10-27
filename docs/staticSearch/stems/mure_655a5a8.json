@@ -1,0 +1,14 @@
+
+  { "stem" : "mure",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "muring",
+            "weight" : "1",
+            "pos" : 1145,
+            "context" : "...young woman in Europe. He could be heard mur- <mark>muring<\/mark> about  of Uruguay blanketed with the wax  of tropical , ,...",
+            "fid" : "page-14" } ] } ] }

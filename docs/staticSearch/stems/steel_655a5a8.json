@@ -1,0 +1,26 @@
+
+  { "stem" : "steel",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "steel",
+            "weight" : "1",
+            "pos" : 2043,
+            "context" : "<mark>steel<\/mark>",
+            "fid" : "page-24",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "steel",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "<mark>steel<\/mark>" } ] } ] }

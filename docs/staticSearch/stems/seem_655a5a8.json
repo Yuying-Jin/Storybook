@@ -1,0 +1,50 @@
+
+  { "stem" : "seem",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "seemingly",
+            "weight" : "1",
+            "pos" : 327,
+            "context" : "..., centered under the text, there are two flowers that <mark>seemingly<\/mark> come from the same origin. They sit upon large leaves...",
+            "fid" : "page-6" },
+          
+          { "form" : "seemed",
+            "weight" : "1",
+            "pos" : 465,
+            "context" : "...what she was going to say: the whole of her <mark>seemed<\/mark> to be in her . And my love, my desire...",
+            "fid" : "page-7" },
+          
+          { "form" : "seemed",
+            "weight" : "1",
+            "pos" : 1019,
+            "context" : "...spirit matter is rolling between the  like .\" He paused, <mark>seemed<\/mark> to listen, smiled, jerked his  and continued:— \"You...",
+            "fid" : "page-13" },
+          
+          { "form" : "seemed",
+            "weight" : "1",
+            "pos" : 1083,
+            "context" : "14 Here he <mark>seemed<\/mark> to have caught sight of a woman's  in the distance,...",
+            "fid" : "page-14" },
+          
+          { "form" : "seemed",
+            "weight" : "1",
+            "pos" : 1125,
+            "context" : "...in some confusion the old man bent his  to it and <mark>seemed<\/mark> to answer a voice speaking from it, for he began talking...",
+            "fid" : "page-14" },
+          
+          { "form" : "seem",
+            "weight" : "1",
+            "pos" : 1705,
+            "context" : "...to hum and to her; even to him it began to <mark>seem<\/mark> real; and then—but it was too exciting to stand and...",
+            "fid" : "page-20" },
+          
+          { "form" : "seemed",
+            "weight" : "1",
+            "pos" : 1966,
+            "context" : "...the  and  atmosphere, staining it faintly with  and . It <mark>seemed<\/mark> as if all gross and heavy  had sunk down in the...",
+            "fid" : "page-23" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "nell",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "\"Nell",
+            "weight" : "1",
+            "pos" : 1252,
+            "context" : "...they went on energeticlly piecing together their very complicated dialogue: <mark>\"Nell<\/mark>, Bert, Lot, Cess, Phil, Pa,...",
+            "fid" : "page-15" } ] } ] }

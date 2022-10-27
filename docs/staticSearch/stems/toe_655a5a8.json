@@ -1,0 +1,14 @@
+
+  { "stem" : "toe",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "toe",
+            "weight" : "1",
+            "pos" : 452,
+            "context" : "...how clearly I see the  and her  with the    at the <mark>toe<\/mark>. All the time I spoke I saw her  and when...",
+            "fid" : "page-7" } ] } ] }

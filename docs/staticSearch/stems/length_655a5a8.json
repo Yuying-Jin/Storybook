@@ -1,0 +1,20 @@
+
+  { "stem" : "length",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "length",
+            "weight" : "1",
+            "pos" : 1746,
+            "context" : "...the vase, we can see two straight lines with different <mark>length<\/mark>. On the right, there are two curves. At...",
+            "fid" : "page-21" },
+          
+          { "form" : "length",
+            "weight" : "1",
+            "pos" : 1755,
+            "context" : "...the bottom, there are two straight lines with the similar <mark>length<\/mark> but different thickness. —— #yxj",
+            "fid" : "page-21" } ] } ] }

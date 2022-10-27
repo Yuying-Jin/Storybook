@@ -1,0 +1,20 @@
+
+  { "stem" : "uruguay",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Uruguay",
+            "weight" : "1",
+            "pos" : 1132,
+            "context" : "...voice speaking from it, for he began talking about the  of <mark>Uruguay<\/mark> which he had visited hundreds of years ago in company with...",
+            "fid" : "page-14" },
+          
+          { "form" : "Uruguay",
+            "weight" : "1",
+            "pos" : 1147,
+            "context" : "...Europe. He could be heard mur- muring about  of <mark>Uruguay<\/mark> blanketed with the wax  of tropical , , sea , mermaids...",
+            "fid" : "page-14" } ] } ] }

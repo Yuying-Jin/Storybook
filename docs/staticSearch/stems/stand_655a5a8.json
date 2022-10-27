@@ -1,0 +1,32 @@
+
+  { "stem" : "stand",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "stands",
+            "weight" : "1",
+            "pos" : 1046,
+            "context" : "...details that wouldn't be understood—and in short the little machine <mark>stands<\/mark> in any convenient position by the head of the bed,...",
+            "fid" : "page-13" },
+          
+          { "form" : "stand",
+            "weight" : "1",
+            "pos" : 1054,
+            "context" : "...of the bed, we will say, on a neat  <mark>stand<\/mark>. All arrangements being properly fixed by workmen under my direction...",
+            "fid" : "page-13" },
+          
+          { "form" : "standing",
+            "weight" : "1",
+            "pos" : 1320,
+            "context" : "...woman looked through the pattern of falling words at the s <mark>standing<\/mark> cool, firm and upright in the earth, with a...",
+            "fid" : "page-16" },
+          
+          { "form" : "stand",
+            "weight" : "1",
+            "pos" : 1708,
+            "context" : "...to seem real; and then—but it was too exciting to <mark>stand<\/mark> and think any longer, and he pulled the parasol out...",
+            "fid" : "page-20" } ] } ] }

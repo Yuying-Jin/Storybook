@@ -1,0 +1,25 @@
+
+  { "stem" : "publish",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "publisher",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "<mark>publisher<\/mark>: Hogarth Press" },
+          
+          { "form" : "published",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "2 Kew Gardens by Virginia Woolf decorated by Vanessa Bell <mark>published<\/mark> by the Hogarth Press ",
+            "fid" : "page-2" },
+          
+          { "form" : "published",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "3 This edition, <mark>published<\/mark> in 1927, is limited to 500 numbered copies, of...",
+            "fid" : "page-3" } ] } ] }

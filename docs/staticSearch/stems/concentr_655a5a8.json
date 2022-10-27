@@ -1,0 +1,14 @@
+
+  { "stem" : "concentr",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "concentric",
+            "weight" : "1",
+            "pos" : 1578,
+            "context" : "...paper consists of six arcs, and each arc has two <mark>concentric<\/mark> circles above it. —— #yxj",
+            "fid" : "page-19" } ] } ] }

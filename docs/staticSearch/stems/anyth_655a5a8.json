@@ -1,0 +1,14 @@
+
+  { "stem" : "anyth",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anything",
+            "weight" : "1",
+            "pos" : 1530,
+            "context" : "...worth sixpence?\" \"What's 'it'—what do you mean by 'it'?\" \"O <mark>anything<\/mark>—I mean—you know what I mean.\" Long pauses came...",
+            "fid" : "page-18" } ] } ] }

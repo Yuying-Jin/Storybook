@@ -1,0 +1,14 @@
+
+  { "stem" : "hubert",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hubert",
+            "weight" : "1",
+            "pos" : 682,
+            "context" : "...kisses all my life. Come, Caroline, come, <mark>Hubert<\/mark>. \"They walked on past the , now walking four abreast...",
+            "fid" : "page-9" } ] } ] }

@@ -1,0 +1,32 @@
+
+  { "stem" : "children",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "children",
+            "weight" : "1",
+            "pos" : 390,
+            "context" : "..., only turning her  now and then to see that the <mark>children<\/mark> were not too far behind. The man kept this distance...",
+            "fid" : "page-6" },
+          
+          { "form" : "children",
+            "weight" : "1",
+            "pos" : 528,
+            "context" : "...not, or I shouldn't be walking here with Eleanor and the <mark>children<\/mark>—Tell me, Eleanor. D'you ever think of the past...",
+            "fid" : "page-8" },
+          
+          { "form" : "children",
+            "weight" : "1",
+            "pos" : 1939,
+            "context" : "..., shapes of all these colours, men, women and <mark>children<\/mark> were spotted for a second upon the horizon, and then,...",
+            "fid" : "page-23" },
+          
+          { "form" : "children",
+            "weight" : "1",
+            "pos" : 2024,
+            "context" : "..., such passion of desire, or, in the voices of <mark>children<\/mark>, such freshness of surprise; breaking the silence? But...",
+            "fid" : "page-24" } ] } ] }

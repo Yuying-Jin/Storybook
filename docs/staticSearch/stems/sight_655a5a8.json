@@ -1,0 +1,14 @@
+
+  { "stem" : "sight",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sight",
+            "weight" : "1",
+            "pos" : 1085,
+            "context" : "14 Here he seemed to have caught <mark>sight<\/mark> of a woman's  in the distance, which in the shade...",
+            "fid" : "page-14" } ] } ] }

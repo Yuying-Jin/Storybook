@@ -1,0 +1,32 @@
+
+  { "stem" : "heavi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 1330,
+            "context" : "...expression. She saw them as a sleeper waking from a <mark>heavy<\/mark> sleep sees a brass candlestick reflecting the light in an unfamiliar...",
+            "fid" : "page-16" },
+          
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 1353,
+            "context" : "...the candle- stick with all his powers. So the <mark>heavy<\/mark> woman came to a standstill opposite the  shaped , and ceased...",
+            "fid" : "page-16" },
+          
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 1600,
+            "context" : "...words also expressed something, words with short wings for their <mark>heavy<\/mark> body of meaning, inadequate to carry them far and thus...",
+            "fid" : "page-19" },
+          
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 1968,
+            "context" : "...faintly with  and . It seemed as if all gross and <mark>heavy<\/mark>  had sunk down in the heat motionless and lay huddled upon...",
+            "fid" : "page-23" } ] } ] }

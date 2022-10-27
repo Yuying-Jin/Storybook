@@ -1,0 +1,32 @@
+
+  { "stem" : "back",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "back",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "...intricate colour. The light fell either upon the smooth,  <mark>back<\/mark> of a , or, the shell of a  with its ,...",
+            "fid" : "page-5" },
+          
+          { "form" : "back",
+            "weight" : "1",
+            "pos" : 651,
+            "context" : "...ever seen. And suddenly a kiss, there on the <mark>back<\/mark> of my . And my  shook all the after- noon so...",
+            "fid" : "page-9" },
+          
+          { "form" : "backs",
+            "weight" : "1",
+            "pos" : 703,
+            "context" : "...the  and looked half  as the  and shade swam over their <mark>backs<\/mark> in large trembling irregular patches. ",
+            "fid" : "page-9" },
+          
+          { "form" : "back",
+            "weight" : "1",
+            "pos" : 1239,
+            "context" : "...or genuinely mad. After they had scrutinised the old man' <mark>back<\/mark> in silence for a moment and given each other a queer...",
+            "fid" : "page-15" } ] } ] }

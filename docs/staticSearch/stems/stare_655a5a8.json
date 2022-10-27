@@ -1,0 +1,14 @@
+
+  { "stem" : "stare",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stares",
+            "weight" : "1",
+            "pos" : 1349,
+            "context" : "...and seeing the brass candlestick again, finally starts wide awake and <mark>stares<\/mark> at the candle- stick with all his powers. So...",
+            "fid" : "page-16" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "monoton",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "monotonous",
+            "weight" : "1",
+            "pos" : 1540,
+            "context" : "...each of these remarks; they were uttered in toneless and <mark>monotonous<\/mark> voices. The couple stood still on the edge of the...",
+            "fid" : "page-18" } ] } ] }

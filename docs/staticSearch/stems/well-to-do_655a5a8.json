@@ -1,0 +1,14 @@
+
+  { "stem" : "well-to-do",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "well-to-do",
+            "weight" : "1",
+            "pos" : 1226,
+            "context" : "...any sign of eccentricity betokening a disordered , especially in the <mark>well-to-do<\/mark>; but they were too far off to be certain whether...",
+            "fid" : "page-15" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "betoken",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "betokening",
+            "weight" : "1",
+            "pos" : 1222,
+            "context" : "...their station they were frankly fascinated by any sign of eccentricity <mark>betokening<\/mark> a disordered , especially in the well-to-do; but they...",
+            "fid" : "page-15" } ] } ] }

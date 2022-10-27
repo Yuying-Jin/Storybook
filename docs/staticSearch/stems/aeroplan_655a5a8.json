@@ -1,0 +1,14 @@
+
+  { "stem" : "aeroplan",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aeroplane",
+            "weight" : "1",
+            "pos" : 1903,
+            "context" : "...had opened in the ; and in the drone of the <mark>aeroplane<\/mark> the voice of the summer  murmured its fierce soul. ",
+            "fid" : "page-22" } ] } ] }

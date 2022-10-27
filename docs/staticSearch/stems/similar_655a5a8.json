@@ -1,0 +1,32 @@
+
+  { "stem" : "similar",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "similar",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...Around the bottom-half of the page, there are <mark>similar<\/mark> swish-y designs with the bumpy design on the right....",
+            "fid" : "page-5" },
+          
+          { "form" : "similar",
+            "weight" : "1",
+            "pos" : 873,
+            "context" : "...that go up and connect to a bumpy line that looks <mark>similar<\/mark> to a column. The bottom margin has one long bumpy...",
+            "fid" : "page-12" },
+          
+          { "form" : "similar",
+            "weight" : "1",
+            "pos" : 1754,
+            "context" : "...At the bottom, there are two straight lines with the <mark>similar<\/mark> length but different thickness. —— #yxj",
+            "fid" : "page-21" },
+          
+          { "form" : "similar",
+            "weight" : "1",
+            "pos" : 1925,
+            "context" : "...on the left. At the bottom, there are 6 <mark>similar<\/mark> unclear pattern.—— #yxj",
+            "fid" : "page-23" } ] } ] }

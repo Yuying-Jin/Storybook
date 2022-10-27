@@ -1,0 +1,26 @@
+
+  { "stem" : "oval-shap",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "oval-shaped",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "<mark>oval-shaped<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "oval-shaped",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "<mark>oval-shaped<\/mark>, oval" } ] } ] }

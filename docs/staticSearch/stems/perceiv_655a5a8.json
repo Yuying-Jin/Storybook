@@ -1,0 +1,13 @@
+
+  { "stem" : "perceiv",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "perceive",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...to some of the content. It was also interesting to <mark>perceive<\/mark> how the writing imitated the social structure of the time as..." } ] } ] }

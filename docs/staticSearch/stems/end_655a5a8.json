@@ -1,0 +1,38 @@
+
+  { "stem" : "end",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...a straight bar, rough with  dust and slightly  at the <mark>end<\/mark>. ",
+            "fid" : "page-4" },
+          
+          { "form" : "ending",
+            "weight" : "1",
+            "pos" : 412,
+            "context" : "...Going from the top right, moving oounter-clockwise and <mark>ending<\/mark> at the bottom right, there is a bouncy swirly design...",
+            "fid" : "page-7" },
+          
+          { "form" : "ends",
+            "weight" : "1",
+            "pos" : 418,
+            "context" : "...the bottom right, there is a bouncy swirly design that <mark>ends<\/mark> in a rose-shaped flower. —— #edm",
+            "fid" : "page-7" },
+          
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 787,
+            "context" : "...-like plants sprout from the bottom left corner, and <mark>end<\/mark> in curly lines that have straight shading lines above them to...",
+            "fid" : "page-11" },
+          
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 1550,
+            "context" : "...the edge of the flower bed, and together pressed the <mark>end<\/mark> of her parasol deep down into the . ",
+            "fid" : "page-18" } ] } ] }

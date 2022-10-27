@@ -1,0 +1,44 @@
+
+  { "stem" : "came",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "came",
+            "weight" : "1",
+            "pos" : 427,
+            "context" : "7 \"Fifteen years ago I <mark>came<\/mark> here with Lily,\" he thought. \"We sat somewhere over...",
+            "fid" : "page-7" },
+          
+          { "form" : "came",
+            "weight" : "1",
+            "pos" : 857,
+            "context" : "...circumvent the archedtent of a  or to breast it there<mark>came<\/mark> past the bed the feet of other humanbeings.",
+            "fid" : "page-11" },
+          
+          { "form" : "came",
+            "weight" : "1",
+            "pos" : 1201,
+            "context" : "...steps so closely as to be slightly puzzled by his gestures <mark>came<\/mark> two elderly women of the lower middle class, one  and...",
+            "fid" : "page-15" },
+          
+          { "form" : "came",
+            "weight" : "1",
+            "pos" : 1355,
+            "context" : "...- stick with all his powers. So the heavy woman <mark>came<\/mark> to a standstill opposite the  shaped , and ceased even to...",
+            "fid" : "page-16" },
+          
+          { "form" : "came",
+            "weight" : "1",
+            "pos" : 1461,
+            "context" : "...was getting used to the cool  light when two other people <mark>came<\/mark> past outside on the . This time they were both young...",
+            "fid" : "page-17" },
+          
+          { "form" : "came",
+            "weight" : "1",
+            "pos" : 1536,
+            "context" : "...anything—I mean—you know what I mean.\" Long pauses <mark>came<\/mark> between each of these remarks; they were uttered in toneless...",
+            "fid" : "page-18" } ] } ] }

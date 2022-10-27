@@ -1,0 +1,20 @@
+
+  { "stem" : "thus",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "thus",
+            "weight" : "1",
+            "pos" : 1606,
+            "context" : "...heavy body of meaning, inadequate to carry them far and <mark>thus<\/mark> alighting awkwardly upon the very common objects that surrounded them and...",
+            "fid" : "page-19" },
+          
+          { "form" : "Thus",
+            "weight" : "1",
+            "pos" : 1824,
+            "context" : "22 <mark>Thus<\/mark> one couple after another with much the same irregular and aimless...",
+            "fid" : "page-22" } ] } ] }

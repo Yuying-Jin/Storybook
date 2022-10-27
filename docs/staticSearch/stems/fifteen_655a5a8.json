@@ -1,0 +1,14 @@
+
+  { "stem" : "fifteen",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "\"Fifteen",
+            "weight" : "1",
+            "pos" : 424,
+            "context" : "7 <mark>\"Fifteen<\/mark> years ago I came here with Lily,\" he thought....",
+            "fid" : "page-7" } ] } ] }

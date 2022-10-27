@@ -1,0 +1,14 @@
+
+  { "stem" : "howev",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "However",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...in this medium. I also drew the cursor image! <mark>However<\/mark>, I cannot take credit for the cursor actually working,...",
+            "fid" : "#edm" } ] } ] }

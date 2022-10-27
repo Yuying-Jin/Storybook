@@ -1,0 +1,32 @@
+
+  { "stem" : "would",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "would",
+            "weight" : "1",
+            "pos" : 486,
+            "context" : "...in the middle of it, if the  settled on the  she <mark>would<\/mark> say \"Yes\" at once. ",
+            "fid" : "page-7" },
+          
+          { "form" : "would",
+            "weight" : "1",
+            "pos" : 662,
+            "context" : ".... I took out my  and marked the hour when I <mark>would<\/mark> allow myself to think of the kiss for five minutes only—it...",
+            "fid" : "page-9" },
+          
+          { "form" : "would",
+            "weight" : "1",
+            "pos" : 1432,
+            "context" : "...alarming crackle when touched even by the tip of his horns <mark>would<\/mark> bear his weight; and this determined him finally to creep...",
+            "fid" : "page-17" },
+          
+          { "form" : "would",
+            "weight" : "1",
+            "pos" : 1687,
+            "context" : "...and then at him; and there was a bill that he <mark>would<\/mark> pay with a real two shilling piece, and it was...",
+            "fid" : "page-20" } ] } ] }

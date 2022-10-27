@@ -1,0 +1,26 @@
+
+  { "stem" : "16",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "16",
+            "weight" : "1",
+            "pos" : 1278,
+            "context" : "<mark>16<\/mark>At the top, 15 short arcs form a long arc...",
+            "fid" : "page-16" },
+          
+          { "form" : "16",
+            "weight" : "1",
+            "pos" : 1310,
+            "context" : "...flower and some petals break the sentences in the line 6-<mark>16<\/mark>.—— #yxj",
+            "fid" : "page-16" },
+          
+          { "form" : "16",
+            "weight" : "1",
+            "pos" : 1312,
+            "context" : "<mark>16<\/mark> The  woman looked through the pattern of falling words at the...",
+            "fid" : "page-16" } ] } ] }

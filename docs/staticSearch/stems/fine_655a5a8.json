@@ -1,0 +1,14 @@
+
+  { "stem" : "fine",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fine",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "...be the designer of this website, which was 100% <mark>fine<\/mark> with me! So, I let my imagination lead me with these...",
+            "fid" : "#edm" } ] } ] }

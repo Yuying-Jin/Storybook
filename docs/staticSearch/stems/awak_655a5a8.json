@@ -1,0 +1,14 @@
+
+  { "stem" : "awak",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "awake",
+            "weight" : "1",
+            "pos" : 1348,
+            "context" : "...opens them, and seeing the brass candlestick again, finally starts wide <mark>awake<\/mark> and stares at the candle- stick with all his powers...",
+            "fid" : "page-16" } ] } ] }

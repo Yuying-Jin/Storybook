@@ -1,0 +1,24 @@
+
+  { "stem" : "1927",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "1927",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "pubDate: <mark>1927<\/mark>" },
+          
+          { "form" : "1927",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "sourceLink: Kew Gardens by Virginia Woolf, <mark>1927<\/mark> " },
+          
+          { "form" : "1927",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "3 This edition, published in <mark>1927<\/mark>, is limited to 500 numbered copies, of which this...",
+            "fid" : "page-3" } ] } ] }

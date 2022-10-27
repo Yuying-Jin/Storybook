@@ -1,0 +1,98 @@
+
+  { "stem" : "curv",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 15,
+        "contexts" : 
+        [ 
+          { "form" : "curve",
+            "weight" : "1",
+            "pos" : 800,
+            "context" : "...petals. The reed plants bend at the top margin and <mark>curve<\/mark> over the text. On the right side, there is...",
+            "fid" : "page-11" },
+          
+          { "form" : "curves",
+            "weight" : "1",
+            "pos" : 965,
+            "context" : "13Surrounded by <mark>curves<\/mark>. At the top, there is a dashed curve and...",
+            "fid" : "page-13" },
+          
+          { "form" : "curve",
+            "weight" : "1",
+            "pos" : 968,
+            "context" : "...by curves. At the top, there is a dashed <mark>curve<\/mark> and four shorter solid curve. The left and right curves...",
+            "fid" : "page-13" },
+          
+          { "form" : "curve",
+            "weight" : "1",
+            "pos" : 972,
+            "context" : "...top, there is a dashed curve and four shorter solid <mark>curve<\/mark>. The left and right curves are symmetrical. At the...",
+            "fid" : "page-13" },
+          
+          { "form" : "curves",
+            "weight" : "1",
+            "pos" : 975,
+            "context" : "...curve and four shorter solid curve. The left and right <mark>curves<\/mark> are symmetrical. At the center of bottom, there is...",
+            "fid" : "page-13" },
+          
+          { "form" : "curves",
+            "weight" : "1",
+            "pos" : 985,
+            "context" : "...a circle filled with many dots. There are symmetrical dashed <mark>curves<\/mark> on both sides of the circle. A long solid curve...",
+            "fid" : "page-13" },
+          
+          { "form" : "curve",
+            "weight" : "1",
+            "pos" : 990,
+            "context" : "...curves on both sides of the circle. A long solid <mark>curve<\/mark> is below the circle.—— #yxj",
+            "fid" : "page-13" },
+          
+          { "form" : "curve",
+            "weight" : "1",
+            "pos" : 1076,
+            "context" : "14One thick and one thin <mark>curve<\/mark> at the top, right and bottom of the text....",
+            "fid" : "page-14" },
+          
+          { "form" : "curve",
+            "weight" : "1",
+            "pos" : 1188,
+            "context" : "...the text. At the bottom, there is thick solid <mark>curve<\/mark>, and a rhombus grid breaks it in the middle.——...",
+            "fid" : "page-15" },
+          
+          { "form" : "curves",
+            "weight" : "1",
+            "pos" : 1298,
+            "context" : "...are broken by several petals. At the bottom, some <mark>curves<\/mark> and straight lines form the shape of the ground. A...",
+            "fid" : "page-16" },
+          
+          { "form" : "Curves",
+            "weight" : "1",
+            "pos" : 1386,
+            "context" : "17<mark>Curves<\/mark> and straight line form a net which is around left,...",
+            "fid" : "page-17" },
+          
+          { "form" : "curved",
+            "weight" : "1",
+            "pos" : 1441,
+            "context" : "...creep and beneath it, for there was a point where the  <mark>curved<\/mark> high enough from the ground to admit him. He had just...",
+            "fid" : "page-17" },
+          
+          { "form" : "curves",
+            "weight" : "1",
+            "pos" : 1665,
+            "context" : "...Its top, left and right consist of two layers of <mark>curves<\/mark>. At the bottom, there are 6 smaller jars....",
+            "fid" : "page-20" },
+          
+          { "form" : "curves",
+            "weight" : "1",
+            "pos" : 1671,
+            "context" : "...bottom, there are 6 smaller jars. Many dots and <mark>curves<\/mark> are below them, which form something like cushions. —— #...",
+            "fid" : "page-20" },
+          
+          { "form" : "curves",
+            "weight" : "1",
+            "pos" : 1749,
+            "context" : "...with different length. On the right, there are two <mark>curves<\/mark>. At the bottom, there are two straight lines with...",
+            "fid" : "page-21" } ] } ] }

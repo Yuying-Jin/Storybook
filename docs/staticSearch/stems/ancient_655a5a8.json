@@ -1,0 +1,14 @@
+
+  { "stem" : "ancient",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ancients",
+            "weight" : "1",
+            "pos" : 1008,
+            "context" : "...about their experiences in Heaven. \"Heaven was known to the <mark>ancients<\/mark> as Thessaly, William, and now, with this war,...",
+            "fid" : "page-13" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "forward",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "forward",
+            "weight" : "1",
+            "pos" : 938,
+            "context" : "...curiously uneven andshaky method of walking, jerking his hand<mark>forward<\/mark> and throwing up his  abruptly,rather in the manner of...",
+            "fid" : "page-12" },
+          
+          { "form" : "forwards",
+            "weight" : "1",
+            "pos" : 1378,
+            "context" : "...over her, swaying the top part of her  slowly backwards and <mark>forwards<\/mark>, looking at the s. Then she suggested that they should...",
+            "fid" : "page-16" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "fill",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "filled",
+            "weight" : "1",
+            "pos" : 980,
+            "context" : ".... At the center of bottom, there is a circle <mark>filled<\/mark> with many dots. There are symmetrical dashed curves on both...",
+            "fid" : "page-13" },
+          
+          { "form" : "fills",
+            "weight" : "1",
+            "pos" : 1177,
+            "context" : "15Picture of bushes <mark>fills<\/mark> at the top. A twist is on the left side...",
+            "fid" : "page-15" } ] } ] }

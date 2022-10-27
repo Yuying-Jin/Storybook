@@ -1,0 +1,26 @@
+
+  { "stem" : "roof",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "roof",
+            "weight" : "1",
+            "pos" : 1453,
+            "context" : "...his  in the opening and was taking stock of the high  <mark>roof<\/mark> and was getting used to the cool  light when two other...",
+            "fid" : "page-17" },
+          
+          { "form" : "roof",
+            "weight" : "1",
+            "pos" : 1811,
+            "context" : "...the top of the page, the picture looks like the <mark>roof<\/mark> of a pavilion. We can find a curvy path and...",
+            "fid" : "page-22" },
+          
+          { "form" : "roofs",
+            "weight" : "1",
+            "pos" : 1890,
+            "context" : "...of a shattered marble column above the tallest s; the glass <mark>roofs<\/mark> of the  shone as if a whole market full of shiny...",
+            "fid" : "page-22" } ] } ] }

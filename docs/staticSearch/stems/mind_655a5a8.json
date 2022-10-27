@@ -1,0 +1,20 @@
+
+  { "stem" : "mind",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "mind",
+            "weight" : "1",
+            "pos" : 548,
+            "context" : "...married.... Well, why are you silent? Do you <mark>mind<\/mark> my thinking of the past?\" \"Why should I mind,...",
+            "fid" : "page-8" },
+          
+          { "form" : "mind",
+            "weight" : "1",
+            "pos" : 551,
+            "context" : "...you mind my thinking of the past?\" \"Why should I <mark>mind<\/mark>, Simon? Doesn't one always think of the past,...",
+            "fid" : "page-8" } ] } ] }

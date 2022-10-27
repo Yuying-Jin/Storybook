@@ -1,0 +1,14 @@
+
+  { "stem" : "uneven",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "uneven",
+            "weight" : "1",
+            "pos" : 932,
+            "context" : "...not open them at all.The elder man had a curiously <mark>uneven<\/mark> andshaky method of walking, jerking his handforward and...",
+            "fid" : "page-12" } ] } ] }

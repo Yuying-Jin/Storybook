@@ -1,0 +1,14 @@
+
+  { "stem" : "swish",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swish",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...the bottom-half of the page, there are similar <mark>swish<\/mark>-y designs with the bumpy design on the right. ——...",
+            "fid" : "page-5" } ] } ] }

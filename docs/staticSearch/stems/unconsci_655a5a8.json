@@ -1,0 +1,14 @@
+
+  { "stem" : "unconsci",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unconsciously",
+            "weight" : "1",
+            "pos" : 401,
+            "context" : "...this distance in front of the woman purposely, though perhaps <mark>unconsciously<\/mark>, for he wished to go on with his thoughts....",
+            "fid" : "page-6" } ] } ] }

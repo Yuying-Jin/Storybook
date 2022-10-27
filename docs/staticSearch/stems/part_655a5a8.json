@@ -1,0 +1,20 @@
+
+  { "stem" : "part",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "part",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "...in a handwritten, storybook font. it is the top <mark>part<\/mark> of the border decoration that takes up the margins as well...",
+            "fid" : "page-4" },
+          
+          { "form" : "part",
+            "weight" : "1",
+            "pos" : 1374,
+            "context" : "...stood there letting the words fall over her, swaying the top <mark>part<\/mark> of her  slowly backwards and forwards, looking at the s....",
+            "fid" : "page-16" } ] } ] }

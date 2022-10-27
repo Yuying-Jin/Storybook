@@ -1,0 +1,50 @@
+
+  { "stem" : "anoth",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "another",
+            "weight" : "1",
+            "pos" : 502,
+            "context" : "...One third of the way down the page, there is <mark>another<\/mark> tree branch sprouting from the text. At the very bottom...",
+            "fid" : "page-8" },
+          
+          { "form" : "another",
+            "weight" : "1",
+            "pos" : 607,
+            "context" : "...loose swiggle lines. Around the bottom half of the page <mark>another<\/mark> squiggle line joins the three, then travels down and under...",
+            "fid" : "page-9" },
+          
+          { "form" : "another",
+            "weight" : "1",
+            "pos" : 804,
+            "context" : "...over the text. On the right side, there is <mark>another<\/mark> reed plant that simply climbs the right margin side and blooms...",
+            "fid" : "page-11" },
+          
+          { "form" : "another",
+            "weight" : "1",
+            "pos" : 847,
+            "context" : "...these objects layacross the 's progress between one stalkand <mark>another<\/mark> to his goal. Before he haddecided whether to circumvent...",
+            "fid" : "page-11" },
+          
+          { "form" : "another",
+            "weight" : "1",
+            "pos" : 1827,
+            "context" : "22 Thus one couple after <mark>another<\/mark> with much the same irregular and aimless movement passed the  and...",
+            "fid" : "page-22" },
+          
+          { "form" : "another",
+            "weight" : "1",
+            "pos" : 1878,
+            "context" : "...the next; instead of rambling vaguely the   danced one above <mark>another<\/mark>, making with their  shifting flakes the outline of a shattered...",
+            "fid" : "page-22" },
+          
+          { "form" : "another",
+            "weight" : "1",
+            "pos" : 2048,
+            "context" : "...nest of Chinese boxes all of wrought  turning ceaselessly one within <mark>another<\/mark> the city murmured; on the top of which the voices...",
+            "fid" : "page-24" } ] } ] }

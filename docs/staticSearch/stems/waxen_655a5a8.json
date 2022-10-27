@@ -1,0 +1,14 @@
+
+  { "stem" : "waxen",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "waxen",
+            "weight" : "1",
+            "pos" : 1983,
+            "context" : "...from them as if they were flames lolling from the thick <mark>waxen<\/mark>  of candles. ",
+            "fid" : "page-23" } ] } ] }

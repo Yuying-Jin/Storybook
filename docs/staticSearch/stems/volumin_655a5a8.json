@@ -1,0 +1,14 @@
+
+  { "stem" : "volumin",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "voluminous",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : "5 The  were <mark>voluminous<\/mark> enough to be stirred by the , and when they moved...",
+            "fid" : "page-5" } ] } ] }

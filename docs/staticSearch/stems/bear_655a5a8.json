@@ -1,0 +1,14 @@
+
+  { "stem" : "bear",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bear",
+            "weight" : "1",
+            "pos" : 1433,
+            "context" : "...crackle when touched even by the tip of his horns would <mark>bear<\/mark> his weight; and this determined him finally to creep and...",
+            "fid" : "page-17" } ] } ] }

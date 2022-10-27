@@ -1,0 +1,20 @@
+
+  { "stem" : "bill",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Bill",
+            "weight" : "1",
+            "pos" : 1266,
+            "context" : "...I says, I says—\" \"My Bert, Sis, <mark>Bill<\/mark>, Grandad, the old man, sugar. Sugar,...",
+            "fid" : "page-15" },
+          
+          { "form" : "bill",
+            "weight" : "1",
+            "pos" : 1686,
+            "context" : "...first at her and then at him; and there was a <mark>bill<\/mark> that he would pay with a real two shilling piece,...",
+            "fid" : "page-20" } ] } ] }

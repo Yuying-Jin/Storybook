@@ -1,0 +1,20 @@
+
+  { "stem" : "wait",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "waited",
+            "weight" : "1",
+            "pos" : 767,
+            "context" : "...angular green  who attempted to cross in front of it, and <mark>waited<\/mark> for a second withits antennæ trembling as if in deliberation...",
+            "fid" : "page-10" },
+          
+          { "form" : "waiting",
+            "weight" : "1",
+            "pos" : 948,
+            "context" : "...,rather in the manner of an impatient carriage tired of <mark>waiting<\/mark> outside a ; butin the man these gestures were irresolute...",
+            "fid" : "page-12" } ] } ] }

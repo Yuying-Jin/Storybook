@@ -1,0 +1,20 @@
+
+  { "stem" : "substanc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "substance",
+            "weight" : "1",
+            "pos" : 1844,
+            "context" : "...after layer of  vapour, in which at first their  had <mark>substance<\/mark> and a dash of colour, but later both substance and...",
+            "fid" : "page-22" },
+          
+          { "form" : "substance",
+            "weight" : "1",
+            "pos" : 1848,
+            "context" : "...had substance and a dash of colour, but later both <mark>substance<\/mark> and colour dissolved in the  and atmosphere. How hot it...",
+            "fid" : "page-22" } ] } ] }

@@ -1,0 +1,32 @@
+
+  { "stem" : "talk",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "talked",
+            "weight" : "1",
+            "pos" : 955,
+            "context" : "...in the man these gestures were irresolute andpointless. He <mark>talked<\/mark> almost incessantly; hesmiled to himself and again began to...",
+            "fid" : "page-12" },
+          
+          { "form" : "talk",
+            "weight" : "1",
+            "pos" : 960,
+            "context" : "...almost incessantly; hesmiled to himself and again began to <mark>talk<\/mark>,as if the smile had been an answer. ",
+            "fid" : "page-12" },
+          
+          { "form" : "talking",
+            "weight" : "1",
+            "pos" : 994,
+            "context" : "13 He was <mark>talking<\/mark> about spirits—the spirits of the dead, who, according to...",
+            "fid" : "page-13" },
+          
+          { "form" : "talking",
+            "weight" : "1",
+            "pos" : 1130,
+            "context" : "...seemed to answer a voice speaking from it, for he began <mark>talking<\/mark> about the  of Uruguay which he had visited hundreds of years...",
+            "fid" : "page-14" } ] } ] }

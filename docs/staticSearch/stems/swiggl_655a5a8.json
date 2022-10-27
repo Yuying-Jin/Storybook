@@ -1,0 +1,14 @@
+
+  { "stem" : "swiggl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swiggle",
+            "weight" : "1",
+            "pos" : 601,
+            "context" : "...side margin patterns. The side margin patterns are two loose <mark>swiggle<\/mark> lines. Around the bottom half of the page another squiggle...",
+            "fid" : "page-9" } ] } ] }

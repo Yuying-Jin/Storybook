@@ -1,0 +1,14 @@
+
+  { "stem" : "fold",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "folds",
+            "weight" : "1",
+            "pos" : 1499,
+            "context" : "...precedes the prime of youth, the season before the smooth  <mark>folds<\/mark> of the s have burst their gummy case, when the...",
+            "fid" : "page-18" } ] } ] }

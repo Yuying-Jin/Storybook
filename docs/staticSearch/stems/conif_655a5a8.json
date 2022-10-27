@@ -1,0 +1,14 @@
+
+  { "stem" : "conif",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "conifer",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...-page. On the top left, there are two <mark>conifer<\/mark>-type flowers. Around the bottom-half of the...",
+            "fid" : "page-5" } ] } ] }

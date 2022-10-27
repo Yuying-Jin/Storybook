@@ -1,0 +1,25 @@
+
+  { "stem" : "hogarth",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Hogarth",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "publisher: <mark>Hogarth<\/mark> Press" },
+          
+          { "form" : "HOGARTH",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...1 KEW GARDENSBYVIRGINIA WOOLFDECORATIONSBYVANESSA BELLTHE<mark>HOGARTH<\/mark> PRESS",
+            "fid" : "page-1" },
+          
+          { "form" : "Hogarth",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...Gardens by Virginia Woolf decorated by Vanessa Bell published by the <mark>Hogarth<\/mark> Press ",
+            "fid" : "page-2" } ] } ] }

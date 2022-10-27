@@ -1,0 +1,14 @@
+
+  { "stem" : "expect",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "expected",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "...such intensity of ,  and  the thin walls of  that one <mark>expected<\/mark> them to burst and disappear. Instead, the  was left...",
+            "fid" : "page-5" } ] } ] }

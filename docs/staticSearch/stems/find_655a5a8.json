@@ -1,0 +1,26 @@
+
+  { "stem" : "find",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "find",
+            "weight" : "1",
+            "pos" : 1382,
+            "context" : "..., looking at the s. Then she suggested that they should <mark>find<\/mark> a seat and have their tea. ",
+            "fid" : "page-16" },
+          
+          { "form" : "find",
+            "weight" : "1",
+            "pos" : 1716,
+            "context" : "...parasol out of the  with a jerk and was impatient to <mark>find<\/mark> the place where one had tea with other people, like...",
+            "fid" : "page-20" },
+          
+          { "form" : "find",
+            "weight" : "1",
+            "pos" : 1813,
+            "context" : "...picture looks like the roof of a pavilion. We can <mark>find<\/mark> a curvy path and three trees both on the left and...",
+            "fid" : "page-22" } ] } ] }

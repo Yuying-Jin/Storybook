@@ -1,0 +1,20 @@
+
+  { "stem" : "bert",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Bert",
+            "weight" : "1",
+            "pos" : 1253,
+            "context" : "...on energeticlly piecing together their very complicated dialogue: \"Nell, <mark>Bert<\/mark>, Lot, Cess, Phil, Pa, he says...",
+            "fid" : "page-15" },
+          
+          { "form" : "Bert",
+            "weight" : "1",
+            "pos" : 1264,
+            "context" : "..., I says, I says, I says—\" \"My <mark>Bert<\/mark>, Sis, Bill, Grandad, the old man,...",
+            "fid" : "page-15" } ] } ] }

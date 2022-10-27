@@ -1,0 +1,14 @@
+
+  { "stem" : "given",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "given",
+            "weight" : "1",
+            "pos" : 1242,
+            "context" : "...scrutinised the old man' back in silence for a moment and <mark>given<\/mark> each other a queer, sly look, they went on...",
+            "fid" : "page-15" } ] } ] }

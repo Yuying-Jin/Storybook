@@ -1,0 +1,14 @@
+
+  { "stem" : "assur",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "assured",
+            "weight" : "1",
+            "pos" : 1695,
+            "context" : "...piece, and it was real, all real, he <mark>assured<\/mark> himself, fingering the coin in his pocket, real to everyone...",
+            "fid" : "page-20" } ] } ] }

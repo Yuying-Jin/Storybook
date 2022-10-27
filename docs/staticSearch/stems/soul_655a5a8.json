@@ -1,0 +1,14 @@
+
+  { "stem" : "soul",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soul",
+            "weight" : "1",
+            "pos" : 1909,
+            "context" : "...of the aeroplane the voice of the summer  murmured its fierce <mark>soul<\/mark>. ",
+            "fid" : "page-22" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "common",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 1610,
+            "context" : "...to carry them far and thus alighting awkwardly upon the very <mark>common<\/mark> objects that surrounded them and were to their inexperienced touch so...",
+            "fid" : "page-19" } ] } ] }

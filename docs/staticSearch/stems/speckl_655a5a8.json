@@ -1,0 +1,14 @@
+
+  { "stem" : "speckl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "speckling",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...yellow squiggles with burnt maroon, and light bluish-grey <mark>speckling<\/mark>. The title font and information is the same thick typefaced...",
+            "fid" : "page-1" } ] } ] }

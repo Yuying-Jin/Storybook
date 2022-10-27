@@ -1,0 +1,20 @@
+
+  { "stem" : "learn",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "learn",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...error, but that is one of my favorite ways to <mark>learn<\/mark> in this medium. I also drew the cursor image!...",
+            "fid" : "#edm" },
+          
+          { "form" : "learning",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...half in xml to fit our group's schema. Overall, <mark>learning<\/mark> to work with a variety of different code and then applying...",
+            "fid" : "#avr" } ] } ] }

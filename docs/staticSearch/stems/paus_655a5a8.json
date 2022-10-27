@@ -1,0 +1,32 @@
+
+  { "stem" : "paus",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "pause",
+            "weight" : "1",
+            "pos" : 926,
+            "context" : "...the  again and some-times opened his  only after a long <mark>pause<\/mark>and sometimes did not open them at all.The elder man...",
+            "fid" : "page-12" },
+          
+          { "form" : "paused",
+            "weight" : "1",
+            "pos" : 1018,
+            "context" : "..., the spirit matter is rolling between the  like .\" He <mark>paused<\/mark>, seemed to listen, smiled, jerked his  and continued...",
+            "fid" : "page-13" },
+          
+          { "form" : "pauses",
+            "weight" : "1",
+            "pos" : 1535,
+            "context" : "...\"O anything—I mean—you know what I mean.\" Long <mark>pauses<\/mark> came between each of these remarks; they were uttered in...",
+            "fid" : "page-18" },
+          
+          { "form" : "pauses",
+            "weight" : "1",
+            "pos" : 1867,
+            "context" : "...a mechanical , in the shadow of the s, with long <mark>pauses<\/mark> between one movement and the next; instead of rambling vaguely...",
+            "fid" : "page-22" } ] } ] }

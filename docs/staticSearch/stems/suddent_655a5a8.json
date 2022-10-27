@@ -1,0 +1,14 @@
+
+  { "stem" : "suddent",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "suddently",
+            "weight" : "1",
+            "pos" : 2018,
+            "context" : "24 Voices, yes, vioces, breaking the silence <mark>suddently<\/mark> with such depth of contentment, such passion of desire,...",
+            "fid" : "page-24" } ] } ] }

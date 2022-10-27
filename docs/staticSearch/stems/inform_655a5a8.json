@@ -1,0 +1,14 @@
+
+  { "stem" : "inform",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "information",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...and light bluish-grey speckling. The title font and <mark>information<\/mark> is the same thick typefaced font, almost like \"Impact\"....",
+            "fid" : "page-1" } ] } ] }

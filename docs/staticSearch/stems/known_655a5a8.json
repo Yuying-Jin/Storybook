@@ -1,0 +1,14 @@
+
+  { "stem" : "known",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "known",
+            "weight" : "1",
+            "pos" : 1007,
+            "context" : "...of odd things about their experiences in Heaven. \"Heaven was <mark>known<\/mark> to the ancients as Thessaly, William, and now, with...",
+            "fid" : "page-13" } ] } ] }

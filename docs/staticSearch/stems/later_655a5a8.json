@@ -1,0 +1,14 @@
+
+  { "stem" : "later",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 1847,
+            "context" : "...first their  had substance and a dash of colour, but <mark>later<\/mark> both substance and colour dissolved in the  and atmosphere. How...",
+            "fid" : "page-22" } ] } ] }

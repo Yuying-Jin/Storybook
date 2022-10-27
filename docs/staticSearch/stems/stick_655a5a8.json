@@ -1,0 +1,20 @@
+
+  { "stem" : "stick",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "stick",
+            "weight" : "1",
+            "pos" : 1112,
+            "context" : "...sleeve and touched a  with the tip of his walking-<mark>stick<\/mark> in order to divert the old man's attention. After looking...",
+            "fid" : "page-14" },
+          
+          { "form" : "stick",
+            "weight" : "1",
+            "pos" : 1351,
+            "context" : "...again, finally starts wide awake and stares at the candle- <mark>stick<\/mark> with all his powers. So the heavy woman came to...",
+            "fid" : "page-16" } ] } ] }

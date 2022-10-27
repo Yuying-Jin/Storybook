@@ -1,0 +1,26 @@
+
+  { "stem" : "soft",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soft",
+            "weight" : "1",
+            "pos" : 1553,
+            "context" : "<mark>soft<\/mark> earth",
+            "fid" : "page-18",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soft",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "<mark>soft<\/mark> earth" } ] } ] }

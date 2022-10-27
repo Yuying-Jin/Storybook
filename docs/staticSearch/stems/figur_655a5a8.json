@@ -1,0 +1,14 @@
+
+  { "stem" : "figur",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "figures",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "...the men and women who walk in  in July. The <mark>figures<\/mark> of these men and women straggled past the  with a curiously...",
+            "fid" : "page-6" } ] } ] }

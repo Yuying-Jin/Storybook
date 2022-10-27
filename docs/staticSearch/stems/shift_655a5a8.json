@@ -1,0 +1,14 @@
+
+  { "stem" : "shift",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shifting",
+            "weight" : "1",
+            "pos" : 1881,
+            "context" : "...rambling vaguely the   danced one above another, making with their  <mark>shifting<\/mark> flakes the outline of a shattered marble column above the tallest...",
+            "fid" : "page-22" } ] } ] }

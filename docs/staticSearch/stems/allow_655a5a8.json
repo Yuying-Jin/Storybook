@@ -1,0 +1,14 @@
+
+  { "stem" : "allow",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "allow",
+            "weight" : "1",
+            "pos" : 663,
+            "context" : "...I took out my  and marked the hour when I would <mark>allow<\/mark> myself to think of the kiss for five minutes only—it was...",
+            "fid" : "page-9" } ] } ] }

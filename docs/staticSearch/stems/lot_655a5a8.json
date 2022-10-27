@@ -1,0 +1,25 @@
+
+  { "stem" : "lot",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lot",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...and coding relax NG and xslt files. I got a <mark>lot<\/mark> of help on coding relax NG and xslt from our consultant...",
+            "fid" : "#yxj" } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lot",
+            "weight" : "1",
+            "pos" : 1254,
+            "context" : "...piecing together their very complicated dialogue: \"Nell, Bert, <mark>Lot<\/mark>, Cess, Phil, Pa, he says, I...",
+            "fid" : "page-15" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "done",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "done",
+            "weight" : "1",
+            "pos" : 918,
+            "context" : "...him while his companion spoke, anddirectly his companion had <mark>done<\/mark> speakinghe looked on the  again and some-times opened his...",
+            "fid" : "page-12" } ] } ] }

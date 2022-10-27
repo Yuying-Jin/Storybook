@@ -1,0 +1,14 @@
+
+  { "stem" : "drawn",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "drawn",
+            "weight" : "1",
+            "pos" : 1779,
+            "context" : "...in her voice, looking vaguely round and letting herself be <mark>drawn<\/mark> on down the , trailing her parasol, turning her  this...",
+            "fid" : "page-21" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "root",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "root",
+            "weight" : "1",
+            "pos" : 828,
+            "context" : "<mark>root<\/mark>",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "root",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "<mark>root<\/mark>" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "surpris",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "surprise",
+            "weight" : "1",
+            "pos" : 2026,
+            "context" : "..., or, in the voices of children, such freshness of <mark>surprise<\/mark>; breaking the silence? But there was no silence;...",
+            "fid" : "page-24" } ] } ] }

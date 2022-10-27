@@ -1,0 +1,26 @@
+
+  { "stem" : "burnt",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Burnt",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "1 <mark>Burnt<\/mark> maroon cover with a tan key-shape center with yellow...",
+            "fid" : "page-1" },
+          
+          { "form" : "burnt",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...with a tan key-shape center with yellow squiggles with <mark>burnt<\/mark> maroon, and light bluish-grey speckling. The title...",
+            "fid" : "page-1" },
+          
+          { "form" : "burnt",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...hand side. The writing on the page was the same <mark>burnt<\/mark> maroon as the cover. The font is in a more...",
+            "fid" : "page-2" } ] } ] }

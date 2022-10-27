@@ -1,0 +1,26 @@
+
+  { "stem" : "stain",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "staining",
+            "weight" : "1",
+            "pos" : 243,
+            "context" : "...moved, the ,  and  lights passed one over the other, <mark>staining<\/mark> an inch of the   beneath with a spot of the most...",
+            "fid" : "page-5" },
+          
+          { "form" : "stained",
+            "weight" : "1",
+            "pos" : 731,
+            "context" : "10 In the   the , whose shellhad been <mark>stained<\/mark> , , and  for thespace of two minutes or so,...",
+            "fid" : "page-10" },
+          
+          { "form" : "staining",
+            "weight" : "1",
+            "pos" : 1962,
+            "context" : "...the , dissolving like drops of  in the  and  atmosphere, <mark>staining<\/mark> it faintly with  and . It seemed as if all gross...",
+            "fid" : "page-23" } ] } ] }

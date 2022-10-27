@@ -1,0 +1,14 @@
+
+  { "stem" : "accord",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "according",
+            "weight" : "1",
+            "pos" : 998,
+            "context" : "...was talking about spirits—the spirits of the dead, who, <mark>according<\/mark> to him, were even now telling him all sorts of odd...",
+            "fid" : "page-13" } ] } ] }

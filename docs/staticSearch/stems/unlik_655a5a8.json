@@ -1,0 +1,14 @@
+
+  { "stem" : "unlik",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unlike",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : "...and women straggled past the  with a curiously irregular movement not <mark>unlike<\/mark> that of the  and   who crossed the  in zig-zag...",
+            "fid" : "page-6" } ] } ] }

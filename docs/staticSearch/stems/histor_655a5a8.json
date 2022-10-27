@@ -1,0 +1,14 @@
+
+  { "stem" : "histor",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "historical",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...variety of different code and then applying it to some actual <mark>historical<\/mark> documents has been a pretty interesting experience. ",
+            "fid" : "#avr" } ] } ] }

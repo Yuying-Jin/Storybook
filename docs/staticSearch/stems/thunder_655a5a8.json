@@ -1,0 +1,26 @@
+
+  { "stem" : "thunder",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thunder",
+            "weight" : "1",
+            "pos" : 1017,
+            "context" : "<mark>thunder<\/mark>",
+            "fid" : "page-13",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thunder",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "<mark>thunder<\/mark>" } ] } ] }

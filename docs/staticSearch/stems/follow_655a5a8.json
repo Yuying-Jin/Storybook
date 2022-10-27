@@ -1,0 +1,14 @@
+
+  { "stem" : "follow",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Following",
+            "weight" : "1",
+            "pos" : 1195,
+            "context" : "15 <mark>Following<\/mark> his steps so closely as to be slightly puzzled by his...",
+            "fid" : "page-15" } ] } ] }

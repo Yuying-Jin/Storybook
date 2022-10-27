@@ -1,0 +1,26 @@
+
+  { "stem" : "omnibus",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "omnibuses",
+            "weight" : "1",
+            "pos" : 2032,
+            "context" : "motor <mark>omnibuses<\/mark>",
+            "fid" : "page-24",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "omnibuses",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "motor <mark>omnibuses<\/mark>" } ] } ] }

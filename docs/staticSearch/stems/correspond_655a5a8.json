@@ -1,0 +1,14 @@
+
+  { "stem" : "correspond",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "correspond",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...on making the image frames for each page wrap around the <mark>correspond<\/mark> page content. This was very much a game of trial...",
+            "fid" : "#edm" } ] } ] }

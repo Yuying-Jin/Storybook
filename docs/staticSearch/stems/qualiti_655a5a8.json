@@ -1,0 +1,14 @@
+
+  { "stem" : "qualiti",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Quality",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "..., that was all #yxj! I was also the <mark>Quality<\/mark> Control Manager. ",
+            "fid" : "#edm" } ] } ] }

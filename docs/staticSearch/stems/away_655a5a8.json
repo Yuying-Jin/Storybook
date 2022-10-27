@@ -1,0 +1,14 @@
+
+  { "stem" : "away",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 749,
+            "context" : "...shell, and nextbegan to labour over the  which broke <mark>away<\/mark> and rolled downas it passed over them. It appeared to...",
+            "fid" : "page-10" } ] } ] }

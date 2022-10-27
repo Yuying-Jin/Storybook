@@ -1,0 +1,20 @@
+
+  { "stem" : "togeth",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "together",
+            "weight" : "1",
+            "pos" : 1249,
+            "context" : "...a queer, sly look, they went on energeticlly piecing <mark>together<\/mark> their very complicated dialogue: \"Nell, Bert, Lot,...",
+            "fid" : "page-15" },
+          
+          { "form" : "together",
+            "weight" : "1",
+            "pos" : 1548,
+            "context" : "...stood still on the edge of the flower bed, and <mark>together<\/mark> pressed the end of her parasol deep down into the ....",
+            "fid" : "page-18" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "afternoon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "afternoon",
+            "weight" : "1",
+            "pos" : 436,
+            "context" : "...and I begged her to marry me all through the hot <mark>afternoon<\/mark>. How the  kept circling round us: how clearly I...",
+            "fid" : "page-7" } ] } ] }

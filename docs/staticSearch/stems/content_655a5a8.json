@@ -1,0 +1,30 @@
+
+  { "stem" : "content",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "content",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...the image frames for each page wrap around the correspond page <mark>content<\/mark>. This was very much a game of trial and error...",
+            "fid" : "#edm" },
+          
+          { "form" : "content",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...the scrolling drawings on the margins correlate to some of the <mark>content<\/mark>. It was also interesting to perceive how the writing imitated..." } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "contentment",
+            "weight" : "1",
+            "pos" : 2020,
+            "context" : "..., vioces, breaking the silence suddently with such depth of <mark>contentment<\/mark>, such passion of desire, or, in the voices of...",
+            "fid" : "page-24" } ] } ] }

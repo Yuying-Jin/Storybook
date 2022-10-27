@@ -1,0 +1,42 @@
+
+  { "stem" : "sun",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "sun",
+            "weight" : "1",
+            "pos" : 1510,
+            "context" : "<mark>sun<\/mark>",
+            "fid" : "page-18",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "sun",
+            "weight" : "1",
+            "pos" : 1628,
+            "context" : "<mark>sun<\/mark>",
+            "fid" : "page-19",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "sun",
+            "weight" : "1",
+            "pos" : 1901,
+            "context" : "<mark>sun<\/mark>",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sun",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "<mark>sun<\/mark>" } ] } ] }

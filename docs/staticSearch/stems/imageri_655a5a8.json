@@ -1,0 +1,13 @@
+
+  { "stem" : "imageri",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "imagery",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...Gardens is not my favorite writing, I do love the <mark>imagery<\/mark>. I also like how the scrolling drawings on the margins..." } ] } ] }

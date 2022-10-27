@@ -1,0 +1,14 @@
+
+  { "stem" : "aimless",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aimless",
+            "weight" : "1",
+            "pos" : 1830,
+            "context" : "...Thus one couple after another with much the same irregular and <mark>aimless<\/mark> movement passed the  and were enveloped in layer after layer of...",
+            "fid" : "page-22" } ] } ] }

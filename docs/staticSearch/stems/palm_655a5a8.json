@@ -1,0 +1,26 @@
+
+  { "stem" : "palm",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "palm",
+            "weight" : "1",
+            "pos" : 1891,
+            "context" : "<mark>palm<\/mark> house ",
+            "fid" : "page-22",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "palm",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "<mark>palm<\/mark> house " } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "wax",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wax",
+            "weight" : "1",
+            "pos" : 1149,
+            "context" : "...be heard mur- muring about  of Uruguay blanketed with the <mark>wax<\/mark>  of tropical , , sea , mermaids, and women drowned...",
+            "fid" : "page-14" } ] } ] }

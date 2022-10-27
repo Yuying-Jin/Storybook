@@ -1,0 +1,26 @@
+
+  { "stem" : "vase",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "vase",
+            "weight" : "1",
+            "pos" : 1732,
+            "context" : ".... In the upper left corner, there is half a <mark>vase<\/mark> pattern, and two flowers stretch to the right from the...",
+            "fid" : "page-21" },
+          
+          { "form" : "vase",
+            "weight" : "1",
+            "pos" : 1739,
+            "context" : "...two flowers stretch to the right from the mouth of the <mark>vase<\/mark>. Below the vase, we can see two straight lines...",
+            "fid" : "page-21" },
+          
+          { "form" : "vase",
+            "weight" : "1",
+            "pos" : 1740,
+            "context" : "...the right from the mouth of the vase. Below the <mark>vase<\/mark>, we can see two straight lines with different length....",
+            "fid" : "page-21" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "fierc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fierce",
+            "weight" : "1",
+            "pos" : 1908,
+            "context" : "...drone of the aeroplane the voice of the summer  murmured its <mark>fierce<\/mark> soul. ",
+            "fid" : "page-22" } ] } ] }

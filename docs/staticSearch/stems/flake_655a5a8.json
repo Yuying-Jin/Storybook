@@ -1,0 +1,14 @@
+
+  { "stem" : "flake",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flakes",
+            "weight" : "1",
+            "pos" : 1882,
+            "context" : "...vaguely the   danced one above another, making with their  shifting <mark>flakes<\/mark> the outline of a shattered marble column above the tallest s;...",
+            "fid" : "page-22" } ] } ] }

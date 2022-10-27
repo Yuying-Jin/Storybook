@@ -1,0 +1,26 @@
+
+  { "stem" : "someth",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "something",
+            "weight" : "1",
+            "pos" : 1596,
+            "context" : "...a strange way, as these short insignificant words also expressed <mark>something<\/mark>, words with short wings for their heavy body of meaning...",
+            "fid" : "page-19" },
+          
+          { "form" : "something",
+            "weight" : "1",
+            "pos" : 1640,
+            "context" : "...sort of tea they gave you at Kew he felt that <mark>something<\/mark> loomed up behind her words and stood vast and solid behind...",
+            "fid" : "page-19" },
+          
+          { "form" : "something",
+            "weight" : "1",
+            "pos" : 1673,
+            "context" : "...jars. Many dots and curves are below them, which form <mark>something<\/mark> like cushions. —— #yxj",
+            "fid" : "page-20" } ] } ] }

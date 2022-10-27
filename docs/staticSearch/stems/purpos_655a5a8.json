@@ -1,0 +1,20 @@
+
+  { "stem" : "purpos",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "purpose",
+            "weight" : "1",
+            "pos" : 386,
+            "context" : "...strolling care- lessly, while she bore on with greater <mark>purpose<\/mark>, only turning her  now and then to see that the...",
+            "fid" : "page-6" },
+          
+          { "form" : "purposely",
+            "weight" : "1",
+            "pos" : 398,
+            "context" : ".... The man kept this distance in front of the woman <mark>purposely<\/mark>, though perhaps unconsciously, for he wished to go on...",
+            "fid" : "page-6" } ] } ] }

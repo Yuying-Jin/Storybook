@@ -1,0 +1,14 @@
+
+  { "stem" : "fit",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fit",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...Afterwards, I marked up that same half in xml to <mark>fit<\/mark> our group's schema. Overall, learning to work with a...",
+            "fid" : "#avr" } ] } ] }

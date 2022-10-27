@@ -1,0 +1,156 @@
+
+  { "stem" : "page",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 18,
+        "contexts" : 
+        [ 
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "2 Off-white <mark>page<\/mark> with maroon dotting down the left-hand side. The...",
+            "fid" : "page-2" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...down the left-hand side. The writing on the <mark>page<\/mark> was the same burnt maroon as the cover. The font...",
+            "fid" : "page-2" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "3 Plain off-white <mark>page<\/mark> with text centered and justified. —— #edm",
+            "fid" : "page-3" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...up the margins as well as the bottom half of the <mark>page<\/mark>. The designs are flowers and leaves painting in a simplisting...",
+            "fid" : "page-4" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "5 At the top of the <mark>page<\/mark>, there is a painted arch. On the right,...",
+            "fid" : "page-5" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...there is a bumpy design that falls to about mid-<mark>page<\/mark>. On the top left, there are two conifer-...",
+            "fid" : "page-5" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "...-type flowers. Around the bottom-half of the <mark>page<\/mark>, there are similar swish-y designs with the bumpy design...",
+            "fid" : "page-5" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 501,
+            "context" : "...the top margin. One third of the way down the <mark>page<\/mark>, there is another tree branch sprouting from the text....",
+            "fid" : "page-8" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 508,
+            "context" : "...sprouting from the text. At the very bottom of the <mark>page<\/mark> are three thick black lines. —— #edm",
+            "fid" : "page-8" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 584,
+            "context" : "9 The top of the <mark>page<\/mark> has simplistic rope-braid like patterns that somewhat connects to...",
+            "fid" : "page-9" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 606,
+            "context" : "...two loose swiggle lines. Around the bottom half of the <mark>page<\/mark> another squiggle line joins the three, then travels down and...",
+            "fid" : "page-9" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 714,
+            "context" : "10 Wildly sprouting leaves come from the bottom of the <mark>page<\/mark>, and climbs up the margins. At the top,...",
+            "fid" : "page-10" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 1395,
+            "context" : "...net which is around left, right and bottom of the <mark>page<\/mark>. At the top, there are many flowers and dots...",
+            "fid" : "page-17" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 1473,
+            "context" : "18The container of this <mark>page<\/mark> looks like a big window with a flower at the top...",
+            "fid" : "page-18" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 1557,
+            "context" : "19The container of this <mark>page<\/mark> looks like a piece of paper whose upper left corner and...",
+            "fid" : "page-19" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 1654,
+            "context" : "20The container of this <mark>page<\/mark> looks like a large jar. Its top, left and...",
+            "fid" : "page-20" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 1807,
+            "context" : "22At the top of the <mark>page<\/mark>, the picture looks like the roof of a pavilion....",
+            "fid" : "page-22" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 1997,
+            "context" : "...polylines interlaced are around left, right and bottom of the <mark>page<\/mark>. In the center of the bottom, two arcs break...",
+            "fid" : "page-24" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "pages",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "...with me! So, I let my imagination lead me with these <mark>pages<\/mark>. Along with our consultant, Professor Beshero of Penn State...",
+            "fid" : "#edm" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...Campus, I worked on making the image frames for each <mark>page<\/mark> wrap around the correspond page content. This was very much...",
+            "fid" : "#edm" },
+          
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...making the image frames for each page wrap around the correspond <mark>page<\/mark> content. This was very much a game of trial and...",
+            "fid" : "#edm" },
+          
+          { "form" : "pages",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : " I was responsible for transcribing and describing of <mark>pages<\/mark> 13-24 and coding relax NG and xslt files....",
+            "fid" : "#yxj" } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "page",
+            "weight" : "1",
+            "pos" : 1,
+            "context" : " This <mark>page<\/mark> requires JavaScript.SearchClearSearch                          ",
+            "fid" : "staticSearch" } ] } ] }

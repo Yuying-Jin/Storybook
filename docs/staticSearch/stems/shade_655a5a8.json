@@ -1,0 +1,32 @@
+
+  { "stem" : "shade",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "shade",
+            "weight" : "1",
+            "pos" : 701,
+            "context" : "...diminished in size among the  and looked half  as the  and <mark>shade<\/mark> swam over their backs in large trembling irregular patches. ",
+            "fid" : "page-9" },
+          
+          { "form" : "shading",
+            "weight" : "1",
+            "pos" : 791,
+            "context" : "...left corner, and end in curly lines that have straight <mark>shading<\/mark> lines above them to convey petals. The reed plants bend...",
+            "fid" : "page-11" },
+          
+          { "form" : "shade",
+            "weight" : "1",
+            "pos" : 1089,
+            "context" : "...sight of a woman's  in the distance, which in the <mark>shade<\/mark> looked a . He took off his , placed his  upon...",
+            "fid" : "page-14" },
+          
+          { "form" : "shade",
+            "weight" : "1",
+            "pos" : 1952,
+            "context" : "...breadth of  that lay upon the , they wavered and sought <mark>shade<\/mark> beneath the , dissolving like drops of  in the  and  atmosphere...",
+            "fid" : "page-23" } ] } ] }

@@ -1,0 +1,50 @@
+
+  { "stem" : "pattern",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "patterns",
+            "weight" : "1",
+            "pos" : 590,
+            "context" : "...The top of the page has simplistic rope-braid like <mark>patterns<\/mark> that somewhat connects to the side margin patterns. The side...",
+            "fid" : "page-9" },
+          
+          { "form" : "patterns",
+            "weight" : "1",
+            "pos" : 595,
+            "context" : "...-braid like patterns that somewhat connects to the side margin <mark>patterns<\/mark>. The side margin patterns are two loose swiggle lines....",
+            "fid" : "page-9" },
+          
+          { "form" : "patterns",
+            "weight" : "1",
+            "pos" : 598,
+            "context" : "...somewhat connects to the side margin patterns. The side margin <mark>patterns<\/mark> are two loose swiggle lines. Around the bottom half of...",
+            "fid" : "page-9" },
+          
+          { "form" : "patterns",
+            "weight" : "1",
+            "pos" : 614,
+            "context" : "...the three, then travels down and under the under margin <mark>patterns<\/mark>. The bottom area has big curly loops nesting black dots...",
+            "fid" : "page-9" },
+          
+          { "form" : "pattern",
+            "weight" : "1",
+            "pos" : 1316,
+            "context" : "16 The  woman looked through the <mark>pattern<\/mark> of falling words at the s standing cool, firm and...",
+            "fid" : "page-16" },
+          
+          { "form" : "pattern",
+            "weight" : "1",
+            "pos" : 1733,
+            "context" : "...In the upper left corner, there is half a vase <mark>pattern<\/mark>, and two flowers stretch to the right from the mouth...",
+            "fid" : "page-21" },
+          
+          { "form" : "pattern",
+            "weight" : "1",
+            "pos" : 1927,
+            "context" : "...left. At the bottom, there are 6 similar unclear <mark>pattern<\/mark>.—— #yxj",
+            "fid" : "page-23" } ] } ] }

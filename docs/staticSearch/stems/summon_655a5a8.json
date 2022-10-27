@@ -1,0 +1,14 @@
+
+  { "stem" : "summon",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "summons",
+            "weight" : "1",
+            "pos" : 1063,
+            "context" : "...by workmen under my direction, the widow applies her  and <mark>summons<\/mark> the spirit by sign as agreed, Women! Widows!...",
+            "fid" : "page-13" } ] } ] }

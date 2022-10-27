@@ -1,0 +1,14 @@
+
+  { "stem" : "precipic",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "precipices",
+            "weight" : "1",
+            "pos" : 1621,
+            "context" : "...they thought as they pressed the parasol into the ) what <mark>precipices<\/mark> aren't concealed in them, or what ridges of  don't shine in...",
+            "fid" : "page-19" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "mid",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mid",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...right, there is a bumpy design that falls to about <mark>mid<\/mark>-page. On the top left, there are two...",
+            "fid" : "page-5" } ] } ] }

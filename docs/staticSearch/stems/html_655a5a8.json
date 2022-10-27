@@ -1,0 +1,14 @@
+
+  { "stem" : "html",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "HTML",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : " During this project, I mostly worked on the <mark>HTML<\/mark> and CSS (with some XSLT and XML debugging). My greatest...",
+            "fid" : "#edm" } ] } ] }

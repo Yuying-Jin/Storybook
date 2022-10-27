@@ -1,0 +1,14 @@
+
+  { "stem" : "loop",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "loops",
+            "weight" : "1",
+            "pos" : 619,
+            "context" : "...the under margin patterns. The bottom area has big curly <mark>loops<\/mark> nesting black dots between it and the text. —— #...",
+            "fid" : "page-9" } ] } ] }

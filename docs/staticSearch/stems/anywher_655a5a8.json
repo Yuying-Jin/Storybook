@@ -1,0 +1,14 @@
+
+  { "stem" : "anywher",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anywhere",
+            "weight" : "1",
+            "pos" : 522,
+            "context" : "...8 But the  went round and round: it never settled <mark>anywhere<\/mark>—of course not, happily not, or I shouldn't be walking here...",
+            "fid" : "page-8" } ] } ] }

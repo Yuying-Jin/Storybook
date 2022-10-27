@@ -1,0 +1,14 @@
+
+  { "stem" : "feet",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feet",
+            "weight" : "1",
+            "pos" : 860,
+            "context" : "...a  or to breast it therecame past the bed the <mark>feet<\/mark> of other humanbeings.",
+            "fid" : "page-11" } ] } ] }

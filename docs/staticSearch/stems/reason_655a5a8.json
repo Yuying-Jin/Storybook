@@ -1,0 +1,14 @@
+
+  { "stem" : "reason",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reason",
+            "weight" : "1",
+            "pos" : 472,
+            "context" : "...love, my desire, were in the ; for some <mark>reason<\/mark> I thought that if it settled there, on that , the...",
+            "fid" : "page-7" } ] } ] }

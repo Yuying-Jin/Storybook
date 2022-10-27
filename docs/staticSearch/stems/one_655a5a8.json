@@ -1,0 +1,151 @@
+
+  { "stem" : "one",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 22,
+        "contexts" : 
+        [ 
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "..., and when they moved, the ,  and  lights passed <mark>one<\/mark> over the other, staining an inch of the   beneath with a...",
+            "fid" : "page-5" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...with such intensity of ,  and  the thin walls of  that <mark>one<\/mark> expected them to burst and disappear. Instead, the  was...",
+            "fid" : "page-5" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 477,
+            "context" : "...thought that if it settled there, on that , the broad <mark>one<\/mark> with the   in the middle of it, if the  settled on...",
+            "fid" : "page-7" },
+          
+          { "form" : "One",
+            "weight" : "1",
+            "pos" : 498,
+            "context" : "..., with a branch that cuts across the top margin. <mark>One<\/mark> third of the way down the page, there is another...",
+            "fid" : "page-8" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 554,
+            "context" : "...the past?\" \"Why should I mind, Simon? Doesn't <mark>one<\/mark> always think of the past, in a  with men and...",
+            "fid" : "page-8" },
+          
+          { "form" : "one's",
+            "weight" : "1",
+            "pos" : 564,
+            "context" : "...a  with men and women lying under the ? Aren't they <mark>one's<\/mark> past, all that remains of it, those men and women...",
+            "fid" : "page-8" },
+          
+          { "form" : "one's",
+            "weight" : "1",
+            "pos" : 572,
+            "context" : "...those men and women, those ghosts lying under the ,... <mark>one's<\/mark> happiness, one's reality?\" \"For me, a square   and a...",
+            "fid" : "page-8" },
+          
+          { "form" : "one's",
+            "weight" : "1",
+            "pos" : 574,
+            "context" : "...women, those ghosts lying under the ,... one's happiness, <mark>one's<\/mark> reality?\" \"For me, a square   and a —\" ",
+            "fid" : "page-8" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 845,
+            "context" : "...crackling texture—all these objects layacross the 's progress between <mark>one<\/mark> stalkand another to his goal. Before he haddecided...",
+            "fid" : "page-11" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 877,
+            "context" : "...that looks similar to a column. The bottom margin has <mark>one<\/mark> long bumpy line with large black cradled in the dips of...",
+            "fid" : "page-12" },
+          
+          { "form" : "One",
+            "weight" : "1",
+            "pos" : 1072,
+            "context" : "14<mark>One<\/mark> thick and one thin curve at the top, right and...",
+            "fid" : "page-14" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 1074,
+            "context" : "14One thick and <mark>one<\/mark> thin curve at the top, right and bottom of the...",
+            "fid" : "page-14" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 1208,
+            "context" : "...gestures came two elderly women of the lower middle class, <mark>one<\/mark>  and , the other  and . Like most people of their...",
+            "fid" : "page-15" },
+          
+          { "form" : "One",
+            "weight" : "1",
+            "pos" : 1286,
+            "context" : "...the top, 15 short arcs form a long arc. <mark>One<\/mark> thick solid straight line is on the left, and one...",
+            "fid" : "page-16" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 1292,
+            "context" : "...One thick solid straight line is on the left, and <mark>one<\/mark> is on the right. Both they are broken by several...",
+            "fid" : "page-16" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 1718,
+            "context" : "...with a jerk and was impatient to find the place where <mark>one<\/mark> had tea with other people, like other people. ",
+            "fid" : "page-20" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 1767,
+            "context" : "...Trissie; it's time we had our tea.\" \"Wherever does <mark>one<\/mark> have one's tea?\" she asked with the oddest thrill of...",
+            "fid" : "page-21" },
+          
+          { "form" : "one's",
+            "weight" : "1",
+            "pos" : 1768,
+            "context" : "...it's time we had our tea.\" \"Wherever does one have <mark>one's<\/mark> tea?\" she asked with the oddest thrill of excitement in...",
+            "fid" : "page-21" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 1825,
+            "context" : "22 Thus <mark>one<\/mark> couple after another with much the same irregular and aimless movement...",
+            "fid" : "page-22" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 1868,
+            "context" : "..., in the shadow of the s, with long pauses between <mark>one<\/mark> movement and the next; instead of rambling vaguely the   danced...",
+            "fid" : "page-22" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 1877,
+            "context" : "...movement and the next; instead of rambling vaguely the   danced <mark>one<\/mark> above another, making with their  shifting flakes the outline of...",
+            "fid" : "page-22" },
+          
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 2046,
+            "context" : "...a vast nest of Chinese boxes all of wrought  turning ceaselessly <mark>one<\/mark> within another the city murmured; on the top of which...",
+            "fid" : "page-24" } ] },
+      
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "one",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...much a game of trial and error, but that is <mark>one<\/mark> of my favorite ways to learn in this medium. I...",
+            "fid" : "#edm" } ] } ] }

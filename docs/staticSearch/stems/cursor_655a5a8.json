@@ -1,0 +1,20 @@
+
+  { "stem" : "cursor",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "cursor",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...ways to learn in this medium. I also drew the <mark>cursor<\/mark> image! However, I cannot take credit for the cursor...",
+            "fid" : "#edm" },
+          
+          { "form" : "cursor",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...cursor image! However, I cannot take credit for the <mark>cursor<\/mark> actually working, that was all #yxj! I was...",
+            "fid" : "#edm" } ] } ] }

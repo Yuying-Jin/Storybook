@@ -1,0 +1,14 @@
+
+  { "stem" : "orchid",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "orchids",
+            "weight" : "1",
+            "pos" : 1793,
+            "context" : "..., wishing to go down there and then down there, remembering <mark>orchids<\/mark> and cranes among wild s, a Chinese  and a; but...",
+            "fid" : "page-21" } ] } ] }

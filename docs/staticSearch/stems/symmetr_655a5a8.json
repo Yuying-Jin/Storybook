@@ -1,0 +1,20 @@
+
+  { "stem" : "symmetr",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "symmetrical",
+            "weight" : "1",
+            "pos" : 976,
+            "context" : "...four shorter solid curve. The left and right curves are <mark>symmetrical<\/mark>. At the center of bottom, there is a circle...",
+            "fid" : "page-13" },
+          
+          { "form" : "symmetrical",
+            "weight" : "1",
+            "pos" : 983,
+            "context" : "...there is a circle filled with many dots. There are <mark>symmetrical<\/mark> dashed curves on both sides of the circle. A long...",
+            "fid" : "page-13" } ] } ] }

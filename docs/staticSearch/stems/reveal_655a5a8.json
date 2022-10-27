@@ -1,0 +1,14 @@
+
+  { "stem" : "reveal",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "revealing",
+            "weight" : "1",
+            "pos" : 289,
+            "context" : "...and the light now settled upon the flesh of a , <mark>revealing<\/mark> the branching thread of fibre beneath the surface, and again...",
+            "fid" : "page-5" } ] } ] }

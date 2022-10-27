@@ -1,0 +1,14 @@
+
+  { "stem" : "error",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "error",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "...content. This was very much a game of trial and <mark>error<\/mark>, but that is one of my favorite ways to learn...",
+            "fid" : "#edm" } ] } ] }

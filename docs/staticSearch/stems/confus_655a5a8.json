@@ -1,0 +1,14 @@
+
+  { "stem" : "confus",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "confusion",
+            "weight" : "1",
+            "pos" : 1120,
+            "context" : "...attention. After looking at it for a moment in some <mark>confusion<\/mark> the old man bent his  to it and seemed to answer...",
+            "fid" : "page-14" } ] } ] }

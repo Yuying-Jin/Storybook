@@ -1,0 +1,31 @@
+
+  { "stem" : "experi",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "experience",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "...and CSS (with some XSLT and XML debugging). My greatest <mark>experience<\/mark> was with the CSS. I was assigned to be the...",
+            "fid" : "#edm" },
+          
+          { "form" : "experience",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...it to some actual historical documents has been a pretty interesting <mark>experience<\/mark>. ",
+            "fid" : "#avr" } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "experiences",
+            "weight" : "1",
+            "pos" : 1004,
+            "context" : "...even now telling him all sorts of odd things about their <mark>experiences<\/mark> in Heaven. \"Heaven was known to the ancients as Thessaly...",
+            "fid" : "page-13" } ] } ] }

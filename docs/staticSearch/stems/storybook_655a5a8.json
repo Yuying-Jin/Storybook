@@ -1,0 +1,20 @@
+
+  { "stem" : "storybook",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "storybook",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...the cover. The font is in a more handwritten, <mark>storybook<\/mark> font. —— #edm",
+            "fid" : "page-2" },
+          
+          { "form" : "storybook",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...Kew Gardens is written at the top in a handwritten, <mark>storybook<\/mark> font. it is the top part of the border decoration...",
+            "fid" : "page-4" } ] } ] }

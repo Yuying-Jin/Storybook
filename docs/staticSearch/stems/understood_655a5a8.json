@@ -1,0 +1,14 @@
+
+  { "stem" : "understood",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "understood",
+            "weight" : "1",
+            "pos" : 1042,
+            "context" : "...the details, no good going into details that wouldn't be <mark>understood<\/mark>—and in short the little machine stands in any convenient position...",
+            "fid" : "page-13" } ] } ] }

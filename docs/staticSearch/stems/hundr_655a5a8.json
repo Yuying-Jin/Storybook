@@ -1,0 +1,20 @@
+
+  { "stem" : "hundr",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hundred",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "4 From the   there rose perhaps a <mark>hundred<\/mark>  spreading into  or   half way up and unfurling at the tip...",
+            "fid" : "page-4" },
+          
+          { "form" : "hundreds",
+            "weight" : "1",
+            "pos" : 1134,
+            "context" : "...he began talking about the  of Uruguay which he had visited <mark>hundreds<\/mark> of years ago in company with the most beautiful young woman...",
+            "fid" : "page-14" } ] } ] }

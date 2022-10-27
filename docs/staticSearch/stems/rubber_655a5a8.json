@@ -1,0 +1,14 @@
+
+  { "stem" : "rubber",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rubber",
+            "weight" : "1",
+            "pos" : 1029,
+            "context" : "...continued:— \"You have a small eletric  and a piece of <mark>rubber<\/mark> to insulate the wire—isolate?—insulate?—well,...",
+            "fid" : "page-13" } ] } ] }

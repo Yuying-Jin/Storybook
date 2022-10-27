@@ -1,0 +1,31 @@
+
+  { "stem" : "natur",
+    "instances" : 
+    [ 
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "nature",
+            "weight" : "1",
+            "pos" : 5,
+            "context" : "<mark>nature<\/mark>",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "nature",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "                    color count                                                                     <mark>nature<\/mark> count                                                                                                                                                                                                                                                                     shape count                             tech count                                                               " } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nature",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "<mark>Nature<\/mark>",
+            "fid" : "ssForm" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "23",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "23",
+            "weight" : "1",
+            "pos" : 1910,
+            "context" : "<mark>23<\/mark>At the top, there are many dots, which form...",
+            "fid" : "page-23" },
+          
+          { "form" : "23",
+            "weight" : "1",
+            "pos" : 1929,
+            "context" : "<mark>23<\/mark>  and ,  and , shapes of all these colours, men...",
+            "fid" : "page-23" } ] } ] }

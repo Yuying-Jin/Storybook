@@ -1,0 +1,14 @@
+
+  { "stem" : "emerg",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "emerged",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...surface; and from the ,  or  gloom of the throat <mark>emerged<\/mark> a straight bar, rough with  dust and slightly  at the...",
+            "fid" : "page-4" } ] } ] }

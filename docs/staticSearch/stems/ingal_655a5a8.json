@@ -1,0 +1,26 @@
+
+  { "stem" : "ingal",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ingales",
+            "weight" : "1",
+            "pos" : 1154,
+            "context" : "night- <mark>ingales<\/mark>",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ingales",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "night- <mark>ingales<\/mark>" } ] } ] }

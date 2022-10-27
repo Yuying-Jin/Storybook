@@ -1,0 +1,26 @@
+
+  { "stem" : "sit",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "sits",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : "6 An arch with broad swirls <mark>sits<\/mark> on the top margin. A line runs along the left...",
+            "fid" : "page-6" },
+          
+          { "form" : "sit",
+            "weight" : "1",
+            "pos" : 330,
+            "context" : "...two flowers that seemingly come from the same origin. They <mark>sit<\/mark> upon large leaves that cast a thick shadow. —— #...",
+            "fid" : "page-6" },
+          
+          { "form" : "sitting",
+            "weight" : "1",
+            "pos" : 630,
+            "context" : "9 \"For me, a kiss. Imagine six little girls <mark>sitting<\/mark> before their  twenty years ago, down by the side of...",
+            "fid" : "page-9" } ] } ] }

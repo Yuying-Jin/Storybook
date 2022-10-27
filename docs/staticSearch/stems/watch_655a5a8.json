@@ -1,0 +1,26 @@
+
+  { "stem" : "watch",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "watch",
+            "weight" : "1",
+            "pos" : 659,
+            "context" : "<mark>watch<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "watch",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "<mark>watch<\/mark>" } ] } ] }

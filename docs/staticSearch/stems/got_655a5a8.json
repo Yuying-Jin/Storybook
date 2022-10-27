@@ -1,0 +1,20 @@
+
+  { "stem" : "got",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "got",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...-24 and coding relax NG and xslt files. I <mark>got<\/mark> a lot of help on coding relax NG and xslt from...",
+            "fid" : "#yxj" },
+          
+          { "form" : "got",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...xslt from our consultant, professor Beshero, so finally we <mark>got<\/mark> satisfactory relax ng and xslt files. ",
+            "fid" : "#yxj" } ] } ] }

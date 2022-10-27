@@ -1,0 +1,68 @@
+
+  { "stem" : "petal",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "petals",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "<mark>petals<\/mark>",
+            "fid" : "page-4",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "petals",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "<mark>petals<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "petals",
+            "weight" : "1",
+            "pos" : 794,
+            "context" : "...curly lines that have straight shading lines above them to convey <mark>petals<\/mark>. The reed plants bend at the top margin and curve...",
+            "fid" : "page-11" },
+          
+          { "form" : "petals",
+            "weight" : "1",
+            "pos" : 1150,
+            "context" : "<mark>petals<\/mark>",
+            "fid" : "page-14",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "petals",
+            "weight" : "1",
+            "pos" : 1296,
+            "context" : "...is on the right. Both they are broken by several <mark>petals<\/mark>. At the bottom, some curves and straight lines form...",
+            "fid" : "page-16" },
+          
+          { "form" : "petals",
+            "weight" : "1",
+            "pos" : 1306,
+            "context" : "...the shape of the ground. A large flower and some <mark>petals<\/mark> break the sentences in the line 6-16.—— #yxj...",
+            "fid" : "page-16" },
+          
+          { "form" : "petals",
+            "weight" : "1",
+            "pos" : 2055,
+            "context" : "<mark>petals<\/mark>",
+            "fid" : "page-24",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "petals",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "<mark>petals<\/mark>" } ] } ] }

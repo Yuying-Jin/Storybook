@@ -1,0 +1,13 @@
+
+  { "stem" : "illustr",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "illustrator",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "<mark>illustrator<\/mark>: Vanessa Bell" } ] } ] }

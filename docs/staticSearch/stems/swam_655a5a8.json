@@ -1,0 +1,14 @@
+
+  { "stem" : "swam",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swam",
+            "weight" : "1",
+            "pos" : 702,
+            "context" : "...in size among the  and looked half  as the  and shade <mark>swam<\/mark> over their backs in large trembling irregular patches. ",
+            "fid" : "page-9" } ] } ] }

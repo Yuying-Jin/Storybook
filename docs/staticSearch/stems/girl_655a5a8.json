@@ -1,0 +1,14 @@
+
+  { "stem" : "girl",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "girls",
+            "weight" : "1",
+            "pos" : 629,
+            "context" : "9 \"For me, a kiss. Imagine six little <mark>girls<\/mark> sitting before their  twenty years ago, down by the side...",
+            "fid" : "page-9" } ] } ] }

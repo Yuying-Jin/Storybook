@@ -1,0 +1,14 @@
+
+  { "stem" : "still",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "still",
+            "weight" : "1",
+            "pos" : 1544,
+            "context" : "...were uttered in toneless and monotonous voices. The couple stood <mark>still<\/mark> on the edge of the flower bed, and together pressed...",
+            "fid" : "page-18" } ] } ] }

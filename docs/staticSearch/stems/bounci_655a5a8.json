@@ -1,0 +1,14 @@
+
+  { "stem" : "bounci",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bouncy",
+            "weight" : "1",
+            "pos" : 415,
+            "context" : "...clockwise and ending at the bottom right, there is a <mark>bouncy<\/mark> swirly design that ends in a rose-shaped flower....",
+            "fid" : "page-7" } ] } ] }

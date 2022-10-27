@@ -1,0 +1,38 @@
+
+  { "stem" : "dead",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "dead",
+            "weight" : "1",
+            "pos" : 854,
+            "context" : "<mark>dead<\/mark> leaf",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dead",
+            "weight" : "1",
+            "pos" : 997,
+            "context" : "13 He was talking about spirits—the spirits of the <mark>dead<\/mark>, who, according to him, were even now telling him all...",
+            "fid" : "page-13" },
+          
+          { "form" : "dead",
+            "weight" : "1",
+            "pos" : 1412,
+            "context" : "...every possible method of reaching his goal without going round the <mark>dead<\/mark>  or climbing over it. Let alone the effort needed for climbing...",
+            "fid" : "page-17" } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dead",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "<mark>dead<\/mark> leaf" } ] } ] }

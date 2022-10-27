@@ -1,0 +1,14 @@
+
+  { "stem" : "happili",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "happily",
+            "weight" : "1",
+            "pos" : 524,
+            "context" : "...round and round: it never settled anywhere—of course not, <mark>happily<\/mark> not, or I shouldn't be walking here with Eleanor and the...",
+            "fid" : "page-8" } ] } ] }

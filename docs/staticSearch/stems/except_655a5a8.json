@@ -1,0 +1,14 @@
+
+  { "stem" : "except",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "except",
+            "weight" : "1",
+            "pos" : 1701,
+            "context" : "...himself, fingering the coin in his pocket, real to everyone <mark>except<\/mark> to hum and to her; even to him it began to...",
+            "fid" : "page-20" } ] } ] }

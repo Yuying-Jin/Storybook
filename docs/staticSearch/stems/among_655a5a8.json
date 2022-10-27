@@ -1,0 +1,20 @@
+
+  { "stem" : "among",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "among",
+            "weight" : "1",
+            "pos" : 694,
+            "context" : "..., now walking four abreast, and soon diminished in size <mark>among<\/mark> the  and looked half  as the  and shade swam over their...",
+            "fid" : "page-9" },
+          
+          { "form" : "among",
+            "weight" : "1",
+            "pos" : 1795,
+            "context" : "...go down there and then down there, remembering orchids and cranes <mark>among<\/mark> wild s, a Chinese  and a; but he bore her...",
+            "fid" : "page-21" } ] } ] }

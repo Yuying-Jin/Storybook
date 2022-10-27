@@ -1,0 +1,14 @@
+
+  { "stem" : "frank",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "frankly",
+            "weight" : "1",
+            "pos" : 1218,
+            "context" : "...other  and . Like most people of their station they were <mark>frankly<\/mark> fascinated by any sign of eccentricity betokening a disordered , especially...",
+            "fid" : "page-15" } ] } ] }

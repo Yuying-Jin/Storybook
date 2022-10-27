@@ -1,0 +1,26 @@
+
+  { "stem" : "second",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "second",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "...burst and disappear. Instead, the  was left in a <mark>second<\/mark>  once more, and the light now settled upon the flesh of...",
+            "fid" : "page-5" },
+          
+          { "form" : "second",
+            "weight" : "1",
+            "pos" : 768,
+            "context" : "...attempted to cross in front of it, and waited for a <mark>second<\/mark> withits antennæ trembling as if in deliberation, and then...",
+            "fid" : "page-10" },
+          
+          { "form" : "second",
+            "weight" : "1",
+            "pos" : 1941,
+            "context" : "...colours, men, women and children were spotted for a <mark>second<\/mark> upon the horizon, and then, seeing the breadth of  that...",
+            "fid" : "page-23" } ] } ] }

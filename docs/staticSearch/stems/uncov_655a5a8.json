@@ -1,0 +1,14 @@
+
+  { "stem" : "uncov",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "uncovered",
+            "weight" : "1",
+            "pos" : 1651,
+            "context" : "...and solid behind them; and the mist very slowly rose and <mark>uncovered<\/mark> ",
+            "fid" : "page-19" } ] } ] }

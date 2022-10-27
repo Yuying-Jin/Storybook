@@ -1,0 +1,14 @@
+
+  { "stem" : "drone",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "drone",
+            "weight" : "1",
+            "pos" : 1902,
+            "context" : "...of shiny  umbrellas had opened in the ; and in the <mark>drone<\/mark> of the aeroplane the voice of the summer  murmured its fierce...",
+            "fid" : "page-22" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "conveni",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "convenient",
+            "weight" : "1",
+            "pos" : 1047,
+            "context" : "...be understood—and in short the little machine stands in any <mark>convenient<\/mark> position by the head of the bed, we will say...",
+            "fid" : "page-13" } ] } ] }

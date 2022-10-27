@@ -1,0 +1,14 @@
+
+  { "stem" : "ghost",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ghosts",
+            "weight" : "1",
+            "pos" : 569,
+            "context" : "...all that remains of it, those men and women, those <mark>ghosts<\/mark> lying under the ,... one's happiness, one's reality?\" \"For...",
+            "fid" : "page-8" } ] } ] }

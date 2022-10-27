@@ -1,0 +1,14 @@
+
+  { "stem" : "thing",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "things",
+            "weight" : "1",
+            "pos" : 1003,
+            "context" : "...to him, were even now telling him all sorts of odd <mark>things<\/mark> about their experiences in Heaven. \"Heaven was known to the...",
+            "fid" : "page-13" } ] } ] }

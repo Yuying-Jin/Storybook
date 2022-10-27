@@ -1,0 +1,14 @@
+
+  { "stem" : "wherev",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "\"Wherever",
+            "weight" : "1",
+            "pos" : 1766,
+            "context" : "...along, Trissie; it's time we had our tea.\" <mark>\"Wherever<\/mark> does one have one's tea?\" she asked with the oddest...",
+            "fid" : "page-21" } ] } ] }

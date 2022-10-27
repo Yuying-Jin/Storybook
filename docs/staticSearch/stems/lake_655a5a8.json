@@ -1,0 +1,42 @@
+
+  { "stem" : "lake",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "lake",
+            "weight" : "1",
+            "pos" : 432,
+            "context" : "<mark>lake<\/mark>",
+            "fid" : "page-7",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "lake",
+            "weight" : "1",
+            "pos" : 636,
+            "context" : "<mark>lake<\/mark>",
+            "fid" : "page-9",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "lake",
+            "weight" : "1",
+            "pos" : 820,
+            "context" : "<mark>lake<\/mark>",
+            "fid" : "page-11",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lake",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "<mark>lake<\/mark>" } ] } ] }

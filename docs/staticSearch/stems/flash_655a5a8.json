@@ -1,0 +1,20 @@
+
+  { "stem" : "flash",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "flashed",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "...Then the  stirred rather more briskly overhead and the colour was <mark>flashed<\/mark> into the air above, into the eyes of the men and...",
+            "fid" : "page-6" },
+          
+          { "form" : "flashed",
+            "weight" : "1",
+            "pos" : 2058,
+            "context" : "...which the voices cried aloud and the  of myriads of s <mark>flashed<\/mark> their colours into the . ",
+            "fid" : "page-24" } ] } ] }

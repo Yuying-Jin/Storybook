@@ -1,0 +1,14 @@
+
+  { "stem" : "broke",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "broke",
+            "weight" : "1",
+            "pos" : 748,
+            "context" : "...its shell, and nextbegan to labour over the  which <mark>broke<\/mark> away and rolled downas it passed over them. It appeared...",
+            "fid" : "page-10" } ] } ] }

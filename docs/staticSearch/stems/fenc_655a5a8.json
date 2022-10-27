@@ -1,0 +1,14 @@
+
+  { "stem" : "fenc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fences",
+            "weight" : "1",
+            "pos" : 1821,
+            "context" : "...on the right. At the bottom, there are some <mark>fences<\/mark>. —— #yxj",
+            "fid" : "page-22" } ] } ] }

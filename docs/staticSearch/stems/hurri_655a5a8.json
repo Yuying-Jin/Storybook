@@ -1,0 +1,14 @@
+
+  { "stem" : "hurri",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hurried",
+            "weight" : "1",
+            "pos" : 1099,
+            "context" : "...He took off his , placed his  upon his , and <mark>hurried<\/mark> towards her muttering and gesticulating feverishly. But William caught him...",
+            "fid" : "page-14" } ] } ] }

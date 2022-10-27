@@ -1,0 +1,14 @@
+
+  { "stem" : "transcrib",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "transcribing",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : " I was responsible for <mark>transcribing<\/mark> and describing of pages 13-24 and coding relax NG...",
+            "fid" : "#yxj" } ] } ] }

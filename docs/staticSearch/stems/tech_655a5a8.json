@@ -1,0 +1,20 @@
+
+  { "stem" : "tech",
+    "instances" : 
+    [ 
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tech",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "<mark>tech<\/mark>",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tech",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "                    color count                                                                     nature count                                                                                                                                                                                                                                                                     shape count                             <mark>tech<\/mark> count                                                               " } ] } ] }

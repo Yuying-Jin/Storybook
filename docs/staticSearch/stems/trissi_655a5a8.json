@@ -1,0 +1,14 @@
+
+  { "stem" : "trissi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Trissie",
+            "weight" : "1",
+            "pos" : 1762,
+            "context" : "21 \"Come along, <mark>Trissie<\/mark>; it's time we had our tea.\" \"Wherever does one...",
+            "fid" : "page-21" } ] } ] }

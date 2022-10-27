@@ -1,0 +1,25 @@
+
+  { "stem" : "much",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "much",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...page wrap around the correspond page content. This was very <mark>much<\/mark> a game of trial and error, but that is one...",
+            "fid" : "#edm" } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "much",
+            "weight" : "1",
+            "pos" : 1828,
+            "context" : "22 Thus one couple after another with <mark>much<\/mark> the same irregular and aimless movement passed the  and were enveloped...",
+            "fid" : "page-22" } ] } ] }

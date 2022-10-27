@@ -1,0 +1,20 @@
+
+  { "stem" : "sort",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sorts",
+            "weight" : "1",
+            "pos" : 1001,
+            "context" : "..., who, according to him, were even now telling him all <mark>sorts<\/mark> of odd things about their experiences in Heaven. \"Heaven was...",
+            "fid" : "page-13" },
+          
+          { "form" : "sort",
+            "weight" : "1",
+            "pos" : 1635,
+            "context" : "...Who has ever seen this before? Even when she wondered what <mark>sort<\/mark> of tea they gave you at Kew he felt that something...",
+            "fid" : "page-19" } ] } ] }

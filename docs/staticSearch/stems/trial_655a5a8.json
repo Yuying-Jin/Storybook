@@ -1,0 +1,14 @@
+
+  { "stem" : "trial",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trial",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...correspond page content. This was very much a game of <mark>trial<\/mark> and error, but that is one of my favorite ways...",
+            "fid" : "#edm" } ] } ] }

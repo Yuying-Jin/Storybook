@@ -1,0 +1,26 @@
+
+  { "stem" : "step",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "stepping",
+            "weight" : "1",
+            "pos" : 760,
+            "context" : "...front of it, differing in this respect from the singular high <mark>stepping<\/mark> angular green  who attempted to cross in front of it, and...",
+            "fid" : "page-10" },
+          
+          { "form" : "stepped",
+            "weight" : "1",
+            "pos" : 772,
+            "context" : "...withits antennæ trembling as if in deliberation, and then <mark>stepped<\/mark> off as rapidly and strangelyin the opposite direction.",
+            "fid" : "page-10" },
+          
+          { "form" : "steps",
+            "weight" : "1",
+            "pos" : 1196,
+            "context" : "15 Following his <mark>steps<\/mark> so closely as to be slightly puzzled by his gestures came...",
+            "fid" : "page-15" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "mermaid",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mermaids",
+            "weight" : "1",
+            "pos" : 1157,
+            "context" : "...Uruguay blanketed with the wax  of tropical , , sea , <mark>mermaids<\/mark>, and women drowned at sea, as he suffered himself...",
+            "fid" : "page-14" } ] } ] }

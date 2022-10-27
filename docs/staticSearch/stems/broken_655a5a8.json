@@ -1,0 +1,14 @@
+
+  { "stem" : "broken",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "broken",
+            "weight" : "1",
+            "pos" : 1294,
+            "context" : "..., and one is on the right. Both they are <mark>broken<\/mark> by several petals. At the bottom, some curves and...",
+            "fid" : "page-16" } ] } ] }

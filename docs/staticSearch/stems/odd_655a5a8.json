@@ -1,0 +1,14 @@
+
+  { "stem" : "odd",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "odd",
+            "weight" : "1",
+            "pos" : 1002,
+            "context" : "...according to him, were even now telling him all sorts of <mark>odd<\/mark> things about their experiences in Heaven. \"Heaven was known to...",
+            "fid" : "page-13" } ] } ] }

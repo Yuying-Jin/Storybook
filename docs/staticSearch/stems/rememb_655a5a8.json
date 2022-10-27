@@ -1,0 +1,14 @@
+
+  { "stem" : "rememb",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remembering",
+            "weight" : "1",
+            "pos" : 1792,
+            "context" : "...tea, wishing to go down there and then down there, <mark>remembering<\/mark> orchids and cranes among wild s, a Chinese  and a;...",
+            "fid" : "page-21" } ] } ] }

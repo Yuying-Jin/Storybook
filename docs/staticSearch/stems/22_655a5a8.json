@@ -1,0 +1,20 @@
+
+  { "stem" : "22",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "22",
+            "weight" : "1",
+            "pos" : 1805,
+            "context" : "<mark>22<\/mark>At the top of the page, the picture looks like...",
+            "fid" : "page-22" },
+          
+          { "form" : "22",
+            "weight" : "1",
+            "pos" : 1823,
+            "context" : "<mark>22<\/mark> Thus one couple after another with much the same irregular and...",
+            "fid" : "page-22" } ] } ] }

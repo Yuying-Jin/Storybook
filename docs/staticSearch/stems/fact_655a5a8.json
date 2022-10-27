@@ -1,0 +1,14 @@
+
+  { "stem" : "fact",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fact",
+            "weight" : "1",
+            "pos" : 1583,
+            "context" : "19 The action and the <mark>fact<\/mark> that his  rested on the top of hers expressed their feelings...",
+            "fid" : "page-19" } ] } ] }

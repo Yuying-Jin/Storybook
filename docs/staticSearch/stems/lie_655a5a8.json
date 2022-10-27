@@ -1,0 +1,20 @@
+
+  { "stem" : "lie",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "lying",
+            "weight" : "1",
+            "pos" : 561,
+            "context" : "...think of the past, in a  with men and women <mark>lying<\/mark> under the ? Aren't they one's past, all that remains...",
+            "fid" : "page-8" },
+          
+          { "form" : "lying",
+            "weight" : "1",
+            "pos" : 570,
+            "context" : "...that remains of it, those men and women, those ghosts <mark>lying<\/mark> under the ,... one's happiness, one's reality?\" \"For me,...",
+            "fid" : "page-8" } ] } ] }

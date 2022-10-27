@@ -1,0 +1,14 @@
+
+  { "stem" : "intric",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "intricate",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...an inch of the   beneath with a spot of the most <mark>intricate<\/mark> colour. The light fell either upon the smooth,  back...",
+            "fid" : "page-5" } ] } ] }

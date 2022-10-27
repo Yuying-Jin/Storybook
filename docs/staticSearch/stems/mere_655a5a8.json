@@ -1,0 +1,14 @@
+
+  { "stem" : "mere",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "merely",
+            "weight" : "1",
+            "pos" : 1232,
+            "context" : "...were too far off to be certain whether the gestures were <mark>merely<\/mark> eccentric or genuinely mad. After they had scrutinised the old...",
+            "fid" : "page-15" } ] } ] }

@@ -1,0 +1,39 @@
+
+  { "stem" : "breez",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "breeze",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : "summer <mark>breeze<\/mark>",
+            "fid" : "page-5",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "breeze",
+            "weight" : "1",
+            "pos" : 338,
+            "context" : "<mark>breeze<\/mark>",
+            "fid" : "page-6",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "table",
+        "docUri" : "table.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "breeze",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "summer <mark>breeze<\/mark>" },
+          
+          { "form" : "breeze",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "<mark>breeze<\/mark>" } ] } ] }

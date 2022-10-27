@@ -1,0 +1,25 @@
+
+  { "stem" : "appli",
+    "instances" : 
+    [ 
+      { "docId" : "exp",
+        "docUri" : "exp.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "applying",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...learning to work with a variety of different code and then <mark>applying<\/mark> it to some actual historical documents has been a pretty interesting...",
+            "fid" : "#avr" } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "applies",
+            "weight" : "1",
+            "pos" : 1061,
+            "context" : "...being properly fixed by workmen under my direction, the widow <mark>applies<\/mark> her  and summons the spirit by sign as agreed, Women...",
+            "fid" : "page-13" } ] } ] }

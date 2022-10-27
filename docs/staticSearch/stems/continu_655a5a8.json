@@ -1,0 +1,14 @@
+
+  { "stem" : "continu",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "continued",
+            "weight" : "1",
+            "pos" : 1024,
+            "context" : "...paused, seemed to listen, smiled, jerked his  and <mark>continued<\/mark>:— \"You have a small eletric  and a piece of rubber...",
+            "fid" : "page-13" } ] } ] }

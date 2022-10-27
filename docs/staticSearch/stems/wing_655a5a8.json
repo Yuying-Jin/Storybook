@@ -1,0 +1,20 @@
+
+  { "stem" : "wing",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wings",
+            "weight" : "1",
+            "pos" : 1504,
+            "context" : "...of the s have burst their gummy case, when the <mark>wings<\/mark> of the , though fully grown, are motionless in the...",
+            "fid" : "page-18" },
+          
+          { "form" : "wings",
+            "weight" : "1",
+            "pos" : 1599,
+            "context" : "...these short insignificant words also expressed something, words with short <mark>wings<\/mark> for their heavy body of meaning, inadequate to carry them...",
+            "fid" : "page-19" } ] } ] }
