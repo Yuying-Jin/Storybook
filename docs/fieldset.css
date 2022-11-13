@@ -1,0 +1,16 @@
+.nature.on {background: lightgreen;}
+.tech.on {background: pink;}
+.color.on {background: orange;}
+.shape.on {background: skyblue;}
+
+fieldset {
+    position: fixed;
+    top:50px;
+    right:20px;
+    background-color: rgba(255,255,255,0.5);
+    z-index: 1;
+}
+label {
+        display: inline-block;
+        width: 120px;
+      }
