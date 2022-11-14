@@ -3,14 +3,29 @@
 .color.on {background: orange;}
 .shape.on {background: skyblue;}
 
+.natureLabel {background: lightgreen;}
+.techLabel {background: pink;}
+.colorLabel {background: orange;}
+.shapeLabel {background: skyblue;}
+
 fieldset {
     position: fixed;
     top:50px;
-    right:20px;
+    right:40px;
     background-color: rgba(255,255,255,0.5);
     z-index: 1;
+    font-size: 20px;
 }
 label {
         display: inline-block;
         width: 120px;
       }
+legend {
+    background-color: #800000;
+    color: #DAA520;
+    padding: 6px 6px;
+}
+fieldset>button{
+    font-size:16px;
+    margin: 8% 2px 0;
+}
