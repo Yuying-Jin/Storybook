@@ -8,8 +8,6 @@ function init() {
     buttons[0].addEventListener('click', selectAll,false)
     buttons[1].addEventListener('click', reset,false)
 
-    var fieldset = document.getElementsByTagName("fieldset")[0]
-    fieldset.addEventListener('mousedown', mouseDown, false)
 }
 
 function toggle() {
